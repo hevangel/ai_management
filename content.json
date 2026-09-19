@@ -1,0 +1,88 @@
+{
+  "site": {
+    "title": "AI Management",
+    "title_zh": "AI 管理",
+    "tagline": "Where AI meets strategy, organization, and value creation.",
+    "tagline_zh": "AI 與策略、組織與價值創造的交會之處。",
+    "description": "Business, management, and consulting articles on the impact of AI in business."
+  },
+  "sections": [
+    {
+      "id": "case-studies",
+      "name": "Case Studies",
+      "name_zh": "案例研究",
+      "description": "Multi-perspective investigations of a single business problem, shown through the editorial lens of five major publications.",
+      "description_zh": "以五大出版機構的編輯視角，透視單一商業難題的多角度案例研究。",
+      "items": [
+        {
+          "slug": "vibeitda",
+          "title": "VIBEITDA: Why AI-Native Companies Can Grow Without Growing Headcount",
+          "title_zh": "VIBEITDA：為何 AI 原生公司能在不增加人手下成長",
+          "summary": "When AI lets companies increase output faster than payroll, the old trade-off between venture-style growth and private-equity-style efficiency collapses. Five publications examine the consequences from five angles.",
+          "summary_zh": "當 AI 讓企業的產出增長快於薪酬增長，傳統「增長 vs 效率」的二選一便告失效。五種出版角度解析這場變革。",
+          "path": "articles/case-studies/vibeitda/problem.md",
+          "cover": "articles/case-studies/vibeitda/cover.png",
+          "cover_zh_text": ["VIBEITDA", "為何 AI 原生公司能在不增加人手下成長"],
+          "date": "2026-09-16",
+          "case": {
+            "publications": [
+              {
+                "id": "sloan",
+                "name": "MIT Sloan Management Review",
+                "name_zh": "MIT Sloan Management Review",
+                "logo": "articles/case-studies/vibeitda/sloan_logo.svg",
+                "title": "Beyond Headcount: AI Is Changing the Unit of Organizational Capacity",
+                "title_zh": "超越人數：AI 正在改變組織產能的單位",
+                "path": "articles/case-studies/vibeitda/sloan.md"
+              },
+              {
+                "id": "hbr",
+                "name": "Harvard Business Review",
+                "name_zh": "哈佛商業評論",
+                "logo": "articles/case-studies/vibeitda/hbr_logo.svg",
+                "title": "Stop Planning Headcount. Start Planning Human-AI Capacity.",
+                "title_zh": "別再規劃人數，開始規劃人機產能",
+                "path": "articles/case-studies/vibeitda/hbr.md"
+              },
+              {
+                "id": "mckinsey",
+                "name": "McKinsey & Company",
+                "name_zh": "麥肯錫",
+                "logo": "articles/case-studies/vibeitda/mckinsey_logo.svg",
+                "title": "From Headcount to Hybrid Capacity: Building the AI-Native Operating Model",
+                "title_zh": "由人數到混合產能：建立 AI 原生營運模式",
+                "path": "articles/case-studies/vibeitda/mckinsey.md"
+              },
+              {
+                "id": "bcg",
+                "name": "BCG",
+                "name_zh": "波士頓顧問公司",
+                "logo": "articles/case-studies/vibeitda/bcg_logo.svg",
+                "title": "The End of Headcount-Led Growth",
+                "title_zh": "人數主導增長的終結",
+                "path": "articles/case-studies/vibeitda/bcg.md"
+              },
+              {
+                "id": "bain",
+                "name": "Bain & Company",
+                "name_zh": "貝恩公司",
+                "logo": "articles/case-studies/vibeitda/bain_logo.svg",
+                "title": "Should Your Next Dollar Go to People or AI?",
+                "title_zh": "下一元該投給人，還是 AI？",
+                "path": "articles/case-studies/vibeitda/bain.md"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "articles",
+      "name": "Articles",
+      "name_zh": "文章",
+      "description": "Management articles on AI strategy, organization design, and value creation.",
+      "description_zh": "有關 AI 策略、組織設計與價值創造的管理文章。",
+      "items": []
+    }
+  ]
+}

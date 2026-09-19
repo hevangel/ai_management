@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Management</title>
+<meta name="description" content="Management articles on the impact of AI in business.">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem('aimgmt-theme');
+    if (t !== 'dark' && t !== 'light') {
+      t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    document.documentElement.dataset.theme = t;
+    var l = localStorage.getItem('aimgmt-lang') === 'zh' ? 'zh' : 'en';
+    document.documentElement.dataset.lang = l;
+    document.documentElement.lang = l === 'zh' ? 'zh-HK' : 'en';
+  } catch (e) {}
+})();
+</script>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+<style>
+  :root {
+    color-scheme: light;
+    --bg: #f7f4ee;
+    --panel: #fffdf8;
+    --text: #2b2620;
+    --muted: #7a7266;
+    --accent: #7a3b2e;
+    --accent-soft: #b0563f;
+    --line: #e4ddd0;
+    --shadow: rgba(60, 45, 30, 0.12);
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  html[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #17130f;
+    --panel: #201a15;
+    --text: #ece3d3;
+    --muted: #a3967f;
+    --accent: #d98d68;
+    --accent-soft: #e6a988;
+    --line: #383026;
+    --shadow: rgba(0, 0, 0, 0.45);
+  }
+  html[lang="zh-HK"] {
+    --serif: "Songti TC", "Noto Serif TC", "Noto Serif CJK TC", PMingLiU, MingLiU, serif;
+    --sans: "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--serif);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { color: var(--accent-soft); text-decoration: underline; }
+
+  .topbar {
+    background: var(--panel);
+    border-bottom: 1px solid var(--line);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .topbar-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0.7rem 1.2rem;
+    display: flex;
+    align-items: baseline;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
+  .site-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    color: var(--text);
+  }
+  .site-title:hover { text-decoration: none; color: var(--accent); }
+  .topnav { display: flex; gap: 1.1rem; font-family: var(--sans); font-size: 0.92rem; }
+  .topnav a { color: var(--muted); }
+  .topnav a.active { color: var(--accent); font-weight: 600; }
+  .topnav a:hover { color: var(--accent); text-decoration: none; }
+
+  .controls {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--sans);
+  }
+  .lang-switch {
+    display: inline-flex;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    overflow: hidden;
+    background: var(--bg);
+  }
+  .lang-switch button {
+    border: 0;
+    background: transparent;
+    color: var(--muted);
+    font: inherit;
+    font-size: 0.85rem;
+    padding: 0.22rem 0.65rem;
+    cursor: pointer;
+  }
+  .lang-switch button.active { background: var(--accent); color: #fff; }
+  .lang-switch button:not(.active):hover { color: var(--accent); }
+  .icon-btn {
+    border: 1px solid var(--line);
+    background: var(--bg);
+    color: var(--muted);
+    border-radius: 999px;
+    width: 1.95rem;
+    height: 1.95rem;
+    padding: 0;
+    cursor: pointer;
+    font-size: 0.95rem;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .icon-btn:hover { color: var(--accent); border-color: var(--accent); }
+
+  main { max-width: 960px; margin: 0 auto; padding: 2rem 1.2rem 3rem; }
+
+  .hero { margin-bottom: 2.5rem; }
+  .hero h1 { font-size: 2.1rem; line-height: 1.25; margin: 0 0 0.4rem; }
+  .tagline { color: var(--muted); font-size: 1.08rem; margin: 0; font-style: italic; }
+  html[lang="zh-HK"] .tagline { font-style: normal; }
+
+  .section { margin-bottom: 2.8rem; }
+  .section-head { display: flex; align-items: baseline; gap: 0.8rem; border-bottom: 1px solid var(--line); padding-bottom: 0.4rem; }
+  .section-head h2 { font-size: 1.35rem; margin: 0; }
+  .section-head .count { color: var(--muted); font-family: var(--sans); font-size: 0.85rem; }
+  .section-desc { color: var(--muted); margin: 0.5rem 0 1rem; font-size: 0.98rem; }
+  .section-back { font-family: var(--sans); font-size: 0.9rem; margin-bottom: 1rem; display: inline-block; }
+  .section-more { font-family: var(--sans); font-size: 0.9rem; display: inline-block; margin-top: 0.9rem; }
+
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.2rem;
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: box-shadow 0.15s ease, transform 0.15s ease;
+  }
+  .card:hover { box-shadow: 0 4px 16px var(--shadow); transform: translateY(-2px); }
+  .card:hover h3 { color: var(--accent); }
+  .card a { color: inherit; display: flex; flex-direction: column; height: 100%; }
+  .card a:hover { text-decoration: none; }
+  .card img.thumb {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    display: block;
+    border-bottom: 1px solid var(--line);
+  }
+  .card-body { padding: 0.85rem 1rem 1.1rem; display: flex; flex-direction: column; gap: 0.35rem; flex: 1; }
+  .card h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
+  .card .date { color: var(--muted); font-family: var(--sans); font-size: 0.78rem; letter-spacing: 0.03em; text-transform: uppercase; }
+  html[lang="zh-HK"] .card .date { text-transform: none; letter-spacing: 0.05em; }
+  .card .summary { color: var(--muted); font-size: 0.92rem; line-height: 1.5; }
+
+  .empty {
+    color: var(--muted);
+    font-style: italic;
+    background: var(--panel);
+    border: 1px dashed var(--line);
+    border-radius: 8px;
+    padding: 1.4rem;
+    text-align: center;
+  }
+  html[lang="zh-HK"] .empty { font-style: normal; }
+
+  /* Article page */
+  .article-head { margin-bottom: 1.8rem; }
+  .article-head h1 { font-size: 2rem; line-height: 1.25; margin: 0.5rem 0 0.4rem; }
+  .article-head .date { color: var(--muted); font-family: var(--sans); font-size: 0.85rem; }
+  img.cover {
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    margin-bottom: 1.2rem;
+  }
+  .cover-wrap { position: relative; display: block; }
+  .cover-wrap .cover { display: block; }
+  .cover-zh-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.1rem;
+    padding: 1.4rem 1.2rem 1.1rem;
+    text-align: center;
+    border-radius: 8px;
+    pointer-events: none;
+    background: linear-gradient(to top, rgba(15, 10, 6, 0.78) 0%, rgba(15, 10, 6, 0.34) 42%, rgba(15, 10, 6, 0) 72%);
+  }
+  .cover-zh-overlay .zl-title {
+    color: #fff;
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 1.45rem;
+    line-height: 1.4;
+    text-shadow: 0 1px 8px rgba(0, 0, 0, 0.85);
+  }
+  .cover-zh-overlay .zl-line {
+    color: #f3ead9;
+    font-family: var(--serif);
+    font-size: 0.98rem;
+    line-height: 1.55;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.85);
+  }
+  .cover-zh-overlay.compact { padding: 0.6rem; }
+  .cover-zh-overlay.compact .zl-title { font-size: 0.98rem; line-height: 1.4; }
+  .cover-zh-overlay.compact .zl-line { display: none; }
+
+  .prose { font-size: 1.08rem; }
+  html[lang="zh-HK"] .prose { font-size: 1.05rem; line-height: 2; }
+  .prose h1, .prose h2, .prose h3, .prose h4 { line-height: 1.3; margin: 2rem 0 0.7rem; }
+  .prose h2 { font-size: 1.5rem; border-bottom: 1px solid var(--line); padding-bottom: 0.3rem; }
+  .prose h3 { font-size: 1.2rem; }
+  .prose p { margin: 0.9rem 0; }
+  .prose blockquote {
+    margin: 1.2rem 0;
+    padding: 0.2rem 1.2rem;
+    border-left: 3px solid var(--accent);
+    background: var(--panel);
+    color: var(--muted);
+    font-style: italic;
+  }
+  html[lang="zh-HK"] .prose blockquote { font-style: normal; }
+  .prose img { max-width: 100%; border-radius: 6px; }
+  .prose hr { border: none; border-top: 1px solid var(--line); margin: 2.2rem 0; }
+  .prose table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
+  .prose th, .prose td { border: 1px solid var(--line); padding: 0.45rem 0.7rem; text-align: left; }
+
+  /* Case study tabs */
+  .case-tabs {
+    display: flex;
+    gap: 0.4rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--line);
+  }
+  .case-tab {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--line);
+    border-bottom: none;
+    border-radius: 6px 6px 0 0;
+    background: var(--bg);
+    color: var(--muted);
+    font-family: var(--sans);
+    font-size: 0.88rem;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .case-tab:hover { background: var(--panel); color: var(--accent); }
+  .case-tab.active {
+    background: var(--panel);
+    color: var(--accent);
+    border-color: var(--line);
+    border-bottom: 2px solid var(--accent);
+    font-weight: 600;
+  }
+  .case-tab img {
+    height: 20px;
+    max-height: 20px;
+    object-fit: contain;
+  }
+  .case-tab.active img, .case-tab:hover img { filter: none; }
+  .case-tab img {
+    opacity: 0.7;
+    filter: grayscale(20%);
+    transition: filter 0.15s ease, opacity 0.15s ease;
+  }
+  .case-tab.active img, .case-tab:hover img { opacity: 1; filter: none; }
+  /* Dark wordmarks are invisible on the dark theme — render all logos white */
+  html[data-theme="dark"] .case-tab img,
+  html[data-theme="dark"] .case-tab.active img,
+  html[data-theme="dark"] .case-tab:hover img { filter: brightness(0) invert(1); opacity: 1; }
+
+  /* Reading guide under every case-study tab */
+  .case-nav {
+    margin-top: 2.6rem;
+    border-top: 1px solid var(--line);
+    padding-top: 1.1rem;
+  }
+  .case-nav h2 { font-size: 1.3rem; margin: 0 0 0.2rem; }
+  .case-nav-hint {
+    color: var(--muted);
+    font-family: var(--sans);
+    font-size: 0.92rem;
+    margin: 0 0 0.9rem;
+  }
+  .case-nav ul { list-style: disc; padding-left: 1.4rem; margin: 0 0 1.4rem; }
+  .case-nav li { margin: 0.5rem 0; }
+  .case-nav li.current { list-style: none; margin-left: -1.4rem; color: var(--accent); }
+  .case-nav li.current::before { content: '▸ '; }
+  .case-nav li.current span strong { font-weight: 700; }
+  .case-nav img.cover { margin-bottom: 0; }
+
+  .status { color: var(--muted); text-align: center; padding: 3rem 0; font-style: italic; }
+  html[lang="zh-HK"] .status { font-style: normal; }
+  .error-box {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    padding: 1.2rem 1.4rem;
+  }
+
+  footer {
+    border-top: 1px solid var(--line);
+    color: var(--muted);
+    font-family: var(--sans);
+    font-size: 0.82rem;
+  }
+  .footer-inner { max-width: 960px; margin: 0 auto; padding: 1.2rem; }
+
+  @media (max-width: 640px) {
+    .hero h1 { font-size: 1.6rem; }
+    .article-head h1 { font-size: 1.5rem; }
+    .prose { font-size: 1.02rem; }
+    .cover-zh-overlay .zl-title { font-size: 1.15rem; }
+    .case-tabs { gap: 0.2rem; }
+    .case-tab { padding: 0.4rem 0.7rem; font-size: 0.78rem; }
+  }
+</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="site-title" id="site-title" href="#/">AI Management</a>
+    <nav class="topnav" id="topnav"></nav>
+    <div class="controls">
+      <span class="lang-switch" role="group" aria-label="Language / 語言">
+        <button id="lang-en" type="button">EN</button><button id="lang-zh" type="button" lang="zh-HK">中</button>
+      </span>
+      <button id="theme-btn" class="icon-btn" type="button" aria-label="Toggle dark / light theme"></button>
+    </div>
+  </div>
+</header>
+
+<main id="app">
+  <div class="status">Loading…</div>
+</main>
+
+<footer>
+  <div class="footer-inner" id="footer-inner"></div>
+</footer>
+
+<script>
+(function () {
+  'use strict';
+
+  var app = document.getElementById('app');
+  var topnav = document.getElementById('topnav');
+  var siteTitleEl = document.getElementById('site-title');
+  var footerEl = document.getElementById('footer-inner');
+  var themeBtn = document.getElementById('theme-btn');
+  var langEnBtn = document.getElementById('lang-en');
+  var langZhBtn = document.getElementById('lang-zh');
+  var contentPromise = null;
+  var currentContent = null;
+
+  var lang = document.documentElement.dataset.lang === 'zh' ? 'zh' : 'en';
+
+  var I18N = {
+    en: {
+      loading: 'Loading…',
+      back: '← Back',
+      all: '← All sections',
+      empty: 'Nothing published here yet.',
+      one: 'entry',
+      many: 'entries',
+      more: 'View all {n} →',
+      errTitle: 'Could not load this page.',
+      notFound: 'No entry "{x}" was found in content.json.',
+      loadFail: 'Failed to load content.json — {m}. If you opened this file directly from disk, serve the folder over HTTP instead (see AGENTS.md).',
+      footerPre: 'Written in dialogue with AI · ',
+      footerLink: 'source on GitHub',
+      caseTitle: 'Case Study',
+      caseBack: '← All case studies',
+      problem: 'Problem',
+      readAngle: 'Read each angle',
+      readAngleHint: 'The same investigation through five editorial lenses — click a publication to open its essay:'
+    },
+    zh: {
+      loading: '載入中……',
+      back: '← 返回',
+      all: '← 所有欄目',
+      empty: '此欄目暫時未有內容。',
+      one: '篇',
+      many: '篇',
+      more: '查看全部 {n} 篇 →',
+      errTitle: '無法載入此頁面。',
+      notFound: 'content.json 中找不到條目「{x}」。',
+      loadFail: '無法載入 content.json——{m}。若你是直接從磁碟開啟此檔案，請改以 HTTP 伺服器瀏覽（見 AGENTS.md）。',
+      footerPre: '與人工智能對話而寫成 · ',
+      footerLink: '於 GitHub 觀看原始碼',
+      caseTitle: '案例研究',
+      caseBack: '← 回到案例研究',
+      problem: '問題',
+      readAngle: '閱讀每一個角度',
+      readAngleHint: '同一項研究，五種編輯視角——點擊刊物名稱即可閱讀該角度：'
+    }
+  };
+
+  function t(key) { return I18N[lang][key]; }
+
+  function getContent() {
+    if (!contentPromise) {
+      contentPromise = fetch('content.json').then(function (r) {
+        if (!r.ok) throw new Error('content.json HTTP ' + r.status);
+        return r.json();
+      });
+    }
+    return contentPromise;
+  }
+
+  function L(obj, field) {
+    if (lang === 'zh') {
+      var zh = obj[field + '_zh'];
+      if (zh) return zh;
+    }
+    return obj[field];
+  }
+
+  function dirOf(path) {
+    var i = path.lastIndexOf('/');
+    return i === -1 ? '' : path.slice(0, i + 1);
+  }
+
+  function zhVariant(path) {
+    var i = path.lastIndexOf('/');
+    return i === -1 ? 'chinese_' + path : path.slice(0, i + 1) + 'chinese_' + path.slice(i + 1);
+  }
+
+  function resolvePath(src, baseDir) {
+    if (/^(https?:|data:|#|[a-z]+:|\/)/i.test(src)) return src;
+    return baseDir + src;
+  }
+
+  function renderMarkdown(text, mdPath) {
+    var html = marked.parse(text);
+    var baseDir = dirOf(mdPath);
+    var tpl = document.createElement('template');
+    tpl.innerHTML = DOMPurify.sanitize(html);
+    var body = tpl.content;
+    var firstH1 = body.querySelector('h1');
+    if (firstH1) firstH1.remove();
+    body.querySelectorAll('img[src]').forEach(function (img) {
+      img.src = resolvePath(img.getAttribute('src'), baseDir);
+      img.loading = 'lazy';
+    });
+    body.querySelectorAll('a[href]').forEach(function (a) {
+      var href = a.getAttribute('href');
+      if (/\.md($|[?#])/i.test(href) && !/^(https?:|#[a-z]+:)/i.test(href)) {
+        a.href = '#/md/' + encodeURIComponent(resolvePath(href, baseDir));
+      } else if (!/^(https?:|data:|#|mailto:)/i.test(href)) {
+        a.href = resolvePath(href, baseDir);
+        a.target = '_blank';
+        a.rel = 'noopener';
+      }
+    });
+    return tpl.innerHTML;
+  }
+
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function fmtDate(iso) {
+    if (!iso) return '';
+    var d = new Date(iso + 'T00:00:00');
+    if (isNaN(d)) return esc(iso);
+    return d.toLocaleDateString(lang === 'zh' ? 'zh-HK' : 'en-US',
+      { year: 'numeric', month: 'long', day: 'numeric' });
+  }
+
+  var existsCache = {};
+  function exists(url) {
+    if (!(url in existsCache)) {
+      existsCache[url] = fetch(url, { method: 'HEAD' }).then(function (r) {
+        return r.ok;
+      }).catch(function () { return false; });
+    }
+    return existsCache[url];
+  }
+
+  function imgTag(cls, src) {
+    return '<img class="' + cls + '" src="' + esc(src) + '" alt="" onerror="this.remove()">';
+  }
+
+  function zhOverlayHtml(lines, compact) {
+    var inner = '<span class="zl-title">' + esc(lines[0]) + '</span>';
+    for (var i = 1; i < lines.length; i++) {
+      inner += '<span class="zl-line">' + esc(lines[i]) + '</span>';
+    }
+    return '<span class="cover-zh-overlay' + (compact ? ' compact' : '') + '">' + inner + '</span>';
+  }
+
+  function coverHtml(item, compact) {
+    if (!item.cover) return Promise.resolve('');
+    var cls = compact ? 'thumb' : 'cover';
+    if (lang !== 'zh') return Promise.resolve(imgTag(cls, item.cover));
+    var zhCover = zhVariant(item.cover);
+    return Promise.all([exists(zhCover), exists(item.cover)]).then(function (r) {
+      var zhOk = r[0], enOk = r[1];
+      if (zhOk) return imgTag(cls, zhCover);
+      if (!enOk) return '';
+      var lines = (item.cover_zh_text && item.cover_zh_text.length)
+        ? item.cover_zh_text
+        : (item.title_zh ? [item.title_zh] : null);
+      if (!lines) return imgTag(cls, item.cover);
+      return '<span class="cover-wrap">' + imgTag(cls, item.cover) + zhOverlayHtml(lines, compact) + '</span>';
+    });
+  }
+
+  function cardHtml(sectionId, item) {
+    return coverHtml(item, true).then(function (img) {
+      var href;
+      if (item.case) {
+        href = '#/case/' + esc(item.slug);
+      } else {
+        href = '#/read/' + esc(sectionId) + '/' + esc(item.slug);
+      }
+      return (
+        '<article class="card">' +
+          '<a href="' + href + '">' +
+            img +
+            '<div class="card-body">' +
+              '<h3>' + esc(L(item, 'title')) + '</h3>' +
+              (item.date ? '<span class="date">' + fmtDate(item.date) + '</span>' : '') +
+              (item.summary ? '<p class="summary">' + esc(L(item, 'summary')) + '</p>' : '') +
+            '</div>' +
+          '</a>' +
+        '</article>'
+      );
+    });
+  }
+
+  function sectionHtml(section, showBack, limit) {
+    var total = section.items.length;
+    var shown = (limit && total > limit) ? section.items.slice(0, limit) : section.items;
+    var cardsP = shown.length
+      ? Promise.all(shown.map(function (it) { return cardHtml(section.id, it); }))
+          .then(function (cards) { return '<div class="cards">' + cards.join('') + '</div>'; })
+      : Promise.resolve('<div class="empty">' + esc(t('empty')) + '</div>');
+    return cardsP.then(function (cards) {
+      var n = total;
+      var count = n + (n === 1 ? ' ' + t('one') : ' ' + t('many'));
+      var more = (shown.length !== total)
+        ? '<a class="section-more" href="#/section/' + esc(section.id) + '">' +
+            esc(t('more')).replace('{n}', n) + '</a>'
+        : '';
+      return (showBack ? '<a class="section-back" href="#/">' + esc(t('all')) + '</a>' : '') +
+        '<section class="section">' +
+          '<div class="section-head"><h2>' + esc(L(section, 'name')) + '</h2>' +
+            '<span class="count">' + esc(count) + '</span>' +
+          '</div>' +
+          (section.description ? '<p class="section-desc">' + esc(L(section, 'description')) + '</p>' : '') +
+          cards + more +
+        '</section>';
+    });
+  }
+
+  function setNav(activeId, sections) {
+    topnav.innerHTML = sections.map(function (s) {
+      return '<a href="#/section/' + esc(s.id) + '"' + (s.id === activeId ? ' class="active"' : '') + '>' + esc(L(s, 'name')) + '</a>';
+    }).join('');
+  }
+
+  function siteTitle() {
+    if (!currentContent) return 'AI Management';
+    return L(currentContent.site, 'title') || 'AI Management';
+  }
+
+  function setTitle(t2) {
+    document.title = t2 ? t2 + ' — ' + siteTitle() : siteTitle();
+  }
+
+  function applyChrome() {
+    document.documentElement.lang = lang === 'zh' ? 'zh-HK' : 'en';
+    langEnBtn.classList.toggle('active', lang === 'en');
+    langZhBtn.classList.toggle('active', lang === 'zh');
+    if (currentContent) siteTitleEl.textContent = siteTitle();
+    footerEl.innerHTML = esc(t('footerPre')) +
+      '<a href="https://github.com/hevangel/ai_management">' + esc(t('footerLink')) + '</a>';
+  }
+
+  function applyThemeButton() {
+    var dark = document.documentElement.dataset.theme === 'dark';
+    themeBtn.textContent = dark ? '☀️' : '🌙';
+    themeBtn.setAttribute('aria-label', dark ? 'Switch to light theme' : 'Switch to dark theme');
+  }
+
+  function findItem(content, sectionId, slug) {
+    for (var i = 0; i < content.sections.length; i++) {
+      var s = content.sections[i];
+      if (s.id === sectionId) {
+        for (var j = 0; j < s.items.length; j++) {
+          if (s.items[j].slug === slug) return { section: s, item: s.items[j] };
+        }
+      }
+    }
+    return null;
+  }
+
+  function findCaseItem(content, slug) {
+    for (var i = 0; i < content.sections.length; i++) {
+      var s = content.sections[i];
+      for (var j = 0; j < s.items.length; j++) {
+        if (s.items[j].slug === slug && s.items[j].case) return { section: s, item: s.items[j] };
+      }
+    }
+    return null;
+  }
+
+  function showStatus(msg) {
+    app.innerHTML = '<div class="status">' + msg + '</div>';
+  }
+
+  function showError(msg) {
+    app.innerHTML = '<div class="error-box"><strong>' + esc(t('errTitle')) + '</strong><br>' + esc(msg) + '</div>';
+  }
+
+  function fetchMarkdown(path) {
+    return fetch(path).then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status + ' for ' + path);
+      return r.text();
+    });
+  }
+
+  /* ---------- routes ---------- */
+
+  var HOME_LIMITS = { 'case-studies': 6, articles: 6 };
+
+  function routeHome(content) {
+    setNav(null, content.sections);
+    setTitle('');
+    showStatus(t('loading'));
+    Promise.all(content.sections.map(function (s) { return sectionHtml(s, false, HOME_LIMITS[s.id]); }))
+      .then(function (htmls) {
+        app.innerHTML =
+          '<div class="hero"><h1>' + esc(L(content.site, 'title')) + '</h1>' +
+          '<p class="tagline">' + esc(L(content.site, 'tagline') || '') + '</p></div>' +
+          htmls.join('');
+      });
+  }
+
+  function routeSection(content, sectionId) {
+    var section = content.sections.filter(function (s) { return s.id === sectionId; })[0];
+    if (!section) return routeHome(content);
+    setNav(sectionId, content.sections);
+    setTitle(L(section, 'name'));
+    showStatus(t('loading'));
+    sectionHtml(section, true).then(function (html) { app.innerHTML = html; });
+  }
+
+  function renderArticle(section, item) {
+    var mdPath = lang === 'zh' ? zhVariant(item.path) : item.path;
+    var md = fetchMarkdown(mdPath).catch(function (e) {
+      if (lang === 'zh' && mdPath !== item.path) return fetchMarkdown(item.path);
+      throw e;
+    });
+    Promise.all([md, coverHtml(item, false)]).then(function (r) {
+      var text = r[0], cover = r[1];
+      app.innerHTML =
+        '<a class="section-back" href="' + (section ? '#/section/' + esc(section.id) : '#/') + '">' + esc(t('back')) + '</a>' +
+        '<header class="article-head">' + cover +
+          '<h1>' + esc(L(item, 'title')) + '</h1>' +
+          (item.date ? '<span class="date">' + fmtDate(item.date) + '</span>' : '') +
+        '</header>' +
+        '<div class="prose">' + renderMarkdown(text, mdPath) + '</div>';
+      window.scrollTo(0, 0);
+    }).catch(showError);
+  }
+
+  function routeRead(content, sectionId, slug) {
+    var found = findItem(content, sectionId, slug);
+    if (!found) return showError(t('notFound').replace('{x}', slug));
+    setNav(found.section.id, content.sections);
+    setTitle(L(found.item, 'title'));
+    renderArticle(found.section, found.item);
+  }
+
+  function routeCase(content, slug, pub) {
+    var found = findCaseItem(content, slug);
+    if (!found) return showError(t('notFound').replace('{x}', slug));
+    setNav(found.section.id, content.sections);
+    setTitle(L(found.item, 'title'));
+    renderCaseStudy(found.section, found.item, pub);
+  }
+
+  function renderCaseStudy(section, item, pub) {
+    showStatus(t('loading'));
+    var pubs = item.case.publications;
+    var mdPath = lang === 'zh' ? zhVariant(item.path) : item.path;
+    var mdPromise = fetchMarkdown(mdPath).catch(function (e) {
+      if (lang === 'zh' && mdPath !== item.path) return fetchMarkdown(item.path);
+      throw e;
+    });
+
+    mdPromise.then(function (problemText) {
+      renderCaseContent(section, item, pubs, problemText, mdPath, pub);
+    }).catch(showError);
+  }
+
+  function renderCaseContent(section, item, pubs, problemText, problemMdPath, pub) {
+    var problemTab = '<button class="case-tab active" data-pub="problem">' +
+      '<span>' + esc(t('problem')) + '</span></button>';
+
+    var pubHtml = pubs.map(function (pub) {
+      return (
+        '<button class="case-tab" data-pub="' + esc(pub.id) + '">' +
+          '<img src="' + esc(pub.logo) + '" alt="' + esc(L(pub, 'name')) + ' logo">' +
+          '<span>' + esc(L(pub, 'name')) + '</span>' +
+        '</button>'
+      );
+    }).join('');
+
+    // Reading guide, shown under the content on every tab so the reader can
+    // move between essays; the cover art closes the page.
+    var navList = pubs.map(function (p) {
+      var isCurrent = pub === p.id;
+      var inner = '<strong>' + esc(L(p, 'name')) + '</strong> — ' + esc(L(p, 'title'));
+      return '<li' + (isCurrent ? ' class="current"' : '') + '>' +
+        (isCurrent
+          ? '<span>' + inner + '</span>'
+          : '<a href="#/case/' + esc(item.slug) + '/' + esc(p.id) + '">' + inner + '</a>') +
+        '</li>';
+    }).join('');
+
+    var navHtml =
+      '<div class="case-nav">' +
+        '<h2>' + esc(t('readAngle')) + '</h2>' +
+        '<p class="case-nav-hint">' + esc(t('readAngleHint')) + '</p>' +
+        '<ul>' + navList + '</ul>' +
+        '<div id="case-nav-cover"></div>' +
+      '</div>';
+
+    app.innerHTML =
+      '<a class="section-back" href="#/">' + esc(t('all')) + '</a>' +
+      '<header class="article-head">' +
+        '<h1>' + esc(L(item, 'title')) + '</h1>' +
+        (item.date ? '<span class="date">' + fmtDate(item.date) + '</span>' : '') +
+      '</header>' +
+      '<div class="case-tabs">' + problemTab + pubHtml + '</div>' +
+      '<div id="case-prob" class="prose">' + renderMarkdown(problemText, problemMdPath) + '</div>' +
+      '<div id="case-body" class="prose" style="display:none"></div>' +
+      navHtml;
+
+    coverHtml(item, false).then(function (coverImg) {
+      var holder = document.getElementById('case-nav-cover');
+      if (holder) holder.innerHTML = coverImg;
+    });
+
+    window.scrollTo(0, 0);
+
+    function showProblem() {
+      document.getElementById('case-prob').style.display = '';
+      document.getElementById('case-body').style.display = 'none';
+      document.getElementById('case-body').innerHTML = '';
+    }
+
+    function loadPub(id) {
+      var pub = pubs.filter(function (p) { return p.id === id; })[0];
+      if (!pub) return;
+      document.getElementById('case-prob').style.display = 'none';
+      document.getElementById('case-body').innerHTML = '<div class="status">' + esc(t('loading')) + '</div>';
+      document.getElementById('case-body').style.display = '';
+      var mdPath = lang === 'zh' ? zhVariant(pub.path) : pub.path;
+      fetchMarkdown(mdPath).catch(function (e) {
+        // No Chinese translation (or fetch failed) — fall back to the English text.
+        if (lang === 'zh' && mdPath !== pub.path) return fetchMarkdown(pub.path);
+        throw e;
+      }).then(function (pubText) {
+        document.getElementById('case-body').innerHTML =
+          '<h2>' + esc(L(pub, 'title')) + '</h2>' +
+          renderMarkdown(pubText, mdPath);
+      }).catch(function (e) {
+        document.getElementById('case-body').innerHTML =
+          '<div class="error-box"><strong>' + esc(t('errTitle')) + '</strong><br>' + esc(e.message) + '</div>';
+      });
+    }
+
+    function onTabClick(tab) {
+      document.querySelectorAll('.case-tab').forEach(function (t) { t.classList.remove('active'); });
+      tab.classList.add('active');
+      var id = tab.getAttribute('data-pub');
+      // Keep the URL deep-linkable without triggering a full re-render.
+      try {
+        history.replaceState(null, '', '#/case/' + item.slug +
+          (id === 'problem' ? '' : '/' + id));
+      } catch (e) {}
+      if (id === 'problem') {
+        showProblem();
+      } else {
+        loadPub(id);
+      }
+    }
+
+    document.querySelectorAll('.case-tab').forEach(function (tab) {
+      tab.addEventListener('click', function () { onTabClick(tab); });
+    });
+
+    // A deep link (#/case/<slug>/<publication>) opens on that essay.
+    if (pub && pub !== 'problem') {
+      var deepTab = document.querySelector('.case-tab[data-pub="' + pub + '"]');
+      if (deepTab) onTabClick(deepTab);
+    }
+  }
+
+  function routeMd(content, encodedPath) {
+    var path = decodeURIComponent(encodedPath);
+    setNav(null, content.sections);
+    for (var i = 0; i < content.sections.length; i++) {
+      var s = content.sections[i];
+      for (var j = 0; j < s.items.length; j++) {
+        var it = s.items[j];
+        if (it.path === path || zhVariant(it.path) === path) return renderArticle(s, it);
+      }
+    }
+    setTitle('');
+    showStatus(t('loading'));
+    fetchMarkdown(path).then(function (text) {
+      app.innerHTML =
+        '<a class="section-back" href="#/">' + esc(t('all')) + '</a>' +
+        '<div class="prose">' + renderMarkdown(text, path) + '</div>';
+      window.scrollTo(0, 0);
+    }).catch(showError);
+  }
+
+  function route() {
+    var hash = location.hash.replace(/^#\/?/, '');
+    var parts = hash.split('/').map(decodeURIComponent);
+    getContent().then(function (content) {
+      currentContent = content;
+      applyChrome();
+      if (parts[0] === '' || hash === '') return routeHome(content);
+      if (parts[0] === 'section' && parts[1]) return routeSection(content, parts[1]);
+      if (parts[0] === 'case' && parts[1]) return routeCase(content, parts[1], parts[2]);
+      if (parts[0] === 'read' && parts[1] && parts[2]) return routeRead(content, parts[1], parts[2]);
+      if (parts[0] === 'md' && parts.slice(1).join('/')) return routeMd(content, parts.slice(1).join('/'));
+      routeHome(content);
+    }).catch(function (e) {
+      showError(t('loadFail').replace('{m}', e.message));
+    });
+  }
+
+  langEnBtn.addEventListener('click', function () { setLang('en'); });
+  langZhBtn.addEventListener('click', function () { setLang('zh'); });
+
+  function setLang(l) {
+    if (lang === l) return;
+    lang = l;
+    try { localStorage.setItem('aimgmt-lang', l); } catch (e) {}
+    route();
+  }
+
+  themeBtn.addEventListener('click', function () {
+    var dark = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = dark;
+    try { localStorage.setItem('aimgmt-theme', dark); } catch (e) {}
+    applyThemeButton();
+  });
+
+  applyThemeButton();
+  window.addEventListener('hashchange', route);
+  route();
+})();
+</script>
+</body>
+</html>
