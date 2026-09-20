@@ -72,10 +72,17 @@ and extend it with the case-study reader. Inherited rules that must be preserved
   no leading `/`.
 - `content.json` drives the whole UI (menu, sections, item metadata). Nothing is
   auto-scanned; a page only exists if registered there.
-- Markdown rendered client-side by `marked` + `DOMPurify` (jsDelivr CDN). Hash routing:
-  `#/`, `#/section/<id>`, `#/read/<section>/<slug>`, `#/case/<slug>[/<publication>]`
-  (a case study's title page, or one of its five publication essays),
-  `#/md/<path>`. The SPA strips the first
+- Markdown rendered client-side by `marked` + `DOMPurify` (jsDelivr CDN). Routing uses the
+  History API with clean paths: `/ai_management/`, `/section/<id>`, `/read/<section>/<slug>`,
+  `/case/<slug>[/<publication>]` (a case study's title page, or one of its five publication
+  essays), `/md/<path>`. The app derives its base path from `location.pathname` (`APP_BASE` —
+  `/ai_management/` on both live hosts, `/` for a local server rooted at the repo) and prefixes
+  every app-relative resource/link with it. A document-level click interceptor routes in-app
+  links via `pushState`; `popstate` re-routes; legacy `#/…` URLs are upgraded to clean paths in
+  place (never re-introduce hash-only links). Deep links rely on server fallback: Apache
+  `RewriteRule . index.html [L]` in the horace.org `.htaccess`, and the repo's `404.html` shim
+  on GitHub Pages (which has no fallback) — keep `404.html` in sync if the base path changes.
+  The SPA strips the first
   `H1` of rendered markdown (titles come from `content.json`) and resolves relative
   `img src` against the markdown file's own folder.
 - Google Analytics 4 (`G-QQXX5SHEHH`, shared with the philosophy repo's property) is wired
