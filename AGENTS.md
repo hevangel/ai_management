@@ -78,6 +78,11 @@ and extend it with the case-study reader. Inherited rules that must be preserved
   `#/md/<path>`. The SPA strips the first
   `H1` of rendered markdown (titles come from `content.json`) and resolves relative
   `img src` against the markdown file's own folder.
+- Google Analytics 4 (`G-QQXX5SHEHH`, shared with the philosophy repo's property) is wired
+  into `index.html`: the gtag config sets `send_page_view: false` and the router's
+  `setTitle()` sends `page_view` manually (via `trackPageView`) so every hash-route change
+  counts, with the final document title and full hash URL. Don't bypass `setTitle()` in
+  route code, or pages stop being tracked.
 - Bilingual (English / Hong Kong Traditional Chinese) and themeable (light / dark), with
   `EN / 中` and 🌙/☀️ switches persisting in `localStorage` (use fresh keys, e.g.
   `aimgmt-lang` / `aimgmt-theme`, not the philosophy repo's), applied pre-paint by an inline
