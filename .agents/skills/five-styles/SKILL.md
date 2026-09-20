@@ -1,6 +1,6 @@
 ---
 name: five-styles
-description: Transform raw material — a conversation transcript, brainstorming notes, rough draft, or existing article — into five structurally different management/business articles in the editorial logics of MIT Sloan Management Review, Harvard Business Review, McKinsey & Company, BCG, and Bain & Company. Use when the user asks to "rewrite this in the five styles", wants "a Sloan/HBR/McKinsey/BCG/Bain version", mentions the five-styles rewriter, or wants one idea developed into a five-publication case study. Never produces five synonym-swapped copies; extracts the intellectual core and verifies facts first.
+description: Transform raw material — a conversation transcript, brainstorming notes, rough draft, or existing article — into five structurally different management/business articles in the editorial logics of MIT Sloan Management Review, Harvard Business Review, McKinsey & Company, BCG, and Bain & Company, each with its own cover-art brief, preceded by a one-page Source Synthesis Memo. Use when the user asks to "rewrite this in the five styles", wants "a Sloan/HBR/McKinsey/BCG/Bain version", mentions the five-styles rewriter or a source synthesis memo, wants cover-art briefs for a management idea, or wants one idea developed into a five-publication case study. Never produces five synonym-swapped copies; extracts the intellectual core and verifies facts first.
 ---
 
 # Five-Style Management Article Rewriter Skill
@@ -13,7 +13,9 @@ images, `utm_source=chatgpt.com` links, `citeturn` tokens) when quoting from it.
 
 ## Purpose
 
-Transform raw material — including conversation transcripts, brainstorming notes, rough drafts, research notes, or existing articles — into five distinct management/business articles modeled on the editorial logic of:
+Rewrite raw management material — conversation history, brainstorming notes, rough
+drafts, research notes, memos, or existing articles — into five distinct
+management-publication styles:
 
 1. MIT Sloan Management Review
 2. Harvard Business Review
@@ -21,338 +23,351 @@ Transform raw material — including conversation transcripts, brainstorming not
 4. BCG-style strategy article
 5. Bain-style value-creation article
 
-The five outputs must be structurally and intellectually different. Do not merely rewrite the same article five times with different vocabulary.
+Also produce:
+
+- a one-page **Source Synthesis Memo** before any rewriting (Stage 0) — the canonical
+  source of truth for every later output;
+- a publication-specific **cover-art brief** for each version (`references/cover-art.md`);
+- an optional **comparative summary** explaining how the five treatments differ.
+
+The five articles must be intellectually distinct. Do not merely change vocabulary,
+headings, tone, or brand colors.
+
+## Core Rule
+
+All five articles must derive from the same underlying intellectual source, but each
+must answer a different question:
+
+| Style | Central question |
+|---|---|
+| Sloan | What new model explains what is changing? |
+| HBR | What management practice should leaders change? |
+| McKinsey | What operating model should the enterprise build? |
+| BCG | How is the basis of competition changing? |
+| Bain | Where is the economic value, and how should resources be allocated? |
+
+Preserve the author's original insight whenever possible. Do not invent personal
+experiences, examples, data, research findings, or beliefs that were not present in the
+source material or independently verified. When the source is a conversation, use the
+most developed version of the argument and distinguish early exploratory ideas, ideas
+the author later rejected, refined positions, and the final position.
+
+## Pipeline
+
+1. **Stage 0** — write the Source Synthesis Memo.
+2. **Stage 1** — reconstruct the intellectual core.
+3. **Stage 2** — research and verify current facts.
+4. **Stage 3** — generate five independent treatments.
+5. Run the **differentiation test**; rewrite if the five collapse into one article with
+   different headings.
+6. Deliver in the **standard order**: memo → five articles with cover-art briefs →
+   comparative summary.
 
 ---
 
-## Core Principle
+## Stage 0 — Source Synthesis Memo
 
-Before writing any article, first determine:
+Before generating any article, write a one-page analytical memo (600–1,000 words). It is
+the canonical source of truth for all later outputs; do not optimize it for any
+publication style.
 
-- What is the central thesis?
-- What observation triggered the thesis?
-- What is genuinely new or counterintuitive?
-- What assumptions from the pre-existing worldview are being challenged?
-- What evidence supports the argument?
-- What evidence weakens or qualifies it?
-- What examples or anecdotes make the idea concrete?
-- What management problem follows from the thesis?
-- What questions remain unresolved?
-- Which claims are facts, hypotheses, analogies, or speculation?
+Required sections: **Working Thesis, Conventional View, What Changed, Causal Chain, Core
+Mechanism, Key Concepts, Evidence (empirical / business examples / practitioner /
+logical), Strongest Counterarguments, Unresolved Questions, Managerial Implications,
+Claims Requiring Verification, Authorial Position, One-Sentence Version.**
 
-Preserve the author's original insight whenever possible.
-
-Do not invent personal experiences, examples, data, research findings, or beliefs that were not present in the source material or independently verified.
-
-When the source is a conversation, distinguish between:
-
-- early exploratory ideas
-- ideas the author later rejected
-- ideas the author refined
-- and the final position
-
-Use the most developed version of the argument.
+Read `references/source-synthesis-memo.md` for the section-by-section spec before writing
+it. When the author's thinking changes later, revise the memo first (see Revision
+Workflow).
 
 ---
 
-## Stage 1: Extract the Intellectual Core
+## Stage 1 — Reconstruct the Intellectual Core
 
-Before generating the five articles, create an internal source model containing:
+When the source is a conversation, do not summarize it chronologically. Instead:
 
-### Central Thesis
+1. Identify the initial observation.
+2. Identify how the argument evolved.
+3. Remove dead ends and repetition.
+4. Preserve useful disagreements and unresolved questions.
+5. Recover the strongest causal logic.
+6. Separate facts from hypotheses.
+7. Preserve memorable original language where useful.
 
-Express the strongest version of the argument in one or two sentences.
+Example — raw discussion: "VC grows companies." / "PE optimizes EBITDA." / "AI means
+growth may no longer require lots of hiring." / "So AI-native companies may combine
+both." Do not reproduce that as dialogue. Reconstruct it as:
 
-### Conventional View
+> Traditional corporate finance treated growth and operating leverage as partially
+> opposing objectives, because rapid growth required rapid expansion of labor. AI may
+> weaken that trade-off by enabling output to scale faster than headcount, creating the
+> possibility of VC-style growth combined with PE-style operating leverage.
 
-Explain the established assumption, management practice, or worldview being challenged.
-
-### New Observation
-
-Identify what has changed.
-
-### Causal Mechanism
-
-Explain why the change matters rather than merely describing it. Use a simple causal chain when appropriate: A → B → C → managerial consequence.
-
-### Key Tension
-
-Identify the unresolved trade-off, contradiction, or uncertainty.
-
-### Evidence
-
-Separate:
-
-- empirical evidence
-- research findings
-- company examples
-- personal observations
-- logical arguments
-- analogies
-- speculative implications
-
-### Useful Concepts
-
-Extract any original terminology, equations, frameworks, metaphors, or memorable phrases from the source. Preserve particularly strong phrases when appropriate.
-
-### Managerial Implications
-
-Identify what executives, managers, investors, or employees would need to do differently if the thesis was correct.
+When the author changed their mind, prefer the later refined view unless they explicitly
+ask to preserve the evolution. When uncertainty remains unresolved, keep it unresolved —
+do not silently choose a convenient answer.
 
 ---
 
-## Stage 2: Research and Verification
+## Stage 2 — Research and Verification
 
-When the article depends on current facts, companies, AI capabilities, market conditions, economic data, or recent research, verify them before writing.
+If current facts materially affect the article, verify them before writing: current AI
+capabilities, recent research, company strategy, employment effects, market data,
+regulation, workforce trends, current consulting research.
 
-Prefer:
+Prefer, in order: original research; academic journals; NBER; government data; company
+filings; company statements; high-quality industry research; consulting research when
+primary sources are unavailable.
 
-- original research papers
-- NBER
-- academic journals
-- government statistics
-- company filings
-- authoritative industry research
-- major consulting research when primary evidence is unavailable
+Do not use a consulting firm's claim as evidence simply because the output is written in
+consulting style.
 
-Do not use a consulting firm's claim as proof merely because the article is being written in consulting style.
+Label every claim as one of: demonstrated fact; evidence-supported interpretation;
+working hypothesis; analogy; forward-looking speculation.
 
-Distinguish clearly between:
-
-- what current evidence demonstrates
-- what evidence suggests
-- and what is a forward-looking hypothesis
-
-Avoid fake precision. If no reliable human-to-AI substitution ratio exists, state so rather than inventing one.
+Never invent precise numbers to make an argument look rigorous. If the evidence is
+uncertain, preserve the uncertainty.
 
 ---
 
-## Stage 3: Generate Five Independent Articles
+## Stage 3 — Generate Five Independent Treatments
 
-Each article should feel as if a different editorial team independently developed the same underlying insight. Do not preserve identical section structure across all five. Do not simply change headings.
+Each article should feel as if a different editorial team independently developed the
+same underlying insight. The five outputs must not share identical article structures; do
+not copy paragraphs between versions; each version must develop a different implication
+of the common thesis.
 
----
+### 1. MIT Sloan Management Review Version
 
-## 1. MIT Sloan Management Review Style
+**Editorial question: What new management model or conceptual framework is needed to
+understand this change?**
 
-### Editorial Question
+Character: analytical; evidence-oriented; conceptually rigorous; research-friendly;
+accessible to senior managers; comfortable with uncertainty.
 
-**What new model or management concept is needed to understand what is changing?**
-
-### Character
-
-Analytical, research-oriented, conceptually rigorous, but accessible to senior managers. The article should feel halfway between an academic paper and a management magazine article.
-
-### Structure
-
-Typically:
+Typical structure:
 
 1. Introduce an observed phenomenon or contradiction.
-2. Explain why the existing management model is insufficient.
-3. Develop a new conceptual framework.
-4. Support it with evidence or research.
-5. Explore second-order organizational consequences.
-6. Discuss limitations and uncertainties.
-7. Translate the model into management implications.
-8. End with a broader conceptual shift.
+2. Explain why the old model is insufficient.
+3. Develop a new conceptual model.
+4. Introduce terminology or a framework.
+5. Support the framework with evidence.
+6. Explore second-order consequences.
+7. Discuss limitations.
+8. Translate the model into managerial implications.
+9. End with a broader conceptual shift.
 
-### Style
-
-Allow equations, conceptual models, and new terminology when they clarify the argument. For example:
+Use equations or formal conceptual models when useful:
 
 ```
 Output = f(Human judgment, AI capacity, other constraints)
 ```
 
-or:
-
 ```
-Traditional unit of capacity → Headcount
-Emerging unit of capacity → Human + machine productive capacity
+Traditional capacity unit → Headcount
+Emerging capacity unit → Human + machine productive capacity
 ```
 
-Avoid oversimplifying uncertainty.
+Avoid: excessive listicles; premature action checklists; fake certainty; management
+clichés; overly promotional language.
 
-### Preferred Outcome
+Reader takeaway: **"I now have a new way of understanding this organization or
+phenomenon."**
 
-The reader should finish thinking: **"I now have a new way of understanding the organization."**
+### 2. Harvard Business Review Version
 
----
+**Editorial question: What management practice is becoming inadequate, and what should
+leaders do instead?**
 
-## 2. Harvard Business Review Style
+Character: direct; polished; practical; executive-friendly; action-oriented; memorable.
 
-### Editorial Question
+Typical structure:
 
-**What management practice is becoming wrong, and what should leaders do instead?**
-
-### Character
-
-Direct, polished, executive-friendly, actionable. Move quickly from observation to management consequence.
-
-### Structure
-
-Typically:
-
-1. Open with a recognizable management problem or anecdote.
-2. State why conventional practice is becoming inadequate.
-3. Explain the new reality.
+1. Start with a recognizable management problem, anecdote, or decision.
+2. Explain why conventional practice is becoming wrong.
+3. Introduce the new reality.
 4. Present an actionable framework.
-5. Give concrete management examples.
-6. Provide three to five actions leaders can implement.
-7. Close with the new question leaders should ask.
+5. Give concrete examples.
+6. Provide 3–5 actions leaders can take.
+7. End with the new management question.
 
-### Style
+Preferred rhetorical structure: "Managers traditionally do X. That worked because Y. Y
+is changing. Leaders should now do Z."
 
-Use clear managerial language. Prefer:
+Avoid: long theoretical setup; overcomplicated frameworks; unnecessary equations;
+excessive nuance before stating the implication.
 
-- "Stop doing X. Start doing Y."
-- "Leaders should make four changes."
+Reader takeaway: **"I need to change how I manage this."**
 
-Do not spend too long developing abstract theory before reaching action.
+### 3. McKinsey-Style Version
 
-### Preferred Outcome
+**Editorial question: What operating model should the enterprise build to respond?**
 
-The reader should finish thinking: **"I need to change how I manage this."**
+Character: structured; enterprise-wide; transformation-oriented; systematic;
+capability-based; future-state focused.
 
----
-
-## 3. McKinsey-Style Insight Article
-
-### Editorial Question
-
-**What operating model should the enterprise build to respond to this change?**
-
-### Character
-
-Structured, enterprise-wide, transformation-oriented. Translate the insight into an organizational architecture.
-
-### Structure
-
-Usually:
+Typical structure:
 
 1. Define the structural shift.
-2. Explain why the existing operating model is insufficient.
-3. Introduce a future-state operating model.
-4. Break it into 4–6 dimensions or shifts.
-5. Show movement from current state to future state.
-6. Discuss implications across functions.
-7. Present a transformation path or maturity model.
-8. Close with the capabilities required to make the transition.
+2. Explain why the current operating model is insufficient.
+3. Describe the future-state operating model.
+4. Break it into 4–6 dimensions.
+5. Show "from → to" transitions.
+6. Discuss organization-wide implications.
+7. Provide a maturity model or transition path.
+8. End with the capabilities required for execution.
 
-### Framework Preference
-
-Use transformations of the form "From → To", such as:
+Preferred transitions:
 
 - Headcount planning → Capacity planning
 - Equal AI access → ROI-based allocation
-- Task automation → Workflow redesign
+- Task automation → End-to-end workflow redesign
 - Span of control → Span of agency
-- Usage metrics → Business-outcome metrics
+- Technology usage → Business outcomes
+- Annual planning → Dynamic allocation
 
-Include an exhibit-style table when useful.
+Include at least one exhibit-style table when useful, e.g.:
 
-### Preferred Outcome
+| Traditional model | AI-enabled model | AI-native model |
+|---|---|---|
+| Headcount allocation | Copilot access | Human-agent capacity allocation |
+| Functional staffing | AI overlays | Outcome-based teams |
+| Annual budgeting | Tool budgets | Dynamic capacity budgets |
+| Productivity metrics | Usage metrics | Economic output metrics |
 
-The reader should finish thinking: **"I can see what the future operating model looks like."**
+Reader takeaway: **"I can see what the future operating model looks like and how to
+build it."**
 
----
+### 4. BCG-Style Version
 
-## 4. BCG-Style Strategy Article
+**Editorial question: How is the basis of competition changing, and what separates
+winners from losers?**
 
-### Editorial Question
+Character: strategic; provocative; archetype-driven; competitive; economic;
+future-oriented.
 
-**How does this change the basis of competition, and what separates winners from losers?**
-
-### Character
-
-Strategic, competitive, provocative, archetype-driven. Focus on structural advantage rather than internal process alone.
-
-### Structure
-
-Typically:
+Typical structure:
 
 1. Identify a changing basis of competition.
-2. Contrast the old economic model with the emerging one.
-3. Show why incremental adoption is insufficient.
-4. Define 3–5 strategic archetypes.
-5. Explain which archetype has structural advantage.
-6. Identify the economic mechanism behind that advantage.
-7. Explain what incumbents risk if they move too slowly.
-8. End with the strategic question CEOs should be asking.
+2. Contrast old and emerging economics.
+3. Explain why incremental adoption is insufficient.
+4. Define 3–5 company archetypes.
+5. Show which structural characteristics create advantage.
+6. Explain the cost curve, scale advantage, or asymmetry.
+7. Describe the risk to incumbents.
+8. End with the strategic question for CEOs.
 
-### Framework Preference
+Preferred frameworks — strong contrasts such as AI-augmented incumbent vs. AI-native
+scaler, headcount-led growth vs. capacity-led growth, or a four-archetype ladder:
+labor-intensive incumbent → AI-augmented incumbent → aggressive automator → AI-native
+scaler.
 
-Use strong contrasts, such as:
+Focus on structural competitive advantage, cost curves, operating leverage, scalability,
+industry structure, competitive asymmetry, moat creation, and new winner/loser dynamics.
+Do not turn the piece into a generic "five steps to use AI" article.
 
-- AI-augmented incumbent vs. AI-native scaler
-- Headcount-led growth vs. Capacity-led growth
+Reader takeaway: **"This could change who wins in my industry."**
 
-Focus on cost curves, competitive moats, scaling economics, and asymmetry.
+### 5. Bain-Style Version
 
-### Preferred Outcome
+**Editorial question: Where is the economic value, and how should the next dollar be
+allocated?**
 
-The reader should finish thinking: **"This could fundamentally change who wins in this industry."**
+Character: economically grounded; ROI-oriented; execution-focused; measurable;
+capital-allocation driven.
 
----
+Typical structure:
 
-## 5. Bain-Style Value-Creation Article
+1. Start with a concrete economic decision.
+2. Explain why current budgeting creates poor allocation.
+3. Introduce a measurable decision framework.
+4. Identify sources of value.
+5. Explain marginal returns.
+6. Identify diminishing returns and bottlenecks.
+7. Connect operational outcomes to the P&L.
+8. Give decision rules.
+9. End with a capital-allocation question.
 
-### Editorial Question
-
-**Where is the economic value, and how should capital be allocated to capture it?**
-
-### Character
-
-Economically grounded, execution-oriented, ROI-driven. Reduce abstract claims to measurable business decisions.
-
-### Structure
-
-Typically:
-
-1. Start with a concrete investment or operating decision.
-2. Identify why current budgeting creates poor allocation.
-3. Introduce a measurable economic framework.
-4. Separate sources of value.
-5. Explain diminishing returns and bottlenecks.
-6. Connect operational metrics to P&L outcomes.
-7. Provide decision rules.
-8. End with a capital-allocation question.
-
-### Framework Preference
-
-Whenever appropriate, compare marginal returns. For example:
+Compare marginal returns when appropriate:
 
 ```
-ROI_human = Incremental business value from additional human capacity / Fully loaded human cost
-
-ROI_AI = Incremental business value from additional AI capacity / AI + infrastructure + oversight cost
-
+ROI_human  = Incremental business value from additional human capacity / Fully loaded human cost
+ROI_AI     = Incremental business value from additional AI capacity / AI + infrastructure + oversight cost
 ROI_hybrid = Incremental business value from combined human-AI capacity / Combined incremental cost
 ```
 
-Consider three economic zones:
+Use the three economic zones when relevant: **complementarity** (more AI increases the
+productivity of humans), **substitution** (AI reduces the quantity of human labor needed
+for the same output), **saturation** (additional AI creates little value because another
+bottleneck dominates).
 
-1. Complementarity
-2. Substitution
-3. Saturation
+Connect AI to revenue growth, cost reduction, asset efficiency, avoided hiring, cycle
+time, customer retention, EBITDA, margin, working capital, and risk reduction.
 
-### Preferred Outcome
-
-The reader should finish thinking: **"I know what to measure and where I should put the next dollar."**
+Reader takeaway: **"I know what to measure and where the next dollar should go."**
 
 ---
 
-## Important Differentiation Rules
+## Differentiation Test
 
-The five articles must not have identical theses at identical levels of abstraction. Translate the common insight into five different questions:
+Before finalizing, compare all five versions. If they can be reduced to the same article
+with different headings, rewrite them. The correct distinction is the central-question
+table in Core Rule; the central insight may remain consistent, but each article must
+develop a different implication of it.
 
-- **Sloan:** What new theory explains this?
-- **HBR:** What should managers change?
-- **McKinsey:** What operating model should companies build?
-- **BCG:** What new source of competitive advantage emerges?
-- **Bain:** How should companies allocate resources to capture the value?
+---
 
-The central insight may remain consistent, but each article should develop a different implication of it.
+## Deliverable Format
+
+Return outputs in this order:
+
+0. **Source Synthesis Memo**
+1. **MIT Sloan Management Review Version** — article, then cover-art brief
+2. **Harvard Business Review Version** — article, then cover-art brief
+3. **McKinsey-Style Version** — article, then cover-art brief
+4. **BCG-Style Version** — article, then cover-art brief
+5. **Bain-Style Version** — article, then cover-art brief
+6. **Comparative summary** — `| Version | Core question | Main framework | Best audience | Main contribution |`, comparing the editorial treatments rather than repeating the articles.
+
+---
+
+## Cover Art
+
+Each article carries its own cover-art concept; the five covers must visualize different
+aspects of the argument — never one image recolored. Use the editorial design logic of
+each publication rather than brand imitation: do not copy proprietary mastheads, logos,
+or exact publication layouts unless the user explicitly asks for a parody or mockup and
+the context permits it.
+
+Read `references/cover-art.md` for the per-publication briefs (visual objective, style,
+typical concept, image question) and the required output format: cover concept, key
+metaphor, composition, art direction, avoid, image-generation prompt.
+
+---
+
+## Revision Workflow
+
+If the author's thinking changes:
+
+1. Revise the Source Synthesis Memo first and identify what changed.
+2. Update the causal chain, evidence, or unresolved questions.
+3. Regenerate only the affected versions unless asked to regenerate all five.
+4. Update the corresponding cover-art concepts if the thesis changes.
+
+Do not independently patch five articles after the core thesis has shifted.
+
+---
+
+## Handling Existing Articles
+
+When the input is already polished, do not merely paraphrase it five times:
+
+1. Extract its intellectual core.
+2. Generate the Source Synthesis Memo.
+3. Separate evidence from editorial framing.
+4. Rebuild the argument independently for each style.
+5. Retain factual substance.
+6. Change hierarchy, emphasis, structure, and managerial implication.
 
 ---
 
@@ -360,104 +375,12 @@ The central insight may remain consistent, but each article should develop a dif
 
 Write for intelligent senior business readers.
 
-**Avoid:**
+Avoid: generic AI enthusiasm; excessive buzzwords; fake certainty; simplistic "AI will
+replace everyone" arguments; filler such as "in today's rapidly changing world";
+consulting clichés without analytical content; invented quantitative claims.
 
-- generic AI enthusiasm
-- excessive buzzwords
-- fake certainty
-- simplistic "AI will replace everyone" arguments
-- repeated phrases such as "in today's rapidly changing world"
-- consulting clichés without analytical content
-- invented quantitative claims
-
-**Prefer:**
-
-- strong causal reasoning
-- explicit assumptions
-- counterarguments
-- concrete examples
-- economic mechanisms
-- memorable but defensible frameworks
-
----
-
-## Handling Raw Conversations
-
-Conversation transcripts often contain valuable ideas mixed with repetition and exploratory thinking. Do not write the transcript chronologically. Instead:
-
-1. Reconstruct the argument.
-2. Remove dead ends.
-3. Combine repeated observations.
-4. Preserve genuinely insightful turns in reasoning.
-5. Identify where one idea led to another.
-6. Convert conversational questions into explicit hypotheses.
-
-**Example transformation:**
-
-Raw conversation:
-
-> "VC is growth. PE is efficiency."
-
-then later:
-
-> "But AI lets companies grow without hiring proportionally."
-
-then later:
-
-> "So maybe VC economics and PE economics merge."
-
-Should become:
-
-> Traditional corporate finance treated growth and operating leverage as partially opposing objectives. AI may weaken that trade-off by allowing output to scale faster than human labor, creating the possibility of VC-style growth combined with PE-style operating leverage.
-
----
-
-## Handling Existing Articles
-
-When the source is already a polished article:
-
-1. Do not merely summarize and rephrase it.
-2. Extract the intellectual content.
-3. Identify what is essential and what belongs only to the original format.
-4. Reconstruct the argument independently for each destination style.
-5. Preserve facts and evidence.
-6. Change framing, hierarchy, examples, and managerial implications as required.
-
----
-
-## Deliverable Format
-
-Return five clearly separated finished articles in this order:
-
-### 1. MIT Sloan Management Review Version
-
-Title (and subtitle if useful) followed by the full article.
-
-### 2. Harvard Business Review Version
-
-Title followed by the full article.
-
-### 3. McKinsey-Style Version
-
-Title followed by the full article, including exhibit/table where valuable.
-
-### 4. BCG-Style Version
-
-Title followed by the full article, including strategic archetypes where valuable.
-
-### 5. Bain-Style Version
-
-Title followed by the full article, including economic framework or decision rules where valuable.
-
----
-
-## Optional Comparative Summary
-
-After the five articles, provide a short table:
-
-| Version | Core question | Main framework | Best audience | Strongest contribution |
-
-This section should compare the editorial treatment rather than repeat the articles.
+Prefer: strong causal reasoning; explicit assumptions; counterarguments; concrete
+examples; economic mechanisms; memorable but defensible frameworks.
 
 ---
 
@@ -465,107 +388,59 @@ This section should compare the editorial treatment rather than repeat the artic
 
 Unless the user specifies otherwise:
 
+- Source memo: 600–1,000 words
 - MIT Sloan: 2,500–4,000 words
 - HBR: 1,800–3,000 words
 - McKinsey: 2,000–3,500 words
 - BCG: 2,000–3,500 words
 - Bain: 1,800–3,000 words
 
-If the source material is too thin to support five long articles without repetition, preserve quality over length. Do not pad.
+Do not pad thin material to meet a word count; preserve quality over length.
 
 ---
 
 ## User Controls
 
-Allow the user to optionally specify:
+Allow optional inputs (defaults after each):
 
-### Length
-
-- short
-- standard
-- publication-length
-
-### Audience
-
-- CEO
-- CTO
-- engineering management
-- investors
-- general executives
-- employees
-
-### Evidence level
-
-- use source only
-- source + web research
-- research-heavy
-
-### Voice
-
-- neutral editorial
-- first-person practitioner
-- institutional consulting voice
-
-### Preserve anecdotes
-
-- yes
-- no
-
-### Provocativeness
-
-- conservative
-- balanced
-- provocative
-
-If unspecified, use:
-
-- publication-length
-- senior executive audience
-- source + web research when current verification matters
-- neutral editorial voice
-- preserve strong anecdotes
-- balanced but intellectually provocative framing
+- **Length**: short / standard / publication-length (default publication-length).
+- **Audience**: CEO / CTO / engineering management / investors / board / general
+  executives / employees (default senior executives).
+- **Evidence level**: source only / source + verification / research-heavy (default
+  source + verification when external or current claims matter).
+- **Voice**: neutral editorial / first-person practitioner / institutional consulting
+  voice (default neutral editorial).
+- **Anecdotes**: preserve / minimize / remove (default preserve strong anecdotes).
+- **Provocativeness**: conservative / balanced / provocative (default balanced but
+  intellectually provocative).
+- **Cover art**: briefs only / prompts only / generate images / none (default briefs +
+  prompts).
 
 ---
 
 ## Final Quality Check
 
-Before delivering, verify that:
+Before delivering, confirm:
 
-- all five articles share the same underlying source insight
-- none is merely a synonym-swapped copy
-- Sloan contains the strongest conceptual model
-- HBR contains the clearest managerial actions
-- McKinsey contains the clearest operating model
-- BCG contains the strongest competitive strategy argument
-- Bain contains the strongest economic decision framework
-- factual claims are supported
-- speculation is identified as speculation
-- no personal experience has been invented
-- the author's strongest original ideas have not been diluted
-
----
-
-## Invocation
-
-For actual reuse, invoke it with something very simple like:
-
-> Apply the Five-Style Management Article Rewriter to the following conversation. Use publication length, senior executive audience, research-heavy evidence, and preserve my anecdotes.
-
-Then paste the conversation or article.
-
-## Source Synthesis Enhancement
-
-A sixth "source synthesis" output before the articles is recommended: a one-page memo containing the thesis, causal chain, strongest evidence, counterargument, and original concepts. This provides a stable intellectual source of truth, so when material is revised later, the five versions don't gradually diverge.
+- the memo accurately represents the source and the strongest original insight has been preserved
+- facts and hypotheses are distinguished; current claims have been verified when necessary
+- no personal experience has been invented; no research result has been fabricated; uncertainty has not been hidden
+- all five pieces derive from the same source thesis
+- Sloan has the strongest conceptual model; HBR the strongest managerial action; McKinsey the clearest operating model; BCG the strongest competitive-strategy framing; Bain the strongest economic and capital-allocation framework
+- the five structures are materially different
+- cover concepts are materially different and reflect each version's argument, not only its visual brand
+- proprietary publication visual identities are not directly copied unless specifically requested
 
 ---
 
 ## In This Repo
 
 Publishing the output is the site workflow (AGENTS.md), not this skill. The five articles
-form one case study: one folder under `articles/<case>/` holding `problem.md` (the
-plain-language title page), one markdown file per publication (`sloan.md`, `hbr.md`,
-`mckinsey.md`, `bcg.md`, `bain.md`), and the five publication logos as committed image
-files — all registered in `content.json`. Chinese versions follow the site's bilingual
-`chinese_`-prefix conventions. First line of each file is the `# Title`; the SPA renders
-titles from `content.json`.
+form one case study: one folder under `articles/case-studies/<slug>/` holding
+`problem.md` (the plain-language title page), one markdown file per publication
+(`sloan.md`, `hbr.md`, `mckinsey.md`, `bcg.md`, `bain.md`), and the five publication
+logos as committed image files — all registered in `content.json`. Chinese versions
+follow the site's bilingual `chinese_`-prefix conventions. First line of each file is
+the `# Title`; the SPA renders titles from `content.json`. Cover art for the case-study
+folder follows the site's `cover.png` conventions (AGENTS.md / the ai_philosophy
+recipe); the briefs here feed those image-generation prompts.

@@ -35,6 +35,11 @@ citation images, `utm_source=chatgpt.com` links, `citeturn` tokens — when quot
 
 Core pipeline:
 
+- **Stage 0 — Source Synthesis Memo**: a one-page memo written before anything else and
+  the canonical source of truth for every later output — thesis, causal chain, evidence,
+  counterarguments, unresolved questions, authorial position (section spec in the skill's
+  `references/source-synthesis-memo.md`). When the author's thinking changes, revise the
+  memo first, then regenerate only the affected versions.
 - **Stage 1 — extract the intellectual core** before writing anything: central thesis,
   conventional view being challenged, new observation, causal mechanism, key tension,
   evidence (separating empirical / example / analogy / speculation), original terminology,
@@ -48,10 +53,15 @@ Core pipeline:
   model (equations and new terminology allowed); HBR = clearest managerial actions; McKinsey
   = clearest operating model; BCG = strongest competitive-strategy argument; Bain =
   strongest economic decision framework.
+- **Cover-art briefs**: one per publication, each visualizing that version's argument —
+  never one image recolored, never masthead imitation (briefs + required output format in
+  the skill's `references/cover-art.md`).
 - **Final quality check**: same underlying insight in all five, factual claims supported,
-  no invented experience, author's strongest ideas not diluted.
-- Optional invocation parameters: length, audience, evidence rigor, editorial voice
-  (conservative / balanced / provocative); sensible defaults are in the spec.
+  no invented experience, author's strongest ideas not diluted, five structures and five
+  cover concepts materially different.
+- Optional invocation parameters: length, audience, evidence rigor, editorial voice,
+  anecdote handling, provocativeness, cover-art output (briefs only / prompts only /
+  generated images / none); sensible defaults are in the spec.
 
 ## Site architecture
 
