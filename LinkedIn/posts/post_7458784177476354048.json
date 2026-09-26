@@ -1,0 +1,21 @@
+{
+  "activity_id": "7458784177476354048",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7458784177476354048/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-09T12:00:00+00:00",
+  "posted_at_hint": "May 9",
+  "posted_at_approx": true,
+  "text": "Anthropic should release a meta skill that distills any webpage into a CLI based navigation skill.\nIt will be a long time before all websites support web-mcp.\nIf AI can't see it, it doesn't exist.  There is so much information that is easy for humans to consume but it is very hard to feed it to AI.\nPlus, you can strip all the ads in CLI.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:36:00Z"
+}

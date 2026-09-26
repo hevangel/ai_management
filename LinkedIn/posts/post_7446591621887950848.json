@@ -1,0 +1,113 @@
+{
+  "activity_id": "7446591621887950848",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7446591621887950848/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-05T12:00:00+00:00",
+  "posted_at_hint": "Apr 5 (edited)",
+  "posted_at_approx": true,
+  "text": "Am I the only one who thinks VSCode GitHub Copilot is better than Claude Code.\nI have unlimited Claude tokens at work, I only have a $20 Copilot subscription at home.\nAt work I am pushing the absolute limit of what AI can do. At home, I just vibe coding fun side projects I have in the pile for decades.\nI know Copilot can't handle the kind of task at work, but for those easy stuff that Opus can one shot generate, I found the user experience of VSCode is way better than Claude Code\nI tried the Claude Code VSCode extension, it sucks.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 10,
+  "reposts": 0,
+  "comment_count": 6,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Pallavi Kumar",
+        "profile_url": "https://www.linkedin.com/in/pallavikum/",
+        "headline": "Senior staff verification engineer @ AMD | AI Evangelist"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-29T21:50:00+00:00",
+      "posted_at_hint": "5mo",
+      "posted_at_approx": true,
+      "text": "",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Lingkai Shi",
+            "profile_url": "https://www.linkedin.com/in/lingkai-shi-2bb01720/",
+            "headline": "Hardware IP Development Leader at AMD"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-03-30T21:50:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "(mentioning Pallavi Kumar) give a try VSCODE with Copilot. Opus is absolute game changer for deeper analysis.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-04-29T21:50:00+00:00",
+          "posted_at_hint": "5mo",
+          "posted_at_approx": true,
+          "text": "(mentioning Chandrakanth Betageri) I personally prefer Cursor for the IDE but I am a Claude code / codex convert :)",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Maysam Mirahmadi",
+        "profile_url": "https://www.linkedin.com/in/mirahmadi/",
+        "headline": "Principal Member of Technical Staff, Silicon Design at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-30T21:50:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "I ditched the cloud code extension after a few hours of use, but CLI works fine no problem.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jeremy Ralph",
+        "profile_url": "https://www.linkedin.com/in/jeremyralph/",
+        "headline": "Principal Verification Engineer at Microsoft"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-30T21:50:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "I’m prefer vscode for editing/viewing and Copilot CLI (if I’m not allowed to use opencode) with Claude model in terminal",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Cameron McKenzie",
+        "profile_url": "https://www.linkedin.com/in/cameronwmckenzie/",
+        "headline": "Free Claude & AWS Cert Prep at certificationexams.pro | 50+ Udemy Courses | 12x AWS Certified | 5x IBM Certified | 3x GitHub Certified | GitHub Copilot Advocate"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-30T21:50:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "I'd second that.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

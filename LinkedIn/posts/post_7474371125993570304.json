@@ -1,0 +1,101 @@
+{
+  "activity_id": "7474371125993570304",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7474371125993570304/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-21T12:00:00+00:00",
+  "posted_at_hint": "Jun 21",
+  "posted_at_approx": true,
+  "text": "First, the conclusion: I can say with absolute certainty that AI will not replace human jobs.   Read the article to hear my argument (100% from human brain)",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Will AI replace humans jobs?",
+    "url": "https://www.linkedin.com/pulse/ai-replace-humans-jobs-horace-chan-u1suc/"
+  },
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 5,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ben Luong",
+        "profile_url": "https://www.linkedin.com/in/benluong/",
+        "headline": "Advanced Google Ads and conversion tracking | Founder, Fire Pixel | GA4, GTM, n8n, BigQuery | 20+ years in performance marketing"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-28T21:50:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "How can you square this with the thousands of jobs that have already been lost to AI?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-06-28T21:50:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "most of those jobs should not exist in the first place.  They are over hire during the post Covid era",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Ben Luong",
+            "profile_url": "https://www.linkedin.com/in/benluong/",
+            "headline": "Advanced Google Ads and conversion tracking | Founder, Fire Pixel | GA4, GTM, n8n, BigQuery | 20+ years in performance marketing"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-06-28T21:50:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Yes but they've still gone because of AI. Whether or not they should have been there in the first place, does it matter? They have been replaced. Some people have explicitly said it's because of AI, like the cloudflare ceo.\n\nLook up 'unit cost Dominance' once AI + verifier is cheaper than you at your job. You will be replaced.  That's just basic economics.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 3mo",
+          "posted_at_approx": true,
+          "text": "Don't trust the management BS. They are just blaming AI for their own mistakes.\n\nThe nature of the job will be different, just like spreadsheets didn't replace accountants, in fact we got a lot more accountants.  Lumber jacks are not replaced by chainsaws",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Ben Luong",
+            "profile_url": "https://www.linkedin.com/in/benluong/",
+            "headline": "Advanced Google Ads and conversion tracking | Founder, Fire Pixel | GA4, GTM, n8n, BigQuery | 20+ years in performance marketing"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-06-28T21:50:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "\"Management is lying\" is not the escape hatch you think it is.\n\nFor public companies, claiming AI drove layoffs is a material productivity claim. Either AI is replacing labour, or executives are misleading markets about why headcount is falling.\n\nOne is technological displacement.\n\nThe other is potentially securities-fraud / jail-time territory.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

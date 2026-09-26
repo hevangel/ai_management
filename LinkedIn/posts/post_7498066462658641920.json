@@ -1,0 +1,192 @@
+{
+  "activity_id": "7498066462658641920",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498066462658641920/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-25T12:00:00+00:00",
+  "posted_at_hint": "Aug 25",
+  "posted_at_approx": true,
+  "text": "We should build a full stack CPU ISA and programming language for AI coding agents, remove the humans needs completely from the loop.\n\nThis article is created by me chatting back and forth with ChatGPT.   If this idea sounds too crazy, it is AI+human slop, not merely AI slop.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "What If We Designed a CPU and Programming Language for AI Coders, Not Humans?",
+    "url": "https://www.linkedin.com/pulse/what-we-designed-cpu-programming-language-ai-coders-humans-chan-umpyc/"
+  },
+  "reshared_post": null,
+  "likes": 9,
+  "reposts": 0,
+  "comment_count": 11,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bill Lye",
+        "profile_url": "https://www.linkedin.com/in/wmlye/",
+        "headline": "30+ years of CMOS Mixed-Signal Design"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:10:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Honestly, I'm not all that sure that this is truly AI-Native.  You're describing a semantic-aware  IR (more capable than the LLVM IR) that is describing data flow graphs.  To represent those graphs in a string of bytes, you're going to end up with an IR that looks a hell of a lot like LISP, where the distance between the code and the AST representing that code is minimal.\n\nTo execute this IR, you'll have a hardware scalar engine with a JIT running on it that maps the IR to the native ISA.  The IR would ideally make the vectorizable portions easily mapped to whatever vector engine is available with the ability to map them to the scalar engine as a backup.\n\nThe IR and JIT could possibly make the memory aliasing issue much less problematic, and RTO in the JIT could perhaps simplify branch prediction, so the underlying hardware could be simplified somewhat.  The scalar datapath could be VLIW or RISC (scalar or superscalar), and a superscalar design might be a bit simpler than what is common today.  However I don't see this doing away with caches and possibly speculation to deal with concurrency and non-determinism.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bill Lye",
+            "profile_url": "https://www.linkedin.com/in/wmlye/",
+            "headline": "30+ years of CMOS Mixed-Signal Design"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "To make everything work together, the JIT/RTO would likely need more instrumentation of the various components in the system, and it would likely benefit from tagged memory (similar to LISP machines).  That'll help both with safety because the processors will always know the types they're working with and with RTO because the JIT can stash hints in the tags.\n\nI see this more as a distribution system (the IR) together with several ideas from MultiFlow, the i860, LISP machines, and Transmeta, together with several of the current class of native ISA emulators that are essentially JIT's with various levels of RTO.  I don't see it as either an AI-native ISA or an AI-native language.\n\nLLM's seem to be capable of handling almost any language (except possibly BrainFuck) given a sufficiently large corpus of code and clear semantics.  A highly-regular language where there are fewer corner cases is probably better, but my experiments with several languages and LLM's seems to bear out that larger training corpuses = better results.\n\nMaybe LISP is the ideal language for AI; it's consistent all the way down, code is data, and the distance between code and AST is almost zero.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Bill Lye and LISP is human unreadable too!",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bill Lye",
+            "profile_url": "https://www.linkedin.com/in/wmlye/",
+            "headline": "30+ years of CMOS Mixed-Signal Design"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "In any event, there's nothing preventing us from using a language that requires us to do more work to lower it to the distribution IR, it's just that the effort required to lower a LISP-like language to the IR while guaranteeing top-to-bottom consistency is less than (for example) JavaScript or Python.\n\nAlso, just to be clear, when I say \"LISP-like\" I don't necessarily mean \"LISP\" itself.  SKILL, the internal scripting language from Cadence, is an example of C-like functional syntax running on a LISP back end.  The functional syntax is a very thin layer of impedance matching code that was inserted into a fairly conventional REPL loop.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bill Lye",
+            "profile_url": "https://www.linkedin.com/in/wmlye/",
+            "headline": "30+ years of CMOS Mixed-Signal Design"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan Ha!  We overlapped.  LISP, with all its parentheses can sometimes feel like BrainFuck.  Or worse, TCL.  However the format of the IR and the language don't necessarily need to be linked.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Bill Lye tcl is on the other extreme of LISP, everything is a string.\n\nMaybe LISP and tcl is the only two languages we need after all.  Everything else in between can be replaced by a mixture of LISP/tcl",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Paul Hylander",
+        "profile_url": "https://www.linkedin.com/in/paul-hylander-a418521/",
+        "headline": "Diverse technology leader and innovator"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:10:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Register renaming is not for human benefit, it’s to reduce encoding cost. You also seem to be giving more credit to LLMs than what they’ve demonstrated to be capable of - evidence suggests that LLMs by themselves are not actually very good at detailed error free processing, yet it appears that you’re expecting them to be essentially do the job of a compiler. Why would your “primitives” include high level operations like gather or scatter, not to mention some of the other things you propose? Why remove raw pointers from the mix of you’re asking LLMs to be able to deal with all sorts of other semantic concepts? Presumably if they can deal with all the other stuff you propose, then they can also handle “raw” pointers. And similarly why add extra complexity in the hardware to support tagged pointers and runtime checking when the LLM is supposedly able to handle all this extra complexity? It really seems like your ideas are an odd mix of mutually inconsistent assumptions and gee-whiz features",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Paul Hylander yeap.  It is human+AI slop.  The last time I read computer architecture was in college many years ago.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Stephen Noftall",
+            "profile_url": "https://www.linkedin.com/in/stephen-noftall-75940027/",
+            "headline": "Electronic hardware and software designer from start to finish"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan I like it, lots of interesting ideas :-) Reminds me of this paper I had a hard time chewing on\n\nhttps://arxiv.org/pdf/2505.17117\n\nFrom Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning\narxiv.org",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Stephen Noftall it reminds me 3B1B new video saying compressiom and intelligence is the same thing",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Stephen Noftall",
+            "profile_url": "https://www.linkedin.com/in/stephen-noftall-75940027/",
+            "headline": "Electronic hardware and software designer from start to finish"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan thanks for the tip, got to go watch that one :-)",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:10:00Z"
+}

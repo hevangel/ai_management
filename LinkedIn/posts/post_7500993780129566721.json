@@ -1,0 +1,37 @@
+{
+  "activity_id": "7500993780129566721",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7500993780129566721/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-02T12:00:00+00:00",
+  "posted_at_hint": "Sep 2",
+  "posted_at_approx": true,
+  "text": "I ask the frontier and open source models to write a simple ASCII stock chart program that fetches data from yahoo finance.\n\nOpus 5 and GLM-5.2 are most expensive, spent over $10 writing this simple app\nGPT-5.6 Sol and Deepseek v4 Pro is the cheapest, costing less than $0.5\nGemini 3.7 flash is the only model that can't even finish this task. 🤔\nPick your model wisely, or you are really flushing money down the toilet",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-05T21:18:00+00:00",
+      "posted_at_hint": "3w",
+      "posted_at_approx": true,
+      "text": "Gemini is a fancy search engine.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:18:00Z"
+}

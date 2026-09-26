@@ -1,0 +1,26 @@
+{
+  "activity_id": "7504625062331985920",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7504625062331985920/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-12T12:00:00+00:00",
+  "posted_at_hint": "Sep 12",
+  "posted_at_approx": true,
+  "text": "Anthropic should open source Fable, Mythos and whatever they are cooking in the lab, totally destroy any financial incentives to better build models\n\nSacrifice yourself, save the world.\n\nChinese models won't even exists if Claude and GPT are open source from day 1",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_name": "Daniela Amodei",
+    "author_profile_url": "https://www.linkedin.com/in/daniela-amodei-790bb22a/",
+    "author_headline": "President at Anthropic",
+    "posted_at_hint": "Sep 12"
+  },
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T20:59:00Z"
+}

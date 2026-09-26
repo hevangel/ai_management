@@ -1,0 +1,21 @@
+{
+  "activity_id": "7456163612035047424",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7456163612035047424/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-01T12:00:00+00:00",
+  "posted_at_hint": "May 1",
+  "posted_at_approx": true,
+  "text": "I think harnesses engineering is already out of date.  Opus with Claude Code is smart enough to orchestrate itself.\n\nHere is my workspace structure.\nOne master repo, each piece is a sub module that has its own repo\nThe master Claude Code kick starts everything and keeps track of what is going on in the sub module.\nIt kicks off CC instances running in the sub modules.\n\nHere is the beautiful part.  If the CC instances in the sub module are stuck, the master just kills that CC and notifies the human.\nHuman can fire up CC in that submodules in a terminal and fix what's wrong.\nOr the master CC can change the memory of the sleeping CC, then wake it up again after it is transplant with the new memory",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

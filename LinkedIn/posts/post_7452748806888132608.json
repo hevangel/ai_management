@@ -1,0 +1,21 @@
+{
+  "activity_id": "7452748806888132608",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7452748806888132608/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-22T12:00:00+00:00",
+  "posted_at_hint": "Apr 22",
+  "posted_at_approx": true,
+  "text": "It is a misconception that x86 is more power hungry than ARM.   For some workload, like mobile phone, ARM is better optimized for battery consumption.   For data center and AI workload, x86 is still the king in performance per watt.\n\n#AMDBrandAmbassador\nFrom Chips to Clusters: Scaling AI Efficiently by Design (bit.ly)",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

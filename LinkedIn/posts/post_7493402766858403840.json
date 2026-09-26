@@ -1,0 +1,37 @@
+{
+  "activity_id": "7493402766858403840",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493402766858403840/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-12T12:00:00+00:00",
+  "posted_at_hint": "Aug 12",
+  "posted_at_approx": true,
+  "text": "Stupid AI added two hundred duplicated lines to my ~/.gitconfig\nWe should ban AI from writing to your HOME even in YOLO mode.\nI know people will question why I am running in YOLO mode. To make the most out of AI, you have to\nIf you never take off the training wheels, you will never learn how to ride a bicycle.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Peter Li",
+        "profile_url": "https://www.linkedin.com/in/peter-li-a30ab654/",
+        "headline": "1st Lead Systems Software Engineer at Citrix"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:45:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "It reminds me of drivers sleeping in the car while using Tesla's FSD. It's your own choice.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:45:00Z"
+}

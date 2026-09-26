@@ -1,0 +1,37 @@
+{
+  "activity_id": "7469602632001601536",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7469602632001601536/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-07T12:00:00+00:00",
+  "posted_at_hint": "Jun 7",
+  "posted_at_approx": true,
+  "text": "I have observed this pattern.\n\nWhen sr. engineers use AI, we try to shoehorn the AI into what we know that works from years of experience\n\nWhen jr. engineers use AI, they end up reinventing the history of compute but with a twist of AI native.  They end up implementing a superior solution with the help of AI from the first principle because they don't have any baggage",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Santosh Ahuja",
+        "profile_url": "https://www.linkedin.com/in/santoshnahuja/",
+        "headline": "Engineering Executive | AI Infrastructure · GPU/Accelerator Systems · Distributed Systems · Silicon & Hardware-to-Cloud"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-28T21:50:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Fine, the junior's design is better. The question isn't who can fly with AI. It's who can read the instruments when the AI says we're on course and we're not. Experience is a liability when you're drawing the route and the only thing that saves you when the route is wrong.",
+      "likes": 3,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

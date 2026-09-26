@@ -1,0 +1,21 @@
+{
+  "activity_id": "7474851882885197824",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7474851882885197824/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-22T12:00:00+00:00",
+  "posted_at_hint": "Jun 22",
+  "posted_at_approx": true,
+  "text": "There are two types of agentic skills\n\n1. The skill gives the LLM new information that it doesn't have in its weights\n\n2. The skill is just tokens already spent, the LLM figures something out on its own, write a note for its future self.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

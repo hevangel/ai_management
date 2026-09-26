@@ -1,0 +1,21 @@
+{
+  "activity_id": "7500051206246100992",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7500051206246100992/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-30T12:00:00+00:00",
+  "posted_at_hint": "Aug 30",
+  "posted_at_approx": true,
+  "text": "AI has no common sense in writing SystemVerilog #2\n\nI asked AI build 4001 from the spec, 4001 is a ROM.  Guess where did the AI put the ROM table?\n\nThe ROM table is hard coded at SV module paramaters.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:10:00Z"
+}

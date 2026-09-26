@@ -1,0 +1,21 @@
+{
+  "activity_id": "7471235665557467136",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7471235665557467136/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-12T12:00:00+00:00",
+  "posted_at_hint": "Jun 12",
+  "posted_at_approx": true,
+  "text": "When deploying AI agents, you can't expect the users to be careful every time. You have to design the AI agents assuming the users are total idiots and they still can't shoot themselves on the foot.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

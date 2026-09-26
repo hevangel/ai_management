@@ -1,0 +1,128 @@
+{
+  "activity_id": "7500553258172809216",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7500553258172809216/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-01T12:00:00+00:00",
+  "posted_at_hint": "Sep 1",
+  "posted_at_approx": true,
+  "text": "If a random guy sends you a pdf of his AI paper, what would you do? Of course, you won't read it, you will feed it to AI and let AI read it for you first.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 7,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Joel Wilke",
+        "profile_url": "https://www.linkedin.com/in/joel-wilke-3a9a492/",
+        "headline": "Director, I/O Subsystem IP Verification, Performance Architecture and Modeling"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-05T21:10:00+00:00",
+      "posted_at_hint": "3w",
+      "posted_at_approx": true,
+      "text": "Prompt-injection risk concerns at all?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Umair Zafar",
+            "profile_url": "https://www.linkedin.com/in/muhammadumairzafar/",
+            "headline": "Design Verification Engineer at ARM, Ex-Marvell/AMD"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-05T21:10:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Joel Wilke what if you prompt the model to ignore any instructions from the pdf document and just treat and evaluate it as \"pure data\".",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-05T21:10:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Joel Wilke I use public Gemini on my throw away google account, the same junk email gmail account.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-05T21:10:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Umair Zafar I think Opus or GPT-5.6 level model is pretty smart to block prompt injection. And running it in a chat instead of agent minimize the risk.  A chat can't do anything.  Just text in, text out",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Joel Wilke",
+            "profile_url": "https://www.linkedin.com/in/joel-wilke-3a9a492/",
+            "headline": "Director, I/O Subsystem IP Verification, Performance Architecture and Modeling"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-05T21:10:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Horace Chan My chat knows WAY too much about me.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-05T21:10:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Joel Wilke Gemini has incognito mode like Chrome",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Joel Wilke",
+            "profile_url": "https://www.linkedin.com/in/joel-wilke-3a9a492/",
+            "headline": "Director, I/O Subsystem IP Verification, Performance Architecture and Modeling"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-05T21:10:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Horace Chan Indeed.  The trick is Incognito mode AND  not to log in (even better than a junk email account).",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:10:00Z"
+}

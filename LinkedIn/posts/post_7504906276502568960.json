@@ -1,0 +1,37 @@
+{
+  "activity_id": "7504906276502568960",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7504906276502568960/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-13T12:00:00+00:00",
+  "posted_at_hint": "Sep 13 • Edited",
+  "posted_at_approx": true,
+  "text": "If you write code for living and you have survived the transition from GPT4 to GPT6, the worst time is over. Humans coder has found the new equilibrium with AI.\n\nTraining AI to write better code has reached diminished return, the AI lab has shifted their focus to expand what AI can do instead. In short, AI displacing human doing coding task has reached the total addressable market already. AI has better money to be made by displacing human doing other tasks",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": "7504935779908087809",
+      "author": {
+        "name": "Tarun Ghosh",
+        "profile_url": "https://www.linkedin.com/in/tarun-ghosh/",
+        "headline": "AMS DV Engr. at Renesas Electronics | Ex-TI"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-19T20:59:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "This is the peak phase of LLMs, from now on it won't go up (if not down), the insane valuations of LLM were eating away the actual AI innovations. People have started to realize the limitation of LLMs.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T20:59:00Z"
+}

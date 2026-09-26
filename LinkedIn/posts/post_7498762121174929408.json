@@ -1,0 +1,113 @@
+{
+  "activity_id": "7498762121174929408",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498762121174929408/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-27T12:00:00+00:00",
+  "posted_at_hint": "Aug 27",
+  "posted_at_approx": true,
+  "text": "LLM has no common sense when writing RTL\n\nInstead of giving me simple combination logic, it precomputed all the possible inputs into a giant table, then write a one line table look up.\n\nThe scary part, 9 out 10 times, LLM gives me a good combination logic, the 10th time it suddenly goes stupid, give me a giant look up table",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 19,
+  "reposts": 0,
+  "comment_count": 6,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Michał Piszczek",
+        "profile_url": "https://www.linkedin.com/in/michalpiszczek/",
+        "headline": "CTO @ Archdesk | FinTech exit | Ex-hacker | Building AI systems that actually work | AI infrastructure · Security Mechanics · Frontier Shifts · SaaS execution | Physics × Economics × Execution"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:10:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "The 9 out of 10 is what makes it dangerous, not the 10th. A reviewer who has seen nine clean outputs stops reading the tenth as carefully, and a lookup table synthesizes fine in simulation right up until it blows your gate count and timing closure on the actual chip.",
+      "likes": 3,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Nick Belov",
+            "profile_url": "https://www.linkedin.com/in/nick-belov-de/",
+            "headline": "Senior Data Engineer | 12+ YoE | AWS • GCP • PySpark • Kafka • RAG | 🌍 Open to Global Roles"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-05T21:10:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Michał Piszczek just need LLM which check previous LLM answers, etc, etc  😋",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Eyal Hochberg",
+        "profile_url": "https://www.linkedin.com/in/eyal-hochberg-7570b821/",
+        "headline": "Entrepreneur at ARTL.ai"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:10:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "This is why we developed Python to Verilog as an intermediate logical level. The LLM writes in high level and our compiler generates optimized Verilog code according to PPA tradeoff directives.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "kash johal",
+        "profile_url": "https://www.linkedin.com/in/kash-johal-9928401/",
+        "headline": "Chiplets and Advanced Packaging - low cost advance packaging"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:10:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Well its ensuring you are awake and the brain cells are in tip top shape.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Manoj V.",
+        "profile_url": "https://www.linkedin.com/in/mvfpga/",
+        "headline": "Sr. VP | AI/ML FPGA/ASIC HFT Expert |  ex- AMD | ex-SIG | Inventor (14 global patents )"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:10:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "did you tell it to not make mistakes 😂",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mojtaba Bagheri",
+        "profile_url": "https://www.linkedin.com/in/mojtaba-bagheri-85923a57/",
+        "headline": "Daytime engineer, nighttime innovator"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:10:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Add \"don't give me a LUT you dumb twat\" to your prompt.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:10:00Z"
+}

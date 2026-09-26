@@ -1,0 +1,68 @@
+{
+  "activity_id": "7507867413296746497",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7507867413296746497/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-21T12:00:00+00:00",
+  "posted_at_hint": "Sep 21",
+  "posted_at_approx": true,
+  "text": "Why put LinkedIn and Github links in your resume if they are empty?\n\nREJECTED!",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Hassan Asim",
+        "profile_url": "https://www.linkedin.com/in/07hassanasim/",
+        "headline": "EE @ UofS | Prev. ASIC DV @ Siemens"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-22T20:52:00+00:00",
+      "posted_at_hint": "4d",
+      "posted_at_approx": true,
+      "text": "I privated all my old repos at the worst time 😭",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": null,
+          "posted_at_approx": true,
+          "text": "oh... I have your resume in my pile. let me know when you unhide your repos, so I can take a look.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Hassan Asim",
+            "profile_url": "https://www.linkedin.com/in/07hassanasim/",
+            "headline": "EE @ UofS | Prev. ASIC DV @ Siemens"
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": null,
+          "posted_at_approx": true,
+          "text": "Just made it public. It's the main project from my resume that I can share publicly. Most of my stro",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T20:52:00Z"
+}

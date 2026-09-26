@@ -1,0 +1,52 @@
+{
+  "activity_id": "7509131740007948288",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7509131740007948288/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-25T20:52:00+00:00",
+  "posted_at_hint": "Yesterday",
+  "posted_at_approx": true,
+  "text": "I created an After Burner web app game using Muse. Muse is worse than Opus or Sol.\n\nThe fighter jet doesn't look like F-14 at all.\n\nhttps://lnkd.in/gqaRRSBp",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-25T20:52:00+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "It looks like Space Invaders 😀",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-25T20:52:00+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "Blame the source ,:-)",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T20:52:00Z"
+}

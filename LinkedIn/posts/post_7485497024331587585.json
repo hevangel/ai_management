@@ -1,0 +1,21 @@
+{
+  "activity_id": "7485497024331587585",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7485497024331587585/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-21T12:00:00+00:00",
+  "posted_at_hint": "Jul 21",
+  "posted_at_approx": true,
+  "text": "Kimi K3 designed a chip in 48 hours.\n\nAI is very good at copy and paste. Let me take a guess, I bet somewhere in its training data, Kimi had read a Github repo of a similar chip. It is just recalling what it has seen from its weights.\n\nhttps://lnkd.in/gPxN7X2S",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:45:00Z"
+}

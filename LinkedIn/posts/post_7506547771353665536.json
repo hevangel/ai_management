@@ -1,0 +1,68 @@
+{
+  "activity_id": "7506547771353665536",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7506547771353665536/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-17T12:00:00+00:00",
+  "posted_at_hint": "Sep 17",
+  "posted_at_approx": true,
+  "text": "Is it just me, I feel Opus is smarter lately. Maybe Anthropic needs to win back some customers, so they stop nerfing Opus.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Long Chen",
+        "profile_url": "https://www.linkedin.com/in/mr-chen-long/",
+        "headline": "Sr. Silicon Design Engineer at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-19T21:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "same feeling. Especially I tried to use astra and opus5 to generate a document with same prompt . Opus one looks more like logical . Astra one always give me a feeling of AI generated and harder for me to understand.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": null,
+          "posted_at_approx": true,
+          "text": "Long Chen Astra is really good at some new stuff that previous generation LLM can't do at all. For the old st",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Taylor Raney",
+            "profile_url": "https://www.linkedin.com/in/taylor-raney/",
+            "headline": "Project Manager | Director of Recruiting | Operations Manager"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-25T21:05:00+00:00",
+          "posted_at_hint": "1d",
+          "posted_at_approx": true,
+          "text": "Long Chen NOW HIRING: Sr. Specialist, Electrical Engineer – FPGA Design\nHamilton, Ontario, Canada | C$102,000–C$152,000\nFull-Time | On-Site | 9/80 Schedule\nRelocation assistance may be available\n📩Interested or know someone who may be a fit?\nAttach or send resume to: Taylor@Southernssllc.com\nLet's Connect!",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:05:00Z"
+}

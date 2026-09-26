@@ -1,0 +1,21 @@
+{
+  "activity_id": "7463484064893902848",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7463484064893902848/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-22T12:00:00+00:00",
+  "posted_at_hint": "May 22",
+  "posted_at_approx": true,
+  "text": "Conway's law says organizations which design systems are constrained to produce designs which are copies of the communication structure of these organizations.\nJack Dorsey says companies will operate by acting as an \"intelligence layer\" that completely replaces traditional middle management.\nIf we combine Conway + Dorsey, the future of any software system is just a giant AI sitting in the middle with lots of agent skills on the peripheral.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:36:00Z"
+}

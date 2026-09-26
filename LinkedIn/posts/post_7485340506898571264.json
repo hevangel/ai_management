@@ -1,0 +1,37 @@
+{
+  "activity_id": "7485340506898571264",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7485340506898571264/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-21T12:00:00+00:00",
+  "posted_at_hint": "Jul 21",
+  "posted_at_approx": true,
+  "text": "In engineering companies , the budget is usually separated into two buckets:  1) human salary 2) license, server farms, etc. \n\nI wonder which bucket tokens cost will fall into",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": "7485387903229927424",
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-28T21:50:00+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "usually infra, no 2. But if AI who decides the budget, it might be no. 1😀",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

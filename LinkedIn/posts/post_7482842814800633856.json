@@ -1,0 +1,71 @@
+{
+  "activity_id": "7482842814800633856",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7482842814800633856/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-14T12:00:00+00:00",
+  "posted_at_hint": "Jul 14",
+  "posted_at_approx": true,
+  "text": "AI is just computing - transform bits, move bits, store bits, everything else are just technical trade-offs.\n\nThis article is 100% AI generated, but the original 3 tag lines come from my human brain.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "AI Is Just Computing — and Computing Has Only Three Basic Jobs",
+    "url": "https://www.linkedin.com/pulse/ai-just-computing-has-only-three-basic-jobs-horace-chan-zjs8c/"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-28T21:50:00+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "And at its core it has only three logic functions to do all that.\n\nAND, OR and NOT.\n\nAnd, yes that includes memory if you consider that you can build a bi-stable flip-flop with the above.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-28T21:50:00+00:00",
+          "posted_at_hint": "2mo",
+          "posted_at_approx": true,
+          "text": "You only need the NAND gate",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 2mo",
+      "posted_at_approx": true,
+      "text": "NAND reduces to NOT and AND.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

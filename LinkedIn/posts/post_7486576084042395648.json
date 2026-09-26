@@ -1,0 +1,21 @@
+{
+  "activity_id": "7486576084042395648",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486576084042395648/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-24T12:00:00+00:00",
+  "posted_at_hint": "Jul 24",
+  "posted_at_approx": true,
+  "text": "I just explain to my intern his task.\n\nlevel 1 - the intern ran the commands to do X manually\nlevel 2 - the intern writes a shell script to do X\nlevel 3 - the intern uses AI coding agent to vibe code a shell script to do X\nlevel 4 - the intern builds a reusable skill, so that the AI coding agent can generate a shell script to do X on the fly\nlevel 5 - the intern builds a pipeline that can evaluate a reusable skill, which let the AI coding agent generate a shell script to do X on the fly\n\nWe are working on level 5.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:45:00Z"
+}

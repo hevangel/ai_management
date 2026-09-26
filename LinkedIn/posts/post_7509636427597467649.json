@@ -1,0 +1,53 @@
+{
+  "activity_id": "7509636427597467649",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7509636427597467649/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-26T15:52:00+00:00",
+  "posted_at_hint": "5h",
+  "posted_at_approx": true,
+  "text": "Facebook just killed Instagram and Threads by accident\n\nMuse can read and post Instagram and Threads messages. In no time those two places will degen into 100% AI slop",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 4h",
+      "posted_at_approx": true,
+      "text": "Probably useful to build virtual influencers",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-26T17:52:00+00:00",
+          "posted_at_hint": "3h",
+          "posted_at_approx": true,
+          "text": "Job K Joseph but who would fellow the virtual influencers? I will just use AI to read my feed for me",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T20:52:00Z"
+}

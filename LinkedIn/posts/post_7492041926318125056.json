@@ -1,0 +1,21 @@
+{
+  "activity_id": "7492041926318125056",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7492041926318125056/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-08T12:00:00+00:00",
+  "posted_at_hint": "Aug 8",
+  "posted_at_approx": true,
+  "text": "Other than agentic coding and long running tasks, Gemini is good enough for most chatbot style works.\n\nMaybe DeepMind has some AI breakthrough that doesn't need a 2.5T parameters model to write code and run long agentic tasks, that's why they can rent out all those GPU or TPU.\n\nGemini is Cooked but GCP is Cooking https://lnkd.in/gFAnh-RS",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:45:00Z"
+}

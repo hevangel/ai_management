@@ -1,0 +1,21 @@
+{
+  "activity_id": "7469543151452540928",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7469543151452540928/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-07T12:00:00+00:00",
+  "posted_at_hint": "Jun 7",
+  "posted_at_approx": true,
+  "text": "Those who worry about using AI will erode your software development skills, here is my questions for you\n\nWhen was the last time you look inside the implementation of the library that your code calls?\n\nWhat is the difference between using another human's library versus using AI to generate a bespoke library on the spot?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

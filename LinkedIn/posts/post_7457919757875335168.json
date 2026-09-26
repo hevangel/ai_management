@@ -1,0 +1,21 @@
+{
+  "activity_id": "7457919757875335168",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7457919757875335168/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-06T12:00:00+00:00",
+  "posted_at_hint": "May 6",
+  "posted_at_approx": true,
+  "text": "Here is the GPT5.5 version of the Chiro posture analysis app\n\nI have to kick the AI 3 times to get it finish the job.\n\nThe first time it just stop and ask me stupid questions where I explicitly told it DON'T ask me any questions.\n\nThe 2nd time it gave me a mock up without any ML analysis.\n\nThe last time it screwed up some minor run script in docker setup\n\nOn the other than Opus 4.7 can generate the same app in one shot\n\nhttps://lnkd.in/gqk9SVDw\nGitHub - hevangel/posture_health_report_gpt55 (github.com)",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

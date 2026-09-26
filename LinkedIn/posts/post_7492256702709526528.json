@@ -1,0 +1,53 @@
+{
+  "activity_id": "7492256702709526528",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7492256702709526528/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-09T12:00:00+00:00",
+  "posted_at_hint": "Aug 9",
+  "posted_at_approx": true,
+  "text": "I spent $5 on Kimi K3 at Open Router to run a code audit, I am pretty impressed by what it found. It picked up some bugs missed by Opus and Sol.\n\nThen I just run my cheap GLM to implement the fixes.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": "7492335813817634816",
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:45:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "What will happen if you reverse the position, Kimi does coding, Opus/Sol run a code audit? Will it be cheaper because coding is usually longer then audit.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": "7492615576205336576",
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T21:45:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen Opus and Sol come with my kiro subscription",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:45:00Z"
+}

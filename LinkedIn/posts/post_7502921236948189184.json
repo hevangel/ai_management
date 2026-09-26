@@ -1,0 +1,21 @@
+{
+  "activity_id": "7502921236948189184",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7502921236948189184/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-07T12:00:00+00:00",
+  "posted_at_hint": "Sep 7",
+  "posted_at_approx": true,
+  "text": "DVCon AI library reaches v1.0.0, and I submitted a paper to present it in the conference.\n\nThe ironic is whatever architecture I wrote in the paper, guarantee it will be out of date by the time the conference is held next March.\n\nhttps://lnkd.in/g4ijKKSs\n\n#dvcon",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:18:00Z"
+}

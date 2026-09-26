@@ -1,0 +1,21 @@
+{
+  "activity_id": "7505728091198025729",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505728091198025729/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-15T12:00:00+00:00",
+  "posted_at_hint": "Sep 15",
+  "posted_at_approx": true,
+  "text": "What is the best agent harness for LLM?\nMy fully AI-native jr. engineer.   I can just \"prompt\" him/her, then he/she baby sit the real harness for Claude/GPT, verify everything works properly before reporting back to me.\nAt the same time, there are some other engineers (jr. or sr.) makes me wonder why I am wasting my time talking to him/her instead just talking to AI directly myself.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:05:00Z"
+}

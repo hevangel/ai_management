@@ -1,0 +1,37 @@
+{
+  "activity_id": "7477838771443376128",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7477838771443376128/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-30T12:00:00+00:00",
+  "posted_at_hint": "Jun 30",
+  "posted_at_approx": true,
+  "text": "In a status meeting, my junior engineer gave an update on \"we have done XYZ\".   I thought he is the only one assigned on that task, so, I asked him who else is working on that task.  He clarified that \"we\" refer to himself and Claude.\n\nIs it a Gen-Z thing?  I use \"I\" when I talk about me using AI as a tool.  Gen-Z seems to use \"we\" as if AI is another person.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Rob Taylor",
+        "profile_url": "https://www.linkedin.com/in/robtaylor78/",
+        "headline": "Old hand of Open Source. Expert in: - OSS IC design tools, with Open and Proprietary mfg processes - Embedded system engineering with OSS - AI agent creation - Networking - GPU acceleration Open to interesting opps"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-28T21:50:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "I definitle think about claude as another person - they kinda feel like a bright postdoc, who still needs a lot of guidance in real world delivery ;)",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

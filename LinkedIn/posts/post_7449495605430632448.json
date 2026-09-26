@@ -1,0 +1,43 @@
+{
+  "activity_id": "7449495605430632448",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7449495605430632448/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-13T12:00:00+00:00",
+  "posted_at_hint": "Apr 13 (edited)",
+  "posted_at_approx": true,
+  "text": "I visited Kennedy Space Center the week before the launch, I got to see Artmeis up close.   It is a\nSee my photo of Artmeis on the first comment\n#AMDBrandAmbassador",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": null,
+    "author_name": "AMD",
+    "author_profile_url": "https://www.linkedin.com/company/amd/",
+    "posted_at_hint": null,
+    "reshared_text": "Continuing the success of Artemis I, NASA's Artemis II mission marked a major step forward in crewed [space exploration]... Congratulations to NASA - National Aeronautics and Space Administration, its partners, and contractors on reaching an incredible milestone in lunar exploration! (photo credits: NASA/Joel Kowsky, NASA/Kim Shiflett)"
+  },
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": "2026-04-29T21:50:00+00:00",
+      "posted_at_hint": "5mo",
+      "posted_at_approx": true,
+      "text": "(image-only comment: photo of Artemis)",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

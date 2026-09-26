@@ -1,0 +1,83 @@
+{
+  "activity_id": "7506533070070525952",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7506533070070525952/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-17T12:00:00+00:00",
+  "posted_at_hint": "Sep 17 • Edited",
+  "posted_at_approx": true,
+  "text": "The fly brain model is tiny, it can run in my ancient 16G graphic card\nHuman brain is more complex, but it still can easily run with 2000 GB300, much smaller than the largest LLM\nOpenAI and Anthropic should stop building bigger LLM, they should use those GPU to run simulated human brains instead.\nWe all know humans are safe, unless your simulated brain happens to be Neo.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bill Lye",
+        "profile_url": "https://www.linkedin.com/in/wmlye/",
+        "headline": "30+ years of CMOS Mixed-Signal Design"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-19T21:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "Are you volunteering to be uploaded?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-19T21:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Bill Lye that's my plan to become immortal.  Just make sure they don't do it while I am still alive",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Alex B.",
+        "profile_url": "https://www.linkedin.com/in/alex-b-8194705a/",
+        "headline": "Project Director | Technical Director | Chief Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-19T21:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "Can we upload Jerry Springer brain? Take care of yourself and each other. RIP Jerry",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Andrew Rawicz",
+        "profile_url": "https://www.linkedin.com/in/andrew-rawicz-1740761/",
+        "headline": "Professor and founder of Biomedical Engineering at SFU"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-19T21:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "Yes",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:05:00Z"
+}

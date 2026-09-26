@@ -1,0 +1,56 @@
+{
+  "activity_id": "7500251822003998720",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7500251822003998720/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-31T12:00:00+00:00",
+  "posted_at_hint": "Aug 31",
+  "posted_at_approx": true,
+  "text": "My first attempt in writing a philosophy essay collaborating with AI.  Other than my engineering degree, I minored in philosophy.\n\nMy approach writing this essay is me and GPT dialogue on a topic over multiple days, kind of like Socrates having a dialogue with random people on the street of Athens.   Then I ask GPT to turn it into an undergrad level philosophy essay, revise the draft a little bit more.   Then I ask GPT to draw a cover image, revise it a little bit too.\n\nHere is the essay.   If the reaction is good, I am planning to start a new series on AI philosophy.  Not philosophy of AI, but use AI to do philosophy.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Can AI Know Art?",
+    "url": "https://www.linkedin.com/pulse/can-ai-know-art-horace-chan-09wic/"
+  },
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nick Becker",
+        "profile_url": "https://www.linkedin.com/in/nickabecker/",
+        "headline": "Computer Programmer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-05T21:10:00+00:00",
+      "posted_at_hint": "3w",
+      "posted_at_approx": true,
+      "text": "I love it and look forward to reading more articles if you end up doing more. I took an undergraduate art class while I was working on my math and computer science degree. One thing we discussed in class was \"What is art? What is the definition of art?\" I think the definition we were taught was along the lines of \"Art is anything that makes you (a person) feel a certain way.\" You touched on this in your essay - \"A critic might respond that artistic judgment is different because art is essentially human. Art expresses consciousness, emotion, intention, spirit, or cultural meaning. Therefore only a conscious being can truly understand it.\" And then you talked about how chess engines objectively evaluate chess positions. Is a chess position art? I think so. I watch a lot of chess streamers and study a lot of games, and some positions are described as being \"beautiful.\" When a chess engine analyzes a position, it's much more black and white (figuratively). Positions are evaluated as winning or losing, not as being beautiful or not. I absolutely think that AI-generated art is a form of art. What I am not sold on is whether an AI can actually \"know\" art, because AI does not \"feel.\" Thanks for the thought provoking article.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-05T21:10:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Nick Becker well.. I was debating with another human (?) else where that he insist art can only originated from human, precisely on the agruement that art required feeling. I totally side step the argument by removing feeling from the equation.  I am not sure whether LLM can feel anything or not",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:10:00Z"
+}

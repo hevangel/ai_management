@@ -1,0 +1,99 @@
+{
+  "activity_id": "7498605276183445504",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498605276183445504/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-26T12:00:00+00:00",
+  "posted_at_hint": "Aug 26",
+  "posted_at_approx": true,
+  "text": "DON'T use cron inside Claude Code to poll status, it wastes your tokens like burning money.\n\nCron wakes up Claude, sends the full context window, finds nothing happens, and goes back to sleep again.\n\nJust use a bash script and a loop instead",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 1,
+  "comment_count": 5,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Kulwant Singh",
+        "profile_url": "https://www.linkedin.com/in/skkpta/",
+        "headline": "Founder & CEO @ KPTA | 14+ Yrs Semiconductor Alum (Ex-Infineon, Intel, AMD, Qualcomm) | Deep-Tech Innovator & Investor & Collaboration"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:10:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Just to say avoid making habit of AI to take care , leverage AI for hard part to get quick but don't build with dependency attached",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Kulwant Singh humans are lazy",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kulwant Singh",
+            "profile_url": "https://www.linkedin.com/in/skkpta/",
+            "headline": "Founder & CEO @ KPTA | 14+ Yrs Semiconductor Alum (Ex-Infineon, Intel, AMD, Qualcomm) | Deep-Tech Innovator & Investor & Collaboration"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan i won't say lazy , deep analysis is missing cost over time vs blocks assets building",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vansh lata",
+        "profile_url": "https://www.linkedin.com/in/vansh-lata-0909b853/",
+        "headline": "Member of Technical Staff at AMD, Ex Samsung"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:10:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "I also see that  some crons which are already killed, still keep firing stale prompts and claude cannot find a way to kill the pid",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T21:10:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Vansh lata Claude Code needs some real human QA",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:10:00Z"
+}

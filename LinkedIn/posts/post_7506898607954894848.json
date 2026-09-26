@@ -1,0 +1,99 @@
+{
+  "activity_id": "7506898607954894848",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7506898607954894848/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-18T12:00:00+00:00",
+  "posted_at_hint": "Sep 18",
+  "posted_at_approx": true,
+  "text": "I ban discussion in email thread.\nThe reason is simple, AI can't read everyone's email.\nIf people need to discuss, use Confluence comments or Github. Late comers to the discussion can quickly catch up with the help of AI.\nIf AI can't read it, it doesn't exist",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 5,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-19T21:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "But it can read email replies received by you",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-19T21:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Job K Joseph But I can't forward every old email to the new comers someone forward one fork of the email thread to next week.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Raghuraman R",
+        "profile_url": "https://www.linkedin.com/in/rcube/",
+        "headline": "Project & Collateral/Workforce management handling technical challenges, with > two decades of hands-on Pre/Post Silicon DFx across x86/ARM/RISC-V cores & NIC/NOC fabric for 3DICs with A(G)I/ML leverage including HVM"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-19T21:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "Amused that people are still using *emails* for discussion! Not just #teams even with #autodelete features enabled in #outlook, email discussions are not available even for posterity - it is actually harder to look or even search message 1/2 months ago! Yes, #confluence and #github is where I see 'active discussions'. Emails are for #management, not for #engineers 🤐",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-19T21:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Raghuraman R Unfortunately, I am an engineering manager. I live in both worlds. Yes. I am trying to force the o",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Raghuraman R",
+            "profile_url": "https://www.linkedin.com/in/rcube/",
+            "headline": "Project & Collateral/Workforce management handling technical challenges, with > two decades of hands-on Pre/Post Silicon DFx across x86/ARM/RISC-V cores & NIC/NOC fabric for 3DICs with A(G)I/ML leverage including HVM"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-20T21:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Horace Chan I am in the same boat as well. Not sure what you mean by 'in the name of AI'. Afaik, there are micro technical and architectural decisions/commands/hacks which can be only known if you have skin the game. 'Macro' or 'toplevel' is what we put in ppts!\nhttps://www.linkedin.com/pulse/bespoke-aiml-gaslighting-degpt-raghuraman-r-7x7vc/\nhttps://www.linkedin.com/pulse/semiconductor-40-aiml-raghuraman-r/\nhttps://www.linkedin.com/pulse/aiml-onlineofflineon-off-raghuraman-r/\nhttps://www.linkedin.com/pulse/scalable-dft-ipsoc-raghuraman-r/\nThere are cases for online/offline AI but irrespective of it, #roi is not as big as the speculation (#trillion). Especially in the last link ('scalable dft'), since I was both the architect and the implementer, I know how/why say #tessent cannot be used and how even in #dftmax I had to hack the spf to 'make it possible'. #eda companies know or better realize that their 'reference flow' is just reference, *we decide* how/what is relevant and check how 'good' those tools are 'on ground'🌎🌍🌏 #tsmc #samsung #intel #cadence #siemens #synopsys #meta #microsoft #amazon #apple #netflix #google #baidu #alibaba #tencent",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:05:00Z"
+}

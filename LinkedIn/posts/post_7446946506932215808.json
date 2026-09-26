@@ -1,0 +1,53 @@
+{
+  "activity_id": "7446946506932215808",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7446946506932215808/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-06T12:00:00+00:00",
+  "posted_at_hint": "Apr 6",
+  "posted_at_approx": true,
+  "text": "Short SNPS and CDNS?\n\nhttps://lnkd.in/dX84D3-J\nBuilding an Open-Source Verilog Simulator with AI: 580K Lines in 43 Days - Normal Computing (normalcomputing.com)",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 14,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ronan Barzic",
+        "profile_url": "https://www.linkedin.com/in/ronan-barzic-86a3b62/",
+        "headline": "Director of IC design at ONiO"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-30T21:50:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "The link provided in the arcticle (https://github.com/thomasnormal/circt) is not valid",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": null,
+          "posted_at_approx": true,
+          "text": "(mentioning Ronan Barzic) maybe it is AI slop vaperware?",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

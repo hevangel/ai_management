@@ -1,0 +1,159 @@
+{
+  "activity_id": "7507865485175230464",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7507865485175230464/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-21T12:00:00+00:00",
+  "posted_at_hint": "Sep 21",
+  "posted_at_approx": true,
+  "text": "I am screening resumes lately, I found many students are hiding the fact that they code with AI in their github repo by putting CLAUDE.md in gitignore.\nAre the school still teach using AI to write code equals cheating these days?\nI would know more about whether the student is a good programmer by looking at the commit history of CLAUDE.md or AGENTS.md",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 25,
+  "reposts": 0,
+  "comment_count": 9,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "James Carlson",
+        "profile_url": "https://www.linkedin.com/in/james-carlson-7738a5434/",
+        "headline": "Computer Information Science student at Washburn University"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-24T20:52:00+00:00",
+      "posted_at_hint": "2d",
+      "posted_at_approx": true,
+      "text": "Yeah, I saw a person who is a software engineer who had 5 projects in his GitHub repo all of which had 3-4 commits and on 3 of his projects he had these HUGE 200 line .gitignore files with comments that included Claude.md, and one of his projects didn't even have a README. I really like problem solving through these things but I feel like I'm being left behind by people who just use AI to make everything for themselves. I use AI for my projects but I only make it act like a senior developer and make sure that I am not copying code and redirecting it to not give me code if it does gives me code.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-25T20:52:00+00:00",
+          "posted_at_hint": "1d",
+          "posted_at_approx": true,
+          "text": "James Carlson if you hide CLAUDE.md, other people can't fork your repo and make changes using AI.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Chadi Jmai",
+        "profile_url": "https://www.linkedin.com/in/chadi-jmai-878275109/",
+        "headline": "Engineering the Future: Driven by Ambition and Innovation"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-22T20:52:00+00:00",
+      "posted_at_hint": "4d",
+      "posted_at_approx": true,
+      "text": "I think it goes beyond what schools teach. Students often want to use AI, but they also want full credit for the outcome. That creates a tension around authorship: when does AI-supported work still count as \"my work\"? That question is probably more useful than simply asking whether AI use is cheating",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-25T20:52:00+00:00",
+          "posted_at_hint": "1d",
+          "posted_at_approx": true,
+          "text": "Chadi Jmai I use AI to write 200% of my code (yeah, I have to delete half of the sloppy code) Those code are all my code. In fact I even check in the chat session so my instructions that I have to AI is in the record history",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Chase Coble",
+        "profile_url": "https://www.linkedin.com/in/chase-coble-38a218242/",
+        "headline": "Security Analyst | Python Automation | Adversarial Security | MPS Cybersecurity 2027"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-22T20:52:00+00:00",
+      "posted_at_hint": "4d",
+      "posted_at_approx": true,
+      "text": "My advanced programming class actually is teaching us how to use Claude code responsibly. I think its refreshing.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Manpreet Singh",
+        "profile_url": "https://www.linkedin.com/in/manpreet17/",
+        "headline": "AI Engineer | Founder, Singh Labs | Automating business workflows that nobody has time to fix"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-25T20:52:00+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "same here with the commit history thing. most lines in mine got added right after something went wrong. that file is basically a diary of mistakes, which is exactly why it tells you more than the code does. hiding it is the opposite signal honestly",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Hung Cheung Chan",
+        "profile_url": "https://www.linkedin.com/in/hung-cheung-chan/",
+        "headline": "Knowledge + workflow + conversation+ Governance as hypergraph Staff+ AI Platform Engineer/Tech Tead"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 4d",
+      "posted_at_approx": true,
+      "text": "I think it is simply the same as abstracting you are using vscode or eclipse level of hiding... 😅 th\nIt is just a matter of practise indeed.....",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Tamara Atanasoska",
+        "profile_url": "https://www.linkedin.com/in/tamaraatanasoska/",
+        "headline": "Doctoral Researcher ML/NLP | Software Engineer | OSS Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": null,
+      "posted_at_approx": true,
+      "text": "Absolutely! If a student submits a repo that is the first thing I'd open.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mehtab Shah",
+        "profile_url": "https://www.linkedin.com/in/smehtabshah/",
+        "headline": "ML/AI Engineer | Data Scientist | Agentic AI"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": null,
+      "posted_at_approx": true,
+      "text": "I agree, being able to create an efficient md file is rather a skill to demonstrate and not somethin",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T20:52:00Z"
+}

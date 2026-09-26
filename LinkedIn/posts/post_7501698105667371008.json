@@ -1,0 +1,144 @@
+{
+  "activity_id": "7501698105667371008",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7501698105667371008/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-04T12:00:00+00:00",
+  "posted_at_hint": "Sep 4",
+  "posted_at_approx": true,
+  "text": "What if instead of writing UVM/Coco testbench, we just ask the two different AI implement the RTL, one in SystemVerilog and one in VHDL, creating two separate copies of the same design, then just use formal to proof they are functional equivalent.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 1,
+  "comment_count": 8,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dan B.",
+        "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+        "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-05T21:18:00+00:00",
+      "posted_at_hint": "3w",
+      "posted_at_approx": true,
+      "text": "I don't think writing it in both Verilog and vhdl and proving they are equivalent, proves anything about the functionality of the design?",
+      "likes": 9,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Stanislav Levarsky",
+            "profile_url": "https://www.linkedin.com/in/stanislav-levarsky-794b85414/",
+            "headline": "CEO at Equinibrium"
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 3w",
+          "posted_at_approx": true,
+          "text": "Agree with Dan B.. Equivalence just proves A and B match each other, not that either implements the spec correctly. Two AI models could misread the same requirement identically and still \"pass.\" To validate functionality you'd need a third reference: formal properties derived independently from the spec, proven against both implementations, not just proving them against each other. The two-implementation trick is still a useful bug-diversity filter, but a match alone isn't correctness.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-05T21:18:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "the formal assertions is part of the scaffolding when the AI write the SV and VHDL code. Even bring in the 3rd formal properties, it still doesn't solve what if AI misinterpreted the spec problem. Your formal may be wrong itself.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-05T21:18:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "if 2 is not enough, ask the 3rd AI to write a HLS implement too",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Dan B.",
+            "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+            "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-05T21:18:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "still not enough. You need something that tests and verifies it. Not that does it again and verifies they are the same. You can have as many copies as you want, all with the same bugs. Would you have 10 engineers do the same design, verify they are the same, prove them equivalent, and assume they are correct? What if the spec has specified the active state of a signal incorrectly? All the engineers followed that and you have 10 designs that are all incorrect.",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 3w",
+          "posted_at_approx": true,
+          "text": "You are asking a philosophical question, what exactly is a bug?\n\nSay it is a USB spec, you ask AI implement both the host and the device. If the host and device can talk with each other (assuming all numbers are good), it is NOT a bug even thought they both intrepreted the spec the same wrong way. (say a message code table is off by 1). The logical solution is actually update the spec to match what is already implemented.\n\nIt actually happened to my old company, we OWN a spec in a niche market, our device can talk to each other, everything works fine, no performance lose, actually I think it is a slightly better db than the spec, so we just update the spec instead.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Erik Jessen",
+        "profile_url": "https://www.linkedin.com/in/erik-jessen-ba2355/",
+        "headline": "Principal Investigator at The University of North Carolina at Chapel Hill"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-05T21:18:00+00:00",
+      "posted_at_hint": "3w",
+      "posted_at_approx": true,
+      "text": "In other words, guaranteeing that they're \"bug for bug\" compatible.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "It is not a bug, it is a feature",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:18:00Z"
+}

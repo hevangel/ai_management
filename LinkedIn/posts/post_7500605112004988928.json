@@ -1,0 +1,21 @@
+{
+  "activity_id": "7500605112004988928",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7500605112004988928/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-01T12:00:00+00:00",
+  "posted_at_hint": "Sep 1",
+  "posted_at_approx": true,
+  "text": "If you have admin access to your github org, Claude Code will silently (probably not silent, but I never bother to read its long winded output) use your admin right to work around any git workflow issues. Then when other users run the git workflow you built, nothing works.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 1,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:10:00Z"
+}

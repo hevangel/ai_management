@@ -1,0 +1,21 @@
+{
+  "activity_id": "7503240101951524864",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7503240101951524864/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-08T12:00:00+00:00",
+  "posted_at_hint": "Sep 8",
+  "posted_at_approx": true,
+  "text": "Why I said Claude Code itself is a giant AI slop?  It doesn't update its built-in release note.   The latest version of Claude Code is 2.1.265, but the built-in release note is still at 2.1.191\n\nIn the pre-AI era, if a software always missing the release note, you know you can't trust that piece of code.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T20:59:00Z"
+}

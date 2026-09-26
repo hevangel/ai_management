@@ -1,0 +1,282 @@
+{
+  "activity_id": "7502613937809588225",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7502613937809588225/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-06T12:00:00+00:00",
+  "posted_at_hint": "Sep 6",
+  "posted_at_approx": true,
+  "text": "Can AI read a spec and build a chip?\n\nI ran an experiment, asked 7 AIs to build 74181 with UVM TB and formal proves, then I cross check them with LEC.\n\nOnly Opus and Sol are fully equivalent on LEC.\n\nSonnet, Luna, GLM got the ALU functions right, but implemented the auxiliary pins wrong.\n\nDeepseek and Kimi are functionally incorrect\n\nNote that on all 7 AIs, the testcase passing rate and coverage are 100%\n\nWill add Astra and Fable to this experiment, stay tuned.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 61,
+  "reposts": 1,
+  "comment_count": 17,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-12T21:18:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "What if the spec architect has invented a new interface protocol? How would it fare? How would it implement the FSM required for the same?",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "4004 is my next experiment, stay tuned. At some point, the AI will be building the ISA bus.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Asif Hasan",
+        "profile_url": "https://www.linkedin.com/in/asifhr8820112/",
+        "headline": "Senior Engineer @Qualcomm | DV WiFi PHY | IIT(BHU) Varanasi"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-12T21:18:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "Where did you get the golden 74181 RTL for LEC?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "I don't have it. Just compare 7 AI implemented RTL with each other. Majority rules.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Asif Hasan",
+            "profile_url": "https://www.linkedin.com/in/asifhr8820112/",
+            "headline": "Senior Engineer @Qualcomm | DV WiFi PHY | IIT(BHU) Varanasi"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "I see this as AI RTL compared against each other, there is not external anchor to specification. To establish AI can read specification and build RTL, it needs to be compared to golden RTL.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "golden RTL doesn't exist. It is already exist, LLM will just cheat",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-12T21:18:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "Ctrl-c ctrl-v? Can it build something that hasnt been built before",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "Yes. It can build super stupid thing that I come up with that no one would waste their engineering time to build in the past when typing cost is expensive",
+          "likes": 2,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Hin chun",
+        "profile_url": "https://www.linkedin.com/in/hin-c-a1b6a1112/",
+        "headline": "Design verification engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-12T21:18:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "prompt to 7 AIs are same?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "Hin chun Yeap. Exactly the same, minimal here is the spec. Go build it. No special skill. Just 3 line instructions with all the docs of the tools",
+          "likes": 2,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jatin Bansal",
+        "profile_url": "https://www.linkedin.com/in/jatin-bansal-a03781147/",
+        "headline": "Sr. Safety Architect at NVIDIA | Securing Next-Gen SoCs | BITS Pilani Alum"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 2w",
+      "posted_at_approx": true,
+      "text": "Interesting",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mika Nyström",
+        "profile_url": "https://www.linkedin.com/in/mika-nystr%C3%B6m-b99b76/",
+        "headline": "Chip architect"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-12T21:18:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "74181 is just a simple combinational circuit. I'm not surprised that went well. It's a really tiny example though.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "4004 is next",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Mika Nyström",
+            "profile_url": "https://www.linkedin.com/in/mika-nystr%C3%B6m-b99b76/",
+            "headline": "Chip architect"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "4004 is a bit oddball isn't it? Try a 6502? There's a lot more about that online. I asked Claude to make me a 6502 a few months ago, and that went pretty well. It was coding against known software models and could validate using easily available and well documented toolchains...",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "4004 (1971) , 6502 (1975)\n\n6502 is more complex than 4004. After I get 4004 working, 6502 is next.\n… Coding against a software model is just reverse distilling, even a dumb Sonnet 4.8 can do it 3 months ago. It is a solved problem.\n\nThe only think I gave the AI is the spec, the documents of the tools, textbook, nothing else. No skill, no special knowledge from real human hardware engineer. It is the same thing I would give to an human intern.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Chaitanya Nagisetty",
+        "profile_url": "https://www.linkedin.com/in/chaitanya-nagisetty-87176919a/",
+        "headline": "Senior Design Verification Engineer at Sevya Multimedia ||HBM3 || IP VERIFICATION || UVM || SV || VERILOG || DDR5 || AMBA (AHB,AXI,APB) || ASIC VERIFICATION"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 2w",
+      "posted_at_approx": true,
+      "text": "The things if it's decoding the spec in correct way, can we it able to start implement the coding part with our set of defined rules and I wanted to know how much percentage your are confident in decoding a spec as it may a long pages, so these need to be interesting area ....if the overall context is good, the foundation and building is good...👍",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Shilpa Gaur",
+        "profile_url": "https://www.linkedin.com/in/shilpagkanoriacollege/",
+        "headline": "Summer Intern (AI- LLM) @ IIT Jammu"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-12T21:18:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "#following",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:18:00Z"
+}

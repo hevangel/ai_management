@@ -1,0 +1,40 @@
+{
+  "activity_id": "7504065734101143552",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7504065734101143552/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-10T12:00:00+00:00",
+  "posted_at_hint": "Sep 10",
+  "posted_at_approx": true,
+  "text": "I chat with AI about philosophy, then turn the dialog into a college level essay\n\nIn this inquiry, I asked exactly question the natural of writing a philosophy essay in the AI-era.\n\nIf I truly understand the essay, I can defense it vobally, I can carry on the research with the help of AI, does it matter if the essay isn't 100% come from my brain?",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Who Is Thinking? Artificial Intelligence, Authorship, and the Purpose of Philosophy",
+    "url": "https://www.linkedin.com/pulse/who-thinking-artificial-intelligence-authorship-purpose-horace-chan-lx7ic/"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": "7504115762438000640",
+      "author": {
+        "name": "Kempton Lam",
+        "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+        "headline": "founder & owner at KemptonTestLab"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-12T20:59:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "interesting attempt. Few days ago, I put Albert Einstein, David Hilbert, and Richard Feynman, and someone else (?) in a roadtrip and let them talk among themselves about some topic I forgotten. Quick fascinating a chat.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T20:59:00Z"
+}

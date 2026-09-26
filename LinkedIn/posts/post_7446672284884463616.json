@@ -1,0 +1,21 @@
+{
+  "activity_id": "7446672284884463616",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7446672284884463616/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-05T12:00:00+00:00",
+  "posted_at_hint": "Apr 5",
+  "posted_at_approx": true,
+  "text": "The context database you feed into the AI has 4 layers, think of as cache layers, but the saving is not only latency, but also tokens.\n\nlevel 0 - public or corporate data source, everything is out there, you rely on Agentic search, whatever variation of RAG to fetch relevant data\nlevel 1 - links to level 0, but you or your AI curate only the useful and correct data.  Data becomes information.\nlevel 2 - automated AI distilled knowledge, summary, graph relations from level 1.  Those knowledge are at your fingertips, but not yet inside your brain.\nlevel 3 - your own output, writings, spec, code, skill.  it doesn't matter whether you do it by hand or with help of AI, the key is this is the external dump of your own brain state.  How you can tell AI what you know and what you don't know.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

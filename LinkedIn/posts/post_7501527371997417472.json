@@ -1,0 +1,37 @@
+{
+  "activity_id": "7501527371997417472",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7501527371997417472/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-03T12:00:00+00:00",
+  "posted_at_hint": "Sep 3",
+  "posted_at_approx": true,
+  "text": "The danger of having the same LLM read the spec, write the implementation plan, testplan and formal plan within the same context window in the same session.\n\nThe LLM mis-interpreted a line in the spec, but the RTL, the TB and the assertions all agree with each other, so everything passed, yet the design is wrong.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Artemios Diakogiannis",
+        "profile_url": "https://www.linkedin.com/in/artemios-diakogiannis-3635b827/",
+        "headline": "Lead Principal Verification Engineer - Verification Domain TL at Infineon Technologies"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-05T21:18:00+00:00",
+      "posted_at_hint": "3w",
+      "posted_at_approx": true,
+      "text": "Four eyes principle.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:18:00Z"
+}

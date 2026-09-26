@@ -1,0 +1,21 @@
+{
+  "activity_id": "7464010343539953664",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7464010343539953664/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-23T12:00:00+00:00",
+  "posted_at_hint": "May 23",
+  "posted_at_approx": true,
+  "text": "Every repo should have these markdown files\nAGENTS.md / CLAUDE.md - instructions for the AI\nREADME.md - easy to read for humans, who don't need to know the details\nCONTRIBUTING.md - instructions for the developer\nsession_history/<date>-<slug>.md - extract your conversation with AI into a prompt to reproduce your commit\nand yes - humans are banned from writing code by hand, only AI is allowed to edit anything",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T21:36:00Z"
+}

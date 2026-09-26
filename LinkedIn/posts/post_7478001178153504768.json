@@ -1,0 +1,37 @@
+{
+  "activity_id": "7478001178153504768",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7478001178153504768/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-01T12:00:00+00:00",
+  "posted_at_hint": "Jul 1",
+  "posted_at_approx": true,
+  "text": "Github Copilot reset the tokens on June 30, but it won't charge you for the next month until Jul 2nd.\n\nI finished using up all my tokens tonight, then cancel my subscription, so I don't have to pay for the next month.\n\nYou just need to have 2 Copilot accounts and alternate using each of them every other month, so that you can double your tokens for the same price.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 1,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Saad Siddiqui",
+        "profile_url": "https://www.linkedin.com/in/saadsiddiqui02/",
+        "headline": "hardware accelerators | inference chips| From Algorithms to Circuits | RISC-V and VLSI| FPGA/ASIC | Educator"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-28T21:50:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "the srategies we use for tokens! Great idea!",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

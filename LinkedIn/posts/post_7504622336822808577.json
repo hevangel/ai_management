@@ -1,0 +1,68 @@
+{
+  "activity_id": "7504622336822808577",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7504622336822808577/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-12T12:00:00+00:00",
+  "posted_at_hint": "Sep 12",
+  "posted_at_approx": true,
+  "text": "We need to have new kind of software that can self heal with AI. The AI is part of the software deliverable.\n\nIn pre-AI era, you write the code, test, build and ship. Then the software suppose to work flawlessly in the user's hand, otherwise it is a bug\n\nWith AI, we can ship a software that is mostly right, if it sees an edge case it is not tested before in the user environment, call AI to fix the code on the fly.\n\nWe can say, it is NOT a bug, it is a feature.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": "7505084247825633280",
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-19T20:59:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "As long as it can pay for itself!",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": "7505094314461503488",
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-19T20:59:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Job K Joseph BYOT",
+          "likes": 12,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "J-Wing Teh",
+        "profile_url": "https://www.linkedin.com/in/j-wing-teh-a0974a39/",
+        "headline": "🟥 AMD Brand Ambassador | IP Engineering Site Lead | Senior Director of Silicon Design Engineering at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-19T20:59:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "This is an interesting thought. It is like an always on software application engineer tied to the release.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T20:59:00Z"
+}

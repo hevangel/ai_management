@@ -1,0 +1,37 @@
+{
+  "activity_id": "7452748223296770048",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7452748223296770048/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-22T12:00:00+00:00",
+  "posted_at_hint": "Apr 22",
+  "posted_at_approx": true,
+  "text": "You don't need Opus 4.7 or GPT-5.4 for everything.   Opensource model like Gemma 4 is good enough for many easier tasks.  Running LLM on your own hardware is good enough for many use cases, especially when you are serving external users who don't pay.   Why give them the best model if they are not paying?\n\n#AMDBrandAmbassador\nAI at the Edge: S3 E2 (youtube.com)",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Michael Chan",
+        "profile_url": "https://www.linkedin.com/in/michael-kh-chan/",
+        "headline": "Security Engineer @ Clarity | AI Security | AppSec | OSCP, OSWE, OSEP"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-29T21:50:00+00:00",
+      "posted_at_hint": "5mo",
+      "posted_at_approx": true,
+      "text": "Just serve free Gemini keys to the non-paid users, save your electricity bill too!",
+      "likes": 2,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:50:00Z"
+}

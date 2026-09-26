@@ -1,0 +1,67 @@
+{
+  "activity_id": "7486845184157077504",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486845184157077504/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-25T12:00:00+00:00",
+  "posted_at_hint": "Jul 25",
+  "posted_at_approx": true,
+  "text": "What level are you at?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nick Becker",
+        "profile_url": "https://www.linkedin.com/in/nickabecker/",
+        "headline": "Computer Programmer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T21:45:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Level 5: Stopped working and started enjoying life 😂",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Artemios Diakogiannis",
+        "profile_url": "https://www.linkedin.com/in/artemios-diakogiannis-3635b827/",
+        "headline": "Lead Principal Verification Engineer - Verification Domain TL at Infineon Technologies"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-28T21:45:00+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "Level 3 but keep optimistic for next level. 😀",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": null,
+      "posted_at_approx": true,
+      "text": "still level 2",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T21:45:00Z"
+}

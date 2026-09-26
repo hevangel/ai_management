@@ -1,0 +1,53 @@
+{
+  "activity_id": "7502755632329129984",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7502755632329129984/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-07T12:00:00+00:00",
+  "posted_at_hint": "Sep 7",
+  "posted_at_approx": true,
+  "text": "AI bubble peak market research, I ask everyone I come across on how much money their companies spend on AI. Here are two new random data point\n\n1. A local college, with 1000 staff, they have M365 Copilot subscription for a while, just introducing Claude, monthly subscription. Most staff are still using the chat based AI\n\n2. A med size real estate company, Claude monthly subscription, the workers there just starting to learn how to automate their Excel and emails.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-12T21:18:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "it's the part of learning curve. We are still in the hype cycle.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-12T21:18:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "I think we are still at 1998, not yet 1999",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T21:18:00Z"
+}
