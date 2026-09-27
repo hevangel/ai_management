@@ -1,0 +1,266 @@
+{
+  "activity_id": "7496686479511797760",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496686479511797760/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-21T12:00:00+00:00",
+  "posted_at_hint": "Aug 21",
+  "posted_at_approx": true,
+  "text": "There are many AI chip design EDA startups? Most of them are so secretive.\n\nIf they are as good as they claimed, why don't they design some classic chips like 4004 or 8086 in a public GitHub repo, show the world the true power of their tools. Even better, they can record the run on Youtube, so the potential users know exactly what they are getting.\n\nIf they are afraid that their secret sauce will get copied away from a YouTube video, are they really building a real product with a real moat?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 45,
+  "reposts": 1,
+  "comment_count": 16,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mojtaba Bagheri",
+        "profile_url": "https://www.linkedin.com/in/mojtaba-bagheri-85923a57/",
+        "headline": "Daytime engineer, nighttime innovator"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Startup ecosystem has become a joke ... it's now only about fame and money. I have seen that the founders of many of these startups don't even have a background in IC design. It is a joke.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Mojtaba Bagheri crypto startups from a few years ago is much worse",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Rohil Khare",
+        "profile_url": "https://www.linkedin.com/in/rohil-khare/",
+        "headline": "Founder @ YC S25 | RL Researcher | AWS MLE Ops"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Lets do it! We will Open source it ourselves! Send us the spec at founders@sigmanticai.com !",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Rohil Khare start with 4004",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jeremy Ralph",
+        "profile_url": "https://www.linkedin.com/in/jeremyralph/",
+        "headline": "Principal Verification Engineer at Microsoft"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "I've yet to see any \"real reason to believe\" from AI EDA startups. Models from Anthropic and OpenAI can to chip design tasks amazingly well, no need for special EDA AI tools. Tools on top of AI for EDA, whether in-house or commercial just seem like bloat that get in the way when a good engineer can get the the models to do what they want",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dr. Max Birtel",
+        "profile_url": "https://www.linkedin.com/in/dr-max-birtel/",
+        "headline": "CRO | Building the Formal Verification sign-off partner you can trust with your critical IP blocks | Formal Verification Enthusiast"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "I would argue that you can build a product, but I also asked myself the question about the moat. If it all runs with the same LLM in the background, then a lot of the moat will be about usability, stability and how well expert/process knowledge is being guided by it.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Rahul Bhagwat",
+        "profile_url": "https://www.linkedin.com/in/rahul-bhagwat-772510184/",
+        "headline": "Designing chips and chip design software"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "openada does something like this for their analog assistant, which is kinda cool https://www.youtube.com/watch?v=lKj8TV-Jyy0",
+      "likes": 3,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Eyal Hochberg",
+        "profile_url": "https://www.linkedin.com/in/eyal-hochberg-7570b821/",
+        "headline": "Entrepreneur at ARTL.ai"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1mo",
+      "posted_at_approx": true,
+      "text": "Actually that's a good idea. But the 4004 is not a fair example, you suggest it because it is very old so it is simple in theory. In practice processors are an extremely complex chip design problem for agentic flows, because it is not only the rtl but also the sw and perhaps tools on top of that. Some startups showed end to end riscv cores but the entire riscv stack is available online. My point is that sharing Verilog designs as open source to show AI EDA capability is a real good idea but CPU chips are a high bar to start with.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Eyal Hochberg oh.. reimplement the whole 4004 SW stack in Rust too. Reimplement in Rust seems pretty easy in the software world, everything got ported to Rust these days",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Eyal Hochberg",
+            "profile_url": "https://www.linkedin.com/in/eyal-hochberg-7570b821/",
+            "headline": "Entrepreneur at ARTL.ai"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan challenge accepted 😎",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Eyal Hochberg",
+            "profile_url": "https://www.linkedin.com/in/eyal-hochberg-7570b821/",
+            "headline": "Entrepreneur at ARTL.ai"
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan regardless I'll be happy to show you our agentic flow, we're not so secretive",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "kash johal",
+        "profile_url": "https://www.linkedin.com/in/kash-johal-9928401/",
+        "headline": "Chiplets and Advanced Packaging - low cost advance packaging"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "The answer is obvious isnt it. Not ready as a product. AI is alreadt assisting experts do better. But thats not a product you can license with a nice monthly fee.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "kash johal a more existential question, is selling software with a monthly fee even a viable business model in the future?",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Amir Mabhout, PhD",
+        "profile_url": "https://www.linkedin.com/in/amirmabhout/",
+        "headline": "Co-founder Simra: On-prem Agent for chip design teams, RL model training for IPs - PhD in Analog/Mixed Signal, German Citizen, Born in Iran (Islamic republic is a terrorist state and Iranians want it gone.)"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Simra autnomous design team have been streaming since 600 hours: https://www.twitch.tv/amirmabhout (been on holidays for a week, so not sure where they are at now) Its showcasing an agent team + OpenADA plugin toward a real tapeout. amirmabhout - Live on Twitch twitch.tv",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "George White",
+        "profile_url": "https://www.linkedin.com/in/george-white-65a829279/",
+        "headline": "PolyLM"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1mo",
+      "posted_at_approx": true,
+      "text": "I built a pure analog crossbar memristor array architecture simulation thats modeled with a First-principles multi-physics co-simulation. Patent pending. It has been tested for failure for months and maintains it's benchmarks. It destroys gpu. Gdsii tapeout ready. Hope to talk with University of Michigan about a tapeout. Solid risk.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Rakshit Mishra",
+        "profile_url": "https://www.linkedin.com/in/rakshitmishra9695/",
+        "headline": "Building EasyChip | Digital Twin & Energy System Analyst | VLSI Design | Semiconductor Research"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1mo",
+      "posted_at_approx": true,
+      "text": "Challenge taken! Check out EasyChip",
+      "likes": 2,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T22:40:00Z"
+}

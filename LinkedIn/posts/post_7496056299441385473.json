@@ -1,0 +1,21 @@
+{
+  "activity_id": "7496056299441385473",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496056299441385473/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-19T12:00:00+00:00",
+  "posted_at_hint": "Aug 19 • Edited",
+  "posted_at_approx": true,
+  "text": "llm-wiki is OUT, llm-expert-system is IN\n\nWhy get the LLM write wiki pages when it can write a good old fashion expert system in Prolog, CLIPS, Z3 and Clingo?\n\nI learnt expert system in my AI class 30 years ago. Do they still teach expert system in school these days?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T22:40:00Z"
+}

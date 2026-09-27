@@ -1,0 +1,83 @@
+{
+  "activity_id": "7494108763327504384",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494108763327504384/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-14T12:00:00+00:00",
+  "posted_at_hint": "Aug 14",
+  "posted_at_approx": true,
+  "text": "Here is how school should teach in the AI era. You are REQUIRED to use AI to do everything. Here is the catch, the school provides you the AI platform and it logs your session history. You are graded based on both of your session history and the final result.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Kempton Lam",
+        "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+        "headline": "founder & owner at KemptonTestLab"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:55:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Interesting approach. I won't go as far as REQUIRED but definitely I changed my mind a ton and now think teachers should welcome the use of AI but all uses are required to document and be \"graded based on both of their session history and the final result.\" PLUS Notes of special insights that they came to realization DURING their exchange with the LLMs.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Santosh Ahuja",
+        "profile_url": "https://www.linkedin.com/in/santoshnahuja/",
+        "headline": "Engineering Executive | AI Infrastructure · GPU/Accelerator Systems · Distributed Systems · Silicon & Hardware-to-Cloud"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:55:00+00:00",
+      "posted_at_hint": "1mo (Edited)",
+      "posted_at_approx": true,
+      "text": "I would change nothing about our education except for making the use of AI illegal. Graduate students may use AI for research projects. Premature dependence on AI, impedes the development of human intelligence.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nick Becker",
+        "profile_url": "https://www.linkedin.com/in/nickabecker/",
+        "headline": "Computer Programmer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:55:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Sounds kinda dystopian. Why do you think this approach is a good idea? Genuinely curious.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:55:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Unless you ban take home assignments, there is no practical way to prevent kids cheat using AI. Might as well fight magic with magic. When you finish school, get into the workforce, you are using AI anyways. There is no going back to do things slowly by hands",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T22:55:00Z"
+}

@@ -1,0 +1,21 @@
+{
+  "activity_id": "7491182762410786817",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7491182762410786817/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-06T12:00:00+00:00",
+  "posted_at_hint": "Aug 6",
+  "posted_at_approx": true,
+  "text": "Just some random idea, totally unrefined.\nThe way we divide up work in Silicon design is not suitable for AI. We turn spec into design docs, docs into architecture plan, implementation plan and test plan. Finally we turn the plans into code.\nWe have different humans or teams of humans working on each step. But it is an open end at each step. There is no way for an AI agent to close the loop at each step.\nWe should divide the work into thin vertical slices, one human, or one team or one agent owns the whole spec to code flow end to end. This way, AI can do what it is good at, keep looping until it gets a binary pass/fail result",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T22:55:00Z"
+}

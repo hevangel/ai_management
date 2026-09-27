@@ -1,0 +1,37 @@
+{
+  "activity_id": "7488090537066016768",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488090537066016768/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-28T12:00:00+00:00",
+  "posted_at_hint": "Jul 28",
+  "posted_at_approx": true,
+  "text": "Say NO to AI, hello punch card",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nick Becker",
+        "profile_url": "https://www.linkedin.com/in/nickabecker/",
+        "headline": "Computer Programmer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-29T01:36:00+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "Yes! Bring back punch cards and let's revitalize the lost art of desk checking.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T01:36:00Z"
+}

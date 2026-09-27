@@ -1,0 +1,328 @@
+{
+  "activity_id": "7496690765893357568",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496690765893357568/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-21T12:00:00+00:00",
+  "posted_at_hint": "Aug 21",
+  "posted_at_approx": true,
+  "text": "Hardware engineers are NOT so safe from AI after all.\n\nGPT 5.6 Sol was able to one shot a 74181 in 45 minutes for $35. It comes with an implementation plan, test plan, formal plan, UVM TB, formal assertions and 100% coverage.\n\nOpus 5 finally finished the task the next morning spending almost $700.\n\nSonnet 5 and Luna are hopeless, we can write them off in hardware design work.\n\nNext I am going to try the run on some open source models.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 148,
+  "reposts": 0,
+  "comment_count": 20,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Saheb Panda",
+        "profile_url": "https://www.linkedin.com/in/arkiscool/",
+        "headline": "MS ECE @ USC // FPGA Design // Formal Verification // ASIC Design"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Shouldn't be a big deal given it's a 4 bit CPU and there must be some resource online somewhere which it could use.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Saheb Panda No cheating. Only the spec and tools document is allowed. No skill. Only a very simple prompt that you would give to a human intern. I want to test how smart is the model.",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Micah Villmow",
+            "profile_url": "https://www.linkedin.com/in/micah-villmow-1542534/",
+            "headline": "Senior Research Engineer, IFM Silicon Valley Lab"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Saheb Panda it is a big deal. It means that someone who actually knows how to use AI in that domain can do something orders of magnitude more complex in a week.",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Saheb Panda",
+            "profile_url": "https://www.linkedin.com/in/arkiscool/",
+            "headline": "MS ECE @ USC // FPGA Design // Formal Verification // ASIC Design"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Micah Villmow the premise being the arch is too simplistic and old enough that it might be already in the weights of the model. Even a modern day cache unit is more complex than that chip. 4 bit might be the first step, but I think if it can verify something much bigger like 16bit CPU it would be more impressive. What do you think? You're the expert.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Craig Haymond",
+        "profile_url": "https://www.linkedin.com/in/craig-haymond/",
+        "headline": "Engineering Manager / Team Lead"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "was the same harness used for all models tested?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Craig Haymond nope. Use their native harness. Claude use Claude Code , GPT use Codex",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Pallavi Kumar",
+        "profile_url": "https://www.linkedin.com/in/pallavikum/",
+        "headline": "Senior staff verification engineer @ AMD | AI Evangelist"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "What about Terra ? I've been quite liking it",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Pallavi Kumar on ability curve of Terra for any thinking effort, there is a cheaper corresponding Sol or Luna thinking effort. Something like Luna max is cheaper than Terra medium Sol low is cheaper than Terra max",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ravikumar M.",
+        "profile_url": "https://www.linkedin.com/in/ravikumar-m/",
+        "headline": "Solution Architect, Tech Mahindra"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1mo",
+      "posted_at_approx": true,
+      "text": "A human need to confirm if AI did the job or not. With 20% hallucination possibility we cannot leave the validation and quality aspects to other AI models/agents. So, number of hardware engineers working on a spec may reduce, but now these hardware engineers can spend more time creating new specs.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Ravikumar M. how many spec does the world really need?",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Ravikumar M.",
+            "profile_url": "https://www.linkedin.com/in/ravikumar-m/",
+            "headline": "Solution Architect, Tech Mahindra"
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan I think there are many areas. High performance cheap Hardware can reduce costs drastically while gaining on time. We saw that with USB, Microprocessors etc.. As far as I know, not everything is moved into hardware, we have some processing power, communication tech, memory moved into hardware with some peripherals. The complexity to test & debug makes the process slow to move for other systems to migrate. I think with AI most of these things can gain speed, so innovators can free their mind from testing, debugging and think about improving processes in other areas. For example AI inference, edge computing, digital twins with sensors in real systems etc are possible.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Mika Nyström",
+            "profile_url": "https://www.linkedin.com/in/mika-nystr%C3%B6m-b99b76/",
+            "headline": "Chip architect"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Ravikumar M. Well 74181, that's the 4-bit ALU, right? (Not sure why I would remember that but I think that's what it was.) That's easily small enough that even naive formal verification can validate the design. So you don't really need humans for this task. This gets a lot more interesting if the design can loop and has a lot of state. In those cases, you can use AI to create a correctness proof that you check against the spec and RTL. So the only thing you should have to check by human is the spec. What's important there is that if it's a large system, you really should only have to check the spec at the perimeter of the system, not at every internal module boundary. Well, holy grail and all that. But I'm cautiously optimistic 😁",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Ravikumar M.",
+            "profile_url": "https://www.linkedin.com/in/ravikumar-m/",
+            "headline": "Solution Architect, Tech Mahindra"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Mika Nyström Yes, specs and gaurdrails - that is what makes the whole process controlled & manageable.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Matthew Swanson",
+        "profile_url": "https://www.linkedin.com/in/matthew-swanson-cpp/",
+        "headline": "Linux Systems Engineering | Distributed Systems Engineering | Embedded Linux"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "What was the ROI on that? 0?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Matthew Swanson fun is priceless",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Sowmya Pitchaimoorthy",
+        "profile_url": "https://www.linkedin.com/in/sowmya-pitchaimoorthy-6011a42a/",
+        "headline": "Principal MTS & Verification Manager at AMD | Infinity Fabric Architecture | Pre-Silicon DV Leadership"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "So which one did it better?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Sowmya Pitchaimoorthy Sol is the best so far. Stay tuned on my experiment on open source models",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Marko Mandaric",
+        "profile_url": "https://www.linkedin.com/in/markomandaric/",
+        "headline": "CEO @ Sense Inc."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "You would hope that a 3t parameter model could do something that was unveiled in 1970.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Damian Tedrow",
+        "profile_url": "https://www.linkedin.com/in/damian-tedrow-700837151/",
+        "headline": "Cobblestone Project Leader"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Correct. That's next in my master plan.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Suhas Marutheesha",
+        "profile_url": "https://www.linkedin.com/in/suhasmarutheesha/",
+        "headline": "System Validation Engineer at Ayar Labs | CPO & Micro-Ring Resonator Validation | Silicon Photonics | Former Coherent Corp | 1.6T Optical Transceivers | RF/Microwave | Advanced VLSI/ASIC Design"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "We rarely get to appreciate the capabilities of newer versions of AI. Every new release makes more sense to only few engineers and companies who take advantage of it.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T22:40:00Z"
+}

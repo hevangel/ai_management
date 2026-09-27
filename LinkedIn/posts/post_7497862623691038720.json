@@ -1,0 +1,145 @@
+{
+  "activity_id": "7497862623691038720",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7497862623691038720/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-24T12:00:00+00:00",
+  "posted_at_hint": "Aug 24",
+  "posted_at_approx": true,
+  "text": "I tried the spec driven development (SDD) in Kiro, the AI asked me 20+ questions right up front. I am too lazy to read, and I probably don't know what I really want, so I just accept the default answers.\n\nI think SDD is the wrong approach in the AI era. SDD assumes execution is expensive, so you have to write the spec correctly before you start coding. But with AI, coding is cheap. Why ask me those 20 questions up front? Just go ahead build a prototype with all those 20 questions in A/B test, let me choose interactively instead of asking me to read a wall of text.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 8,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Richard Threlkeld",
+        "profile_url": "https://www.linkedin.com/in/richard-threlkeld-ba31aa1/",
+        "headline": "Principal Engineer, Kiro AI Agent @AWS"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "If you're concerned about costs generating N copies to observe behavior can be extremely expensive and at times destructive to data if it's not being tested in isolation. You don't need a one size fits all approach though, instead you can do requirements analysis on critical programs that need highly correct specifications and quick spec on those that don't.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 3w",
+          "posted_at_approx": true,
+          "text": "Richard Threlkeld Even if I want to nail down the spec before code generation, 20 multi choices questions is a very BAD ux to ask for user inputs.\n\nIf I am the tech lead, my junior engineer ask me to make decision about the spec with 20 MC questions, I will fire him. He should come with a well prepared power point slides deck, one slide per question, with clear pro and con on the choices, and I can slow him down and grill him before I make my call.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Agree. AI can write the spec based on the simple prompt, then users just need to check the items in the list if they are ok or not.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Peter Holmes",
+        "profile_url": "https://www.linkedin.com/in/peter-holmes-53783a1/",
+        "headline": "Retired after 37 year career in EE, mostly ASIC Verification, technical lead of verifiers."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "I would worry about hidden assumptions (guesses by the AI) that get buried if you didn't make the effort to think about them and make the choice. I assume it's not asking \"how to implement it\" inside the black box. It's asking you about the external behavior you want.\n\nIt seems like you HAVE TO be willing to clarify the external behavior you want, with \"thought\", not just accepting AI's best guesses ... unless it is getting silly with paranoia that you might want something unlikely, and it's trying to make sure to not make a mistake, even though the correct answer is obvious to man or machine.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Peter Holmes why think with only a wall of text instead of think after you see the two options live in a working prototype?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Peter Holmes",
+            "profile_url": "https://www.linkedin.com/in/peter-holmes-53783a1/",
+            "headline": "Retired after 37 year career in EE, mostly ASIC Verification, technical lead of verifiers."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-05T22:40:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Horace Chan Years ago, before AI, if I delegated a spec driven task to a junior engineer (human), and that engineer asked me 20+ questions, I considered that a good thing.\n\nI would sometimes answer: \"Did you read what I wrote in the spec about that? I think it's covered.\"\n\nI would sometimes answer: \"I guess that's unclear in my spec. I'll improve the spec. But in the mean time, what the spec should say is blah-blah-blah. Does that make sense? Does that make sense, hold-together ok?\"\n\nCan AI's 20 questions be done verbally? That might be faster, and make stupid questions where you must repeat what's already in the spec in different wording, more ok.\n\nPeter",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Chen Ben - Haroosh",
+        "profile_url": "https://www.linkedin.com/in/chenbenharoosh/",
+        "headline": "Verification Engineer | Yet another AI Enthusiast | Python Automation Specialist | 8 Years Multi-Disciplinary Experience"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "There are some decisions that shift architecture. Some of those shifts are harder to steer later. Best approach is to use SDD for the big tasks as a way finder. The easy tasks can just go as a prompt and as such, will be easily reversible.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Chen Ben - Haroosh AI can help you refactor the whole code base easily. Nothing is too hard to change these days.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T22:40:00Z"
+}

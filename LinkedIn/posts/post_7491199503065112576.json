@@ -1,0 +1,40 @@
+{
+  "activity_id": "7491199503065112576",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7491199503065112576/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-06T12:00:00+00:00",
+  "posted_at_hint": "Aug 6",
+  "posted_at_approx": true,
+  "text": "This monster CPU is the most powerful CPU for AI agentic workload.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "AAI 2026: 6th Gen AMD EPYC Server CPUs Power the Agentic Data Center - AMD Newsroom",
+    "url": "https://newsroom.amd.com"
+  },
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 1,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:55:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "can I get one?🙂",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T22:55:00Z"
+}

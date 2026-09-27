@@ -1,0 +1,37 @@
+{
+  "activity_id": "7489385385224179712",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7489385385224179712/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-01T12:00:00+00:00",
+  "posted_at_hint": "Aug 1",
+  "posted_at_approx": true,
+  "text": "My new startup idea, vibe coding AI for ancient mainframes.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nick Becker",
+        "profile_url": "https://www.linkedin.com/in/nickabecker/",
+        "headline": "Computer Programmer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-29T01:35:00+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "Can I pre-order one? 😂",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T01:35:00Z"
+}

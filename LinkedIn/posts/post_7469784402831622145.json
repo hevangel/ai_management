@@ -1,0 +1,21 @@
+{
+  "activity_id": "7469784402831622145",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7469784402831622145/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-08T12:00:00+00:00",
+  "posted_at_hint": "Jun 8",
+  "posted_at_approx": true,
+  "text": "You can't just blindly ask AI to update the skill with what it learnt from your chat session. I caught it many times, the skill is perfectly fine, but the AI still try to find something to change and ends up make the skill worse.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T01:26:00Z"
+}

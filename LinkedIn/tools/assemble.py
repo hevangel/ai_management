@@ -32,6 +32,12 @@ TMP_DIRS = [
     Path.home() / "workspace" / "linkedin-archive-backup",
 ]
 
+# Round-2 audit-correction batches (2026-09-27): 65 missed posts interleaved in
+# the top region + 28 older posts below #360. These live in a separate dir
+# with r2_*.json names; assembled after the round-1 batches.
+ROUND2_DIR = Path.home() / "workspace" / "linkedin-archive-round2"
+ROUND2_GLOB = "r2_*.json"
+
 MONTHS = {
     "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
     "jul": 7, "aug": 8, "sep": 9, "sept": 9, "oct": 10, "nov": 11, "dec": 12,
@@ -156,14 +162,21 @@ def main():
         raise SystemExit("No batch files found in /tmp/linkedin or the workspace backup")
 
     batch_files = sorted(src.glob("batch_*.json"))
+    # Append round-2 files (audit correction + older posts) if present.
+    if ROUND2_DIR.exists():
+        batch_files += sorted(ROUND2_DIR.glob(ROUND2_GLOB))
     posts, seen = [], set()
+    n_dup = 0
     for f in batch_files:
         for p in json.loads(f.read_text(encoding="utf-8")):
             if "error" in p or not p.get("activity_id"):
                 print(f"SKIP {f.name}: {p.get('activity_id')} ({p.get('error')})")
                 continue
             if p["activity_id"] in seen:
-                raise SystemExit(f"Duplicate activity_id {p['activity_id']} in {f.name}")
+                # Round-2 re-extracted a few round-1 posts; the earlier
+                # (round-1) copy is canonical — skip the duplicate.
+                n_dup += 1
+                continue
             seen.add(p["activity_id"])
             posts.append(norm_post(p))
 
@@ -174,7 +187,7 @@ def main():
 
     n_hint = sum(1 for p in posts if p.get("posted_at_approx"))
     print(f"Assembled {len(posts)} posts from {len(batch_files)} batch files "
-          f"({n_hint} with approximate posted_at).")
+          f"({n_hint} with approximate posted_at, {n_dup} duplicates skipped).")
     print(f"Wrote {POSTS_DIR.relative_to(ROOT.parent)}/post_<activity_id>.json")
 
 

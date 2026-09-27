@@ -1,0 +1,160 @@
+{
+  "activity_id": "7467982964988207105",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7467982964988207105/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-03T12:00:00+00:00",
+  "posted_at_hint": "Jun 3",
+  "posted_at_approx": true,
+  "text": "We should ban people from vibe coding RTL against a commercial VIP to demonstrate AI can design chips.\n\nIf you burn enough tokens, you can reverse distill the behavior of the VIP back into RTL form. AI is very good at copying, but that's not how silicon design works in reality.\n\nIt sets unrealistic expectations for the real RTL/DV engineers",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 63,
+  "reposts": 0,
+  "comment_count": 13,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jeremy Ralph",
+        "profile_url": "https://www.linkedin.com/in/jeremyralph/",
+        "headline": "Principal Verification Engineer at Microsoft"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-05-30T01:30:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "Curve fitting RTL to match the VIP?\n\nDesign and Verif should be requirement spec based in my view. There is a tendency to get the design to match the Verif without a spec. Then, there is no single source of correctness. This can lead to wrong designs that pass verification, as many of us have seen in our careers.",
+      "likes": 9,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Hong Ping Tan",
+            "profile_url": "https://www.linkedin.com/in/hong-ping-tan-9499935a/",
+            "headline": "Hardware Hobbyist | Architecture Explorer | Challenger of Old Ideas"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-05-30T01:30:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Jeremy Ralph There is also a tendency to get the verification to match the design. Saw it many times like stimulus tuning, coverage closure, and even scoreboard construction.",
+          "likes": 6,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Rob Taylor",
+            "profile_url": "https://www.linkedin.com/in/robtaylor78/",
+            "headline": "Old hand of Open Source. Expert in: - OSS IC design tools, with Open and Proprietary mfg processes - Embedded system engineering with OSS - AI agent creation - Networking - GPU acceleration Open to interesting opps"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-05-30T01:30:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Jeremy Ralph agreed, if you're using AI for rtl, a solid system for requirements tracking, plans and architecture decisions is a prerequisite. Then you want to have multiple harnesses available for generation and validation.\n\nA great way to gain more confidence in rtl generation is to build two implementations from the spec, your real, performant one, and a really dumb one, and use formal equivalence checking.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Zolboo Naranbaatar",
+        "profile_url": "https://www.linkedin.com/in/zolboon/",
+        "headline": "Building deterministic infrastructure for hardware review and AI agent execution · Ark Axiom · Ark Sovereign"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-05-30T01:30:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "Rob Taylor and Horace Chan are describing the most dangerous side effect of the current AI hardware hype: Correlated Vacuity.\n\nWhen an LLM \"vibe codes\" RTL by reverse-distilling a VIP, it learns to write logic and assertions that perfectly mirror its own architectural blind spots. The simulation passes, the coverage dashboard turns green, but the system has merely verified a vacuous state space. It is an illusion of correctness.\n\nRob Taylor is spot-on that formal equivalence is the necessary backstop. However, throwing un-audited, AI-generated RTL directly at a formal solver almost guarantees state-space explosion and timeouts.\n\nA diff is not a review answer. We don't need more generative tools; we need Review Compression. We must use deterministic graph analysis to run Bounded Triage—isolating the exact logic cones where Semantic Drift occurred.\n\nBy delivering a Cryptographic Handoff of those localized boundaries, we give senior DV engineers the exact, constrained targets they need to run those formal equivalence checks in minutes, rather than wasting weeks debugging probabilistic noise.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-05-30T01:30:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Zolboo Naranbaatar The industry probably has to go much deeper. What is a specification? what exactly is a bug and what is a feature?\n\nWhy write a spec in ambiguous English language when we can enlist the help of AI to write a formal spec that can feed into AI at the PCIe SIG level.\n\nThink of the spec as an API, each company can compete on the implementation in term of gate area, power, latency, throughput extra, but their implementation has to formally proved meet the contract of the protocol.\n\nHere is the best part, PCIe SIG can adopt the business model of SQLite, the English spec is free, the formal AI readable spec need to pay.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Rob Taylor",
+            "profile_url": "https://www.linkedin.com/in/robtaylor78/",
+            "headline": "Old hand of Open Source. Expert in: - OSS IC design tools, with Open and Proprietary mfg processes - Embedded system engineering with OSS - AI agent creation - Networking - GPU acceleration Open to interesting opps"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-05-30T01:30:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Zolboo Naranbaatar interesting take. how would you identify the exact logic cones where semantic drift has occurred?\n\nI can think of a couple of approaches, but I think the important thing in all of these is to drive *from* the requirements breakdown to minimise compounding of hallucinations/errors",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dr. Tobias Ludwig",
+        "profile_url": "https://www.linkedin.com/in/dr-tobias-ludwig/",
+        "headline": "CEO | Formal Verification Enthusiast | Building the leading systemized Formal Verification delivery partner for the semiconductor industry"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-29T01:30:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "True, we should be careful what we celebrate as progress.\n\nDemos that equate \"copied VIP behavior\" with \"designed a chip\" set unrealistic expectations for RTL/DV teams and blur the line between engineering and mimicry.",
+      "likes": 5,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ilija Dimitrijevic",
+        "profile_url": "https://www.linkedin.com/in/ilija-dimitrijevic-165093159/",
+        "headline": "Digital Verification Consultant"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-29T01:30:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Imagine buying that IP and talking to their customer support when problem arises.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-06-29T01:30:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Ilija Dimitrijevic oh. They will have AI customer support too",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-27T01:30:00Z"
+}

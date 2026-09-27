@@ -1,0 +1,83 @@
+{
+  "activity_id": "7496348334907908098",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496348334907908098/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-20T12:00:00+00:00",
+  "posted_at_hint": "Aug 20 • Edited",
+  "posted_at_approx": true,
+  "text": "Why do people worry about the junior engineer pipeline?\n\nThe most motivated junior engineers if they are not hired, they would just start their own companies and learn how to be a senior engineer the hard way.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dan B.",
+        "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+        "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-05T22:40:00+00:00",
+      "posted_at_hint": "3w",
+      "posted_at_approx": true,
+      "text": "Interesting perspective. I like it. But here's a question, what if \"the hard way\" is doing it without AI? That's the issue.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 3w",
+          "posted_at_approx": true,
+          "text": "Dan B. Writing cursive well used to be \"the hard way\" before the invention of typewriter\n\nThe real question is what part of the old hard way is still relevant in the new hard way",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Dan B.",
+            "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+            "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan interesting insight but writing in cursive doesn't make you be better at writing novels, for example\n\nActually I'm not so sure about that. I find that forcing myself to \"take notes\" (the hard way) makes",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-09-05T22:40:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Dan B. you will superised reading old papers claiming good hand writing is an indicator for high intelligent.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T22:40:00Z"
+}

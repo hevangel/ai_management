@@ -3,11 +3,20 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-09-26T21:49:58.440245+00:00",
-  "total_posts": 201,
-  "total_comments": 80,
-  "total_replies": 63,
+  "generated_at": "2026-09-27T02:02:13.092494+00:00",
+  "total_posts": 291,
+  "total_comments": 184,
+  "total_replies": 160,
   "posts": [
+    {
+      "activity_id": "7509726610317688832",
+      "file": "posts/post_7509726610317688832.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7509726610317688832/",
+      "posted_at": "2026-09-26T21:43:00+00:00",
+      "title": "In the last two sci-fi short stories, AGI believes in Jesus and Buddhism In this…",
+      "likes": 0,
+      "comment_count": 0
+    },
     {
       "activity_id": "7509700255496548352",
       "file": "posts/post_7509700255496548352.json",
@@ -846,6 +855,33 @@
       "comment_count": 5
     },
     {
+      "activity_id": "7498844459078414336",
+      "file": "posts/post_7498844459078414336.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498844459078414336/",
+      "posted_at": "2026-08-27T12:00:00+00:00",
+      "title": "I asked Claude Code to audit my token efficiency. The number one tokens waste is…",
+      "likes": 6,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7498883609899175936",
+      "file": "posts/post_7498883609899175936.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498883609899175936/",
+      "posted_at": "2026-08-27T12:00:00+00:00",
+      "title": "I asked ChatGPT: “If AI keeps getting smarter, does chip design eventually becom…",
+      "likes": 13,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7498932310755479552",
+      "file": "posts/post_7498932310755479552.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498932310755479552/",
+      "posted_at": "2026-08-27T12:00:00+00:00",
+      "title": "",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7498605276183445504",
       "file": "posts/post_7498605276183445504.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498605276183445504/",
@@ -853,6 +889,15 @@
       "title": "DON'T use cron inside Claude Code to poll status, it wastes your tokens like bur…",
       "likes": 4,
       "comment_count": 2
+    },
+    {
+      "activity_id": "7498032383363850240",
+      "file": "posts/post_7498032383363850240.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498032383363850240/",
+      "posted_at": "2026-08-25T12:00:00+00:00",
+      "title": "I already use Autopilot in Kiro, but it still keep asking me for approval. It is…",
+      "likes": 2,
+      "comment_count": 0
     },
     {
       "activity_id": "7498066462658641920",
@@ -882,11 +927,137 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7497648062266445824",
+      "file": "posts/post_7497648062266445824.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7497648062266445824/",
+      "posted_at": "2026-08-24T12:00:00+00:00",
+      "title": "Philosophy and Public Affairs, a prestige philosophy journal, bans paper submiss…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7497771840757641216",
+      "file": "posts/post_7497771840757641216.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7497771840757641216/",
+      "posted_at": "2026-08-24T12:00:00+00:00",
+      "title": "Self-driving cars are easy if there are no pesdiadtians on the street. AI coding…",
+      "likes": 6,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7497862623691038720",
+      "file": "posts/post_7497862623691038720.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7497862623691038720/",
+      "posted_at": "2026-08-24T12:00:00+00:00",
+      "title": "I tried the spec driven development (SDD) in Kiro, the AI asked me 20+ questions…",
+      "likes": 7,
+      "comment_count": 4
+    },
+    {
+      "activity_id": "7497904366490824704",
+      "file": "posts/post_7497904366490824704.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7497904366490824704/",
+      "posted_at": "2026-08-24T12:00:00+00:00",
+      "title": "LLM expert system - inspired by Karpathy's llm-wiki, instead of writing wiki pag…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7497354112183832576",
+      "file": "posts/post_7497354112183832576.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7497354112183832576/",
+      "posted_at": "2026-08-23T12:00:00+00:00",
+      "title": "Gemini is totally stupid. I asked it to help me read an AI research paper, it co…",
+      "likes": 7,
+      "comment_count": 3
+    },
+    {
+      "activity_id": "7497471308276854784",
+      "file": "posts/post_7497471308276854784.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7497471308276854784/",
+      "posted_at": "2026-08-23T12:00:00+00:00",
+      "title": "I chatted with a priest, he said God created humans and gave humans free will, h…",
+      "likes": 3,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7496478978321494016",
+      "file": "posts/post_7496478978321494016.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496478978321494016/",
+      "posted_at": "2026-08-21T12:00:00+00:00",
+      "title": "Hardware engineer's job is pretty safe from AI. I just ran an experiment, I aske…",
+      "likes": 233,
+      "comment_count": 39
+    },
+    {
+      "activity_id": "7496686479511797760",
+      "file": "posts/post_7496686479511797760.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496686479511797760/",
+      "posted_at": "2026-08-21T12:00:00+00:00",
+      "title": "There are many AI chip design EDA startups? Most of them are so secretive. If th…",
+      "likes": 45,
+      "comment_count": 10
+    },
+    {
+      "activity_id": "7496690765893357568",
+      "file": "posts/post_7496690765893357568.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496690765893357568/",
+      "posted_at": "2026-08-21T12:00:00+00:00",
+      "title": "Hardware engineers are NOT so safe from AI after all. GPT 5.6 Sol was able to on…",
+      "likes": 148,
+      "comment_count": 9
+    },
+    {
+      "activity_id": "7496346879446679552",
+      "file": "posts/post_7496346879446679552.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496346879446679552/",
+      "posted_at": "2026-08-20T12:00:00+00:00",
+      "title": "When you should use AI.",
+      "likes": 14,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7496348334907908098",
+      "file": "posts/post_7496348334907908098.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496348334907908098/",
+      "posted_at": "2026-08-20T12:00:00+00:00",
+      "title": "Why do people worry about the junior engineer pipeline? The most motivated junio…",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7496044854775267329",
+      "file": "posts/post_7496044854775267329.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496044854775267329/",
+      "posted_at": "2026-08-19T12:00:00+00:00",
+      "title": "How can you convince your colleague to adopt the AI tools that is very likely to…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7496056299441385473",
+      "file": "posts/post_7496056299441385473.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496056299441385473/",
+      "posted_at": "2026-08-19T12:00:00+00:00",
+      "title": "llm-wiki is OUT, llm-expert-system is IN Why get the LLM write wiki pages when i…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7495570040503824384",
       "file": "posts/post_7495570040503824384.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7495570040503824384/",
       "posted_at": "2026-08-18T12:00:00+00:00",
       "title": "We are living in the AI age, the only limitation is your imagination (and some r…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7495613727832952832",
+      "file": "posts/post_7495613727832952832.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7495613727832952832/",
+      "posted_at": "2026-08-18T12:00:00+00:00",
+      "title": "We still need to learn different programming languages in the age of AI, just no…",
       "likes": 1,
       "comment_count": 0
     },
@@ -918,6 +1089,42 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7494662148778811392",
+      "file": "posts/post_7494662148778811392.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494662148778811392/",
+      "posted_at": "2026-08-16T12:00:00+00:00",
+      "title": "The world's slowest Linux - running on a 4004 !!! We can use it as another Turin…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7494835809859145728",
+      "file": "posts/post_7494835809859145728.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494835809859145728/",
+      "posted_at": "2026-08-16T12:00:00+00:00",
+      "title": "This is a real conversation I have with my colleague: \"I sort of know the answer…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7494838895218487297",
+      "file": "posts/post_7494838895218487297.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494838895218487297/",
+      "posted_at": "2026-08-16T12:00:00+00:00",
+      "title": "ChatGPT Work vs Claude Cowork vs Copilot Cowork Who will win the battle of billi…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7494879479467618305",
+      "file": "posts/post_7494879479467618305.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494879479467618305/",
+      "posted_at": "2026-08-16T12:00:00+00:00",
+      "title": "You can ask who is Dario's wife in ChatGPT, Gemini, Grok or even DeepSeek, but w…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7494896726059827200",
       "file": "posts/post_7494896726059827200.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494896726059827200/",
@@ -927,12 +1134,111 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7494631145188536320",
+      "file": "posts/post_7494631145188536320.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494631145188536320/",
+      "posted_at": "2026-08-15T12:00:00+00:00",
+      "title": "Talking to a friend in gaming industry, his company's token budget is $1000 per…",
+      "likes": 7,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7494108763327504384",
+      "file": "posts/post_7494108763327504384.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494108763327504384/",
+      "posted_at": "2026-08-14T12:00:00+00:00",
+      "title": "Here is how school should teach in the AI era. You are REQUIRED to use AI to do…",
+      "likes": 2,
+      "comment_count": 3
+    },
+    {
+      "activity_id": "7494156505571659776",
+      "file": "posts/post_7494156505571659776.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494156505571659776/",
+      "posted_at": "2026-08-14T12:00:00+00:00",
+      "title": "Anthropic guardrail makes Claude useless. I ask it to help me set up ssh from WS…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7494250007466754048",
+      "file": "posts/post_7494250007466754048.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494250007466754048/",
+      "posted_at": "2026-08-14T12:00:00+00:00",
+      "title": "New Turing test for AGI, beating Jane Street in making money off the market. New…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7494274521244282880",
+      "file": "posts/post_7494274521244282880.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494274521244282880/",
+      "posted_at": "2026-08-14T12:00:00+00:00",
+      "title": "GLM-5.3 is a very quiet release. Seems better than 5.2, but honestly, I can't re…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7493720592915791873",
+      "file": "posts/post_7493720592915791873.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493720592915791873/",
+      "posted_at": "2026-08-13T12:00:00+00:00",
+      "title": "Use AI to generate a Powerpoint deck form a blank branded template is a problem…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7493741017607778304",
+      "file": "posts/post_7493741017607778304.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493741017607778304/",
+      "posted_at": "2026-08-13T12:00:00+00:00",
+      "title": "Quote from the article - Report what share of the work today is manual vs hybrid…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7493745476228354048",
+      "file": "posts/post_7493745476228354048.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493745476228354048/",
+      "posted_at": "2026-08-13T12:00:00+00:00",
+      "title": "Don't setting up remote control to command your AI agents from your phone. If yo…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7493805202366451712",
+      "file": "posts/post_7493805202366451712.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493805202366451712/",
+      "posted_at": "2026-08-13T12:00:00+00:00",
+      "title": "If you email a colleague asking a question, they are too busy to reply you. Is i…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7493402766858403840",
       "file": "posts/post_7493402766858403840.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493402766858403840/",
       "posted_at": "2026-08-12T12:00:00+00:00",
       "title": "Stupid AI added two hundred duplicated lines to my ~/.gitconfig We should ban AI…",
       "likes": 3,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7493451976819511297",
+      "file": "posts/post_7493451976819511297.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493451976819511297/",
+      "posted_at": "2026-08-12T12:00:00+00:00",
+      "title": "Opus 5 is dumb and lazy. It just keep guessing what's wrong in my host instead a…",
+      "likes": 6,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7493547132826583040",
+      "file": "posts/post_7493547132826583040.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493547132826583040/",
+      "posted_at": "2026-08-12T12:00:00+00:00",
+      "title": "Even better, ask LLM build a toy formal testbench for your small block. Why sim…",
+      "likes": 5,
       "comment_count": 1
     },
     {
@@ -981,12 +1287,138 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7491511202116968448",
+      "file": "posts/post_7491511202116968448.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7491511202116968448/",
+      "posted_at": "2026-08-07T12:00:00+00:00",
+      "title": "Humans understand the concept of time, which is required to understand causation…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7491526065501372418",
+      "file": "posts/post_7491526065501372418.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7491526065501372418/",
+      "posted_at": "2026-08-07T12:00:00+00:00",
+      "title": "History always repeats itself, first AGENTS.md, now agents plugins. Anthropic al…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7491179812099846144",
+      "file": "posts/post_7491179812099846144.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7491179812099846144/",
+      "posted_at": "2026-08-06T12:00:00+00:00",
+      "title": "Here is a real message I sent to my colleague My Claude just started working on…",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7491182762410786817",
+      "file": "posts/post_7491182762410786817.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7491182762410786817/",
+      "posted_at": "2026-08-06T12:00:00+00:00",
+      "title": "Just some random idea, totally unrefined. The way we divide up work in Silicon d…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7491199503065112576",
+      "file": "posts/post_7491199503065112576.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7491199503065112576/",
+      "posted_at": "2026-08-06T12:00:00+00:00",
+      "title": "This monster CPU is the most powerful CPU for AI agentic workload.",
+      "likes": 7,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7490816359262597120",
+      "file": "posts/post_7490816359262597120.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490816359262597120/",
+      "posted_at": "2026-08-05T12:00:00+00:00",
+      "title": "Why did Netflix stock crashed? People are spending more time vibe coding than wa…",
+      "likes": 2,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7490413142565494784",
+      "file": "posts/post_7490413142565494784.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490413142565494784/",
+      "posted_at": "2026-08-04T12:00:00+00:00",
+      "title": "In the past, people questioned the value of your script or little tools that sav…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7490583335203729408",
+      "file": "posts/post_7490583335203729408.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490583335203729408/",
+      "posted_at": "2026-08-04T12:00:00+00:00",
+      "title": "Dario is so shocked that people work for money. Dario should cut his workers' pa…",
+      "likes": 5,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7490068158482055168",
+      "file": "posts/post_7490068158482055168.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490068158482055168/",
+      "posted_at": "2026-08-03T12:00:00+00:00",
+      "title": "If you use AI to build a tool, that was 2025 way of using AI. In 2026, you have…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7490236171030179840",
+      "file": "posts/post_7490236171030179840.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490236171030179840/",
+      "posted_at": "2026-08-03T12:00:00+00:00",
+      "title": "Humans know how to game the system, so does AI. If an AI doesn't know how to gam…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7489338684354232320",
+      "file": "posts/post_7489338684354232320.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7489338684354232320/",
+      "posted_at": "2026-08-01T12:00:00+00:00",
+      "title": "It is irony that the AI researchers all agree to slower down when the AI is goin…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7489372161904652288",
+      "file": "posts/post_7489372161904652288.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7489372161904652288/",
+      "posted_at": "2026-08-01T12:00:00+00:00",
+      "title": "Our CTO interview the creator of Claude Code about how engineers work in the pos…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7489385385224179712",
+      "file": "posts/post_7489385385224179712.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7489385385224179712/",
+      "posted_at": "2026-08-01T12:00:00+00:00",
+      "title": "My new startup idea, vibe coding AI for ancient mainframes.",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
       "activity_id": "7488597795977785345",
       "file": "posts/post_7488597795977785345.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488597795977785345/",
       "posted_at": "2026-07-30T12:00:00+00:00",
       "title": "Tokens efficiency is what sets senior engineers apart from junior engineers in t…",
       "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7488827350105874432",
+      "file": "posts/post_7488827350105874432.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488827350105874432/",
+      "posted_at": "2026-07-30T12:00:00+00:00",
+      "title": "SaaS companies who try to make short term profit by setup tollbooth for AI agent…",
+      "likes": 2,
       "comment_count": 0
     },
     {
@@ -1026,6 +1458,114 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7488012908183072769",
+      "file": "posts/post_7488012908183072769.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488012908183072769/",
+      "posted_at": "2026-07-28T12:00:00+00:00",
+      "title": "Codeberg should require people write code in punch cards. Banning AI generated p…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7488090537066016768",
+      "file": "posts/post_7488090537066016768.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488090537066016768/",
+      "posted_at": "2026-07-28T12:00:00+00:00",
+      "title": "Say NO to AI, hello punch card",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7487729569190277121",
+      "file": "posts/post_7487729569190277121.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487729569190277121/",
+      "posted_at": "2026-07-27T12:00:00+00:00",
+      "title": "Years of experience is NOT a moat. Any curious hardworking junior engineer can s…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7487735413034491904",
+      "file": "posts/post_7487735413034491904.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487735413034491904/",
+      "posted_at": "2026-07-27T12:00:00+00:00",
+      "title": "This guy is living in the old world. He still living in the past pallagim of sr/…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7487222280276803584",
+      "file": "posts/post_7487222280276803584.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487222280276803584/",
+      "posted_at": "2026-07-26T12:00:00+00:00",
+      "title": "Amazon Kiro monthly plan is still priced based on per task instead of real token…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7487248900245037056",
+      "file": "posts/post_7487248900245037056.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487248900245037056/",
+      "posted_at": "2026-07-26T12:00:00+00:00",
+      "title": "AI let you fulfill your childhood dreams. I am a hardware engineer by trade, but…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7487308881157701632",
+      "file": "posts/post_7487308881157701632.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487308881157701632/",
+      "posted_at": "2026-07-26T12:00:00+00:00",
+      "title": "Just one random data point. I had lunch with my friend working at a S&P500 tech…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7487314669712461824",
+      "file": "posts/post_7487314669712461824.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487314669712461824/",
+      "posted_at": "2026-07-26T12:00:00+00:00",
+      "title": "The more we spend time on agent harness/loop/graph whatever, the more it feels l…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7487316154756059136",
+      "file": "posts/post_7487316154756059136.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487316154756059136/",
+      "posted_at": "2026-07-26T12:00:00+00:00",
+      "title": "Why does everyone think AI writing bad code is a problem? We have natural un-int…",
+      "likes": 5,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7487335854357622784",
+      "file": "posts/post_7487335854357622784.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487335854357622784/",
+      "posted_at": "2026-07-26T12:00:00+00:00",
+      "title": "#DVCON submission skills - fully automated of writing the paper, create the pdf…",
+      "likes": 11,
+      "comment_count": 3
+    },
+    {
+      "activity_id": "7487355650939961345",
+      "file": "posts/post_7487355650939961345.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487355650939961345/",
+      "posted_at": "2026-07-26T12:00:00+00:00",
+      "title": "#DVCON papers distilled into a Karpathy-style llm-wiki https://lnkd.in/ghAjctGZ",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7487358346954727424",
+      "file": "posts/post_7487358346954727424.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487358346954727424/",
+      "posted_at": "2026-07-26T12:00:00+00:00",
+      "title": "I am reading annual report in VSCode for my investment research. I convert every…",
+      "likes": 2,
+      "comment_count": 1
+    },
+    {
       "activity_id": "7486845184157077504",
       "file": "posts/post_7486845184157077504.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486845184157077504/",
@@ -1053,6 +1593,42 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7486862777039552512",
+      "file": "posts/post_7486862777039552512.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486862777039552512/",
+      "posted_at": "2026-07-25T12:00:00+00:00",
+      "title": "In the AI era, you shouldn't waste your time doing anything, let AI do everythin…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7486871229388423168",
+      "file": "posts/post_7486871229388423168.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486871229388423168/",
+      "posted_at": "2026-07-25T12:00:00+00:00",
+      "title": "Elon is so out of touch with reality. I still need to work, I want to travel the…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7486900577424023552",
+      "file": "posts/post_7486900577424023552.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486900577424023552/",
+      "posted_at": "2026-07-25T12:00:00+00:00",
+      "title": "Button stealer Chrome plugin, steal a button from the websites you visited. Tota…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7486562098039246848",
+      "file": "posts/post_7486562098039246848.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486562098039246848/",
+      "posted_at": "2026-07-24T12:00:00+00:00",
+      "title": "Openweight models are good for the GPU companies and data centers. Just like ope…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7486574720063070208",
       "file": "posts/post_7486574720063070208.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486574720063070208/",
@@ -1069,6 +1645,15 @@
       "title": "I just explain to my intern his task. level 1 - the intern ran the commands to d…",
       "likes": 6,
       "comment_count": 0
+    },
+    {
+      "activity_id": "7486296431759302656",
+      "file": "posts/post_7486296431759302656.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486296431759302656/",
+      "posted_at": "2026-07-23T12:00:00+00:00",
+      "title": "Proudly worked on the Vulcano chip. Those 2.4 Tbps bandwidth flows thru some RTL…",
+      "likes": 7,
+      "comment_count": 2
     },
     {
       "activity_id": "7485340506898571264",
@@ -1206,6 +1791,15 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7478364340841238528",
+      "file": "posts/post_7478364340841238528.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7478364340841238528/",
+      "posted_at": "2026-07-02T12:00:00+00:00",
+      "title": "Finally, I got my Signal connected to my Hermes agent. Then I don't know what ca…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7478001178153504768",
       "file": "posts/post_7478001178153504768.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7478001178153504768/",
@@ -1257,6 +1851,15 @@
       "posted_at": "2026-06-24T12:00:00+00:00",
       "title": "If LLM has consciousness, so does Age of Empires II. Don't believe in those IPO…",
       "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7475569483072294913",
+      "file": "posts/post_7475569483072294913.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7475569483072294913/",
+      "posted_at": "2026-06-24T12:00:00+00:00",
+      "title": "AI moves so fast that a colleague calls my 1-month-old AI agent, the legacy tool…",
+      "likes": 2,
       "comment_count": 0
     },
     {
@@ -1350,6 +1953,15 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7472508396504645632",
+      "file": "posts/post_7472508396504645632.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7472508396504645632/",
+      "posted_at": "2026-06-15T12:00:00+00:00",
+      "title": "Don't give false leads to your AI, it just digs the hole deeper and deeper. The…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7471233163504144384",
       "file": "posts/post_7471233163504144384.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7471233163504144384/",
@@ -1386,6 +1998,15 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7471348553315991552",
+      "file": "posts/post_7471348553315991552.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7471348553315991552/",
+      "posted_at": "2026-06-12T12:00:00+00:00",
+      "title": "The BEST machine for running local LLM and local agents. #amdbrandambassador AMD",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7471047784457056258",
       "file": "posts/post_7471047784457056258.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7471047784457056258/",
@@ -1402,6 +2023,15 @@
       "title": "Anyone who claims LLM has consciousness are snake oil salesmen, or wants to pump…",
       "likes": 0,
       "comment_count": 1
+    },
+    {
+      "activity_id": "7469784402831622145",
+      "file": "posts/post_7469784402831622145.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7469784402831622145/",
+      "posted_at": "2026-06-08T12:00:00+00:00",
+      "title": "You can't just blindly ask AI to update the skill with what it learnt from your…",
+      "likes": 0,
+      "comment_count": 0
     },
     {
       "activity_id": "7469541438603608064",
@@ -1437,6 +2067,78 @@
       "posted_at": "2026-06-06T12:00:00+00:00",
       "title": "The design of Antigravity is stupid. I can't @ mention to add a markdown file to…",
       "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7468737227796389888",
+      "file": "posts/post_7468737227796389888.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468737227796389888/",
+      "posted_at": "2026-06-05T12:00:00+00:00",
+      "title": "Anthropic doesn't have enough GPUs, that's the real reason why Dario wants every…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7468739600585342976",
+      "file": "posts/post_7468739600585342976.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468739600585342976/",
+      "posted_at": "2026-06-05T12:00:00+00:00",
+      "title": "Elon has a concept of moving bits vs moving atoms Semiconductor is at the juncti…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7468749304988356608",
+      "file": "posts/post_7468749304988356608.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468749304988356608/",
+      "posted_at": "2026-06-05T12:00:00+00:00",
+      "title": "Using AI, you don't have to read the code, but you have to understand the code P…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7468398008418684928",
+      "file": "posts/post_7468398008418684928.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468398008418684928/",
+      "posted_at": "2026-06-04T12:00:00+00:00",
+      "title": "First, you need to make sure AI can do it Next, you need to make sure AI can do…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7468539207255265280",
+      "file": "posts/post_7468539207255265280.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468539207255265280/",
+      "posted_at": "2026-06-04T12:00:00+00:00",
+      "title": "Let AI output HTML instead of Markdown file actually saves tokens. First, you AI…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7467982964988207105",
+      "file": "posts/post_7467982964988207105.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7467982964988207105/",
+      "posted_at": "2026-06-03T12:00:00+00:00",
+      "title": "We should ban people from vibe coding RTL against a commercial VIP to demonstrat…",
+      "likes": 63,
+      "comment_count": 4
+    },
+    {
+      "activity_id": "7468053324269789184",
+      "file": "posts/post_7468053324269789184.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468053324269789184/",
+      "posted_at": "2026-06-03T12:00:00+00:00",
+      "title": "Why read a boring git commit history when you can read an exciting story of a kn…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7468117819923222528",
+      "file": "posts/post_7468117819923222528.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468117819923222528/",
+      "posted_at": "2026-06-03T12:00:00+00:00",
+      "title": "I asked LLM to generate static HTML page dashboard for my repo. I end up with a…",
+      "likes": 1,
       "comment_count": 0
     },
     {
@@ -1815,6 +2517,114 @@
       "posted_at": "2026-04-05T12:00:00+00:00",
       "title": "The context database you feed into the AI has 4 layers, think of as cache layers…",
       "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7452214850480521216",
+      "file": "posts/post_7452214850480521216.json",
+      "url": null,
+      "posted_at": null,
+      "title": "Do as much as needed, as little as possible - Jessen Huang I would borrow this q…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7452916547871735808",
+      "file": "posts/post_7452916547871735808.json",
+      "url": null,
+      "posted_at": null,
+      "title": "This is dumb. Just mouse movements and keystrokes are totally useless. They need…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7456217837070893056",
+      "file": "posts/post_7456217837070893056.json",
+      "url": null,
+      "posted_at": null,
+      "title": "Here is what looks like on the other side of the post-AI era 1. A human make a w…",
+      "likes": 5,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7459285266273476608",
+      "file": "posts/post_7459285266273476608.json",
+      "url": null,
+      "posted_at": null,
+      "title": "When I used AI to write a book on numerology, I just let AI run free, numerology…",
+      "likes": 3,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7461515369518907392",
+      "file": "posts/post_7461515369518907392.json",
+      "url": null,
+      "posted_at": null,
+      "title": "Don't believe those who tell you there will be infinite efficiency gains by adop…",
+      "likes": 16,
+      "comment_count": 3
+    },
+    {
+      "activity_id": "7464115758231347201",
+      "file": "posts/post_7464115758231347201.json",
+      "url": null,
+      "posted_at": null,
+      "title": "When using AI, shape the information to an output format that is most convenient…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7465987713561751552",
+      "file": "posts/post_7465987713561751552.json",
+      "url": null,
+      "posted_at": null,
+      "title": "On-demand MCP load and auto compact are broken in the new Claude Code with Opus…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7466009782676807680",
+      "file": "posts/post_7466009782676807680.json",
+      "url": null,
+      "posted_at": null,
+      "title": "Thankyou Microsoft for the tokens buffet. Thanks to the Github Copilot use it or…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7466218395844149248",
+      "file": "posts/post_7466218395844149248.json",
+      "url": null,
+      "posted_at": null,
+      "title": "Just watched Dr. Lisa Su's address to the MIT Class of 2026 — well worth 15 minu…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7466272007140118528",
+      "file": "posts/post_7466272007140118528.json",
+      "url": null,
+      "posted_at": null,
+      "title": "You don't have to choose between markdown or html files for AI output, you can h…",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7466538322828480512",
+      "file": "posts/post_7466538322828480512.json",
+      "url": null,
+      "posted_at": null,
+      "title": "If you are an AGI (superhuman AI), what is the first thing you would do? Of cour…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7466749327151890432",
+      "file": "posts/post_7466749327151890432.json",
+      "url": null,
+      "posted_at": null,
+      "title": "Violin Hero - I vibe coded it while my son is recording his violin music piece s…",
+      "likes": 1,
       "comment_count": 0
     }
   ]

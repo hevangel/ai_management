@@ -1,0 +1,53 @@
+{
+  "activity_id": "7466272007140118528",
+  "url": null,
+  "author": {
+    "name": null,
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": null,
+  "posted_at_hint": "May 29",
+  "posted_at_approx": true,
+  "text": "You don't have to choose between markdown or html files for AI output, you can have both!!!\n\nIn fact, I ask my AI to generate 3 outputs\n- markdown for another AI consumption\n- json structural data for downstream script consumption\n- html interactive visualization for human consumption\n\nIt is actually not very token expensive, you just have to ask the AI to scaffold the scripts to generate everything.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Christopher Fortin",
+        "profile_url": "https://www.linkedin.com/in/crfortin/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "If I can't run it local ...",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": null
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Christopher Fortin You will in a year or two. A 70B open source model today is as good as a frontier model from last year.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": null
+}

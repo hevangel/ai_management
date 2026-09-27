@@ -1,0 +1,56 @@
+{
+  "activity_id": "7468737227796389888",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468737227796389888/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-05T12:00:00+00:00",
+  "posted_at_hint": "Jun 5",
+  "posted_at_approx": true,
+  "text": "Anthropic doesn't have enough GPUs, that's the real reason why Dario wants everyone else to slow down.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "When AI builds itself",
+    "url": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Eanthropic%2Ecom%2Finstitute%2Frecursive-self-improvement%3Ffbclid%3DIwb21leASP9W5jbGNrBI_1WmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsF6qHfmVOvLSPUmULDxHfEV9EXqe6zyFNpRMPg42Jw6M7f8tfxJSnET7TPt_aem_2i0XAknygEoLbPQSFqubAw&urlhash=gPb2&mt=wysxkd-wzbrOckJG-CenNtiOL7ow6NuZbVlY7VAqJILJZhnW2giWmiadGddPmvF-Uz-0orvflBHEPY5PPWrZHIe-AanktmKDGJsBqQRMSzD4U05SF9PMWg&isSdui=true"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Hin chun",
+        "profile_url": "https://www.linkedin.com/in/hin-c-a1b6a1112/",
+        "headline": "Design verification engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-29T01:35:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "How do you know that",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-06-29T01:35:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Hin chun It is on the news.  watch Dario's interview from the past few months.  He was laughing at OpenAI spends too much on compute not too long ago",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-27T01:35:00Z"
+}

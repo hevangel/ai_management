@@ -1,0 +1,21 @@
+{
+  "activity_id": "7468117819923222528",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468117819923222528/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-03T12:00:00+00:00",
+  "posted_at_hint": "Jun 3",
+  "posted_at_approx": true,
+  "text": "I asked LLM to generate static HTML page dashboard for my repo.  I end up with a 4.2M html file with a single line of 2.1M in size that crash Chrome every time I tried to open it.\n\nNow, the real engineering fun begins, how to make that HTML page usable.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T01:25:51Z"
+}

@@ -1,0 +1,143 @@
+{
+  "activity_id": "7497354112183832576",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7497354112183832576/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-23T12:00:00+00:00",
+  "posted_at_hint": "Aug 23",
+  "posted_at_approx": true,
+  "text": "Gemini is totally stupid. I asked it to help me read an AI research paper, it comes back with comparing two running shoes.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 8,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Kempton Lam",
+        "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+        "headline": "founder & owner at KemptonTestLab"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Horace, Since I know you for years, I can't come out right and ask, \"Are you stupid or something?\" because you may simply be kidding. Assuming you are not stupid for a moment, what are 3 of your favourite AIs at the moment, assuming you think G is, to quote you, \"totally stupid\"? Which 3 AIs you like best for #ANYTasks you want them to do?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Kempton Lam I have prove [comment includes an attached image; non-English original text shown via translation as \"I have prove\"]",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kempton Lam",
+            "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+            "headline": "founder & owner at KemptonTestLab"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan, Is t his Something-Something-r2.pdf a public / published research paper? If so, may I have a link to download it to have a read? In pursuit of some #TeachableMoments, I'm putting this on my existing radar. And of course, I have some questions from my #QuantumConcierge (G for Gemini in this case) for you if you would answer? If you wish to keep this discussion go as I'm fascinated to see how much / little do I need to figure this / reverse engineer this out? //Q1 這份 *r2.pdf 是不是某個 AI 駭客或資安社群拿來測試 LLM 弱點的誘餌文件？ Q2) 他之前是不是在同一個對話視窗裡搜尋過碳板跑鞋？ //1\\\\",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Kempton Lam I read the pdf as human, it looks normal . It is a new chat",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kempton Lam",
+            "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+            "headline": "founder & owner at KemptonTestLab"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan I respect your right to not disclose the research paper pdf file or the title of the research paper (copy and paste the title of the paper), i can't see for myself or look closer. Anyway, that's one of the theory is there is potential (far from certain) #IndirectPromptInjection //（例如白色背景上的白色字體，或是寫在 metadata 裡）// which will NOT be visible by you or me as human, the \"it looks normal\" part of the fallacy and permanent weakness of LLMs.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Kempton Lam I sent you the paper. Let me know want you find.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Hin chun",
+        "profile_url": "https://www.linkedin.com/in/hin-c-a1b6a1112/",
+        "headline": "Design verification engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-12T22:40:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "Genmin has been kicked out of the top LLMs.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mohib Ur Rehman",
+        "profile_url": "https://www.linkedin.com/in/mohib-rehman-0x1/",
+        "headline": "Technical Writer & Researcher | Reporter @ The Quantum Insider | Emerging Tech Enthusiast"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Happens more often than you think.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T22:40:00Z"
+}

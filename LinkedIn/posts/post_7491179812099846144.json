@@ -1,0 +1,53 @@
+{
+  "activity_id": "7491179812099846144",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7491179812099846144/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-06T12:00:00+00:00",
+  "posted_at_hint": "Aug 6 (Edited)",
+  "posted_at_approx": true,
+  "text": "Here is a real message I sent to my colleague\nMy Claude just started working on your request, when it is done, it will message you the path of the report. I am heading out driving my kids to summer camp, back after lunch. I will keep an eye on Claude once a while to keep it in check.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:55:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Then why does he/she need you ? Talk to Claude directly?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:55:00+00:00",
+          "posted_at_hint": "1mo (Edited)",
+          "posted_at_approx": true,
+          "text": "I guess it is like the old problem of writing documents. Even if you write the document, people still keep asking you questions without reading the docs. … I built the agent and it is on internal GitHub, people still ask you about the tasks. To be fair, this task is my team's responsibility. But it really doesn't matter who kicks off the agent and who burns the tokens",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T22:55:00Z"
+}

@@ -1,0 +1,68 @@
+{
+  "activity_id": "7486296431759302656",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486296431759302656/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-23T12:00:00+00:00",
+  "posted_at_hint": "Jul 23",
+  "posted_at_approx": true,
+  "text": "Proudly worked on the Vulcano chip.   Those 2.4 Tbps bandwidth flows thru some RTL blocks I verified.\n#amdbrandambassador\n[reshared post by AMD Data Center]\nAI clusters are only as fast as the network connecting them. That is why we built something groundbreaking.\nThe AMD Pensando Vulcano 800 AI NIC is the only AI NIC delivering up to 2.4 Tbps of scale-out bandwidth per GPU on its unique 3 NICs-per-GPU configuration, cutting AI job completion time by up to 13% and purpose-built for AMD Helios.\nThe network is no longer the bottleneck. Learn all about our next-gen 800G AI NIC here:\nhttps://bit.ly/4wpFnjY",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 1,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-29T01:42:00+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "any compression accelerators on chip?",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-29T01:42:00+00:00",
+          "posted_at_hint": "2mo",
+          "posted_at_approx": true,
+          "text": "no idea.  I know nothing outside of my block other than the public info",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Laura Ward",
+        "profile_url": "https://www.linkedin.com/in/laura-ward-a730b1102/",
+        "headline": "Global Brand Marketing | AI/HPC Storytelling | B2B & B2C | AMD Brand Ambassador"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-29T01:42:00+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "Very cool Horace!!! It's always exciting to hear directly from the engineers behind these innovations. Congrats on all your hard work on Vulcano!",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T01:42:00Z"
+}

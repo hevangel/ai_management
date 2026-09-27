@@ -1,0 +1,37 @@
+{
+  "activity_id": "7468739600585342976",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468739600585342976/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-05T12:00:00+00:00",
+  "posted_at_hint": "Jun 5",
+  "posted_at_approx": true,
+  "text": "Elon has a concept of moving bits vs moving atoms\n\nSemiconductor is at the junction where bits meet the atoms.  Moving bits are moving atoms  (well ... electrons) in chip design.\n\nWe deal with bits in their physical form.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Santosh Ahuja",
+        "profile_url": "https://www.linkedin.com/in/santoshnahuja/",
+        "headline": "Engineering Executive | AI Infrastructure · GPU/Accelerator Systems · Distributed Systems · Silicon & Hardware-to-Cloud"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 4mo",
+      "posted_at_approx": true,
+      "text": "Elon is confused. Bits and atoms/electrons are different. A bit can move several atoms but atoms or electrons are sensitive to many things - heat, photonics not just bit. A bit is just a state. - My two bits",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T01:35:00Z"
+}

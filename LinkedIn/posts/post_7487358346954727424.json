@@ -1,0 +1,53 @@
+{
+  "activity_id": "7487358346954727424",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487358346954727424/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-26T12:00:00+00:00",
+  "posted_at_hint": "Jul 26",
+  "posted_at_approx": true,
+  "text": "I am reading annual report in VSCode for my investment research.\n\nI convert everything to Markdown, then chat with it.\n\nCan you guess what is the best software let you read Markdown file and chat with AI at the same time?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-29T01:36:30+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "have you tried vim?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-29T01:36:30+00:00",
+          "posted_at_hint": "2mo",
+          "posted_at_approx": true,
+          "text": "yeap. I use vim mode in VSCode",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-27T01:36:30Z"
+}

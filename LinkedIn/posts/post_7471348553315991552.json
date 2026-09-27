@@ -1,0 +1,24 @@
+{
+  "activity_id": "7471348553315991552",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7471348553315991552/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-12T12:00:00+00:00",
+  "posted_at_hint": "Jun 12",
+  "posted_at_approx": true,
+  "text": "The BEST machine for running local LLM and local agents. #amdbrandambassador AMD",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "AMD Ryzen AI Halo. The ultimate local AI developer platform.",
+    "url": "https://bit.ly/4xv5PJS"
+  },
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T01:31:00Z"
+}

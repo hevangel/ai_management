@@ -1,0 +1,55 @@
+{
+  "activity_id": "7498883609899175936",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498883609899175936/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-27T12:00:00+00:00",
+  "posted_at_hint": "Aug 27",
+  "posted_at_approx": true,
+  "text": "I asked ChatGPT: “If AI keeps getting smarter, does chip design eventually become easy?”\n\nAnswer: “No. Intelligence can shrink the search—but it cannot repeal complexity theory.”\n\nI organized my long chat session into a long form article",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "What Is the Theoretical Upper Bound of Using LLMs to Design Chips?",
+    "url": "https://www.linkedin.com/pulse/what-theoretical-upper-bound-using-llms-design-chips-horace-chan-lgh5c/"
+  },
+  "reshared_post": null,
+  "likes": 13,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Priyanshu Mishra",
+        "profile_url": "https://www.linkedin.com/in/priyanshu-mishra-68837511b/",
+        "headline": "AI-SoC Verification Engineer | CPUs, ASIPs & Accelerators | Computer Architecture | HW/SW Co-Verification | Performance & Rack-Scale Computing"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-05T22:40:00+00:00",
+      "posted_at_hint": "3w",
+      "posted_at_approx": true,
+      "text": "Seeing the recent trend and based on my understanding, i also happen to post my perspective :- https://lnkd.in/p/dBAsQ6xw",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "vishnu priyan",
+        "profile_url": "https://www.linkedin.com/in/vishnu-priyan-6016a4212/",
+        "headline": "ASIC verification and design trainee"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Great analysis",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T22:40:00Z"
+}

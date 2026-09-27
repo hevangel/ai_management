@@ -1,0 +1,21 @@
+{
+  "activity_id": "7494156505571659776",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494156505571659776/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-14T12:00:00+00:00",
+  "posted_at_hint": "Aug 14",
+  "posted_at_approx": true,
+  "text": "Anthropic guardrail makes Claude useless. I ask it to help me set up ssh from WSL in my laptop to my Linux server, it refuses to do it thinking I am doing some hacking.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-26T22:55:00Z"
+}

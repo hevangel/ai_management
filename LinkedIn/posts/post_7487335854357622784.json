@@ -1,0 +1,132 @@
+{
+  "activity_id": "7487335854357622784",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487335854357622784/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-26T12:00:00+00:00",
+  "posted_at_hint": "Jul 26",
+  "posted_at_approx": true,
+  "text": "#DVCON submission skills - fully automated of writing the paper, create the pdf file, register the extended abstract and upload the paper for you.   No human touch is required.\n\nhttps://lnkd.in/gSGSD7wH",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "dvcon_ai_library/plugins/dvcon-papers/skills/dvcon-submit/SKILL.md at main · hevangel/dvcon_ai_library",
+    "url": "https://lnkd.in/gSGSD7wH"
+  },
+  "reshared_post": null,
+  "likes": 11,
+  "reposts": 0,
+  "comment_count": 7,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Paul Marriott",
+        "profile_url": "https://www.linkedin.com/in/paulmarriott/",
+        "headline": "Senior Principal Verification Engineer at NXP"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-28T01:38:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "I can tell you that all abstracts/papers that were written by AI will be rejected by the TPC.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Dave Rich",
+            "profile_url": "https://www.linkedin.com/in/davidrich/",
+            "headline": "Distinguished Technical Advisor at Arteris IP DVCon Technical and Steering Committee SystemVerilog IEEE Technical Chair"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-28T01:38:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Paul, Actually, it appears this skill doesn't write the content of the paper, just automates the process.",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Paul Marriott",
+            "profile_url": "https://www.linkedin.com/in/paulmarriott/",
+            "headline": "Senior Principal Verification Engineer at NXP"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-28T01:38:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Dave Rich ok - thanks for the clarification as it read like it automates everything! Having AI check that all of the submission rules and formatting guidelines are respected would be a useful skill, though!",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-28T01:38:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Paul Marriott AI can't write good paper, but it can save you some mouse clicks",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dave Rich",
+        "profile_url": "https://www.linkedin.com/in/davidrich/",
+        "headline": "Distinguished Technical Advisor at Arteris IP DVCon Technical and Steering Committee SystemVerilog IEEE Technical Chair"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-28T01:38:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "This is what the next generation has to look forward to: https://www.youtube.com/shorts/2zb7S2beKOE",
+      "likes": 9,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Paul Marriott",
+            "profile_url": "https://www.linkedin.com/in/paulmarriott/",
+            "headline": "Senior Principal Verification Engineer at NXP"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-28T01:38:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Dave Rich that is absolutely hilarious!",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Barry Moss",
+        "profile_url": "https://www.linkedin.com/in/barrygmoss/",
+        "headline": "FPGA/ASIC Design Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-29T01:38:00+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "Then why bother attending? AI can just present the paper that it wrote instead.  😃",
+      "likes": 3,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T01:38:00Z"
+}

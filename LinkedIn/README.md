@@ -6,14 +6,18 @@ links, comment text, timestamps, nested replies, and Horace's own replies).
 
 ## Coverage
 
-- **201 posts**, 2026-04-05 → 2026-09-26 (newest first in `index.json`)
-- 80 top-level comments, 63 nested replies, all threads fully expanded
+- **291 posts**, 2026-04-20 → 2026-09-26 (newest first in `index.json`)
+- 184 top-level comments, 160 nested replies, all threads fully expanded
 - LinkedIn renders only relative timestamps ("2w", "Jun 2"), never an
   absolute `<time datetime>` — so `posted_at` is approximated from the
   relative hint anchored at each post's `scraped_at`
   (`posted_at_approx: true`; the original hint is kept in `posted_at_hint`)
-- Scope note: the activity feed holds 600+ posts; this archive covers the
-  201 most recent verified post IDs. Older posts are not yet included.
+- Scope note: the activity feed holds 520+ posts (still growing; "Show more
+  results" present as of 2026-09-27). This archive covers 291 verified posts:
+  the 201 most recent (round 1, 2026-09-26) plus a 2026-09-27 audit correction
+  that recovered 64 posts the first enumeration had missed, interleaved in the
+  top region, plus 28 older posts down to #520. Posts older than #520 are not
+  yet included.
 
 ## Layout
 

@@ -1,0 +1,21 @@
+{
+  "activity_id": "7487222280276803584",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487222280276803584/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-26T12:00:00+00:00",
+  "posted_at_hint": "Jul 26",
+  "posted_at_approx": true,
+  "text": "Amazon Kiro monthly plan is still priced based on per task instead of real tokens usage, like the old Github Copilot.   If you know how to prompt/agent well, it is the cheapest frontier tokens you can burn.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T01:41:00Z"
+}

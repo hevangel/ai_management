@@ -1,0 +1,113 @@
+{
+  "activity_id": "7487316154756059136",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487316154756059136/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-26T12:00:00+00:00",
+  "posted_at_hint": "Jul 26",
+  "posted_at_approx": true,
+  "text": "Why does everyone think AI writing bad code is a problem?\n\nWe have natural un-intelligence writing bad code day in day out for decades, and we are mostly doing fine.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 6,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-29T01:46:00+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "A lot of the aggressive AI criticism on this platform isn't about technical accuracy—it's about job security.\n\nWhen a technology threatens to automate routine tasks people built their careers on, instinct kicks in:\n\n- Label it useless.\n- Magnify every mistake.\n- Hope it goes away.\n\nDismissing AI might buy short-term peace of mind, but it won't stop the industry from evolving.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Martin Zouhar",
+        "profile_url": "https://www.linkedin.com/in/martin-zouhar-44767237b/",
+        "headline": "Scientific Researcher/Programmer at Institute of Scientific Instruments of the CAS"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-28T01:46:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "How about the following:\n\nBecause if you review what you perceive to be a smelly code and the committer replies \"LLM told me so\" without having a good defence why it should be this way OR admit \"I messed up by blindly trusting and not checking thoroughly.\" it simply... makes you, let's put it mildly, upset.\n\nAnd if many companies claim to be *all* for carbon neutrality accepting sub-optimal code from AI/LLM (because it can just be a minimal viable product) instead of hiring capable people and giving them the time to do it right (I am not against LLM's assistence), they increase electricity consumption shooting themselves in their hypocritical feet.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-28T01:46:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "AI data center does not use a lot of electricity in the grand scheme of things.  If energy or carbon is what you worry about, Thanos' answer is the only solution.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Martin Zouhar",
+            "profile_url": "https://www.linkedin.com/in/martin-zouhar-44767237b/",
+            "headline": "Scientific Researcher/Programmer at Institute of Scientific Instruments of the CAS"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-28T01:46:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Or a milder approach suggested in the bleak (considered rather optimistic by the author in 1990) future \"Earth\" by David Brin: cryogenically freeze half of the population to free resources for the breakthrough.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-28T01:46:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "or forget about AI, let's genetically modify dolphins instead",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Martin Zouhar",
+            "profile_url": "https://www.linkedin.com/in/martin-zouhar-44767237b/",
+            "headline": "Scientific Researcher/Programmer at Institute of Scientific Instruments of the CAS"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-28T01:46:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "They might eventually decide to leave but thank us for all the fish just before they go.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-27T01:46:00Z"
+}

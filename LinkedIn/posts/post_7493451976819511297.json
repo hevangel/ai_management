@@ -1,0 +1,52 @@
+{
+  "activity_id": "7493451976819511297",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493451976819511297/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-12T12:00:00+00:00",
+  "posted_at_hint": "Aug 12 (Edited)",
+  "posted_at_approx": true,
+  "text": "Opus 5 is dumb and lazy. It just keep guessing what's wrong in my host instead actually run a Linux command to diagnose what's wrong.\nI know I can add some Linux diagx skill to Claude Code to make it behaves, but the thing is Opus actually know how to do it within its own weights. I just have to yell at it saying it is dumb and lazy, then it will do its job properly.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Chuck McClish",
+        "profile_url": "https://www.linkedin.com/in/chuckmcclish/",
+        "headline": "Founder & CEO at Lattrex Inc. | Designing asynchronous parallel processors for software-defined radio | 15+ years in semiconductor design | Turning nature-inspired silicon into real products"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:55:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Oh yea, yelling at Claude will put it back on track a lot of times, and \"here's the thing they never tell you:\" it can be great therapy 😆",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mitu Raj",
+        "profile_url": "https://www.linkedin.com/in/iammituraj/",
+        "headline": "RTL Design Engineer & Embedded SW Developer ⇋ Founder & Content Creator at Chipmunk Logic™"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:55:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Cool, so the AI is becoming more humane and conscious.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-26T22:55:00Z"
+}

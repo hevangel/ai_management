@@ -1,0 +1,1336 @@
+{
+  "activity_id": "7496478978321494016",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496478978321494016/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-08-21T12:00:00+00:00",
+  "posted_at_hint": "Aug 21",
+  "posted_at_approx": true,
+  "text": "Hardware engineer's job is pretty safe from AI.\n\nI just ran an experiment, I asked Opus-5 to recreate 74181 in SystemVerilog from the original spec pdf one-shot. It just has to write an implementation plan, a testplan, a formal plan, then write a UVM testbench, run the simulation, write the assertions and prove them, close the coverage, pretty easy task, even an intern can do it.\n\nOpus has been running for 2 hours, burning almost $200 tokens and there is no ending in sight.\n\nThe funny thing is during my feasibility research, Opus said it already know 74181 from its weight. It can answer questions about 74181 pretty well.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 233,
+  "reposts": 2,
+  "comment_count": 86,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jason L.",
+        "profile_url": "https://www.linkedin.com/in/jason-l-31b562/",
+        "headline": "Innovative Wireless, AI, ITS & IoT Solutions"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-09-05T22:40:00+00:00",
+      "posted_at_hint": "3w",
+      "posted_at_approx": true,
+      "text": "My guess is that Opus-5 hasn't \"learned\" this particular task yet. :)",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Tanya R",
+        "profile_url": "https://www.linkedin.com/in/tanyaradzwa-runzonza/",
+        "headline": "Director of Engineering | AI EDA Tools | Chip Design Automation"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Many of the challenges in hardware development often lie in these seemingly trivial later stages",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Craig Force",
+        "profile_url": "https://www.linkedin.com/in/force/",
+        "headline": "Principal Business Manager | Driving Growth in Semiconductor Test by Uniting Technical Innovation and Commercial Strategy"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Interesting, but it's kinda like looking through the wrong end of the binoculars - SystemVerilog, RTL, et al are a means to synthesize physical hardware within a software environment - an LLM already has this capability baked-in - it's like asking a car to emulate a horse - academically conversational",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Chi-sheng Wu",
+        "profile_url": "https://www.linkedin.com/in/chi-sheng-wu/en/",
+        "headline": "Algorithm Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "I am an algorithm and compiler engineer, not a RTL designer. I just let AI find a way to work on RTL and ask agent to summary successful experiences into skill.md after each experiment. The agents build its own skill.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Chi-sheng Wu",
+        "profile_url": "https://www.linkedin.com/in/chi-sheng-wu/en/",
+        "headline": "Algorithm Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1mo",
+      "posted_at_approx": true,
+      "text": "Not exactly, I used gpt5.6 to design a dual issue RV64 processor. It works. Your job is not safe at all. https://github.com/exeex/edge-cores This is the project. By the way, Claude is not good at verilog at all.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Chi-sheng Wu did you one shot the whole RV64 with a single prompt, no skill, no additional human knowledge form you?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Joseph Syu",
+            "profile_url": "https://www.linkedin.com/in/joseph-syu-675174207/",
+            "headline": "Digital Implementation Engineer | DTP at TSMC"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-09-05T22:40:00+00:00",
+          "posted_at_hint": "3w",
+          "posted_at_approx": true,
+          "text": "Chi-sheng Wu GPT is better？",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vrinda Karuvanchery",
+        "profile_url": "https://www.linkedin.com/in/vrinda-karuvanchery/",
+        "headline": "ASIC Physical Design Engineer | AI Accelerators & High-Performance Computing SoCs | RTL-to-GDSII | Advanced Node Physical Design | VLSI Researcher | PhD, Electronics"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "hmm, I wouldn't take this as proof that hardware engineers are \"safe\". Models will get much better at RTL and verification flows. The harder part is that hardware doesn't forgive \"mostly right\". You can generate something that looks clean, simulates for a few cases, and still miss a corner case, synthesis behavior, timing assumption, or physical constraint that shows up much later. That's the part engineers still own... Not just writing RTL, but knowing whether the design intent has actually survived through verification, formal, coverage, synthesis, and implementation. Imo, AI will definitely speed up the loop. But in silicon, the cost of being confidently wrong is not a bad deploy. It is a respin.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Samuel A. Gray III",
+        "profile_url": "https://www.linkedin.com/in/samuel-a-gray-iii-1667b238b/",
+        "headline": "Fmr. Sr. Systems Engr., NG Tactical Space Syst. (contr.) , Sterling VA."
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1mo",
+      "posted_at_approx": true,
+      "text": "So I would not be able to do it in ChatGPT based on your post? How much do you want to bet on it? I plugged your post into ChatGPT at 15:10 MT. I'll tell you when it's done. Took 10m in ChatGPT web in high mode. + a few m to compress to a comment window. The easiest artifact is a self-contained launcher. Dld & run it; by default it installs under ~/RPA2/gpt/74181-challenge, inventories available EDA tools, & runs every verif. stage available. Dld standalone 74181 challenge script The complete source pkg is also available: Dld complete 74181 challenge project ZIP It contains: synthesizable alu74181.sv , independent Table-2 reference RTL, & exhaustive 16,384-vector SystemVerilog regression; full UVM sequence/driver/monitor/scoreboard with functional coverage; formal harness plus Yosys/SymbiYosys proof configurations; Icarus, Verilator/code-coverage, formal, & Questa/VCS/Xcelium UVM runners; implementation, test, formal, coverage-closure, provenance, & validation records. I also executed an independent equation-vs-datasheet verification: REFERENCE_PASS vectors=16384 mismatches=0 COVERAGE control_cross=64/64 ab_cross=256/256 full_input_space=16384/16384 The container lacked Icarus, Verilator, Yosys/SymbiYosys, & a UVM-capable sim.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Samuel A. Gray III Sol can one shot it already",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Samuel A. Gray III",
+            "profile_url": "https://www.linkedin.com/in/samuel-a-gray-iii-1667b238b/",
+            "headline": "Fmr. Sr. Systems Engr., NG Tactical Space Syst. (contr.) , Sterling VA."
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Samuel A. Gray III Here's a link to a zip file of the html ouput that I put on GitHub: https://github.com/gray3s/brilliance/blob/main/Implement_74181_Challenge.zip Overall that took me 32 minutes including a piss-stop What's that, half an hour of your interns' time that he could have spent working on other things? Divided by what multiplier? ps I barely know how to spell Verilog",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Samuel A. Gray III",
+            "profile_url": "https://www.linkedin.com/in/samuel-a-gray-iii-1667b238b/",
+            "headline": "Fmr. Sr. Systems Engr., NG Tactical Space Syst. (contr.) , Sterling VA."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan I don't think that challenge came out in your favor, regardless of what you think of it. Worry about what your project-manager thinks",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bradley R.",
+        "profile_url": "https://www.linkedin.com/in/bradley-r-91b08252/",
+        "headline": "Circuits, Systems and Software"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "what do you mean: Opus said it know 74181 from its weight? I know the 74181 from TI databooks, such a wonderful and important chip, Im always interested in buying some up but thats impressive",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Bradley R. probably Opus has read the spec and some source code in pre training",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Cory Merkel",
+        "profile_url": "https://www.linkedin.com/in/cory-merkel-6598008b/",
+        "headline": "Associate Professor of Computer Engineering at Rochester Institute of Technology"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Hmm....I wonder if AI tools were ever bad at other things before they weren't...",
+      "likes": 4,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Enoch Wang",
+        "profile_url": "https://www.linkedin.com/in/enoch-wang-801399137/",
+        "headline": "Building Binary Analysis, Cybersecurity and Networks MS, Computer Engineering BS"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Well. HDLs run in parallel right? I imagine that's inherently a difficult problem for auto regression systems. It might need to design itself a harness to plan the design then implement individual components of it. I imagine in the future when diffusion coding becomes more commonplace this will be a much more solved problem.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Palaash A.",
+        "profile_url": "https://www.linkedin.com/in/palaasha/",
+        "headline": "Quality Engineer – SDET at Azul, specializing in JVM, compiler/runtime validation and performance analysis."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Its Opus. Expect it to do Einstein level hypothesis in Shakespearen level English just to do a simple 1+1. Expecting Opus to be fast is like asking a Caterpillar truck to compete against a Lincoln town car.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ata Kuyumcu",
+        "profile_url": "https://www.linkedin.com/in/ata-kuyumcu/",
+        "headline": "Software Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "> I asked Opus 5 to cook mom's spaghetti from a scribble on a napkin and it failed. Ha!",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Subhasis Sengupta",
+        "profile_url": "https://www.linkedin.com/in/subhasis-sengupta-6ba9971/",
+        "headline": "Intel Corporation"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "This seems to be an interesting topic to write into, as i find most of linkedin on my feed are mostly people doing their bravado of their personal achievements or some political posturing bravado. Having said that, I am using AI and I will not mention which one in day-to-day life for my logic design and specially FPV. Yes, AI can write the body of my RTL and a structure of the SM, or some basic counters, but when I see the code, the Architecture to RTL transition is just not that great but pretty horrible and I would definitely say I don't have to define ports or write out a FSM state body which significantly helps me in effort, at the same time I see AI does pretty good job in SV FPV, I had to hardly change 20% of the assertions or coverage it actually wrote into. The major plus point for AI is SoC RTL Integration, however it is again good for dedicated interfaces, try to mix and match IP interfaces from different vendors, in house it doesn't do a good job, but for legacy companies, i think AI for SoC RTL does pretty good job. Having started with VHDL and having a command in VHDL moving to Verilog, and then to SV without any info on SV AI does help me a lot.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Subhasis Sengupta",
+        "profile_url": "https://www.linkedin.com/in/subhasis-sengupta-6ba9971/",
+        "headline": "Intel Corporation"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "In one other block AI wrote the RTL pretty good, but that was an easy application. For sure AI has the capability to reduce SoC RTL/ Verification guys, and FPV guys and who knows what happens for Logic Designers. What I would say is the industry will move towards 1 very experienced Logic Designer/Architecture guy who can own everything and AI doing the remaining, and 1 support staff for Design and Verification and Back end jobs in low cost geographies. More importantly Experience Archtecture/Logic Designers can take from concept to SDC definition, and AI can do the remaining. Perhaps in future Logic Designers will be removed as SV to Chisel transition is happening.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ashmit Dutta",
+        "profile_url": "https://www.linkedin.com/in/ashmitdutta/",
+        "headline": "Illinois ECE | Trustworthy AI"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1mo",
+      "posted_at_approx": true,
+      "text": "Hardware engineers are safe not because you can necessarily \"one-shot\" something, but rather because there is a specific skill-set and understanding you need which only comes from writing a bunch of Verilog and testbenches. Let's not mix these up. I'm very confident that you can do this if prompted correctly but understanding the tradeoffs and performance bottlenecks of different design decisions, knowing hardware specs, etc is a completely different ball game.",
+      "likes": 3,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Ashmit Dutta Yeap. That's what I am already doing, babysitting the AI to make it actually useful. But what if AI doesn't need human to babysit?",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Kevin Meza",
+        "profile_url": "https://www.linkedin.com/in/kevin-meza-hn/",
+        "headline": "Building Recibo. Cloud reasoning → bounded edge execution → portable receipt. Turning software capabilities into portable assets. Occasionally in Honduras"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "I suspect that the problem isn't the model, the problem is what the model can see and the information it has access to, its operating purely on A priori data with no a posteriori data, Give the model a microscope instead of asking it to remember what the microscope would show. Zig seems like it would be a good language for this",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Kevin Meza I could add a few digital design textbook into the docker of the run next time. I don't think it would help much.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Josef Long",
+        "profile_url": "https://www.linkedin.com/in/josef-long/",
+        "headline": "Systems Architect | PM @ServiceTrade | Multi-Hyphenate Polymath"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "You are very wrong my friend I have it figured out. You just think on the wrong level of abstraction. What if you represent all the components and the engineering state as a Hypergraph. Then you have an adjoint Hypergraph rewriting loop on which agents can operate. And if the models are complete then they have something to drive on.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Josef Long what is hypergraph?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Josef Long",
+            "profile_url": "https://www.linkedin.com/in/josef-long/",
+            "headline": "Systems Architect | PM @ServiceTrade | Multi-Hyphenate Polymath"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan Pm me, I'll send you my paper on it",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dan B.",
+        "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+        "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "But you also need to ensure it doesn't \"cheat\" and just copy code from the internet. That is the real test.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Dan B. that is easy. Turn off network access in docker.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Cees van Teylingen",
+        "profile_url": "https://www.linkedin.com/in/ceesvanteylingen/",
+        "headline": "Account Manager"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Horace Chan Wouldn't be too sure about that: https://www.tomshardware.com/tech-industry/artificial-intelligence/dual-pcb-linux-computer-with-843-components-designed-by-ai-boots-on-first-attempt-project-speedrun-was-made-in-just-one-week-and-required-less-than-40-hours-of-human-work",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Cees van Teylingen they still a human in the loop. My experiment is NO human, spec goes in, everything working comes out on the other side",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Richard Wheatley",
+        "profile_url": "https://www.linkedin.com/in/richard-wheatley-0678077/",
+        "headline": "Coding is easy if you let it be."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "If you did a proper job of giving the AI the correct prompting, the job would have been done right.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Richard Wheatley yeap. But then I am just babysitting the AI, my job is still safe",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Richard Wheatley",
+            "profile_url": "https://www.linkedin.com/in/richard-wheatley-0678077/",
+            "headline": "Coding is easy if you let it be."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "That's not babysitting. That's training.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ajith Padman",
+        "profile_url": "https://www.linkedin.com/in/ajith-padman-a62a1049/",
+        "headline": "Principal Engineer Technical Marketing @ Infineon Technologies | Promoting Compute and Embedded AI Technologies"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "the problem is how you approach AI to do certain task. AI shall not be assumed as a magic box that can solve complex task with just one prompt. you need to setup best practices knowledgebases , skills and custom agents to make it perform under guardrails. if you consume 200k tokens and still didnt produce valid results , the issue is your harness setup not the model itself. And in my opinion even hardware engineers job in its traditional sense is not impossible for AI when approached correctly.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Marcel Trimpl",
+        "profile_url": "https://www.linkedin.com/in/marcel-trimpl-3615624/",
+        "headline": "Sensor and ASIC Technology Development"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "You are asking the wrong question. The task is not to prove how unsuccessful AI is and how to prove that it fails, the task for You is to use AI to be successful. If you are concerned about job security, I would start right there.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Marcel Trimpl I already got that covered. As long as I am babysitting the AI, I still have a job. But what if AI doesn't need anyone to babysit?",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "KINGSUK BAG",
+        "profile_url": "https://www.linkedin.com/in/kingsuk-bag-ba859b175/",
+        "headline": "Boot & Security Architect at Nvidia ¦ Ex RTL Design Engineer at Qualcomm ¦ Gold medalist IIITA"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Use Fable and I promise your expressions will change👀",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "KINGSUK BAG can't waste my fable quota on silly stuff.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Gabriel G.",
+            "profile_url": "https://www.linkedin.com/in/ggmller/",
+            "headline": "Embedded Systems Developer | C/C++ • Python • Go • Automation"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "KINGSUK BAG I tried to use Fable to solve an undergraduate level exam on V&V and it failed even after many tries.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Opus finally got it done https://lnkd.in/p/gbYdgcBa",
+      "likes": 5,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Pratyush R.",
+        "profile_url": "https://www.linkedin.com/in/pratyushkranjan/",
+        "headline": "Senior Lead at CapitalOne | Prev: AWS Sagemaker"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Tune the model for Verilog, HDL, SystemC or any design tasks, and then run the same experiment. The results will differ. Custom specialists models are the future.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Daniel Joyce",
+        "profile_url": "https://www.linkedin.com/in/danieljoyce/",
+        "headline": "AI Native Software Engineer / Consultant / Fractional CTO"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Today AI is the worst it will ever be.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Kevin Normoyle",
+        "profile_url": "https://www.linkedin.com/in/kevin-normoyle-8bb1024/",
+        "headline": "Life!"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1mo",
+      "posted_at_approx": true,
+      "text": "In terms of machine learning in hw development...adder optimization is one of the most basic things. See here for Nvidia in Hopper GPU, for ML-generated adder. up to 16% and 30% lower area for same delay in 32b and 64b if you want to call this \"not AI\" okay..if you're somehow limiting thigs to llm architectures for machine learning? real shipped silicon PrefixRL — NVIDIA, DAC 2021 (deployed in Hopper GPU) arXiv: https://arxiv.org/abs/2205.07000 NVIDIA blog post: https://developer.nvidia.com/blog/designing-arithmetic-circuits-with-deep-reinforcement-learning/",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Kevin Normoyle Humans using AI is not the same as AI replacing humans. The only way an AI can replace humans engineers is I give it a spec and it gives be back everything working, total hands off, no baby sitting.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kevin Normoyle",
+            "profile_url": "https://www.linkedin.com/in/kevin-normoyle-8bb1024/",
+            "headline": "Life!"
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan why would you make those rules? No one gets paid for playing with AI. it's about an end product. One does what's best for the end product. It's like, sure, you can make up a game and say \"Fail\" But why bother?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Kevin Normoyle using AI to build the end product is not my concern, I am more concerned about my job security",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kevin Normoyle",
+            "profile_url": "https://www.linkedin.com/in/kevin-normoyle-8bb1024/",
+            "headline": "Life!"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan Reverse it. \"I am concerned about my job security\". therefore learn to \"Use AI to build the end product\" I mean if someone can do better than you (using any process) ... then yeah, the right answer is not to hire you. Wouldn't make any sense.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Kevin Normoyle I am not worrying about any human can do a better job than me, I am pretty good at it, especially with the help of AI. I am worry about AI is better than all humans",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Samuel A. Gray III",
+            "profile_url": "https://www.linkedin.com/in/samuel-a-gray-iii-1667b238b/",
+            "headline": "Fmr. Sr. Systems Engr., NG Tactical Space Syst. (contr.) , Sterling VA."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan ...worry about your own job, bud especially if you're posting on LI at work",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ting Liang",
+        "profile_url": "https://www.linkedin.com/in/ting-liang-94a826a/",
+        "headline": "Senior AI Software Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Whenever I see some pretty safe comment it is clear to me these people have no idea how Reinforcement Learning works. Even if you can find a currently sparsely researched field such as Hardware, as long as the task can been decomposed into steps, once the AI company collects your harness and successful steps the next iteration of fine tuning will train the policy network to narrow down the search space automatically. The core algorithm doesn't need to change, it just needs more relevant data.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Ting Liang That is the real moat of human. Have you seen well documented SV code that is suitable for RL at all? All SV code I come across in my whole career are all a big mess.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Goutham N",
+        "profile_url": "https://www.linkedin.com/in/gouthamn99/",
+        "headline": "Senior Verification Engineer at Micron | Ex-Synopsys | AI/ML Silicon | UVM | SV | Automation | RAG pipelines | Computer architecture"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "This is less about AI knowing the 74181 and more about task decomposition. 😄 Break it into smaller prompts, give detailed context, review each stage, and iterate.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Goutham N an intern can code a 74181 in 2 pages. It is just a 16 pins 4 bit ALU. The pdf spec is just 15 pages. It is not a very hard problem",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Kevin Normoyle",
+        "profile_url": "https://www.linkedin.com/in/kevin-normoyle-8bb1024/",
+        "headline": "Life!"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Two interpretations to clarify before I start: Behavioral — model the 74181's function (ALU operations, carry, equals) without worrying about gate-level structure. Structural/gate-level — replicate the actual logic gates as close to the original chip as possible.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kevin Normoyle",
+            "profile_url": "https://www.linkedin.com/in/kevin-normoyle-8bb1024/",
+            "headline": "Life!"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "I got something right away in sonnet 4.6 so you have to describe more what you asked for, and why it was a problem. It's not a problem: 74181 ALU in SystemVerilog — behavioral model with full pin-accurate I/O. Dual-mode: logic (bitwise ops) and arithmetic (add/subtract variants), selected by M. All 16 function combinations per mode driven by S[3:0]. Carry is active-low throughout, matching real chip convention. Includes group lookahead outputs (G, P) for chaining with a 74182, and AeqB for comparisons. Clean always_comb block — no clocks, no state, pure combinational.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kevin Normoyle",
+            "profile_url": "https://www.linkedin.com/in/kevin-normoyle-8bb1024/",
+            "headline": "Life!"
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "my first iteration had some issues, but easily fixed ❌ What's Missing b_eff declared but unused — dead code, and it'll cause a compile error in context. No testbench — with the arithmetic bugs above, there's no way to catch them without one. Active-low input variant — there are two truth tables: active high data and active low data. The same circuit can be represented as though the outputs are inverted or not. Your file only handles active-high. A parameter or second module for active-low would be needed for a complete model. AeqB open-collector behavior — the A=B pin is wired as low or tri-state rather than low or high. Your model drives it as a normal logic output. For accurate silicon modeling it should be wire with tri-state (1'bz when false). No overflow/signed flag — not on the original chip either, but commonly needed when integrating.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ravi Sharma",
+        "profile_url": "https://www.linkedin.com/in/sharmaravik/",
+        "headline": "Software Engineering"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Try ChipAgent ;)",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Ravi Sharma it is a lot of trouble to test drive those AI chip design startup. They don't even have a YouTube video on how their product looks like in real life Those AI chip design startup should just build a classic chip like 74181 or 4004 in a public GitHub repo, let people look at their AGENT.md and the human readable session history trace to let us eval their product.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nitesh Phabiani",
+        "profile_url": "https://www.linkedin.com/in/niteshphabiani/",
+        "headline": "Technical Program Manager @ Meta | Consumer Hardware Programs, NPI & Operations | Ex-Amazon"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1mo",
+      "posted_at_approx": true,
+      "text": "every blanket AI statement needs to end with *at least in the short term*",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Nitesh Phabiani at long as it is longer than my retirement, it is not my problem",
+          "likes": 2,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Tahoma Toelkes",
+        "profile_url": "https://www.linkedin.com/in/tahomatoelkes/",
+        "headline": "Grinding Away"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1mo",
+      "posted_at_approx": true,
+      "text": "As a related aside, Opus 5 is a downgrade from Opus 4.8, from my experience.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Tahoma Toelkes good point. Let me kick off a Opus 4.8 run",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Tahoma Toelkes",
+            "profile_url": "https://www.linkedin.com/in/tahomatoelkes/",
+            "headline": "Grinding Away"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan , that's been a qualitative judgement, so I'm eager to see the results of your mini-benchmark.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Yifeng Wang",
+        "profile_url": "https://www.linkedin.com/in/yifeng-wang-3b4223214/",
+        "headline": "ETH PhD candidate in Physics | AI network infra"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "Can you show me your prompt and your environment? Also with subscription the cost is ~40x lower.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Yifeng Wang it is just Claude code. The price is calculated based on tokens and the public API cost, not the actual money. Literally, you saw the prompt in the message. It has a little bit instructions on where to put the files, how to collect progress stats, etc. But I didn't give AI any special skill other than the pdf file, a markdown version of the pdf and pdf convertered to PNG page by page. I want to test how good the AI is on its own. I know with the real RTL/DV skills I built for my day job, Opus can easily one shot a 74181 probably for $20. But I am the puppet master in that case, I still get to keep my job. Put human behind the scene to control AI to build RTL block is a solved problem probably around the time of Sonnet 4.5 with a good harness. It is just how much baby sitting the AI needs",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Yifeng Wang",
+            "profile_url": "https://www.linkedin.com/in/yifeng-wang-3b4223214/",
+            "headline": "ETH PhD candidate in Physics | AI network infra"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan Opus 5 is good at doing scoped work, so I am not so surprised for such \"open\" prompt. Nowadays, most skills are absorbed in post-training, so your skills must be highly insightful or simply confine the task into more scoped one. Nevertheless, running for 2 hours while spending so much token means it is not trapped in simulation but doing some thinking loop without an exit.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Rohil Khare",
+        "profile_url": "https://www.linkedin.com/in/rohil-khare/",
+        "headline": "Founder @ YC S25 | RL Researcher | AWS MLE Ops"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "We did it: https://github.com/SigmanticAI/apex-inference-chip",
+      "likes": 3,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Rohil Khare is human the puppet master behind the scene or AI one shot the whole chip?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Rohil Khare",
+            "profile_url": "https://www.linkedin.com/in/rohil-khare/",
+            "headline": "Founder @ YC S25 | RL Researcher | AWS MLE Ops"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan Polaris can one shot since it has access to an intent solver in its tool belt, verification at its core basis taking one step back from code generation is actually intent generation, if you solve intent, you can take the first step towards solving verification",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Rohil Khare is the intend solver inside that repo or some EDA tools?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Rohil Khare",
+            "profile_url": "https://www.linkedin.com/in/rohil-khare/",
+            "headline": "Founder @ YC S25 | RL Researcher | AWS MLE Ops"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan No its the secret sauce behind my companys product!",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ayman Mohamed",
+        "profile_url": "https://www.linkedin.com/in/aymanhw/",
+        "headline": "Digital Design Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "with some Reinforcement Learning from actual HW engineers and/ or some HW skill files baked into the LLM harness it's going to be very easy .. AI or specifically LLMs are the next gen scripting tools .. it's just too big, non deterministic, and it needs careful guidance to get satisfactory outputs rather than hard written scripting languages that automates less but it's deterministic",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Ayman Mohamed I am not sure it is practical to RL SV design tasks, the license cost of EDA tools is very expensive and simulation runs very slow.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-founder"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "I think the problem is the scope. Instead of asking the model to go from spec → RTL → UVM → formal → coverage closure in one shot, break it into smaller tasks and let each step finish before giving it the next one. Otherwise the search/state space gets too large, and the agent can spend a lot of time exploring and reworking earlier decisions.",
+      "likes": 15,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen in my prompt, I ask the master agent to use sub agent. Opus should be smart enough to split up the task",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Manoj V.",
+            "profile_url": "https://www.linkedin.com/in/mvfpga/",
+            "headline": "Sr. VP | AI/ML FPGA/ASIC HFT Expert | ex- AMD | ex-SIG | Inventor (14 global patents )"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan did you try /plan ?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Manoj V. the one shot prompt is created by multiple round plan mode, sort of, reviewed by both Opus and Sol saying that it is fair. I am pitching Opus and Sol head to head in a race.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen BTW i have a bug report for you. Should I just file a GitHub issue at xezim? Is there any template for the GitHub bug report?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bondan Rufen",
+            "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+            "headline": "Co-founder"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan just file it at github. No format, more information will be better.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Binvy Moly Tom",
+        "profile_url": "https://www.linkedin.com/in/binvy-moly-tom-4a618b28/",
+        "headline": "Lead ASIC/SoC Design Verification Engineer @ AEVA | UVM & SystemVerilog | Storage (NAND/NOR/eMMC) & Interconnect (Ethernet, SPI, I2C, AHB/APB) Protocol Verification | Coverage Closure & GLS"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "SystemVerilog is a tough domain for LLMs. Compared to Python and JavaScript, the amount of open-source SV code is tiny. Less training data means weaker next-token prediction, weaker instruction tuning, and weaker reinforcement learning feedback loops. AI will absolutely help hardware engineers, but today it's much more of a copilot than a complete vibe coding tool.",
+      "likes": 8,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Binvy Moly Tom never mind open source SV code. Good SV code doesn't exist in this world. Every company I work, the SV code base is a mess.",
+          "likes": 5,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dave Rich",
+        "profile_url": "https://www.linkedin.com/in/davidrich/",
+        "headline": "Distinguished Technical Advisor at Arteris IP DVCon Technical and Steering Committee SystemVerilog IEEE Technical Chair"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-08-27T22:40:00+00:00",
+      "posted_at_hint": "1mo",
+      "posted_at_approx": true,
+      "text": "People did similar experiments when RTL synthesis tools were first introduced. A gate-level hardware engineer would take a single-page RTL specification and generate a significantly more efficient gate design than a synthesis tool could. Youu could spend a considerable amount of time constraining the synthesis tool and allowing it to perform more optimizations.The engineer would say, \"Why Bother?\" Eventually, the number of RTL lines of code grew so much that a gate-level engineer could no longer design the individual gates themselves, leading to synthesis tools winning over. All those gate-level design engineers became RTL design engineers.",
+      "likes": 55,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Dave Rich I think the hardware industry went down a different path, just buy 3rd party IP and wire them up. Surprising, LLM is pretty good at wiring IPXACT XML files.",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Dave Rich",
+            "profile_url": "https://www.linkedin.com/in/davidrich/",
+            "headline": "Distinguished Technical Advisor at Arteris IP DVCon Technical and Steering Committee SystemVerilog IEEE Technical Chair"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-08-27T22:40:00+00:00",
+          "posted_at_hint": "1mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan It's exactly the same path. Digital gate logic replaced analog switches; register transfer logic replaced gates. IP blocks are replacing RTL. But it's never 100% replacement either because of legacy or secret sauce.",
+          "likes": 6,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Dan B.",
+            "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+            "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1mo",
+          "posted_at_approx": true,
+          "text": "Dave Rich very true. More abstraction allows us to be more productive yet efficiency is lost. I started doing fpga design back in the 90's with schematics. Essentially \"human synthesis\". We eventually went to RTL because schematics just got too crazy large, inefficient and difficult to understand. I'm kind of hoping if we get to a type of spec driven AI design that it will actually force us humans to finally write good specifications. Fingers crossed. 🤞 😊",
+          "likes": 4,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-26T22:40:00Z"
+}

@@ -1,0 +1,21 @@
+{
+  "activity_id": "7456217837070893056",
+  "url": null,
+  "author": {
+    "name": null,
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": null,
+  "posted_at_hint": "May 1",
+  "posted_at_approx": true,
+  "text": "Here is what looks like on the other side of the post-AI era\n1. A human make a wish in Jira\n2. The same human or another human fire up Claude Code and say, \"work on Jira ticket ###\"\n3. The human baby-sits the AI, kick it every 2 hours, tell it to work harder, nudge it when AI is dumb, loop until the test passes.\n4. Ask AI to write down the lessons learned, commit, push, PR, update and close the Jira.\nNo typing, just lots of s̵w̵e̵a̵r̵i̵n̵g̵ talking to the AI",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": null
+}

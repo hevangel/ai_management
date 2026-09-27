@@ -1,0 +1,21 @@
+{
+  "activity_id": "7478364340841238528",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7478364340841238528/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-02T12:00:00+00:00",
+  "posted_at_hint": "Jul 2",
+  "posted_at_approx": true,
+  "text": "Finally, I got my Signal connected to my Hermes agent. Then I don't know what can I use it for?\n\nWrite code? Cursor and Copilot cloud is better, it can even push back into GitHub.\n\nChat? ChatGPT is a lot more convenient\n\nAutomation? I have it all set up with GitHub workflow and Jenkins before AI exists\n\nCan someone tell me what they use Claw or Hermes for? Why not just vibe code a script to do the same thing?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T01:30:00Z"
+}

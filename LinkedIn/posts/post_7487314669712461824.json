@@ -1,0 +1,21 @@
+{
+  "activity_id": "7487314669712461824",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7487314669712461824/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-26T12:00:00+00:00",
+  "posted_at_hint": "Jul 26",
+  "posted_at_approx": true,
+  "text": "The more we spend time on agent harness/loop/graph whatever, the more it feels like good old fashion engineering instead of AI.\n\nA true AI should be able to handle a new task on its own, not someone pre-calculates most of the valid paths for it ahead of time.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T01:46:00Z"
+}

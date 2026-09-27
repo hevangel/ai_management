@@ -1,0 +1,56 @@
+{
+  "activity_id": "7488012908183072769",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488012908183072769/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-28T12:00:00+00:00",
+  "posted_at_hint": "Jul 28",
+  "posted_at_approx": true,
+  "text": "Codeberg should require people write code in punch cards.\nBanning AI generated project in 2026 is a losing battle.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Codeberg gives vibe-coded projects the toss, promotes human FLOSS",
+    "url": "https://lnkd.in/dbG59MR5"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Matthew Ballance",
+        "profile_url": "https://www.linkedin.com/in/matthew-ballance/",
+        "headline": "Design Verification Methodology & Open-Source EDA | Applying AI to silicon design and verification"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-29T01:36:00+00:00",
+      "posted_at_hint": "2mo",
+      "posted_at_approx": true,
+      "text": "I saw this — was actually about to setup a project there when I saw it. Much of the rationale of relying on human developers does not align with my experience developing open source in a niche field.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-29T01:36:00+00:00",
+          "posted_at_hint": "2mo",
+          "posted_at_approx": true,
+          "text": "what's wrong with github?  why everyone migrating to alternative git server?",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-27T01:36:00Z"
+}

@@ -1,0 +1,21 @@
+{
+  "activity_id": "7468749304988356608",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468749304988356608/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan/",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-05T12:00:00+00:00",
+  "posted_at_hint": "Jun 5",
+  "posted_at_approx": true,
+  "text": "Using AI, you don't have to read the code, but you have to understand the code\n\nProbably you have to understand the code better than when you code by hand.  When you write code by hand, you can defer your understanding to when you actually read the code to modify it.  When using AI, if your mental model of the code is different from the reality, you may send the AI down the wrong path.\n\nThe scary thing is, the more powerful the AI, the more it will try to blend the reality into fit your illusion",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T01:35:00Z"
+}

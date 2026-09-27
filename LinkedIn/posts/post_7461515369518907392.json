@@ -1,0 +1,83 @@
+{
+  "activity_id": "7461515369518907392",
+  "url": null,
+  "author": {
+    "name": null,
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": null,
+  "posted_at_hint": "May 16 • Edited",
+  "posted_at_approx": true,
+  "text": "Don't believe those who tell you there will be infinite efficiency gains by adopting AI. It plateaued at about 80%. There is no way you can automate the last 20% of human work ever.\n\nWhy do I know? Because I literally let AI take care of 80% of my job and I cannot automate anymore. I run out of tasks that I can entrust to AI, I really need to look at the rest myself. There is a theoretical upper bound of AI efficiency gains.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 16,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Philip Maybank",
+        "profile_url": "https://www.linkedin.com/in/philip-maybank-3b373a40/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "May be a slightly pedantic comment, but would it be more accurate to say that (for you at least) the max productivity gain is 5x. Did I understand correctly - 80% of your previous total time constituted tasks that are now done by AI?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": null
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "right... it should be 5x, not 80%. mental slip.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ronen Karasik",
+        "profile_url": "https://www.linkedin.com/in/ronenkarasik/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "I challenge the use of the term automation here. Scripts automate. I look at AI as my infinite (well, depends on who picks up the token bill) army of extremely smart junior engineers that i can deploy onto any task. No sense in measuring that as % of automation achieved.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Akshay Ravish",
+        "profile_url": "https://www.linkedin.com/in/akshay-ravish-02519b1b4/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "Brother just admitted he automated 80% of his job and still kept the salary 😂",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": null
+}
