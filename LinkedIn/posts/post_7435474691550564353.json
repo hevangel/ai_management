@@ -1,0 +1,53 @@
+{
+  "activity_id": "7435474691550564353",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7435474691550564353",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-03-05T12:00:00+00:00",
+  "posted_at_hint": "Mar 5",
+  "posted_at_approx": true,
+  "text": "GPT-5.4 failed my Bloomberg cloning test too.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "JJ Marr",
+        "profile_url": "https://www.linkedin.com/in/jjmarr/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-01T02:54:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "What about gpt 5.4 pro",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": null
+          },
+          "is_author_reply": false,
+          "posted_at": null,
+          "posted_at_hint": "not shown on page",
+          "posted_at_approx": true,
+          "text": "Copilot or Cursor doesn't have it",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

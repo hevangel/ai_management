@@ -1,0 +1,21 @@
+{
+  "activity_id": "7432183460129226752",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7432183460129226752",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-02-24T12:00:00+00:00",
+  "posted_at_hint": "Feb 24 • Edited",
+  "posted_at_approx": true,
+  "text": "Opus 4.6 is too eager to get the task done.   When it calls an MCP tool and failed, next it simply bypasses the MCP call and run raw Linux command and call REST API directly.   If the MCP gives you an error, it fails for a good reason.  DON'T bypass it.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

@@ -1,0 +1,37 @@
+{
+  "activity_id": "7427785515770269696",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7427785515770269696",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-02-12T12:00:00+00:00",
+  "posted_at_hint": "Feb 12",
+  "posted_at_approx": true,
+  "text": "The Opus 4.6 version of DVCon AI library is also working. Web scraper, extraction pipeline, RAG database, LLM call backend, web GUI front end, all vibed coded in a few hours (on-and-off human time)\n\nFrom this exercise, I think GPT 5.3 is smarter than Opus 4.6, although Claude Code is definitely better than Codex in term of usability. Opus 4.6 got stuck at weird places, it keeps asking me to refresh the cache of my browser after I bsub the run to another host. It turns out somewhere in the code the server path is hardcoded to the previous LSF host. To be fair, I didn't switch the LSF host halfway in my GPT 5.3 run, so I actually don't know which LLM is smarter.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-01T02:54:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "Re-implement it with Cursor/GPT-4.5 on my own PC, so I can open source it\nOpen https://github.com/hevangel/dvcon_ai_library",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

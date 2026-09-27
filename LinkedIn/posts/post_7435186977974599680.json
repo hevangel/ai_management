@@ -1,0 +1,37 @@
+{
+  "activity_id": "7435186977974599680",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7435186977974599680",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-03-04T12:00:00+00:00",
+  "posted_at_hint": "Mar 4",
+  "posted_at_approx": true,
+  "text": "5 levels of creativity\n1. recombination\n2. abstraction\n3. constraint breaking\n4. evaluation\n5. persistence motivation\nAI is only good at 1 and 2.\nHuman still dominates 3 to 5.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-31T02:54:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "#4 can also be modeled",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

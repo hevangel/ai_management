@@ -1,0 +1,21 @@
+{
+  "activity_id": "7423983017708380161",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7423983017708380161",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-02-01T12:00:00+00:00",
+  "posted_at_hint": "Feb 1",
+  "posted_at_approx": true,
+  "text": "Now I understand why people buy Mac Mini for OpenClaw.\n\nIt is hard to get it up and running using Windows Docker.  The document is misleading, some configure are missing and don't work out of the box\n\nFinally I got OpenClaw up and running, now I am struggling to connect it to Telegram and Signals.\n\nOpenClaw's document is an AI slop.  I have to point my sonnet at its source code to figure out how to configure it. properly.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

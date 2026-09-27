@@ -1,0 +1,37 @@
+{
+  "activity_id": "7435832294281601024",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7435832294281601024",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-03-06T12:00:00+00:00",
+  "posted_at_hint": "Mar 6",
+  "posted_at_approx": true,
+  "text": "Congratulations to Matthew Ballance, who won the best paper award in DVCon 2026.\n\nIf you love python and your day job is verification, you have to check out his paper, his github repos and his blog.\n\n#AMDbrandambassaors\n\n[Quoted repost of DVCon U.S. (Mar 5): \"Congratulations to the DVCon U.S. 2026 Stuart Sutherland Best Paper & Poster winners! Matthew Ballance, AMD took 1st place for his paper, “Properly Introducing Python to your UVM Testbench.” Bryan Morris and Michael Silveira, both from Ciena Corp, earned best poster honors for “plusargs++: Make Plusargs Great … Like They Never Were Before.” Congratulations to the rest of the winners for their contributions to an outstanding program. Thank you to the DVCon U.S. 2026 Chair Xiaolin Chen 陈晓琳 and Program Chair Dave Rich for all of their hard work putting it all together! #AMD #CienaCorp #DVCon_US #Accellera #EDA #Synopsys\"]",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 11,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Kevork Dikramanjian",
+        "profile_url": "https://www.linkedin.com/in/kevorkdikramanjian/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-31T02:54:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "Congratulations Matthew! 👏👏",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

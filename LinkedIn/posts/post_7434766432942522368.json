@@ -1,0 +1,21 @@
+{
+  "activity_id": "7434766432942522368",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7434766432942522368",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-03-03T12:00:00+00:00",
+  "posted_at_hint": "Mar 3 (Edited)",
+  "posted_at_approx": true,
+  "text": "How about just ask the AI to recreate just the frontend using pencil, a figma alternative, that supports native agentic use.\n\ngpt-5.3 and opus-4.6 create a nice looking but still look very fake layout frames.\n\ngemini-3-pro is a total failure.  the boxes are a mess, but it still insists the layout look great.\n\nI will run this Bloomberg cloning test with all the new LLM release.   Until LLM can perfectly clone a Bloomberg chart, the jobs of human designers are still safe.\n\nThis is my marketing research of my buy the dip ADBE investing thesis, ADBE is oversold.  If AI can't replace human designers, people still need to buy Adobe subscriptions.   Well.... I bought the dip 15% too early.  Sigh...",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

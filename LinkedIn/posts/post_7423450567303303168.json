@@ -1,0 +1,21 @@
+{
+  "activity_id": "7423450567303303168",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7423450567303303168",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-01-31T12:00:00+00:00",
+  "posted_at_hint": "Jan 31",
+  "posted_at_approx": true,
+  "text": "Anthropic should train an English only Opus that is smaller, faster and cheaper\n\nEveryone writes code in English, why waste the model weights on languages that most people don't use.\n\nFor speakers of other languages, they can just put a translator model in front of the English only coding model.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

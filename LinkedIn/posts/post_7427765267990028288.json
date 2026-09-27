@@ -1,0 +1,52 @@
+{
+  "activity_id": "7427765267990028288",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7427765267990028288",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-02-12T12:00:00+00:00",
+  "posted_at_hint": "Feb 12",
+  "posted_at_approx": true,
+  "text": "2026 is the make or break year. Companies and people who are too late to adopt AI will get left behind.\n\n[Post shares an article: \"Something Big Is Happening\" by Matt Shumer]",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-30T02:54:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "I agree.\nAI is real. It's here. It can do tasks. Many tasks, but always limited to that of processing sequences of tokens, such as words and numbers, so that they turn into new, different sequences of words and numbers.\n…\nMany human jobs are also that of token manipulation, but humans live in a world of accountability, relationships, coordination, and exception handling. AI has started and will do a better job at token processing, but cannot do accountability, relationships, coordination, and exception handling.\nThe \"AI is building the next AI\" line is true. Models can write code, debug, test, evaluate, and speed iteration. However define what is written, what \"better\" means, and gate deployment. The loop is tooling acceleration, not autonomous evolution.\nThe practical delta is personal. If you treat AI as a search engine you see a toy. If you build a one on one working interface over time, you discover it is an n-dimensional compressor of cognitive work. That is why the public perception gap exists.\nSo the advantage is not prediction. It is adaptation. Learn to drive it. Push it into real work. Measure what it can remove from your week. Keep the human parts that carry responsibility, trust, and real world consequence.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nathaniel L.",
+        "profile_url": "https://www.linkedin.com/in/nlayton/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-30T02:54:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Fear mongering... 😉",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

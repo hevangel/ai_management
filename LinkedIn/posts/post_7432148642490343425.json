@@ -1,0 +1,37 @@
+{
+  "activity_id": "7432148642490343425",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7432148642490343425",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-02-24T12:00:00+00:00",
+  "posted_at_hint": "Feb 24 • Edited",
+  "posted_at_approx": true,
+  "text": "First OpenAI owns 10% of AMD, now Facebook owns another 10% of AMD. Lisa Su, please give 10% to Anthropic and Google too, so all frontier AI labs will use AMD GPUs to power their AI. #AMDBrandAmbassador (Lisa Su is tagged as a person mention; post attaches a 3-page document titled 'AMD and Meta Announce Expanded…')",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vadim Dumin",
+        "profile_url": "https://www.linkedin.com/in/vadimdumin/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-01T02:54:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "Not sure actually. Remember Symbian? It was owned by its primary customers before one of them (Nokia) bought the company outright and then pivoted to Windows Phone.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

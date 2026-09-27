@@ -1,0 +1,37 @@
+{
+  "activity_id": "7418458033669992448",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7418458033669992448",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-01-17T12:00:00+00:00",
+  "posted_at_hint": "Jan 17",
+  "posted_at_approx": true,
+  "text": "In 2024, everyone thinks about how to integrate AI/LLM into apps\nIn 2026, it should be the other way round, think about how to integrate apps into AI/LLM",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-31T02:54:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "Exactly right. AI as an individual, personal interface to apps. That way each of us can control apps and someting done without needing to remember 100's or even 1000's of comand sequences.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

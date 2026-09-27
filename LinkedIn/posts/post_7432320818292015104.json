@@ -1,0 +1,67 @@
+{
+  "activity_id": "7432320818292015104",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7432320818292015104",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-02-24T12:00:00+00:00",
+  "posted_at_hint": "Feb 24 • Edited",
+  "posted_at_approx": true,
+  "text": "When human write code, we break up the code into functions, files and folders for readability.\n\nAI has 1M token windows, it has different readability than human.  It doesn't have to break up the code.   I am experimenting ask AI to write everything in a single file, then give it a language server to help it navigate the file on its own.    \n\nIt is easier for human to diff and review AI's change, everything is in one place",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-31T02:54:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "It can just be asked to retain file structures while making enhancements?",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Christian J. Ibendorf",
+        "profile_url": "https://www.linkedin.com/in/christian-j-ibendorf-7574725b/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-01T02:54:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "I almost took you seriously. 💀",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jean Ibarz",
+        "profile_url": "https://www.linkedin.com/in/jeanibarz/",
+        "headline": null
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-01T02:54:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "welcome git conflicts ! That's really something you shoud avoid.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}

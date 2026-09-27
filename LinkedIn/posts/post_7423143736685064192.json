@@ -1,0 +1,21 @@
+{
+  "activity_id": "7423143736685064192",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7423143736685064192",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": null
+  },
+  "posted_at": "2026-01-30T12:00:00+00:00",
+  "posted_at_hint": "Jan 30 (Edited)",
+  "posted_at_approx": true,
+  "text": "Life goes a full cycle in how we write documents\nI used to write documents with Word Perfect in DOS in pure text mode, you have to see how the document is rendered before you print it. Then we have Word, WYSIWYG editor.\nNow in the age of AI, we go back to write documents in markdown text, so it is AI friendly, and render it to Word docs before printing it out",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-09-27T02:54:00Z"
+}
