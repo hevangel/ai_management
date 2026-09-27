@@ -39,7 +39,7 @@
             "headline": "Expert in applying AI in verification"
           },
           "is_author_reply": true,
-          "posted_at": null,
+          "posted_at": "2026-09-05T22:40:00+00:00",
           "posted_at_hint": "(edited) 3w",
           "posted_at_approx": true,
           "text": "Richard Threlkeld Even if I want to nail down the spec before code generation, 20 multi choices questions is a very BAD ux to ask for user inputs.\n\nIf I am the tech lead, my junior engineer ask me to make decision about the spec with 20 MC questions, I will fire him. He should come with a well prepared power point slides deck, one slide per question, with clear pro and con on the choices, and I can slow him down and grill him before I make my call.",
@@ -85,7 +85,7 @@
             "headline": "Expert in applying AI in verification"
           },
           "is_author_reply": true,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "Peter Holmes why think with only a wall of text instead of think after you see the two options live in a working prototype?",

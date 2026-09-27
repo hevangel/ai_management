@@ -131,7 +131,7 @@
             "headline": "Expert in applying AI in verification"
           },
           "is_author_reply": true,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "Pallavi Kumar on ability curve of Terra for any thinking effort, there is a cheaper corresponding Sol or Luna thinking effort. Something like Luna max is cheaper than Terra medium Sol low is cheaper than Terra max",
@@ -148,7 +148,7 @@
         "headline": "Solution Architect, Tech Mahindra"
       },
       "is_author_reply": false,
-      "posted_at": null,
+      "posted_at": "2026-08-27T22:40:00+00:00",
       "posted_at_hint": "(edited) 1mo",
       "posted_at_approx": true,
       "text": "A human need to confirm if AI did the job or not. With 20% hallucination possibility we cannot leave the validation and quality aspects to other AI models/agents. So, number of hardware engineers working on a spec may reduce, but now these hardware engineers can spend more time creating new specs.",
@@ -177,7 +177,7 @@
             "headline": "Solution Architect, Tech Mahindra"
           },
           "is_author_reply": false,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "Horace Chan I think there are many areas. High performance cheap Hardware can reduce costs drastically while gaining on time. We saw that with USB, Microprocessors etc.. As far as I know, not everything is moved into hardware, we have some processing power, communication tech, memory moved into hardware with some peripherals. The complexity to test & debug makes the process slow to move for other systems to migrate. I think with AI most of these things can gain speed, so innovators can free their mind from testing, debugging and think about improving processes in other areas. For example AI inference, edge computing, digital twins with sensors in real systems etc are possible.",

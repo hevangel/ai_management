@@ -85,7 +85,7 @@
         "headline": "Algorithm Engineer"
       },
       "is_author_reply": false,
-      "posted_at": null,
+      "posted_at": "2026-08-27T22:40:00+00:00",
       "posted_at_hint": "(edited) 1mo",
       "posted_at_approx": true,
       "text": "Not exactly, I used gpt5.6 to design a dual issue RV64 processor. It works. Your job is not safe at all. https://github.com/exeex/edge-cores This is the project. By the way, Claude is not good at verilog at all.",
@@ -146,7 +146,7 @@
         "headline": "Fmr. Sr. Systems Engr., NG Tactical Space Syst. (contr.) , Sterling VA."
       },
       "is_author_reply": false,
-      "posted_at": null,
+      "posted_at": "2026-08-27T22:40:00+00:00",
       "posted_at_hint": "(edited) 1mo",
       "posted_at_approx": true,
       "text": "So I would not be able to do it in ChatGPT based on your post? How much do you want to bet on it? I plugged your post into ChatGPT at 15:10 MT. I'll tell you when it's done. Took 10m in ChatGPT web in high mode. + a few m to compress to a comment window. The easiest artifact is a self-contained launcher. Dld & run it; by default it installs under ~/RPA2/gpt/74181-challenge, inventories available EDA tools, & runs every verif. stage available. Dld standalone 74181 challenge script The complete source pkg is also available: Dld complete 74181 challenge project ZIP It contains: synthesizable alu74181.sv , independent Table-2 reference RTL, & exhaustive 16,384-vector SystemVerilog regression; full UVM sequence/driver/monitor/scoreboard with functional coverage; formal harness plus Yosys/SymbiYosys proof configurations; Icarus, Verilator/code-coverage, formal, & Questa/VCS/Xcelium UVM runners; implementation, test, formal, coverage-closure, provenance, & validation records. I also executed an independent equation-vs-datasheet verification: REFERENCE_PASS vectors=16384 mismatches=0 COVERAGE control_cross=64/64 ab_cross=256/256 full_input_space=16384/16384 The container lacked Icarus, Verilator, Yosys/SymbiYosys, & a UVM-capable sim.",
@@ -175,7 +175,7 @@
             "headline": "Fmr. Sr. Systems Engr., NG Tactical Space Syst. (contr.) , Sterling VA."
           },
           "is_author_reply": false,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "Samuel A. Gray III Here's a link to a zip file of the html ouput that I put on GitHub: https://github.com/gray3s/brilliance/blob/main/Implement_74181_Challenge.zip Overall that took me 32 minutes including a piss-stop What's that, half an hour of your interns' time that he could have spent working on other things? Divided by what multiplier? ps I barely know how to spell Verilog",
@@ -328,7 +328,7 @@
         "headline": "Illinois ECE | Trustworthy AI"
       },
       "is_author_reply": false,
-      "posted_at": null,
+      "posted_at": "2026-08-27T22:40:00+00:00",
       "posted_at_hint": "(edited) 1mo",
       "posted_at_approx": true,
       "text": "Hardware engineers are safe not because you can necessarily \"one-shot\" something, but rather because there is a specific skill-set and understanding you need which only comes from writing a bunch of Verilog and testbenches. Let's not mix these up. I'm very confident that you can do this if prompted correctly but understanding the tradeoffs and performance bottlenecks of different design decisions, knowing hardware specs, etc is a completely different ball game.",
@@ -681,7 +681,7 @@
         "headline": "Life!"
       },
       "is_author_reply": false,
-      "posted_at": null,
+      "posted_at": "2026-08-27T22:40:00+00:00",
       "posted_at_hint": "(edited) 1mo",
       "posted_at_approx": true,
       "text": "In terms of machine learning in hw development...adder optimization is one of the most basic things. See here for Nvidia in Hopper GPU, for ML-generated adder. up to 16% and 30% lower area for same delay in 32b and 64b if you want to call this \"not AI\" okay..if you're somehow limiting thigs to llm architectures for machine learning? real shipped silicon PrefixRL — NVIDIA, DAC 2021 (deployed in Hopper GPU) arXiv: https://arxiv.org/abs/2205.07000 NVIDIA blog post: https://developer.nvidia.com/blog/designing-arithmetic-circuits-with-deep-reinforcement-learning/",
@@ -710,7 +710,7 @@
             "headline": "Life!"
           },
           "is_author_reply": false,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "Horace Chan why would you make those rules? No one gets paid for playing with AI. it's about an end product. One does what's best for the end product. It's like, sure, you can make up a game and say \"Fail\" But why bother?",
@@ -878,7 +878,7 @@
             "headline": "Life!"
           },
           "is_author_reply": false,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "my first iteration had some issues, but easily fixed ❌ What's Missing b_eff declared but unused — dead code, and it'll cause a compile error in context. No testbench — with the arithmetic bugs above, there's no way to catch them without one. Active-low input variant — there are two truth tables: active high data and active low data. The same circuit can be represented as though the outputs are inverted or not. Your file only handles active-high. A parameter or second module for active-low would be needed for a complete model. AeqB open-collector behavior — the A=B pin is wired as low or tri-state rather than low or high. Your model drives it as a normal logic output. For accurate silicon modeling it should be wire with tri-state (1'bz when false). No overflow/signed flag — not on the original chip either, but commonly needed when integrating.",
@@ -909,7 +909,7 @@
             "headline": "Expert in applying AI in verification"
           },
           "is_author_reply": true,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "Ravi Sharma it is a lot of trouble to test drive those AI chip design startup. They don't even have a YouTube video on how their product looks like in real life Those AI chip design startup should just build a classic chip like 74181 or 4004 in a public GitHub repo, let people look at their AGENT.md and the human readable session history trace to let us eval their product.",
@@ -926,7 +926,7 @@
         "headline": "Technical Program Manager @ Meta | Consumer Hardware Programs, NPI & Operations | Ex-Amazon"
       },
       "is_author_reply": false,
-      "posted_at": null,
+      "posted_at": "2026-08-27T22:40:00+00:00",
       "posted_at_hint": "(edited) 1mo",
       "posted_at_approx": true,
       "text": "every blanket AI statement needs to end with *at least in the short term*",
@@ -957,7 +957,7 @@
         "headline": "Grinding Away"
       },
       "is_author_reply": false,
-      "posted_at": null,
+      "posted_at": "2026-08-27T22:40:00+00:00",
       "posted_at_hint": "(edited) 1mo",
       "posted_at_approx": true,
       "text": "As a related aside, Opus 5 is a downgrade from Opus 4.8, from my experience.",
@@ -1017,7 +1017,7 @@
             "headline": "Expert in applying AI in verification"
           },
           "is_author_reply": true,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "Yifeng Wang it is just Claude code. The price is calculated based on tokens and the public API cost, not the actual money. Literally, you saw the prompt in the message. It has a little bit instructions on where to put the files, how to collect progress stats, etc. But I didn't give AI any special skill other than the pdf file, a markdown version of the pdf and pdf convertered to PNG page by page. I want to test how good the AI is on its own. I know with the real RTL/DV skills I built for my day job, Opus can easily one shot a 74181 probably for $20. But I am the puppet master in that case, I still get to keep my job. Put human behind the scene to control AI to build RTL block is a solved problem probably around the time of Sonnet 4.5 with a good harness. It is just how much baby sitting the AI needs",
@@ -1292,7 +1292,7 @@
             "headline": "Expert in applying AI in verification"
           },
           "is_author_reply": true,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "Dave Rich I think the hardware industry went down a different path, just buy 3rd party IP and wire them up. Surprising, LLM is pretty good at wiring IPXACT XML files.",
@@ -1322,7 +1322,7 @@
             "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
           },
           "is_author_reply": false,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "Dave Rich very true. More abstraction allows us to be more productive yet efficiency is lost. I started doing fpga design back in the 90's with schematics. Essentially \"human synthesis\". We eventually went to RTL because schematics just got too crazy large, inefficient and difficult to understand. I'm kind of hoping if we get to a type of spec driven AI design that it will actually force us humans to finally write good specifications. Fingers crossed. 🤞 😊",

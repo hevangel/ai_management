@@ -39,7 +39,7 @@
             "headline": "CEO at Equinibrium"
           },
           "is_author_reply": false,
-          "posted_at": null,
+          "posted_at": "2026-09-05T21:18:00+00:00",
           "posted_at_hint": "(edited) 3w",
           "posted_at_approx": true,
           "text": "Agree with Dan B.. Equivalence just proves A and B match each other, not that either implements the spec correctly. Two AI models could misread the same requirement identically and still \"pass.\" To validate functionality you'd need a third reference: formal properties derived independently from the spec, proven against both implementations, not just proving them against each other. The two-implementation trick is still a useful bug-diversity filter, but a match alone isn't correctness.",
@@ -99,7 +99,7 @@
             "headline": "Expert in applying AI in verification"
           },
           "is_author_reply": true,
-          "posted_at": null,
+          "posted_at": "2026-09-05T21:18:00+00:00",
           "posted_at_hint": "(edited) 3w",
           "posted_at_approx": true,
           "text": "You are asking a philosophical question, what exactly is a bug?\n\nSay it is a USB spec, you ask AI implement both the host and the device. If the host and device can talk with each other (assuming all numbers are good), it is NOT a bug even thought they both intrepreted the spec the same wrong way. (say a message code table is off by 1). The logical solution is actually update the spec to match what is already implemented.\n\nIt actually happened to my old company, we OWN a spec in a niche market, our device can talk to each other, everything works fine, no performance lose, actually I think it is a slightly better db than the spec, so we just update the spec instead.",

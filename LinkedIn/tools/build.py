@@ -200,7 +200,10 @@ def render_html(data_blob, index):
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({{
     '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}}[c]));
   const linkify = s => esc(s).replace(/(https?:\\/\\/[^\\s<]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
-  const fdate = s => {{ try {{ return new Date(s).toLocaleString(); }} catch(e) {{ return s || ''; }} }};
+  const fdate = (s, hint) => {{
+    if (s) {{ try {{ const d = new Date(s); if (!isNaN(d)) return d.toLocaleString(); }} catch(e) {{}} }}
+    return hint ? esc(hint) : 'date unknown';
+  }};
 
   function commentHTML(c) {{
     const own = c.is_author_reply ? ' own' : '';
@@ -212,7 +215,7 @@ def render_html(data_blob, index):
       `<div class="replies">${{commentHTML(r)}}</div>`).join('');
     return `<div class="comment${{own}}"><div class="who">${{who}}${{badge}}
       ${{c.author.headline ? `<span class="headline"> · ${{esc(c.author.headline)}}</span>` : ''}}
-      <span class="when">${{esc(fdate(c.posted_at))}}</span></div>
+      <span class="when">${{fdate(c.posted_at, c.posted_at_hint)}}</span></div>
       <div class="ctext">${{linkify(c.text)}}</div>
       ${{c.likes ? `<div class="clikes">👍 ${{c.likes}}</div>` : ''}}${{replies}}</div>`;
   }}
@@ -241,7 +244,7 @@ def render_html(data_blob, index):
         ? p.comments.map(commentHTML).join('')
         : '<div class="empty">No comments.</div>';
       return `<article class="post" data-i="${{i}}">
-        <div class="meta">${{esc(fdate(p.posted_at))}} · <a href="${{esc(p.url)}}" target="_blank" rel="noopener">View on LinkedIn</a>
+        <div class="meta">${{fdate(p.posted_at, p.posted_at_hint)}} · <a href="${{esc(p.url)}}" target="_blank" rel="noopener">View on LinkedIn</a>
         ${{p.post_type !== 'original' ? ` · ${{esc(p.post_type)}}` : ''}}</div>
         <div class="text">${{linkify(p.text)}}</div>
         ${{p.shared_article && p.shared_article.url ? `<div class="meta">🔗 <a href="${{esc(p.shared_article.url)}}" target="_blank" rel="noopener">${{esc(p.shared_article.title || p.shared_article.url)}}</a></div>` : ''}}

@@ -3,7 +3,7 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-09-27T02:54:51.894557+00:00",
+  "generated_at": "2026-09-27T04:46:54.057846+00:00",
   "total_posts": 317,
   "total_comments": 195,
   "total_replies": 161,
@@ -2196,12 +2196,75 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7466749327151890432",
+      "file": "posts/post_7466749327151890432.json",
+      "url": null,
+      "posted_at": "2026-05-31T12:00:00+00:00",
+      "title": "Violin Hero - I vibe coded it while my son is recording his violin music piece s…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7466538322828480512",
+      "file": "posts/post_7466538322828480512.json",
+      "url": null,
+      "posted_at": "2026-05-30T12:00:00+00:00",
+      "title": "If you are an AGI (superhuman AI), what is the first thing you would do? Of cour…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7466218395844149248",
+      "file": "posts/post_7466218395844149248.json",
+      "url": null,
+      "posted_at": "2026-05-29T12:00:00+00:00",
+      "title": "Just watched Dr. Lisa Su's address to the MIT Class of 2026 — well worth 15 minu…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7466272007140118528",
+      "file": "posts/post_7466272007140118528.json",
+      "url": null,
+      "posted_at": "2026-05-29T12:00:00+00:00",
+      "title": "You don't have to choose between markdown or html files for AI output, you can h…",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7465987713561751552",
+      "file": "posts/post_7465987713561751552.json",
+      "url": null,
+      "posted_at": "2026-05-28T12:00:00+00:00",
+      "title": "On-demand MCP load and auto compact are broken in the new Claude Code with Opus…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7466009782676807680",
+      "file": "posts/post_7466009782676807680.json",
+      "url": null,
+      "posted_at": "2026-05-28T12:00:00+00:00",
+      "title": "Thankyou Microsoft for the tokens buffet. Thanks to the Github Copilot use it or…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7464010343539953664",
       "file": "posts/post_7464010343539953664.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7464010343539953664/",
       "posted_at": "2026-05-23T12:00:00+00:00",
       "title": "Every repo should have these markdown files AGENTS.md / CLAUDE.md - instructions…",
       "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7464115758231347201",
+      "file": "posts/post_7464115758231347201.json",
+      "url": null,
+      "posted_at": "2026-05-23T12:00:00+00:00",
+      "title": "When using AI, shape the information to an output format that is most convenient…",
+      "likes": 0,
       "comment_count": 0
     },
     {
@@ -2259,6 +2322,15 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7461515369518907392",
+      "file": "posts/post_7461515369518907392.json",
+      "url": null,
+      "posted_at": "2026-05-16T12:00:00+00:00",
+      "title": "Don't believe those who tell you there will be infinite efficiency gains by adop…",
+      "likes": 16,
+      "comment_count": 3
+    },
+    {
       "activity_id": "7461089661562695681",
       "file": "posts/post_7461089661562695681.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7461089661562695681/",
@@ -2293,6 +2365,15 @@
       "title": "When a bubble pops, the market feels the pain. The pain has to happen, but it do…",
       "likes": 1,
       "comment_count": 0
+    },
+    {
+      "activity_id": "7459285266273476608",
+      "file": "posts/post_7459285266273476608.json",
+      "url": null,
+      "posted_at": "2026-05-10T12:00:00+00:00",
+      "title": "When I used AI to write a book on numerology, I just let AI run free, numerology…",
+      "likes": 3,
+      "comment_count": 2
     },
     {
       "activity_id": "7458784177476354048",
@@ -2355,6 +2436,15 @@
       "posted_at": "2026-05-01T12:00:00+00:00",
       "title": "The story points in Jira should change to token points",
       "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7456217837070893056",
+      "file": "posts/post_7456217837070893056.json",
+      "url": null,
+      "posted_at": "2026-05-01T12:00:00+00:00",
+      "title": "Here is what looks like on the other side of the post-AI era 1. A human make a w…",
+      "likes": 5,
       "comment_count": 0
     },
     {
@@ -2430,6 +2520,15 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7452916547871735808",
+      "file": "posts/post_7452916547871735808.json",
+      "url": null,
+      "posted_at": "2026-04-22T12:00:00+00:00",
+      "title": "This is dumb. Just mouse movements and keystrokes are totally useless. They need…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7452369231377010688",
       "file": "posts/post_7452369231377010688.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7452369231377010688/",
@@ -2445,6 +2544,15 @@
       "posted_at": "2026-04-21T12:00:00+00:00",
       "title": "In the past, reusable perl/python scripts are common to the project team, your o…",
       "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7452214850480521216",
+      "file": "posts/post_7452214850480521216.json",
+      "url": null,
+      "posted_at": "2026-04-20T12:00:00+00:00",
+      "title": "Do as much as needed, as little as possible - Jessen Huang I would borrow this q…",
+      "likes": 0,
       "comment_count": 0
     },
     {
@@ -2751,114 +2859,6 @@
       "posted_at": "2026-01-14T12:00:00+00:00",
       "title": "Helios had neon green cables last time. It looks way cooler than the yellow cabl…",
       "likes": 3,
-      "comment_count": 0
-    },
-    {
-      "activity_id": "7452214850480521216",
-      "file": "posts/post_7452214850480521216.json",
-      "url": null,
-      "posted_at": null,
-      "title": "Do as much as needed, as little as possible - Jessen Huang I would borrow this q…",
-      "likes": 0,
-      "comment_count": 0
-    },
-    {
-      "activity_id": "7452916547871735808",
-      "file": "posts/post_7452916547871735808.json",
-      "url": null,
-      "posted_at": null,
-      "title": "This is dumb. Just mouse movements and keystrokes are totally useless. They need…",
-      "likes": 1,
-      "comment_count": 0
-    },
-    {
-      "activity_id": "7456217837070893056",
-      "file": "posts/post_7456217837070893056.json",
-      "url": null,
-      "posted_at": null,
-      "title": "Here is what looks like on the other side of the post-AI era 1. A human make a w…",
-      "likes": 5,
-      "comment_count": 0
-    },
-    {
-      "activity_id": "7459285266273476608",
-      "file": "posts/post_7459285266273476608.json",
-      "url": null,
-      "posted_at": null,
-      "title": "When I used AI to write a book on numerology, I just let AI run free, numerology…",
-      "likes": 3,
-      "comment_count": 2
-    },
-    {
-      "activity_id": "7461515369518907392",
-      "file": "posts/post_7461515369518907392.json",
-      "url": null,
-      "posted_at": null,
-      "title": "Don't believe those who tell you there will be infinite efficiency gains by adop…",
-      "likes": 16,
-      "comment_count": 3
-    },
-    {
-      "activity_id": "7464115758231347201",
-      "file": "posts/post_7464115758231347201.json",
-      "url": null,
-      "posted_at": null,
-      "title": "When using AI, shape the information to an output format that is most convenient…",
-      "likes": 0,
-      "comment_count": 0
-    },
-    {
-      "activity_id": "7465987713561751552",
-      "file": "posts/post_7465987713561751552.json",
-      "url": null,
-      "posted_at": null,
-      "title": "On-demand MCP load and auto compact are broken in the new Claude Code with Opus…",
-      "likes": 2,
-      "comment_count": 0
-    },
-    {
-      "activity_id": "7466009782676807680",
-      "file": "posts/post_7466009782676807680.json",
-      "url": null,
-      "posted_at": null,
-      "title": "Thankyou Microsoft for the tokens buffet. Thanks to the Github Copilot use it or…",
-      "likes": 1,
-      "comment_count": 0
-    },
-    {
-      "activity_id": "7466218395844149248",
-      "file": "posts/post_7466218395844149248.json",
-      "url": null,
-      "posted_at": null,
-      "title": "Just watched Dr. Lisa Su's address to the MIT Class of 2026 — well worth 15 minu…",
-      "likes": 2,
-      "comment_count": 0
-    },
-    {
-      "activity_id": "7466272007140118528",
-      "file": "posts/post_7466272007140118528.json",
-      "url": null,
-      "posted_at": null,
-      "title": "You don't have to choose between markdown or html files for AI output, you can h…",
-      "likes": 5,
-      "comment_count": 1
-    },
-    {
-      "activity_id": "7466538322828480512",
-      "file": "posts/post_7466538322828480512.json",
-      "url": null,
-      "posted_at": null,
-      "title": "If you are an AGI (superhuman AI), what is the first thing you would do? Of cour…",
-      "likes": 0,
-      "comment_count": 0
-    },
-    {
-      "activity_id": "7466749327151890432",
-      "file": "posts/post_7466749327151890432.json",
-      "url": null,
-      "posted_at": null,
-      "title": "Violin Hero - I vibe coded it while my son is recording his violin music piece s…",
-      "likes": 1,
       "comment_count": 0
     }
   ]

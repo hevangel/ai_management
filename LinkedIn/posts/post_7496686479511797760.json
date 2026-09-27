@@ -132,7 +132,7 @@
         "headline": "Entrepreneur at ARTL.ai"
       },
       "is_author_reply": false,
-      "posted_at": null,
+      "posted_at": "2026-08-27T22:40:00+00:00",
       "posted_at_hint": "(edited) 1mo",
       "posted_at_approx": true,
       "text": "Actually that's a good idea. But the 4004 is not a fair example, you suggest it because it is very old so it is simple in theory. In practice processors are an extremely complex chip design problem for agentic flows, because it is not only the rtl but also the sw and perhaps tools on top of that. Some startups showed end to end riscv cores but the entire riscv stack is available online. My point is that sharing Verilog designs as open source to show AI EDA capability is a real good idea but CPU chips are a high bar to start with.",
@@ -176,7 +176,7 @@
             "headline": "Entrepreneur at ARTL.ai"
           },
           "is_author_reply": false,
-          "posted_at": null,
+          "posted_at": "2026-08-27T22:40:00+00:00",
           "posted_at_hint": "(edited) 1mo",
           "posted_at_approx": true,
           "text": "Horace Chan regardless I'll be happy to show you our agentic flow, we're not so secretive",
@@ -239,7 +239,7 @@
         "headline": "PolyLM"
       },
       "is_author_reply": false,
-      "posted_at": null,
+      "posted_at": "2026-08-27T22:40:00+00:00",
       "posted_at_hint": "(edited) 1mo",
       "posted_at_approx": true,
       "text": "I built a pure analog crossbar memristor array architecture simulation thats modeled with a First-principles multi-physics co-simulation. Patent pending. It has been tested for failure for months and maintains it's benchmarks. It destroys gpu. Gdsii tapeout ready. Hope to talk with University of Michigan about a tapeout. Solid risk.",
@@ -254,7 +254,7 @@
         "headline": "Building EasyChip | Digital Twin & Energy System Analyst | VLSI Design | Semiconductor Research"
       },
       "is_author_reply": false,
-      "posted_at": null,
+      "posted_at": "2026-08-27T22:40:00+00:00",
       "posted_at_hint": "(edited) 1mo",
       "posted_at_approx": true,
       "text": "Challenge taken! Check out EasyChip",
