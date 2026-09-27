@@ -166,11 +166,24 @@ def render_html(data_blob, index):
   .comment .clikes {{ color:var(--muted); font-size:.78rem; }}
   .replies {{ margin:8px 0 0 14px; padding-left:12px; border-left:2px solid var(--border); }}
   .empty {{ color:var(--muted); text-align:center; padding:40px 0; }}
+  #rail {{ position:fixed; left:0; top:0; bottom:0; width:22px; z-index:20; pointer-events:none; }}
+  #rail .tick {{ position:absolute; left:50%; width:4px; height:4px; margin:0; padding:0; border:0;
+           border-radius:50%; background:var(--muted); opacity:.32; transform:translate(-50%,-50%);
+           cursor:pointer; pointer-events:auto; }}
+  #rail .tick:hover {{ opacity:1; transform:translate(-50%,-50%) scale(1.9); }}
+  #rail .tick.pop {{ width:7px; height:7px; opacity:.85; background:#d9930d; }}
+  #rail .tick.active {{ opacity:1; background:var(--accent); transform:translate(-50%,-50%) scale(1.5); }}
+  #rail .tick.pop.active {{ background:#d9930d; }}
+  #rail-label {{ position:fixed; left:30px; z-index:20; pointer-events:none; display:none;
+           font-size:.75rem; color:var(--fg); background:var(--card); border:1px solid var(--border);
+           border-radius:6px; padding:3px 9px; white-space:nowrap; box-shadow:0 2px 8px rgba(0,0,0,.18); }}
   footer {{ max-width:860px; margin:0 auto; padding:20px; color:var(--muted); font-size:.8rem;
             border-top:1px solid var(--border); }}
 </style>
 </head>
 <body>
+<nav id="rail" aria-label="Timeline: jump to a post"></nav>
+<div id="rail-label" role="status"></div>
 <header>
   <h1>{pname} <span style="font-weight:400;font-size:1rem;color:var(--muted)">LinkedIn posts archive</span></h1>
   <p><a href="{purl}">{purl}</a></p>
@@ -204,6 +217,64 @@ def render_html(data_blob, index):
     if (s) {{ try {{ const d = new Date(s); if (!isNaN(d)) return d.toLocaleString(); }} catch(e) {{}} }}
     return hint ? esc(hint) : 'date unknown';
   }};
+  const sdate = (s, hint) => {{
+    if (s) {{ try {{ const d = new Date(s);
+      if (!isNaN(d)) return d.toLocaleDateString(undefined, {{month:'short', day:'numeric', year:'numeric'}});
+    }} catch(e) {{}} }}
+    return hint || '';
+  }};
+
+  /* Quiet full-height timeline rail: one tick per rendered post, gold for popular (>=5 comments). */
+  const rail = document.getElementById('rail');
+  const railLabel = document.getElementById('rail-label');
+  const ccount = p => p.comments.length + p.comments.reduce((n,c)=>n+((c.replies||[]).length),0);
+  const POP_N = 5;
+  let tickEls = [];
+  let railIO = null;
+  function buildRail(items) {{
+    rail.innerHTML = '';
+    tickEls = [];
+    rail.style.display = items.length ? '' : 'none';
+    const N = items.length;
+    items.forEach((p, i) => {{
+      const b = document.createElement('button');
+      const n = ccount(p);
+      b.className = 'tick' + (n >= POP_N ? ' pop' : '');
+      b.style.top = ((i + 0.5) / N * 100) + '%';
+      const t = sdate(p.posted_at, p.posted_at_hint) + (n ? ' · ' + n + ' comments' : '');
+      b.title = t;
+      b.setAttribute('aria-label', 'Jump to post ' + (i+1) + ' of ' + N + ': ' + t);
+      b.addEventListener('click', () => {{
+        const a = list.querySelector('article.post[data-i="' + i + '"]');
+        if (a) a.scrollIntoView({{behavior:'smooth', block:'start'}});
+      }});
+      rail.appendChild(b);
+      tickEls.push(b);
+    }});
+    if (railIO) railIO.disconnect();
+    railIO = new IntersectionObserver(es => {{
+      es.forEach(e => {{
+        if (e.isIntersecting) {{
+          const i = +e.target.getAttribute('data-i');
+          tickEls.forEach((t, j) => t.classList.toggle('active', j === i));
+        }}
+      }});
+    }}, {{rootMargin:'-45% 0px -50% 0px'}});
+    list.querySelectorAll('article.post').forEach(a => railIO.observe(a));
+  }}
+  document.addEventListener('mousemove', ev => {{
+    if (ev.clientX <= 30 && tickEls.length) {{
+      const i = Math.min(tickEls.length - 1, Math.floor(ev.clientY / window.innerHeight * tickEls.length));
+      const b = tickEls[i];
+      if (b && b.title) {{
+        railLabel.textContent = b.title;
+        railLabel.style.display = 'block';
+        railLabel.style.top = Math.min(Math.max(ev.clientY - 14, 8), window.innerHeight - 40) + 'px';
+        return;
+      }}
+    }}
+    railLabel.style.display = 'none';
+  }});
 
   function commentHTML(c) {{
     const own = c.is_author_reply ? ' own' : '';
@@ -258,6 +329,7 @@ def render_html(data_blob, index):
       const open = box.classList.toggle('open');
       btn.textContent = (open ? 'Hide' : 'Show') + ' comments (' + btn.textContent.match(/\\d+/)[0] + ')';
     }}));
+    buildRail(items);
   }}
 
   q.addEventListener('input', render);
