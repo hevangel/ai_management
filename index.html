@@ -777,7 +777,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     var pubHtml = pubs.map(function (pub) {
       return (
         '<button class="case-tab" data-pub="' + esc(pub.id) + '">' +
-          '<img src="' + esc(pub.logo) + '" alt="' + esc(L(pub, 'name')) + ' logo">' +
+          '<img src="' + esc(toAppUrl(pub.logo)) + '" alt="' + esc(L(pub, 'name')) + ' logo">' +
           '<span>' + esc(L(pub, 'name')) + '</span>' +
         '</button>'
       );

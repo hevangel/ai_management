@@ -73,6 +73,66 @@
               }
             ]
           }
+        },
+        {
+          "slug": "scrum-ai-agents",
+          "title": "Scrum in the Age of AI Agents: When Execution Becomes Abundant",
+          "title_zh": "AI 代理時代的 Scrum：當執行變得充裕",
+          "summary": "AI agents are making software execution abundant, and the bottleneck moves from producing change to verifying it. Five publications examine what that shift does to Scrum, to engineering productivity, and to the economics of software delivery.",
+          "summary_zh": "AI 代理令軟件執行變得充裕，瓶頸也由「生產變更」轉移到「驗證變更」。五種出版角度剖析這場轉變對 Scrum、工程生產力與軟件交付經濟學的衝擊。",
+          "path": "articles/case-studies/scrum-ai-agents/problem.md",
+          "cover": "articles/case-studies/scrum-ai-agents/cover.png",
+          "cover_zh_text": ["AI 代理時代的 Scrum", "當執行變得充裕，驗證成為瓶頸"],
+          "date": "2026-10-03",
+          "case": {
+            "publications": [
+              {
+                "id": "sloan",
+                "name": "MIT Sloan Management Review",
+                "name_zh": "MIT Sloan Management Review",
+                "logo": "articles/case-studies/scrum-ai-agents/sloan_logo.svg",
+                "title": "When Execution Becomes Abundant: Rethinking Scrum for the Age of AI Agents",
+                "title_zh": "當執行變得充裕：為 AI 代理時代重新思考 Scrum",
+                "path": "articles/case-studies/scrum-ai-agents/sloan.md"
+              },
+              {
+                "id": "hbr",
+                "name": "Harvard Business Review",
+                "name_zh": "哈佛商業評論",
+                "logo": "articles/case-studies/scrum-ai-agents/hbr_logo.svg",
+                "title": "AI Agents Won't Kill Scrum. They'll Kill the Parts That Never Worked.",
+                "title_zh": "AI 代理不會殺死 Scrum，只會淘汰那些從來就行不通的部分",
+                "path": "articles/case-studies/scrum-ai-agents/hbr.md"
+              },
+              {
+                "id": "mckinsey",
+                "name": "McKinsey & Company",
+                "name_zh": "麥肯錫",
+                "logo": "articles/case-studies/scrum-ai-agents/mckinsey_logo.svg",
+                "title": "The Agentic Software Operating Model: Rewiring Agile Delivery Around Intent, Verification, and Learning",
+                "title_zh": "代理式軟件營運模式：圍繞意圖、驗證與學習重組敏捷交付",
+                "path": "articles/case-studies/scrum-ai-agents/mckinsey.md"
+              },
+              {
+                "id": "bcg",
+                "name": "BCG",
+                "name_zh": "波士頓顧問公司",
+                "logo": "articles/case-studies/scrum-ai-agents/bcg_logo.svg",
+                "title": "Beyond Developer Productivity: How AI Agents Could Reshape the Economics of Software Delivery",
+                "title_zh": "超越開發者生產力：AI 代理如何重塑軟件交付的經濟學",
+                "path": "articles/case-studies/scrum-ai-agents/bcg.md"
+              },
+              {
+                "id": "bain",
+                "name": "Bain & Company",
+                "name_zh": "貝恩公司",
+                "logo": "articles/case-studies/scrum-ai-agents/bain_logo.svg",
+                "title": "Stop Measuring How Much AI Can Produce. Measure How Much Value Your Organization Can Absorb.",
+                "title_zh": "別再量度 AI 能產出多少，量度組織能吸收多少價值",
+                "path": "articles/case-studies/scrum-ai-agents/bain.md"
+              }
+            ]
+          }
         }
       ]
     },
