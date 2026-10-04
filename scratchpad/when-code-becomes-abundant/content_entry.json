@@ -1,0 +1,63 @@
+{
+ "slug": "when-code-becomes-abundant",
+ "title": "When Code Becomes Abundant: Rethinking Engineering Performance in the Age of AI",
+ "title_zh": "當代碼變得充裕：重新思考 AI 時代的工程績效",
+ "summary": "AI coding tools are making engineering activity cheap to produce, hollowing out the signals managers have always used to judge performance. Five publications examine how engineering performance management must move upstream — from counting output to measuring judgment, uncertainty reduction, and difficulty retired.",
+ "summary_zh": "AI 編程工具令工程活動變得廉價，掏空了管理者賴以判斷績效的訊號。五種出版角度剖析工程績效管理如何向上游轉移——由點算產出，轉向量度判斷力、降低不確定性與難度退役。",
+ "path": "articles/case-studies/when-code-becomes-abundant/problem.md",
+ "cover": "articles/case-studies/when-code-becomes-abundant/cover.png",
+ "cover_zh_text": [
+  "當代碼變得充裕",
+  "重新思考 AI 時代的工程績效"
+ ],
+ "date": "2026-10-03",
+ "case": {
+  "publications": [
+   {
+    "id": "sloan",
+    "name": "MIT Sloan Management Review",
+    "name_zh": "MIT Sloan Management Review",
+    "logo": "articles/case-studies/when-code-becomes-abundant/sloan_logo.svg",
+    "title": "When Code Becomes Abundant, How Should We Measure Engineers?",
+    "title_zh": "當代碼變得充裕，我們該如何衡量工程師？",
+    "path": "articles/case-studies/when-code-becomes-abundant/sloan.md"
+   },
+   {
+    "id": "hbr",
+    "name": "Harvard Business Review",
+    "name_zh": "哈佛商業評論",
+    "logo": "articles/case-studies/when-code-becomes-abundant/hbr_logo.svg",
+    "title": "Your Best Engineer May Soon Write the Least Code",
+    "title_zh": "你最好的工程師，可能很快寫最少代碼",
+    "path": "articles/case-studies/when-code-becomes-abundant/hbr.md"
+   },
+   {
+    "id": "mckinsey",
+    "name": "McKinsey & Company",
+    "name_zh": "麥肯錫",
+    "logo": "articles/case-studies/when-code-becomes-abundant/mckinsey_logo.svg",
+    "title": "Beyond Developer Productivity: Rewiring Performance Management for AI-Enabled Engineering",
+    "title_zh": "超越開發者生產力：重組 AI 賦能工程的績效管理",
+    "path": "articles/case-studies/when-code-becomes-abundant/mckinsey.md"
+   },
+   {
+    "id": "bcg",
+    "name": "BCG",
+    "name_zh": "波士頓顧問公司",
+    "logo": "articles/case-studies/when-code-becomes-abundant/bcg_logo.svg",
+    "title": "The Post-Productivity Engineer: Redesigning Performance When AI Makes Execution Abundant",
+    "title_zh": "後生產力工程師：當 AI 令執行變得充裕，重新設計績效",
+    "path": "articles/case-studies/when-code-becomes-abundant/bcg.md"
+   },
+   {
+    "id": "bain",
+    "name": "Bain & Company",
+    "name_zh": "貝恩公司",
+    "logo": "articles/case-studies/when-code-becomes-abundant/bain_logo.svg",
+    "title": "Stop Counting Code: How High-Performance Engineering Organizations Will Manage Talent in the AI Era",
+    "title_zh": "別再計算代碼：高效能工程組織將如何在 AI 時代管理人才",
+    "path": "articles/case-studies/when-code-becomes-abundant/bain.md"
+   }
+  ]
+ }
+}
