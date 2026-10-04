@@ -5,12 +5,6 @@ description: Transform raw material — a conversation transcript, brainstorming
 
 # Five-Style Management Article Rewriter Skill
 
-Origin: the owner's ChatGPT conversation "Explain Vibeitda"
-(https://chatgpt.com/share/6aa621ef-59d0-83e8-9cb4-0083364b9f6b), whose final message is
-this specification. The scraped transcript is archived at
-`sratchpad/vibeitda_chatgpt_transcript.md`; strip chat-export artifacts (favicon citation
-images, `utm_source=chatgpt.com` links, `citeturn` tokens) when quoting from it.
-
 ## Purpose
 
 Rewrite raw management material — conversation history, brainstorming notes, rough
@@ -27,7 +21,7 @@ Also produce:
 
 - a one-page **Source Synthesis Memo** before any rewriting (Stage 0) — the canonical
   source of truth for every later output;
-- a publication-specific **cover-art brief** for each version (`references/cover-art.md`);
+- a publication-specific **cover-art brief** for each version;
 - an optional **comparative summary** explaining how the five treatments differ.
 
 The five articles must be intellectually distinct. Do not merely change vocabulary,
@@ -76,7 +70,7 @@ Mechanism, Key Concepts, Evidence (empirical / business examples / practitioner 
 logical), Strongest Counterarguments, Unresolved Questions, Managerial Implications,
 Claims Requiring Verification, Authorial Position, One-Sentence Version.**
 
-Read `references/source-synthesis-memo.md` for the section-by-section spec before writing
+Read `references/*.md` for the section-by-section spec before writing
 it. When the author's thinking changes later, revise the memo first (see Revision
 Workflow).
 
@@ -339,7 +333,7 @@ each publication rather than brand imitation: do not copy proprietary mastheads,
 or exact publication layouts unless the user explicitly asks for a parody or mockup and
 the context permits it.
 
-Read `references/cover-art.md` for the per-publication briefs (visual objective, style,
+Read `references/*.md` for the per-publication briefs (visual objective, style,
 typical concept, image question) and the required output format: cover concept, key
 metaphor, composition, art direction, avoid, image-generation prompt.
 
