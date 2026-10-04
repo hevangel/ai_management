@@ -4,7 +4,7 @@ Options -Indexes
 
 # Repo internals & non-site folders: never serve (404 hides existence)
 RewriteEngine On
-RewriteRule ^(\.git|\.agents|linkedin|sratchpad)(/|$) - [R=404,L]
+RewriteRule ^(\.git|\.agents|sratchpad)(/|$) - [R=404,L]
 
 # SPA fallback: deep links serve the app; real files (md/png/json) pass through.
 # Missing images are exempted so they return a real 404 (the zh-cover probe

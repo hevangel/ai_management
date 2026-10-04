@@ -426,7 +426,8 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
       caseBack: '← All case studies',
       problem: 'Problem',
       readAngle: 'Read each angle',
-      readAngleHint: 'The same investigation through five editorial lenses — click a publication to open its essay:'
+      readAngleHint: 'The same investigation through five editorial lenses — click a publication to open its essay:',
+      linkedinNav: 'LinkedIn posts'
     },
     zh: {
       loading: '載入中……',
@@ -445,7 +446,8 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
       caseBack: '← 回到案例研究',
       problem: '問題',
       readAngle: '閱讀每一個角度',
-      readAngleHint: '同一項研究，五種編輯視角——點擊刊物名稱即可閱讀該角度：'
+      readAngleHint: '同一項研究，五種編輯視角——點擊刊物名稱即可閱讀該角度：',
+      linkedinNav: 'LinkedIn 帖文'
     }
   };
 
@@ -615,7 +617,8 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
   function setNav(activeId, sections) {
     topnav.innerHTML = sections.map(function (s) {
       return '<a href="' + appUrl('section/' + esc(s.id)) + '"' + (s.id === activeId ? ' class="active"' : '') + '>' + esc(L(s, 'name')) + '</a>';
-    }).join('');
+    }).join('') +
+      '<a href="' + appUrl('linkedin/') + '">' + esc(t('linkedinNav')) + '</a>';
   }
 
   function siteTitle() {
@@ -959,6 +962,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     if (href.indexOf(APP_BASE) === 0) dest = href.slice(APP_BASE.length);
     else if (href.charAt(0) === '#') dest = href.replace(/^#\/?/, '');
     if (dest === null) return;
+    if (dest.indexOf('linkedin/') === 0) return; /* standalone viewer page — native navigation */
     e.preventDefault();
     if (appUrl(dest) === location.pathname + location.search) { route(); return; }
     history.pushState(null, '', appUrl(dest));
