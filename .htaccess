@@ -3,8 +3,10 @@
 Options -Indexes
 
 # Repo internals & non-site folders: never serve (404 hides existence)
+# Note the case split: lowercase linkedin/ is working data (blocked);
+# LinkedIn/ (capital) is the published posts-archive viewer and stays public.
 RewriteEngine On
-RewriteRule ^(\.git|\.agents|sratchpad)(/|$) - [R=404,L]
+RewriteRule ^(\.git|\.agents|linkedin|sratchpad)(/|$) - [R=404,L]
 
 # SPA fallback: deep links serve the app; real files (md/png/json) pass through.
 # Missing images are exempted so they return a real 404 (the zh-cover probe

@@ -172,13 +172,14 @@ them to white in dark theme.
 - `.firecrawl/` scrape outputs are disposable working data — move anything worth keeping
   into `sratchpad/` (the VIBEITDA transcript lives at
   `sratchpad/vibeitda_chatgpt_transcript.md`).
-- `linkedin/` holds the owner's LinkedIn posts archive: a standalone static viewer
-  (`linkedin/index.html`, data embedded inline by `LinkedIn/tools/build.py`). It is linked
-  from the top nav ("LinkedIn posts" / 「LinkedIn 帖文」) but is NOT site content — never
-  register it in `content.json`. The SPA's click interceptor exempts `linkedin/` paths so
-  the tab navigates natively to the viewer, and the tracked `.htaccess` no longer 404s it
-  on the horace.org mirror (GitHub Pages serves `linkedin/index.html` as the directory
-  index directly).
+- The LinkedIn posts archive lives in **`LinkedIn/` (capital L)**: a standalone static viewer
+  (`LinkedIn/index.html`, data embedded inline by `LinkedIn/tools/build.py`), linked from the
+  top nav ("LinkedIn posts" / 「LinkedIn 帖文」). It is NOT site content — never register it in
+  `content.json`. **`linkedin/` (lowercase) is separate working data** (post markdowns) — the
+  tracked `.htaccess` 404s it on the horace.org mirror. Note the SPA's click interceptor
+  exempts `linkedin/` paths (case-insensitive) so the tab navigates natively to the viewer
+  instead of being pushState-routed; the folder case matters on GitHub Pages (Linux), where
+  only `/ai_management/LinkedIn/` serves the viewer.
 - Logo files must have truthful extensions: an SVG saved as `.png` (or a failed download
   saved as an image) renders as a broken tab icon because the dev server sends the
   MIME type by extension.

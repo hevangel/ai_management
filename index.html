@@ -618,7 +618,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     topnav.innerHTML = sections.map(function (s) {
       return '<a href="' + appUrl('section/' + esc(s.id)) + '"' + (s.id === activeId ? ' class="active"' : '') + '>' + esc(L(s, 'name')) + '</a>';
     }).join('') +
-      '<a href="' + appUrl('linkedin/') + '">' + esc(t('linkedinNav')) + '</a>';
+      '<a href="' + appUrl('LinkedIn/') + '">' + esc(t('linkedinNav')) + '</a>';
   }
 
   function siteTitle() {
@@ -962,7 +962,8 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     if (href.indexOf(APP_BASE) === 0) dest = href.slice(APP_BASE.length);
     else if (href.charAt(0) === '#') dest = href.replace(/^#\/?/, '');
     if (dest === null) return;
-    if (dest.indexOf('linkedin/') === 0) return; /* standalone viewer page — native navigation */
+    /* LinkedIn posts archive is a standalone page (folder "LinkedIn") — native navigation */
+    if (dest.toLowerCase().indexOf('linkedin/') === 0) return;
     e.preventDefault();
     if (appUrl(dest) === location.pathname + location.search) { route(); return; }
     history.pushState(null, '', appUrl(dest));
