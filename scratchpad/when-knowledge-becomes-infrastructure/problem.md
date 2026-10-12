@@ -1,0 +1,27 @@
+# When Knowledge Becomes Infrastructure: How Enterprise AI Redistributes Organizational Power
+
+## The business problem
+
+Enterprise AI is usually sold as a productivity technology: faster search, faster drafting, faster answers. That description misses a deeper organizational change. As companies deploy enterprise search, retrieval-augmented generation, knowledge graphs, and AI agents, knowledge increasingly has to exist in forms that machines can find, interpret, and act on. Information that once lived in individual experience, informal conversations, and social networks is being converted into documents, tickets, repositories, policies, permissions, and indexes — machine-retrievable artifacts.
+
+This changes more than the efficiency of knowledge work. It changes the architecture through which organizational knowledge becomes organizational authority. In the traditional enterprise, expertise created power because information was unevenly distributed, and access to the people who knew was itself an organizational resource. Enterprise AI weakens that arrangement — but it does not eliminate informational power. It relocates that power into a new knowledge supply chain: someone decides what gets documented, which document is authoritative, what the AI can index, who can see it, what it may conclude, and what it may do.
+
+The managerial trap is treating these as implementation details. Companies are installing assistants while leaving the decisions embedded in them to IT configurations and legacy permissions. The result can be old organizational politics reproduced at a new technical layer — or invisible: contradictory artifacts becoming contradictory answers handed to thousands of employees, and machine visibility mistaken for what matters.
+
+The question for leadership is no longer "What does our AI know?" It is: **Who decides what the organization treats as true, relevant, accessible, and actionable — and is that power held by design or by accident?**
+
+## What we found
+
+Across five analytical lenses — management theory, managerial practice, enterprise operating models, competitive strategy, and economic decision-making — a consistent picture emerges:
+
+1. **Enterprise AI does not eliminate the gatekeepers. It changes what they gatekeep.** The path from experience to action once ran through people: knowing whom to ask. AI-mediated organizations route it through artifacts — externalization, canonicalization, permissioning, ingestion, retrieval, synthesis, decision, action, audit — and every step introduces a control point. A technical statement like "the assistant only retrieves content the user has permission to access" is also an organizational statement: permission architecture decides what organizational reality different employees can see.
+
+2. **AI unbundles expertise. It compresses the possession half and raises the price of the judgment half.** In one deployment of 5,179 customer-support agents, generative AI raised issues resolved per hour by about 14% overall — and by 34% for novice and lower-skilled workers, with little gain for the experienced. A separate field experiment on high-skill professional tasks found the same pattern within the technology's capability frontier. Routine, transferable know-how becomes distributable; validating context, resolving conflicts, handling exceptions, and accepting accountability remain scarce. The expert's role shifts from **possessing the answer** to **governing the answer**.
+
+3. **Every assistant embeds invisible managerial decisions — and four new forms of power.** Source power (who owns the authoritative artifacts), retrieval power (what the system actually finds), access power (who can see what), and interpretation power (who explains the system's outputs to leadership). Each can quietly influence thousands of AI-generated answers.
+
+4. **Machine-readable does not mean important, and invisible does not mean irrelevant.** AI makes some work highly observable — edit histories, citations, queries, rankings — while judgment, context, and unwritten exceptions stay dark. The temptation to manage what the AI can see will meet an organizational Goodhart's law: once machine visibility becomes valuable, employees optimize for machine visibility, producing **institutional answer theater** — artifacts optimized to look authoritative without improving decisions.
+
+5. **The knowledge operating model must be redesigned, not just connected.** Six components decide whether AI creates value or accelerates friction: knowledge ownership, canonicalization, access architecture, retrieval and ranking, human-and-agent decision rights, and audit. Connecting an assistant to contradictory, stale, poorly permissioned repositories produces faster mistakes — accelerated noise, not transformation. Knowledge becomes an operating asset: a good runbook can now ground thousands of interactions; a stale policy spreads errors at the same scale.
+
+6. **The frontier is moving from knowledge authority to action authority.** A retrieval assistant changes who can access knowledge; an agent changes who — or what — can act. Once systems can open tickets, alter configurations, and trigger workflows, the governance question expands from "What is the AI authorized to know?" to "What is it authorized to do?" In the AI-mediated organization, the scarce resource is no longer knowledge possession but **knowledge authority**: determining what the organization treats as true, relevant, accessible, and actionable.

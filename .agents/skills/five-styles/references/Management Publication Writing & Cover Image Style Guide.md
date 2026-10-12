@@ -1801,49 +1801,1340 @@ The five articles must differ materially in:
 
 ### Cover images
 
-For each article, create a cover-image concept.
+# Cover Image Generation Style Guide
 
-The image should reflect the editorial logic of that article:
+## Purpose
 
-**Sloan:** visualize the system or mechanism.
+The cover image is not merely an illustration for the article.
 
-**HBR:** visualize the managerial tension.
+It should look like a **finished management magazine cover, consulting insight cover, or executive report cover** that could plausibly appear on a publication website, PDF report, LinkedIn post, or editorial landing page.
 
-**McKinsey:** visualize the transformation architecture.
+The objective is to reproduce the recognizable **visual grammar** associated with:
 
-**BCG:** visualize the strategic concept.
+1. MIT Sloan Management Review
+2. Harvard Business Review
+3. McKinsey & Company
+4. Boston Consulting Group
+5. Bain & Company
 
-**Bain:** visualize the value-creation mechanism.
+The five covers should feel materially different from one another.
 
-For each cover provide:
+Do not simply generate five conceptual illustrations in different colors.
 
-**Core visual metaphor**
+Each cover should have its own:
 
-One sentence.
+- editorial hierarchy
+- typography strategy
+- page architecture
+- visual metaphor
+- use of diagrams versus illustration
+- density of information
+- palette
+- relationship between text and image
 
-**Composition**
+The final result should feel like a designed publication cover, not like AI-generated concept art with a title pasted on top.
 
-Describe the focal point and overall structure.
+---
 
-**Meaning**
+# 1. Finished-Cover Principle
 
-Explain how the metaphor represents the thesis.
+Every generated cover should contain a recognizable publication structure.
 
-**Generation prompt**
+At minimum:
 
-Provide a standalone image-generation prompt.
+### Publication identity area
 
-Avoid:
+Usually at the top.
 
-- logos
-- mastheads
-- publication branding
-- stock-photo business imagery
-- generic humanoid robots
-- glowing brains
-- clichéd AI imagery
+May contain:
 
-The five covers should remain recognizably different even if publication labels are removed.
+- publication name
+- publication-style masthead
+- section name
+- small editorial tagline
+- report-series label
+
+### Main headline
+
+The dominant text element.
+
+It should be visually large enough that the cover still works as a thumbnail.
+
+### Dek / subtitle
+
+One short sentence explaining the management argument.
+
+### Hero visual
+
+This may be:
+
+- editorial illustration
+- conceptual photography
+- infographic
+- strategic diagram
+- system architecture
+- data-like graphic
+- symbolic landscape
+- visual metaphor
+
+The hero visual should communicate the article's thesis.
+
+### Supporting editorial details
+
+Optional elements include:
+
+- topic labels
+- section markers
+- small framework labels
+- author name
+- author descriptor
+- issue/category metadata
+- small icons
+- short callouts
+
+These details make the image feel like an actual publication cover rather than a poster.
+
+---
+
+# 2. Typography Is Part of the Image
+
+Typography is not an afterthought.
+
+The cover should visually communicate editorial authority before the reader understands the illustration.
+
+Use a clear hierarchy:
+
+**Publication masthead**
+
+↓
+
+**Main headline**
+
+↓
+
+**Dek**
+
+↓
+
+**Hero visual**
+
+↓
+
+**Small supporting information**
+
+The headline should normally occupy a substantial part of the upper third or upper half of the page.
+
+Do not shrink the headline merely to make more room for artwork.
+
+Management publication covers are primarily **editorial design**, not artwork with captions.
+
+---
+
+# 3. Cover Aspect Ratio
+
+Default to portrait publication proportions.
+
+Preferred:
+
+**2:3 portrait**
+
+or approximately:
+
+**4:5 portrait**
+
+The layout should resemble:
+
+- magazine cover
+- report cover
+- executive insight cover
+- thought-leadership PDF cover
+
+When generating all five together, use five equal portrait panels.
+
+Do not generate five landscape illustrations and place publication labels above them.
+
+---
+
+# 4. Text Density
+
+Use enough text to establish publication identity, but not so much that generation becomes unreliable.
+
+Prioritize text in this order:
+
+1. publication name
+2. article title
+3. article subtitle
+4. author
+5. framework labels
+6. minor metadata
+
+Avoid long paragraphs.
+
+Short framework labels are acceptable.
+
+Examples:
+
+- INTENT
+- GENERATE
+- VERIFY
+- LEARN
+- HUMAN JUDGMENT
+- BUSINESS VALUE
+- AI EXECUTION
+- BETTER OUTCOMES
+
+Do not invent quantitative data merely because a diagram appears on the cover.
+
+---
+
+# 5. No Fake Empirical Authority
+
+The evidence policy for the articles also applies to the covers.
+
+The cover may contain conceptual diagrams.
+
+It must not contain invented claims such as:
+
+- 73% productivity improvement
+- 4.6× higher returns
+- surveyed 2,500 executives
+- top-quartile companies
+- our global benchmark
+
+unless those numbers actually exist in the source material.
+
+Conceptual labels are encouraged.
+
+Fake data is not.
+
+---
+
+# 6. Two Major Cover Families
+
+The five publications belong to two slightly different visual families.
+
+## Management magazine
+
+### MIT Sloan Management Review
+
+### Harvard Business Review
+
+These should feel like editorial magazine covers.
+
+They may contain:
+
+- strong editorial typography
+- provocative illustration
+- visual metaphor
+- human narrative
+- relatively expressive layout
+
+---
+
+## Consulting insight / report
+
+### McKinsey
+
+### BCG
+
+### Bain
+
+These should feel more like:
+
+- executive reports
+- consulting insights
+- strategic research covers
+- CEO briefing documents
+
+They should generally have:
+
+- stronger corporate identity
+- more disciplined layout
+- clearer framework visualization
+- greater use of diagrams, architecture, systems, or strategic imagery
+
+The consulting covers should not simply look like business magazines.
+
+---
+
+# 7. MIT Sloan Management Review Cover Style
+
+## Core character
+
+**Academic-management magazine meets technology and organizational systems.**
+
+The cover should feel:
+
+- intellectual
+- analytical
+- contemporary
+- slightly academic
+- technology-aware
+- editorial rather than corporate
+
+Think:
+
+**research magazine + systems thinking + restrained illustration**
+
+---
+
+## Page architecture
+
+Typical structure:
+
+**Top left:** publication masthead
+
+**Top/right corner:** small editorial tagline or topic labels
+
+**Upper third:** large serif headline
+
+**Below headline:** concise explanatory dek
+
+**Lower half:** conceptual systems illustration or infographic
+
+**Bottom:** topic taxonomy and/or author line
+
+---
+
+## Typography
+
+Use:
+
+- strong editorial serif for headline
+- clean sans-serif for supporting text
+- substantial contrast between title and metadata
+
+The typography should feel like a serious university-affiliated management publication.
+
+Headline examples:
+
+> When Code Becomes Abundant
+
+> A New Unit of Organizational Capacity
+
+> Managing the Verification Bottleneck
+
+---
+
+## Color
+
+Preferred visual character:
+
+- warm white
+- cream
+- light gray
+- restrained red accent
+- muted blue
+- technical cyan
+- occasional orange accent
+
+Avoid overly glossy corporate gradients.
+
+---
+
+## Hero visual
+
+Prefer a visual that explains a **system**.
+
+Examples:
+
+- human capacity on one side, AI capacity on another
+- flowing organizational network
+- intent → generation → verification → learning loop
+- execution volume shifting toward judgment
+- organizational architecture being reconfigured
+- multiple AI agents connected around a human decision layer
+
+Illustration can be moderately diagrammatic.
+
+---
+
+## Sloan cover formula
+
+**Editorial masthead + serious serif headline + restrained subtitle + systems illustration + small academic/editorial details**
+
+---
+
+## Sloan prompt template
+
+Create a complete portrait management-magazine cover for an article titled:
+
+"[TITLE]"
+
+Subtitle:
+
+"[SUBTITLE]"
+
+Publication treatment: MIT Sloan Management Review-inspired editorial design.
+
+The result must look like a finished management magazine cover, not a standalone illustration.
+
+Use a warm off-white or pale neutral paper background, a strong scholarly editorial masthead at the top, a large elegant serif headline occupying the upper third, a short sans-serif dek below it, and a sophisticated systems-oriented editorial illustration filling the lower half.
+
+Visualize the article's mechanism using:
+
+[VISUAL METAPHOR]
+
+Use restrained diagrammatic elements, organizational flows, human figures, technology components, arrows, layers, or networks where useful.
+
+Color character: cream, black, muted blue, restrained red accents, optional orange or cyan highlights.
+
+Add small editorial details such as topic categories, short framework labels, and an author line near the bottom.
+
+The overall design should feel like a serious technology-and-management research magazine: analytical, intelligent, restrained, highly legible, and professionally art-directed.
+
+Avoid generic robot imagery, glowing AI brains, neon cyberpunk aesthetics, stock-photo executives, or decorative technology effects.
+
+---
+
+# 8. Harvard Business Review Cover Style
+
+## Core character
+
+**Big management idea presented as a provocative editorial story.**
+
+The cover should feel:
+
+- authoritative
+- human
+- provocative
+- highly readable
+- conceptually simple
+- visually memorable
+
+HBR should look more like a true business magazine than the consulting covers.
+
+---
+
+## Page architecture
+
+Typical structure:
+
+**Top:** very prominent publication masthead
+
+**Upper third:** huge article title
+
+**Below title:** brief explanatory subtitle
+
+**Middle/lower half:** one strong visual metaphor
+
+Optional:
+
+- small tagline
+- category line
+- author attribution
+
+The page should not become a dense infographic.
+
+---
+
+## Typography
+
+Typography is central.
+
+Prefer:
+
+- extremely prominent masthead
+- large high-contrast headline
+- classic serif headline
+- clean secondary sans-serif
+- editorial rather than report typography
+
+The title can dominate half the cover.
+
+---
+
+## Color
+
+HBR can vary considerably.
+
+Useful treatments include:
+
+- white + black + red
+- black + white + one accent
+- pale editorial color field
+- restrained photographic color
+- muted lavender, beige, gray, or cream
+
+The design should feel bold because of typography and concept, not because of visual effects.
+
+---
+
+## Hero visual
+
+Use **one managerial metaphor**.
+
+Examples:
+
+### Hiring
+
+Two doors:
+
+HUMAN HIRE
+
+AI CAPACITY
+
+### Performance
+
+Engineer standing between:
+
+MORE CODE
+
+BETTER DECISIONS
+
+### AI management
+
+One manager observing hundreds of automated workers.
+
+### Judgment
+
+Large pile of machine output on one side; one meaningful decision on the other.
+
+The metaphor should be immediately understandable.
+
+---
+
+## HBR cover formula
+
+**Huge masthead + provocative headline + one human management dilemma + simple editorial metaphor**
+
+---
+
+## HBR prompt template
+
+Create a finished portrait business-magazine cover for an article titled:
+
+"[TITLE]"
+
+Subtitle:
+
+"[SUBTITLE]"
+
+Publication treatment: Harvard Business Review-inspired editorial cover.
+
+Make typography one of the dominant visual elements.
+
+Use a large authoritative magazine masthead across the top and an oversized elegant serif headline occupying much of the upper half.
+
+Below the title, include a concise explanatory subtitle.
+
+The lower half should contain one clear editorial metaphor representing this managerial dilemma:
+
+[MANAGERIAL TENSION]
+
+The visual metaphor should be immediately understandable and preferably include a recognizable human decision-maker confronting a choice, contradiction, or management problem.
+
+Use a sophisticated editorial palette with strong black-and-white typography and one restrained accent color.
+
+The cover should feel like an important management idea packaged for senior executives, not like a consulting report or technology advertisement.
+
+Keep the composition clean and memorable.
+
+Avoid dense diagrams, generic AI robots, holographic interfaces, glowing brains, excessive technical labels, and stock-corporate imagery.
+
+---
+
+# 9. McKinsey Cover Style
+
+## Core character
+
+**Executive transformation report.**
+
+The cover should feel like something prepared for:
+
+- CEOs
+- executive committees
+- boards
+- transformation leaders
+
+It should communicate:
+
+**scale + architecture + enterprise change**
+
+---
+
+## Two valid McKinsey treatments
+
+McKinsey covers can use either of two modes.
+
+### Mode A — Executive report
+
+White or pale background.
+
+Strong title.
+
+Structured enterprise diagram or architecture.
+
+Clean blue accents.
+
+Very disciplined.
+
+### Mode B — Transformation landscape
+
+Dark blue or cinematic corporate background.
+
+Large elegant white title.
+
+Enterprise-scale landscape showing networks, platforms, people, infrastructure, or transformation pathways.
+
+Still restrained and executive.
+
+---
+
+## Page architecture
+
+Typical:
+
+**Top:** McKinsey-style corporate masthead
+
+**Corner:** small INSIGHTS / GLOBAL INSTITUTE / REPORT-style marker
+
+**Upper half:** major title
+
+**Short dek**
+
+**Lower half:** transformation visual
+
+Optional:
+
+- framework labels
+- operating-model stages
+- directional arrows
+- small executive metadata
+
+---
+
+## Typography
+
+Prefer:
+
+- elegant serif headline
+- restrained sans-serif supporting text
+- high professionalism
+- large areas of clean spacing
+
+Typography should never feel playful.
+
+---
+
+## Color
+
+Primary treatments:
+
+- deep navy
+- royal blue
+- white
+- pale gray
+- cool cyan
+
+Occasional sunrise or horizon accents are acceptable for large transformation imagery.
+
+---
+
+## Hero visual
+
+Think:
+
+**enterprise architecture**
+
+Good concepts:
+
+- traditional hierarchy transforming into agentic operating model
+- stepped capability architecture
+- modular operating-system blocks
+- distributed network of human and machine capabilities
+- transformation landscape extending toward a horizon
+- layered operating model
+
+The visual can resemble an exhibit while remaining attractive enough for a cover.
+
+---
+
+## McKinsey cover formula
+
+**Corporate masthead + elegant executive headline + transformation architecture + blue/white discipline**
+
+---
+
+## McKinsey prompt template
+
+Create a finished portrait executive consulting-report cover for an article titled:
+
+"[TITLE]"
+
+Subtitle:
+
+"[SUBTITLE]"
+
+Publication treatment: McKinsey-inspired executive insight report.
+
+This must look like a polished consulting report cover, not a magazine illustration.
+
+Place a refined corporate masthead at the top and a small INSIGHTS or REPORT-style identifier in the opposite corner.
+
+Use a large elegant serif headline with disciplined spacing and a short professional dek.
+
+Build the lower half around this enterprise-transformation concept:
+
+[TRANSFORMATION ARCHITECTURE]
+
+Visualize it using structured architecture, platforms, layered systems, networks, pathways, organizational modules, or a large-scale business landscape.
+
+Use a sophisticated navy, white, blue, gray, and restrained cyan palette.
+
+The overall composition should communicate scale, organizational redesign, executive seriousness, and enterprise transformation.
+
+If framework labels are used, keep them short and conceptual.
+
+Do not invent quantitative research.
+
+Avoid whimsical illustration, cartoon characters, generic robot imagery, exaggerated science-fiction interfaces, and decorative visual noise.
+
+---
+
+# 10. BCG Cover Style
+
+## Core character
+
+**Bold strategic thesis packaged as a future-oriented consulting insight.**
+
+BCG should feel more provocative and graphic than McKinsey.
+
+Think:
+
+**strategy report + future thesis + bold visual system**
+
+---
+
+## Page architecture
+
+Typical:
+
+**Top:** large BCG-style masthead
+
+**Small report label:** AI RADAR / INSIGHT / STRATEGY / etc.
+
+**Large headline**
+
+**Short thesis statement**
+
+**Dominant strategic visual**
+
+The visual may occupy most of the cover.
+
+---
+
+## Typography
+
+BCG can tolerate:
+
+- larger sans-serif typography
+- stronger contrast
+- more graphic composition
+- brighter strategic accent colors
+
+Mixing strong sans-serif headings with restrained serif elements can work.
+
+---
+
+## Color
+
+Strong BCG character:
+
+- deep forest green
+- black
+- dark teal
+- emerald
+- bright cyan-green accent
+- white
+
+The background may be dramatically dark.
+
+---
+
+## Hero visual
+
+Visualize **competitive advantage**.
+
+Good concepts:
+
+- two diverging growth curves
+- traditional incumbent versus AI-native scaler
+- abundance flowing toward a scarce judgment point
+- strategic landscape divided into old and new economic regimes
+- narrow human judgment channel controlling massive machine capacity
+- old company architecture on one side, new scalable architecture on another
+
+BCG is the most suitable of the five for an attractive strategic chart on the cover.
+
+The chart may be conceptual rather than empirical.
+
+If conceptual, avoid fake numeric axes or data points.
+
+---
+
+## BCG cover formula
+
+**Dark strategic identity + giant headline + provocative thesis + high-energy conceptual framework**
+
+---
+
+## BCG prompt template
+
+Create a finished portrait strategy-consulting insight cover for an article titled:
+
+"[TITLE]"
+
+Subtitle:
+
+"[SUBTITLE]"
+
+Publication treatment: BCG-inspired strategic report design.
+
+Use a strong corporate masthead at the top, a small future-oriented report label, and a bold high-contrast headline.
+
+The visual identity should use deep forest green, black, dark teal, white, and luminous green or cyan accents.
+
+Build the hero visual around this new source of competitive advantage:
+
+[STRATEGIC CONCEPT]
+
+Represent it with a bold strategic diagram, diverging pathways, contrasting organizational archetypes, conceptual growth curves, abundance-versus-scarcity imagery, or a dramatic strategic landscape.
+
+The cover should feel intellectually provocative, future-oriented, high-energy, and designed for senior executives.
+
+Conceptual charts may be used, but do not invent numerical data.
+
+Avoid generic corporate photography, conventional office scenes, humanoid AI robots, glowing brains, or unnecessary decorative technology.
+
+---
+
+# 11. Bain Cover Style
+
+## Core character
+
+**Results-oriented consulting report with very clear business logic.**
+
+Bain should feel:
+
+- practical
+- decisive
+- clean
+- commercially grounded
+- action-oriented
+
+Compared with McKinsey and BCG, Bain should make the business outcome easiest to understand.
+
+---
+
+## Page architecture
+
+Typical:
+
+**Top:** Bain-style red corporate identity
+
+**Large headline below**
+
+**Short business-oriented subtitle**
+
+**Large practical framework or visual metaphor**
+
+**Bottom:** three simple actions, outcomes, or icons if useful
+
+Generous white space is important.
+
+---
+
+## Typography
+
+Prefer:
+
+- strong black headline
+- bold red accent
+- clean business typography
+- high contrast
+- very strong hierarchy
+
+Headline can be more direct and imperative than the other publications.
+
+Examples:
+
+> Stop Counting Code.
+
+> Where Should the Next Dollar Go?
+
+> Turn AI Output Into Business Value.
+
+---
+
+## Color
+
+Strong default:
+
+- white
+- black
+- Bain-style red
+- light neutral gray
+
+Optional limited blue or metallic gray.
+
+Do not overcomplicate the palette.
+
+---
+
+## Hero visual
+
+Use a clear business mechanism.
+
+Excellent Bain visuals include:
+
+- funnel
+- dial
+- filter
+- pipeline
+- lever
+- staircase
+- conversion machine
+- bottleneck
+- investment allocation control
+- before/after operating system
+
+Example:
+
+ABUNDANT AI OUTPUT
+
+↓
+
+QUALITY & RISK FILTER
+
+↓
+
+HUMAN JUDGMENT
+
+↓
+
+ORGANIZATIONAL ABSORPTION
+
+↓
+
+BUSINESS VALUE
+
+This can be presented as a stylized funnel.
+
+---
+
+## Bain cover formula
+
+**White space + red identity + blunt headline + practical business mechanism + outcome**
+
+---
+
+## Bain prompt template
+
+Create a finished portrait consulting-report cover for an article titled:
+
+"[TITLE]"
+
+Subtitle:
+
+"[SUBTITLE]"
+
+Publication treatment: Bain-inspired executive report.
+
+Use a clean white background, strong red corporate identity at the top, a large direct black headline, and a concise business-oriented subtitle.
+
+The dominant visual should clearly explain this business mechanism:
+
+[VALUE-CREATION MECHANISM]
+
+Use a simple funnel, dial, lever, filter, staircase, pipeline, conversion system, or other immediately understandable operating metaphor.
+
+Use black, white, light neutral gray, and a strong restrained red accent.
+
+The page should contain generous white space and exceptionally clear visual hierarchy.
+
+Optional small icons or three short action labels may appear near the bottom.
+
+The cover should communicate pragmatism, execution, economics, and measurable business value.
+
+Do not fabricate numbers or survey findings.
+
+Avoid futuristic clutter, complex landscapes, generic robots, unnecessary decoration, and abstract imagery that does not clearly connect to business results.
+
+---
+
+# 12. Publication Differentiation Test
+
+Before accepting a set of five covers, remove the publication names mentally.
+
+You should still be able to identify them.
+
+### Sloan
+
+Looks like:
+
+**serious management research magazine**
+
+Dominant idea:
+
+**system**
+
+### HBR
+
+Looks like:
+
+**premium business magazine**
+
+Dominant idea:
+
+**managerial dilemma**
+
+### McKinsey
+
+Looks like:
+
+**executive transformation report**
+
+Dominant idea:
+
+**enterprise architecture**
+
+### BCG
+
+Looks like:
+
+**provocative future-strategy report**
+
+Dominant idea:
+
+**new competitive advantage**
+
+### Bain
+
+Looks like:
+
+**results-driven consulting report**
+
+Dominant idea:
+
+**business mechanism**
+
+If they all look like attractive editorial illustrations, the differentiation has failed.
+
+---
+
+# 13. Same Topic, Five Cover Treatments
+
+Suppose the article topic is:
+
+**AI makes traditional engineering productivity metrics obsolete.**
+
+## Sloan
+
+Headline:
+
+**When Code Becomes Abundant**
+
+Visual:
+
+A flow from huge machine-generated code volume toward increasingly scarce human judgment.
+
+Treatment:
+
+Light academic magazine cover with systems illustration.
+
+---
+
+## HBR
+
+Headline:
+
+**Your Best Engineer May Soon Write the Least Code**
+
+Visual:
+
+Engineer standing at a fork:
+
+MORE CODE
+
+versus
+
+BETTER DECISIONS
+
+Treatment:
+
+Bold magazine cover built around the management dilemma.
+
+---
+
+## McKinsey
+
+Headline:
+
+**Beyond Developer Productivity**
+
+Visual:
+
+A layered enterprise operating model:
+
+HUMAN JUDGMENT  
+UNCERTAINTY REDUCTION  
+RESPONSIBLE DELIVERY  
+AI LEVERAGE  
+BUSINESS IMPACT
+
+Treatment:
+
+Executive blue consulting report.
+
+---
+
+## BCG
+
+Headline:
+
+**The Post-Productivity Engineer**
+
+Visual:
+
+An enormous stream of machine execution converging on a narrow human judgment pathway.
+
+Treatment:
+
+Dark green strategic report with bright future-oriented accents.
+
+---
+
+## Bain
+
+Headline:
+
+**Stop Counting Code.**
+
+Visual:
+
+Large pile of code entering a filter and emerging as a small number of high-value outcomes.
+
+Treatment:
+
+White consulting cover with black typography and red business-result accents.
+
+---
+
+# 14. Generating All Five Covers in One Image
+
+When asked to generate all five styles together, create a polished presentation showing **five separate portrait publication covers**.
+
+Each should look like an independent designed publication.
+
+Do not simply divide one composition into five colored panels.
+
+Each panel must have:
+
+- its own masthead treatment
+- its own headline hierarchy
+- its own page architecture
+- its own visual metaphor
+- its own color system
+- its own relationship between text and image
+
+Use consistent physical dimensions so they can be compared side by side.
+
+Recommended arrangement:
+
+### Five across
+
+Best when the output is very wide.
+
+or:
+
+### Three above, two below
+
+Best when more cover detail is needed.
+
+Maintain visible white or neutral gutters between covers.
+
+Each cover should feel complete enough that it could be cropped and used independently.
+
+---
+
+# 15. Five-Cover Comparison Prompt
+
+Create five finished portrait management-publication covers showing five different editorial treatments of the same underlying article:
+
+[ARTICLE IDEA]
+
+The five covers should represent:
+
+1. MIT Sloan Management Review-inspired
+2. Harvard Business Review-inspired
+3. McKinsey-inspired
+4. BCG-inspired
+5. Bain-inspired
+
+Each cover must look like a complete magazine or consulting-report cover, not merely an illustration panel.
+
+Use distinctly different typography, layout, visual metaphor, color palette, and information architecture for each.
+
+### Sloan
+
+Light, research-oriented management magazine. Scholarly masthead, elegant serif title, restrained red accent, systems-oriented illustration or infographic, academic editorial details.
+
+### HBR
+
+Premium business magazine. Very prominent masthead, oversized provocative serif headline, concise subtitle, one memorable human-centered management metaphor.
+
+### McKinsey
+
+Executive consulting report. Refined corporate masthead, elegant title, blue-and-white visual system, enterprise architecture or transformation framework, disciplined composition.
+
+### BCG
+
+Bold strategy insight. Dark forest-green or black background, large graphic identity, strong headline, bright green/cyan accents, provocative strategic concept or conceptual chart.
+
+### Bain
+
+Results-oriented consulting report. Clean white background, red corporate accent, bold direct headline, large simple operating mechanism such as funnel, dial, filter, pipeline, or staircase, generous white space.
+
+Each cover should communicate the same topic through a different intellectual lens:
+
+Sloan = system  
+HBR = managerial dilemma  
+McKinsey = enterprise transformation  
+BCG = strategic advantage  
+Bain = value creation
+
+Do not invent survey statistics or quantitative findings.
+
+Use short conceptual labels where necessary.
+
+Avoid generic AI imagery such as humanoid robots, glowing brains, robot hands, holographic interfaces, or decorative circuit boards unless they are essential to the metaphor.
+
+The result should resemble a professionally art-directed comparison of five genuine management magazine / consulting report covers.
+
+---
+
+# 16. Cover Quality Checklist
+
+Before accepting a generated cover, check:
+
+### Does it look like a publication?
+
+Not merely a poster?
+
+### Can the headline be read immediately?
+
+If not, typography is too weak.
+
+### Is there a clear masthead area?
+
+The page should have publication identity.
+
+### Is there a visual hierarchy?
+
+Masthead → headline → subtitle → visual → metadata.
+
+### Does the visual communicate the article's argument?
+
+Not merely "AI" or "business."
+
+### Is the style recognizably different from the other four?
+
+Especially:
+
+McKinsey ≠ BCG ≠ Bain.
+
+### Is there fake data?
+
+If yes, remove it.
+
+### Is there too much decorative AI imagery?
+
+If yes, simplify it.
+
+### Would it look plausible as a LinkedIn thumbnail or PDF report cover?
+
+If yes, the design is working.
+
+---
+
+# 17. Fast Visual Reference
+
+## Sloan
+
+**Research magazine**
+
+White/cream  
+Serif headline  
+Red accent  
+Systems diagram  
+Editorial detail
+
+---
+
+## HBR
+
+**Business magazine**
+
+Strong masthead  
+Huge headline  
+Simple metaphor  
+Human dilemma  
+Editorial drama
+
+---
+
+## McKinsey
+
+**Executive report**
+
+Blue / white  
+Elegant serif  
+Structured architecture  
+Enterprise scale  
+Disciplined
+
+---
+
+## BCG
+
+**Strategy report**
+
+Dark green  
+Bold typography  
+Bright green/cyan  
+Strategic concept  
+Future-facing
+
+---
+
+## Bain
+
+**Results report**
+
+White  
+Black  
+Red  
+Blunt headline  
+Simple operating mechanism
+
+---
+
+# 18. Core Rule
+
+The previous version of this guide treated the cover as:
+
+**article → illustration**
+
+The correct model is:
+
+**article → editorial concept → publication architecture → hero visual → finished cover**
+
+The publication design itself is part of the message.
+
+The goal is not simply to make five beautiful images.
+
+The goal is to make five images that look like **five different institutions packaged the same idea according to their own editorial worldview.**
 
 ---
 

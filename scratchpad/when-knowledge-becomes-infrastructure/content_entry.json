@@ -1,0 +1,63 @@
+{
+ "slug": "when-knowledge-becomes-infrastructure",
+ "title": "When Knowledge Becomes Infrastructure: How Enterprise AI Redistributes Organizational Power",
+ "title_zh": "當知識成為基礎設施：企業 AI 如何重新分配組織權力",
+ "summary": "Enterprise AI forces knowledge into machine-retrievable forms, relocating power from the people who know to the people who run the knowledge supply chain. Five publications examine the shift from knowledge possession to knowledge authority — and what leaders must decide before agents start acting on the answers.",
+ "summary_zh": "企業 AI 迫使知識以機器可檢索的形式存在，把權力由「知道的人」轉移到「營運知識供應鏈的人」手上。五種出版角度剖析這場由知識擁有轉向知識權威的轉移——以及在大規模部署之前，領導層必須先回答的治理問題。",
+ "path": "articles/case-studies/when-knowledge-becomes-infrastructure/problem.md",
+ "cover": "articles/case-studies/when-knowledge-becomes-infrastructure/cover.png",
+ "cover_zh_text": [
+  "當知識成為基礎設施",
+  "企業 AI 如何重新分配組織權力"
+ ],
+ "date": "2026-10-12",
+ "case": {
+  "publications": [
+   {
+    "id": "sloan",
+    "name": "MIT Sloan Management Review",
+    "name_zh": "MIT Sloan Management Review",
+    "logo": "articles/case-studies/when-knowledge-becomes-infrastructure/sloan_logo.svg",
+    "title": "When AI Turns Organizational Knowledge Into Infrastructure",
+    "title_zh": "當 AI 把組織知識變成基礎設施",
+    "path": "articles/case-studies/when-knowledge-becomes-infrastructure/sloan.md"
+   },
+   {
+    "id": "hbr",
+    "name": "Harvard Business Review",
+    "name_zh": "哈佛商業評論",
+    "logo": "articles/case-studies/when-knowledge-becomes-infrastructure/hbr_logo.svg",
+    "title": "Your Company's AI Knows Only What Your Organization Lets It Know",
+    "title_zh": "你公司的 AI 只知道你的組織讓它知道的東西",
+    "path": "articles/case-studies/when-knowledge-becomes-infrastructure/hbr.md"
+   },
+   {
+    "id": "mckinsey",
+    "name": "McKinsey & Company",
+    "name_zh": "麥肯錫",
+    "logo": "articles/case-studies/when-knowledge-becomes-infrastructure/mckinsey_logo.svg",
+    "title": "Rewiring the Enterprise Knowledge Model for AI",
+    "title_zh": "為 AI 重組企業知識營運模式",
+    "path": "articles/case-studies/when-knowledge-becomes-infrastructure/mckinsey.md"
+   },
+   {
+    "id": "bcg",
+    "name": "BCG",
+    "name_zh": "波士頓顧問公司",
+    "logo": "articles/case-studies/when-knowledge-becomes-infrastructure/bcg_logo.svg",
+    "title": "The Knowledge Authority Advantage",
+    "title_zh": "知識權威優勢",
+    "path": "articles/case-studies/when-knowledge-becomes-infrastructure/bcg.md"
+   },
+   {
+    "id": "bain",
+    "name": "Bain & Company",
+    "name_zh": "貝恩公司",
+    "logo": "articles/case-studies/when-knowledge-becomes-infrastructure/bain_logo.svg",
+    "title": "Enterprise AI Creates Value Only When the Knowledge Behind It Can Be Trusted",
+    "title_zh": "企業 AI 只有在背後的知識可信時才創造價值",
+    "path": "articles/case-studies/when-knowledge-becomes-infrastructure/bain.md"
+   }
+  ]
+ }
+}
