@@ -1,0 +1,52 @@
+{
+  "activity_id": "7516367060159963136",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516367060159963136/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-14T12:00:00+00:00",
+  "posted_at_hint": "Oct 14",
+  "posted_at_approx": true,
+  "text": "Why Claude Code has to release new version multiple times within a day?\nCan't they simply release once a week, test and QA the code well before releasing.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Christopher Fortin",
+        "profile_url": "https://www.linkedin.com/in/crfortin/",
+        "headline": "Founder, SVP Strategic Development at 5Seams, Inc."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-16T08:05:00+00:00",
+      "posted_at_hint": "2d",
+      "posted_at_approx": true,
+      "text": "Also because we are the testers. They don't want a week to find out an update broke it.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Christopher Fortin",
+        "profile_url": "https://www.linkedin.com/in/crfortin/",
+        "headline": "Founder, SVP Strategic Development at 5Seams, Inc."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-16T08:05:00+00:00",
+      "posted_at_hint": "2d",
+      "posted_at_approx": true,
+      "text": "You pay the time price to be on the bleeding edge.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

@@ -1,0 +1,37 @@
+{
+  "activity_id": "7514120144034574336",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514120144034574336/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-08T12:00:00+00:00",
+  "posted_at_hint": "Oct 8",
+  "posted_at_approx": true,
+  "text": "You don't need to turn every chatbot into an agent.\n\nChatbot is light weight and simple. It is good enough for many use cases.\n\nWhy people always want to bolt an agent (Claude Code or Codex) on everything these days?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Saheb Panda",
+        "profile_url": "https://www.linkedin.com/in/arkiscool/",
+        "headline": "MS ECE @ USC // DFT // Design Verification // ASIC Design"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "I wanna gatekeep this, but I'm giving you some hints. Try Spare Android + muse",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

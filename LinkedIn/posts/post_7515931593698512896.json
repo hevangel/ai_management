@@ -1,0 +1,83 @@
+{
+  "activity_id": "7515931593698512896",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7515931593698512896/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-13T12:00:00+00:00",
+  "posted_at_hint": "Oct 13",
+  "posted_at_approx": true,
+  "text": "Is it just me, I found the M365 Copilot meeting summary is totally human unreadable. I think M$FT is cheap, it uses a dumb LLM to generate the default summary.\n\nI have to ask Copilot to re-summarize the meeting again, stress that only tell me what is the important and cut all the BS.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "George C.",
+        "profile_url": "https://www.linkedin.com/in/georgecarroll1/",
+        "headline": "I fix operations that were never built to run without one person holding it together | Operations Leader | Logistics, Distribution & Field Service"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-17T08:05:00+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "Copilot is so horrible that I don't use it for anything.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Dan B.",
+            "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+            "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-17T08:05:00+00:00",
+          "posted_at_hint": "1d",
+          "posted_at_approx": true,
+          "text": "George C. It can be good for admitting how bad Microsoft’s products are. It’s almost comical. “Yes this is a well known complaint with Teams. You can’t do that but here’s how people work around it.” 😂",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "George C.",
+            "profile_url": "https://www.linkedin.com/in/georgecarroll1/",
+            "headline": "I fix operations that were never built to run without one person holding it together | Operations Leader | Logistics, Distribution & Field Service"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-17T08:05:00+00:00",
+          "posted_at_hint": "1d",
+          "posted_at_approx": true,
+          "text": "Dan B. 😂",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dan B.",
+        "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+        "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-15T08:05:00+00:00",
+      "posted_at_hint": "3d",
+      "posted_at_approx": true,
+      "text": "Copilot is garbage. The box to use it is everywhere in Microsoft products but ask it to do something for you and the response is \"I can't do that but I can walk you through (the 20 steps) to do it yourself\".",
+      "likes": 2,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

@@ -1,0 +1,40 @@
+{
+  "activity_id": "7516265665914163200",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516265665914163200/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-14T12:00:00+00:00",
+  "posted_at_hint": "Oct 14 • Edited",
+  "posted_at_approx": true,
+  "text": "My AI philosophy paper is published at philpaper\nThe Summit Is Not the Climb: AI, Creative Value, and the Displacement Fallacy\nJordan MacKenzie argues that generative artificial intelligence poses two existential threats to human valuing practices: a forward-looking threat in which meaningful creative processes are displaced by merely functional products, and a backward-looking threat in which audiences indifference to creative provenance reveals a troubling discord in values. This paper challenges the inferences underlying both claims. I argue that technological automation does not necessarily destroy the values associated with established practices, because the historical necessity of an activity must be distinguished from its constitutive significance. Drawing on the coexistence of the Grouse Grind hiking trail and mechanized access to Grouse Mountain, I develop an account of instrumental and constitutive difficulty that explains how automation can preserve intrinsically valued activities while expanding access to their outcomes. I then distinguish productive, receptive, relational, and institutional values, defending a principle of evaluative relevance against the inference from audience preference to indifference toward human creative achievement. Examples involving culinary technology, fan fiction, personal communication, and literary evaluation demonstrate how meaningful agency can survive or expand through technological mediation. Finally, drawing on Foucault and Bourdieu, I distinguish the loss of cultural exclusivity from the loss of intrinsic value. The resulting argument does not deny the possibility of technological harm. Rather, it places a justificatory burden on claims that automation constitutes value destruction and offers a framework for evaluating technological change according to the human goods it preserves, transforms, or enables.\nhttps://lnkd.in/gUDd9EPa",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "The Summit Is Not the Climb: AI, Creative Value, and the Displacement Fallacy",
+    "url": "https://lnkd.in/gUDd9EPa"
+  },
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": "2026-10-15T08:05:00+00:00",
+      "posted_at_hint": "3d",
+      "posted_at_approx": true,
+      "text": "Jordan MacKenzie",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

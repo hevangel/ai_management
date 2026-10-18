@@ -1,0 +1,56 @@
+{
+  "activity_id": "7516026697918382081",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516026697918382081/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-13T12:00:00+00:00",
+  "posted_at_hint": "Oct 13",
+  "posted_at_approx": true,
+  "text": "Anthropic just re-invented Perforce\nhttps://lnkd.in/gE_T_4ZX",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+  },
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dan B.",
+        "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+        "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-15T08:05:00+00:00",
+      "posted_at_hint": "3d",
+      "posted_at_approx": true,
+      "text": "Are branches free or \"light\"? That's my biggest complaint with perforce. IT discourages them because they are heavy on disk space. We switched at least one design from perforce to git recently. Anymore I personally don't care much as long as I have the freedom to do what I need to without IT scolding me for using disk space. I found perforce quite confusing and well also git when I started using it, but now Claude does both for me so I don't really care. 😂",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Brent Schiestl",
+            "profile_url": "https://www.linkedin.com/in/brentschiestl/",
+            "headline": "Product @ Perforce Software | Novice Youth Sports Coach"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-15T08:05:00+00:00",
+          "posted_at_hint": "3d",
+          "posted_at_approx": true,
+          "text": "Dan B. Sparse streams were added in 2024 to make branching much more lightweight and to support “branch per bug” workflows if that is your preferred approach.  We also just added a pretty major improvement to sparse streams in May of this year.  Hope you have a reason to try us again someday in the future.  Appreciate the honest review.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

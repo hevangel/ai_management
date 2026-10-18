@@ -1,0 +1,37 @@
+{
+  "activity_id": "7517027348538527744",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7517027348538527744/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-17T08:05:00+00:00",
+  "posted_at_hint": "1d",
+  "posted_at_approx": true,
+  "text": "Codex Desktop (6.1 Sol) is dumb. I asked it to use computer use to debug a problem in my VSCode. It took control of my screen, mouse and keyboard, did some work. Then Codex pops up a question asking me for an answer. How can I answer the question when it has the control of the screen, mouse and keyboard.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-17T08:05:00+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "you have a microphone.",
+      "likes": 4,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

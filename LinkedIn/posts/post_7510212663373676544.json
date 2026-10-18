@@ -1,0 +1,21 @@
+{
+  "activity_id": "7510212663373676544",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7510212663373676544/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-27T12:00:00+00:00",
+  "posted_at_hint": "Sep 27 • Edited",
+  "posted_at_approx": true,
+  "text": "I asked GPT, Claude, Gemini, Muse explain to me how square root is implemented in software and hardware.\n\nI like GPT's answer the best, then Gemini, then Claude in term of easy to understand. Honestly, I am happy to take any one of those three. Definitely better than reading any math textbook or Wikipedia.\n\nMuse totally failed, I can't understand a thing it says. I feel Facebook RL Muse to be something different, it is good at doing things for you, but they seems to skip the era when LLM is a good chat companion.\n\nWhy do I need to know how square root is calculated? I am debugging 100% AI generated Intel 4004 and Busicom 141-PF. The best frontier models still can't write the RTL of a 55 years old calculator correctly all by itself.\n\nYeap. I don't let the AI cheat by peeking at the emulator. It has to recreate the whole thing from data sheet and the user manual alone.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

@@ -1,0 +1,37 @@
+{
+  "activity_id": "7517271917985415168",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7517271917985415168/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-17T18:05:00+00:00",
+  "posted_at_hint": "14h",
+  "posted_at_approx": true,
+  "text": "The questions and answers interface in Claude Code and Codex has very bad UX.\nIt prompts me to answer a list of multiple-choice questions expecting me to give it an answer right away without knowing the context around those questions. It is built to expect the user read the wall of text prior to those questions. NO ONE read the wall of text in Claud Code and Codex chat session.\nThere is an easy UX fix, give me a btw side chat in the Q&A, so I can get myself up to speed before give AI the answer.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Sohan Talukder",
+        "profile_url": "https://www.linkedin.com/in/sohan-talukder/",
+        "headline": "UI/UX Product Designer || Trusted by 100+ Clients in 21+ Countries to Design Apps, Website and product || Our Y Combinator client has generated multi-million dollar revenue || Ping me for RFPs."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-17T18:05:00+00:00",
+      "posted_at_hint": "14h",
+      "posted_at_approx": true,
+      "text": "Most users skim, so expecting them to absorb dense text is a design flaw. A dynamic Q&A chat could be a lifeline, offering context when needed, not just in a block of text.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

@@ -1,0 +1,68 @@
+{
+  "activity_id": "7513389991536820224",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513389991536820224/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-06T12:00:00+00:00",
+  "posted_at_hint": "Oct 6 • Edited",
+  "posted_at_approx": true,
+  "text": "When you are the AI guru at work, you get lots of support calls. Here is how to triage the incoming calls\n\n1. Your boss\npremium service, drop everything you are doing, help him/her to solve the problem right away\n\n2. Other AI gurus asking for your opinion\nreply them when you are waiting for your AI agent to finish running the task\n\n3. Smart young engineers who has potential to be the next AI guru\nchat with them over coffee/lunch, or when you brain need to take a break. Teaching relax your mind and consolidate your own knowledge\n\n4. Mainstream engineers in your own team who are AI adaptors, but not AI pioneers\nyour AI agent should be able to answer most of those questions for you. Let AI draft the response, but you still review the draft to make sure the reply is correct, so it won't waste their time.\n\n5. Free riders from other teams\nlet the AI response them, but won't spend time review the first reply, just fire and forget. If they come back and complain the reply is not working, then it is a bug in my AI agent which I need to fix.\n\n6. AI haters\nThey are just complaining there are too much AI slop, they insist on getting human replies. I let my AI agent reply to them saying if you don't want to talk to my AI agent, get your AI agent talk to my AI agent on your behave instead.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Thejas Koneripalli Govindarajulu",
+        "profile_url": "https://www.linkedin.com/in/thejas-koneripalli-govindarajulu-1a2980b3/",
+        "headline": "Senior Design Verification Engineer at VIK TECH"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "I think ,We should be debugging the way of thinking purpose of the usage of the AI and we need lot of the railguards  for design",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Thejas Koneripalli Govindarajulu I am not sure LLM will ever be capable of running without guard rails.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bill B.",
+        "profile_url": "https://www.linkedin.com/in/billb10001/",
+        "headline": "Applied AI Consultant | Scaling revenue teams with AI | Multi-Agent Systems · Full-Stack Sales Apps · RAG · Professional AI Video Production · CRM & Data Enrichment"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "You end up becoming \"magical box man\"",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

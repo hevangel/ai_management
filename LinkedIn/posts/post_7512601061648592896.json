@@ -1,0 +1,143 @@
+{
+  "activity_id": "7512601061648592896",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7512601061648592896/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-04T12:00:00+00:00",
+  "posted_at_hint": "Oct 4",
+  "posted_at_approx": true,
+  "text": "The best UX/UI for human to AI is voice plus on demand just in time generation of interactive dashboard",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 8,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Kempton Lam",
+        "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+        "headline": "founder & owner at KemptonTestLab"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "what is and what does it look like? \"on demand just in time generation of interactive dashboard\"  🐱  🙂‍↕️",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Kempton Lam you tell your AI what you like to see and your AI generate a throw away app for you",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kempton Lam",
+            "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+            "headline": "founder & owner at KemptonTestLab"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Horace Chan You mean an \"app\" that lives and dies within the chat thread? Or an \"app\" that you can download and run on your browser, maybe again and again? From your answer, and the words \"throw away\", is it something that lives and dies on the chat thread, because, well, it is kinda useless as a general app? Interesting, how much #compute does this waste? Doing any sort of stupid kills my #Free #compute like almost immediately, so I hope gen-ing apps doesn't use that much #compute ?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Kempton Lam my time is more expensive that compute to waste.\n\nYeap.  it is an app that custom built by the chat for that chat only.  You can reuse it, but why bother.  Just build another custom app next time.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kempton Lam",
+            "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+            "headline": "founder & owner at KemptonTestLab"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Horace Chan I see what you are getting at re our time vs compute. Well, at the end of the day, our use of AI is probably going to burn us alive as the massive compute we are consuming to do our #AIShit, yikes!",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "(edited) 1w",
+          "posted_at_approx": true,
+          "text": "Kempton Lam Nay. Those work at a BS job with a fat pay check, fly around in private jet, wear designer fashion, drive useless sports cars consume way more energy than me burning some tokens.  The cost of electricity is less than the token's API fee.\n\nTo save the world, we should get rid of those useless luxury items first.\n\nDo you know that the world wasted more way energy in making useless things and transporting them around the world than energy consumed by the data centers?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kempton Lam",
+            "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+            "headline": "founder & owner at KemptonTestLab"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Horace Chan Well, you are trying to figure out bad vs bader when both are bad. Anyway, the other thing with me re #compute is this. For weeks, I've been planning to teach a #GenAI course for the general public, the #compute is the #Free type then a criteria has to be #mindful use of #compute. Your #compute is paid by your employer (#AMD), the general public do NOT have a rich parent paying #Compute #Token, ... Anyway, I will see how #Shit hits the fan when I organize everything and start teaching the pilot course of using #GenAI to solve #RealWorld problems, and your problems so far are highly #technical and very far from #RealWorld, so not my type of problems for my students to solve ...",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "(edited) 1w",
+          "posted_at_approx": true,
+          "text": "Kempton Lam I pay $20 OpenAI subscription and I use it the same way at home. My time is more expensive than tokens outside of work too\n\nThe only benchmark you should use is the cost of your time.   If tokens is cheaper, then burn the tokens\n\nAI replace your hands, not your brain. The stuff I gave to AI at work is what I gave to interns or Bangalore contractors, it is not very complex.  It is the scale and the loop until pass that make the material difference when using AI",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

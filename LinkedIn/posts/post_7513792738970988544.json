@@ -1,0 +1,37 @@
+{
+  "activity_id": "7513792738970988544",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513792738970988544/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-07T12:00:00+00:00",
+  "posted_at_hint": "Oct 7 • Edited",
+  "posted_at_approx": true,
+  "text": "I just learnt it the hard way having @CLAUDE.md in your AGENTS.md is not reliable in Codex.\n\nCodex may or may not be read your CLAUDE.md. It depends on the mood of GPT.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vansh lata",
+        "profile_url": "https://www.linkedin.com/in/vansh-lata-0909b853/",
+        "headline": "Member of Technical Staff at AMD, Ex Samsung"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "(edited) 1w",
+      "posted_at_approx": true,
+      "text": "I found claude may not always read it's own claude.md even after compaction, but codex followed it most of it much more diligently",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

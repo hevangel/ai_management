@@ -1,0 +1,27 @@
+{
+  "activity_id": "7513468303864918017",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513468303864918017/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-06T12:00:00+00:00",
+  "posted_at_hint": "Oct 6",
+  "posted_at_approx": true,
+  "text": "LLM don't reason, but LLM is still very useful. AI can be dumb and powerful at the same time.\n\nYes, I am on the LeCun camp.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Founder/Chair, AMI Labs - Prof, NYU - Partner, 224 Ventures",
+    "author_name": "Yann LeCun",
+    "author_profile_url": "https://www.linkedin.com/in/yann-lecun/",
+    "posted_at_hint": "Oct 2",
+    "reshared_text": "Good piece by Thore Graepel.\nTrue reasoning must involve a search.\nLLMs don't possess this capability.\nWouldn't you agree Subbarao Kambhampati?\nhttps://lnkd.in/gteSatTr"
+  },
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

@@ -1,0 +1,24 @@
+{
+  "activity_id": "7514119757055365120",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514119757055365120/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-08T12:00:00+00:00",
+  "posted_at_hint": "Oct 8",
+  "posted_at_approx": true,
+  "text": "Edge AI is the next big wave of AI adoption. AMD has the best chips for edge AI.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "AMD Versal AI Edge Series Gen 2 Acceleration | AMD Embedded posted on the topic | LinkedIn",
+    "url": "https://bit.ly/4yG62dq"
+  },
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

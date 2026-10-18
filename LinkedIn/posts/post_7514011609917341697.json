@@ -1,0 +1,53 @@
+{
+  "activity_id": "7514011609917341697",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514011609917341697/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-08T12:00:00+00:00",
+  "posted_at_hint": "Oct 8 • Edited",
+  "posted_at_approx": true,
+  "text": "AI is dumb, you can't even trust it to filter resume for you. (AI is not making decisions for me, just show me the resumes match what I am looking for)\n\nI ask AI to show me all the resumes with github, I assume it will show me all the students who has a github link. AI ended up only showed me resumes that has the keyword \"github\" in their work experience, AI forgot to read the resume header.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Eric B.",
+        "profile_url": "https://www.linkedin.com/in/eric-b-a9a888436/",
+        "headline": "Additive Manufacturing & 3D Printing Specialist | AI Integration, Product Prototyping & Digital Design"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "That’s not the AI being dumb, that’s your process. Most documents uploaders strip out the headers, links, and contact info before the model ever reads the text. It didn’t 'forget' what it was never given. Food for thought... Hint Tell it specifically to pull URLs with 'github.com' across the whole file and you'll get your list.\"",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Eric B. yeap.  I have to update my resume pdf -> markdown extraction piepline.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

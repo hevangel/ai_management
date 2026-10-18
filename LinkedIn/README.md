@@ -6,18 +6,25 @@ links, comment text, timestamps, nested replies, and Horace's own replies).
 
 ## Coverage
 
-- **291 posts**, 2026-04-20 → 2026-09-26 (newest first in `index.json`)
-- 184 top-level comments, 160 nested replies, all threads fully expanded
+- **377 posts**, 2026-01-14 → 2026-10-17 (newest first in `index.json`)
+- 248 top-level comments, 227 nested replies, all threads fully expanded
 - LinkedIn renders only relative timestamps ("2w", "Jun 2"), never an
   absolute `<time datetime>` — so `posted_at` is approximated from the
   relative hint anchored at each post's `scraped_at`
   (`posted_at_approx: true`; the original hint is kept in `posted_at_hint`)
-- Scope note: the activity feed holds 520+ posts (still growing; "Show more
-  results" present as of 2026-09-27). This archive covers 291 verified posts:
-  the 201 most recent (round 1, 2026-09-26) plus a 2026-09-27 audit correction
-  that recovered 64 posts the first enumeration had missed, interleaved in the
-  top region, plus 28 older posts down to #520. Posts older than #520 are not
-  yet included.
+- Scope note: the activity feed was confirmed exhausted at 816 total posts
+  (2026-09-27). This archive covers the 377 most recent: rounds 1–3
+  (2026-09-26/27, 317 posts through Sep 26, including an audit correction
+  that recovered posts the first enumeration had missed) plus round 4
+  (2026-10-18, 60 posts through Oct 17, assembled by
+  `tools/assemble_round4.py`). Roughly 439 older posts are not yet
+  included: the oldest ~197 have no activity IDs reachable via the feed
+  (the browser's accessibility tree truncates before the bottom articles)
+  and ~240 more sit in virtualization gaps in the enumerated region. A
+  fresh LinkedIn data export was requested 2026-10-18 to recover their
+  IDs and text; their comment threads will still need per-post page
+  extraction once the IDs are known (the export does not include other
+  people's comments).
 
 ## Layout
 
@@ -29,6 +36,8 @@ links, comment text, timestamps, nested replies, and Horace's own replies).
 | `tools/extract_posts.js` | Browser page-eval helper: scrape the post list from the activity feed |
 | `tools/extract_comments.js` | Browser page-eval helper: expand + serialize comment threads on a post page |
 | `tools/build.py` | Validates `posts/*.json`, regenerates `index.json` and `index.html` |
+| `tools/assemble.py` | Rounds 1–3: normalize raw batch extractions into canonical per-post JSONs |
+| `tools/assemble_round4.py` | Round 4 (2026-10-18): same normalization for the round-4 extraction files |
 
 This folder is working data, not site content — it is intentionally **not**
 registered in the repo's `content.json` (per `AGENTS.md`).

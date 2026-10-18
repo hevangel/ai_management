@@ -1,0 +1,86 @@
+{
+  "activity_id": "7513043781613625345",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513043781613625345/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-05T12:00:00+00:00",
+  "posted_at_hint": "Oct 5 • Edited",
+  "posted_at_approx": true,
+  "text": "Don't listen to this guy. He is a JavaScript developer, no wonder he hates AI.\n\nI follow Theo, and I no longer review my code.\n\nThis guy's problem is he confused meaningless work with real learning. You don't learn much by doing chores, let AI do the grunt work for you. You still retains the focus and long attention span, but not at source code level anymore, at the conceptual computing theory level.\n\nhttps://lnkd.in/giriE5vW",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "AI Devs Are Screwed - The Silicon Ceiling",
+    "url": "https://www.youtube.com/watch?v=vGZVM3tNGQg"
+  },
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jesse Waldorf",
+        "profile_url": "https://www.linkedin.com/in/jesse-waldorf-19178644/",
+        "headline": "Manager of Capital Projects - SCRD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "Agentic AI for manipulation of spreadsheets and data analysis is so fast and accurate these days.  I know it's not programing but it is insane what one person can get done in a day.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Kempton Lam",
+        "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+        "headline": "founder & owner at KemptonTestLab"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "Horace Chan No shit, this part //I no longer review my code// worries me. As the massive of #GenAI code piles up, I think it is not IF but WHEN the #Shit hits the fan. But at this point, you don't give a fuck, and I suppose your boss, and your boss' boss ... all the way up, ... probably don't give a flying fuck because of all the efficiency gained? #OMFG Please tell me you don't write #SafetyCritical code? Or things you write are not used in #SafetyCriticalSystems ?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "(edited) 1w",
+          "posted_at_approx": true,
+          "text": "Kempton Lam I don't review the code doesn't mean I don't check for the correctness of the code.\n\nThere are more efficient and formal way to prove the code is correct than eyeballing it.\n\nGive you an analogy, in the past, when the old craftsman would inspect the work of his apprentices, to make sure the quality of his workshop is up hold.\n\nNow, it is an assembly line in the factory, you don't inspect the work like the old craftsman, you use machine and statistic to help you control the quality.\n\nActually, I use AI to write the code goes into the chip that power that AI.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Kempton Lam",
+            "profile_url": "https://www.linkedin.com/in/kemptonlam/",
+            "headline": "founder & owner at KemptonTestLab"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Horace Chan Part of me sees what you are saying, the other part still worries.\n\nRight, right, I forgot .. AMD. Yeah, your code goes into chip that helps us reach EOW (one up from EOF) 🐱 ❤️ 🐱",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

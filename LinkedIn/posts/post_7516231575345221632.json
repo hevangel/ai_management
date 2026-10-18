@@ -1,0 +1,98 @@
+{
+  "activity_id": "7516231575345221632",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516231575345221632/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-14T12:00:00+00:00",
+  "posted_at_hint": "Oct 14",
+  "posted_at_approx": true,
+  "text": "I meet with a person working at a tech startup, his company only has Gemini at work. I am horrified, how can a tech company stay competitive if it doesn't have access to a LLM that can code.\nDon't get me wrong, Gemini is very good at certain things, but it is just a waste of time to make Gemini (before the new version) to write production code. You can offload many tasks to open source model or 2nd tier models, but you need to have a frontier model in your back pocket just in case you need it.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 5,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-15T08:05:00+00:00",
+      "posted_at_hint": "3d",
+      "posted_at_approx": true,
+      "text": "But Gemini has one advantage the others don’t: a direct path to Google Ventures funding.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-15T08:05:00+00:00",
+          "posted_at_hint": "3d",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen does it have to be exclusive use of Gemini?  Can you simple use Gemini on easy tasks but use the best model where it is needed?",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bondan Rufen",
+            "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+            "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-15T08:05:00+00:00",
+          "posted_at_hint": "3d",
+          "posted_at_approx": true,
+          "text": "Horace Chan Probably. Who will use Gemini for coding if no incentive.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Christopher Fortin",
+        "profile_url": "https://www.linkedin.com/in/crfortin/",
+        "headline": "Founder, SVP Strategic Development at 5Seams, Inc."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-16T08:05:00+00:00",
+      "posted_at_hint": "(edited) 2d",
+      "posted_at_approx": true,
+      "text": "I think it would be inaccurate to say Google isn't frontier. They're are fundamentally ahead in other parts of the stack and need to be respected. Anthropic, who I work with extensively is ahead in a particular modaility/task focus and the degree to which use base knows or is invested in those interfaces , but none of the top 5 are more than nx12 weeks behind in anything.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Christopher Fortin",
+        "profile_url": "https://www.linkedin.com/in/crfortin/",
+        "headline": "Founder, SVP Strategic Development at 5Seams, Inc."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-16T08:05:00+00:00",
+      "posted_at_hint": "2d",
+      "posted_at_approx": true,
+      "text": "Gemini can certainly code.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

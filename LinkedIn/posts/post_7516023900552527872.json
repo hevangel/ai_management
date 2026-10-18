@@ -1,0 +1,21 @@
+{
+  "activity_id": "7516023900552527872",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516023900552527872/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-13T12:00:00+00:00",
+  "posted_at_hint": "Oct 13 • Edited",
+  "posted_at_approx": true,
+  "text": "The AI labs are boosting they are merging thousands of PR every day.\nHere is my question, why don't they lump the work together, so they don't have too many PRs.\nWhen I was writing code as a human, even if I am working on multiple Jira tickets in parallel, I found it easier to just lump everything into one PR.\nNo matter how fast or slow I work, I found weekly task assignment and PR is the right pace. I never understand why people do 30 mins PR. If AI can write more code, just make the scope of a PR bigger. Keep it at the same pace.\nDo the AI labs do sprint glooming?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

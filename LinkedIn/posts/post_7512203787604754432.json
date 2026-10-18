@@ -1,0 +1,84 @@
+{
+  "activity_id": "7512203787604754432",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7512203787604754432/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-03T12:00:00+00:00",
+  "posted_at_hint": "Oct 3",
+  "posted_at_approx": true,
+  "text": "Here is how much I spent on AI every month at home\n\n$20 - OpenAI\n$49 - Kiro code (using free AWS credits), mainly for Opus access\n$39 - GLM (won't renew after the quarter plan expired, they are cutting tokens limit, not the best deal any more)\nFree - Muse, got 8B free tokens from referral\nFree - Open Router free API with $10 deposit\nFree - Nvidia NIM free Deepseek API\nFree - Kilocode, free Muse 1.3 API, good enough to control agents to help me dowload stuffs\nFree - Open code, free API",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 15,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vinod Mitulal",
+        "profile_url": "https://www.linkedin.com/in/vinod-m-536a172/",
+        "headline": "Director, ASIC Engineering at AMD Pensando"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-04T08:05:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "How do you keep all of them busy?",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-04T08:05:00+00:00",
+          "posted_at_hint": "2w",
+          "posted_at_approx": true,
+          "text": "Vinod Mitulal nope.  They runs out of 5 hrs limit and weekly limit way too often.\n\nI can only squeeze by when I have tokens",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Hong Ping Tan",
+        "profile_url": "https://www.linkedin.com/in/hong-ping-tan-9499935a/",
+        "headline": "Hardware Hobbyist | Architecture Explorer | Challenger of Old Ideas"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-14T08:05:00+00:00",
+      "posted_at_hint": "4d",
+      "posted_at_approx": true,
+      "text": "opencode and NIM are unstable and sometimes, too slow for me to do anything. $20 of OpenAI enough for codex sessions?",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-14T08:05:00+00:00",
+          "posted_at_hint": "4d",
+          "posted_at_approx": true,
+          "text": "Hong Ping Tan I mostly use GPT for chat.  The Codex doesn't do any heavy lifting, only planning and review.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

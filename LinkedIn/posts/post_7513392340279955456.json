@@ -1,0 +1,113 @@
+{
+  "activity_id": "7513392340279955456",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513392340279955456/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-06T12:00:00+00:00",
+  "posted_at_hint": "Oct 6",
+  "posted_at_approx": true,
+  "text": "I don't understand why there are AI haters working in my company.\n\nFully embracing AI is the only logical choice in my company.\n\n1. If AI works out great + you embrace AI -> win-win\n2. If AI works out great + you hate AI -> you proved yourself is a idiot, you get fired\n3. If AI is a flop + you embrace AI -> the company goes bankrupt, you lose your job\n2. If AI is a flop + you hate AI -> you win the argument, but the company still goes bankrupt, you still lose your job.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 13,
+  "reposts": 1,
+  "comment_count": 6,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Avidan Efody",
+        "profile_url": "https://www.linkedin.com/in/avidan-efody/",
+        "headline": "HW/SW Verification Expert"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "How does \"hating AI\" manifest itself? do they avoid using it altogether? put obstacles for adopting AI flows? push back on AI code? or just complain, but use it anyway?\n\nsome of these responses are acceptable and reasonable, others less.",
+      "likes": 4,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Avidan Efody more like simply refuse to change.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Vansh lata",
+            "profile_url": "https://www.linkedin.com/in/vansh-lata-0909b853/",
+            "headline": "Member of Technical Staff at AMD, Ex Samsung"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Avidan Efody put obstacles to adopt ai flows or even automating using  scripts, preferring manual coding",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "If you give a computer to someone who has never seen one, they will very likely intially find it hindering, not helpful.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Marios K.",
+        "profile_url": "https://www.linkedin.com/in/marios-koliopoulos/",
+        "headline": "Complex ideation, RCA, infrastructure development leveraging expertise across multiple areas of IT and EE"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "(edited) 1w",
+      "posted_at_approx": true,
+      "text": "maybe they don't hate AI itself but how it is forced into everything\n\nwe do not need AI agents everywhere\n\nexample - You don't need AI or complex cloud infrastructure with failover and redundancies to run a calculator app\n\nbut then, there are people who do not like change at all, that's a different discussion, you can't change someone's brain",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "🔥SBS Dayaabaran🔥 .",
+        "profile_url": "https://www.linkedin.com/in/dayaa00thewriter00/",
+        "headline": "Content Strategist | Writer | Marketer → Turning ideas into content that connects, converts & builds brands | AI for ideation"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "So, actually, there is no choice here!",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

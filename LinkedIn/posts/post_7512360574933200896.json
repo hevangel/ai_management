@@ -1,0 +1,40 @@
+{
+  "activity_id": "7512360574933200896",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7512360574933200896/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-03T12:00:00+00:00",
+  "posted_at_hint": "Oct 3",
+  "posted_at_approx": true,
+  "text": "Scrum in the Age of AI Agents: When Execution Becomes Abundant\n\nAI slop mimicking human slops in the writing styles of MIT Sloan, HBR, McKinsey, BCG, Bain.\n\nhttps://lnkd.in/geZRqxuQ",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "AI Management",
+    "url": "https://horace.org/ai_management/case/scrum-ai-agents"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": "2026-10-04T08:05:00+00:00",
+      "posted_at_hint": "2w",
+      "posted_at_approx": true,
+      "text": "(image-only comment)",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

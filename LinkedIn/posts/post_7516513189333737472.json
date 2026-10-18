@@ -1,0 +1,37 @@
+{
+  "activity_id": "7516513189333737472",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516513189333737472/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-15T12:00:00+00:00",
+  "posted_at_hint": "Oct 15",
+  "posted_at_approx": true,
+  "text": "When people complains AI sucks or it is dumb at work, I keep reminding them think of it positively, it means our job is safe for the next while.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jean CHARBONNEAU",
+        "profile_url": "https://www.linkedin.com/in/jean-charbonneau-ai/",
+        "headline": "AI Systems, Ontology and Ethics Expert | Creator of The Hologram of Light | Knowledge Graphs Specialist"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-16T08:05:00+00:00",
+      "posted_at_hint": "2d",
+      "posted_at_approx": true,
+      "text": "It's often misuse though, tbh 😅",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}

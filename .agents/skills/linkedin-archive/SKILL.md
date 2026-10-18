@@ -69,6 +69,14 @@ For each post URL, in batches of ~10 posts per task:
    commenter display name, profile URL, headline, comment text, posted
    timestamp, like count, `is_author_reply` (commenter == profile owner), and
    nested `replies` (one level, same shape).
+   Round-4 lessons (2026-10-18): if the default "Most relevant" sort shows
+   fewer comments than the post's displayed count (LinkedIn hides some with
+   a notice), switch the sort to "Most recent" and extract from there;
+   long comments may be collapsed behind a "more" expander — recover the
+   full text. Comment hints can carry a *leading* "(edited)" — strip it
+   (leading or trailing) before deriving `posted_at`. Browser-task
+   extraction works best at 2–3 posts per task; validate each post's
+   extracted total (top-level + replies) against its displayed count.
 3. Return one JSON object per post (matching the per-post schema below).
 
 Between batches, pause a few minutes if LinkedIn shows any throttling. Never

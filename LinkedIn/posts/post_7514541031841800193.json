@@ -1,0 +1,537 @@
+{
+  "activity_id": "7514541031841800193",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514541031841800193/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-09T12:00:00+00:00",
+  "posted_at_hint": "Oct 9",
+  "posted_at_approx": true,
+  "text": "Reviewing AI generated code is not that bad if your harness is built correctly with evidence and reports along the way\n\nTrying to get other people to review your AI generated code is much harder.\n\nIt is probably easier for me to just reimplement their code from scratch using AI than trying to use AI to fix their code and get the original owner approve the new AI code.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 16,
+  "reposts": 0,
+  "comment_count": 34,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "Ask AI to learn from the original code and rewrite it with comment.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen code ownership is not an engineering problem, it is a political problem",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Thejas Koneripalli Govindarajulu",
+        "profile_url": "https://www.linkedin.com/in/thejas-koneripalli-govindarajulu-1a2980b3/",
+        "headline": "Senior Design Verification Engineer at VIK TECH"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "I highly recommended  , code review is important  .",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jose Lara",
+        "profile_url": "https://www.linkedin.com/in/jose-lara-77930a121/",
+        "headline": "Open Source agent infrastructure framework at agentruntime.ca"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-12T08:05:00+00:00",
+      "posted_at_hint": "6d",
+      "posted_at_approx": true,
+      "text": "The problem is you are In a “review code” paradigm. Which in my opinion is outdated.\n\nThe current frontier paradigm in my opinion is, verified outputs and heavy testing as proof, code being just the thing that makes it run.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Jose Lara you are preaching to the choir.\n\nI wanted to shift to the proof paradigm, but I still have people insist on writing code by hand in my team.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Jose Lara",
+            "profile_url": "https://www.linkedin.com/in/jose-lara-77930a121/",
+            "headline": "Open Source agent infrastructure framework at agentruntime.ca"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Horace Chan why do you have to insist to write code by hand in your team? Is it corporate policy",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "(edited) 6d",
+          "posted_at_approx": true,
+          "text": "Jose Lara if it is up to me, I would have banned manual coding already.\n\nThere are AI pioneers in the company and there are AI haters in the company.  Unfortunately, some AI haters have seniority",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Jose Lara",
+            "profile_url": "https://www.linkedin.com/in/jose-lara-77930a121/",
+            "headline": "Open Source agent infrastructure framework at agentruntime.ca"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "I wish you all the best my friend,\n\nI can see you already do this but:\n\nTaking time outside of work to build your own software, will help you not fall behind.\n\nOver the past 3 years I’ve been blessed to lead teams and evolve agentic engineering practises,  I think those skills are pretty critical.\n\nAll the best and if you want to connect and discuss working together on an open source project I’d be glad to share what I’m doing over at agentruntime.ca",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Jose Lara",
+            "profile_url": "https://www.linkedin.com/in/jose-lara-77930a121/",
+            "headline": "Open Source agent infrastructure framework at agentruntime.ca"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Jose Lara Luciana L.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bob Henderson",
+        "profile_url": "https://www.linkedin.com/in/bob-henderson-fargo-moorhead/",
+        "headline": "Director of Information Technology | Opinions don’t matter more than facts."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "Awesome, you've effectively described technical debt. Instead of fixing it, the answer is just to...redo it again and kick the problem down the road?",
+      "likes": 4,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "(edited) 1w",
+          "posted_at_approx": true,
+          "text": "Bob Henderson refactor other people's bad code into your own good code.\n\nThe part is beauty is on the eye of beholder.  I am sure the original owner of those bad code thinks it is good code\n\nAnd the next guy will think my good code is bad too",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bob Henderson",
+            "profile_url": "https://www.linkedin.com/in/bob-henderson-fargo-moorhead/",
+            "headline": "Director of Information Technology | Opinions don’t matter more than facts."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Horace Chan I'm not talking good or bad code. I'm talking supportable. Even 'bad' code, if it's doing the tasks in the way the business needs it to, is good code if its supportable.\n\nThe issue I have is the idea that we just recreate the wheel each time vs focusing on sustainability. Even if we're talking about the waste of pure tokens, restarting every time is hugely inefficient.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "(edited) 1w",
+          "posted_at_approx": true,
+          "text": "Bob Henderson I am not going to throw away my good code. The problem is other people's bad code that I have to support\n\nIt is harder to understand and support other people's bad code than use AI to refactor and reimplement their bad code into my good code.\n\nGiven that AI can pretty much nail the external behavior of the old code to the wall and rewrite everything inside. Why not just burn some tokens and make your life easier down the road?\n\nWhy do you want to support another person's code?  I support my own code, that's what I am paid to do.  If I inherit someone else code, I will morphy it into something that fit my taste so I am willing to support.\n\nThe real problem is the original owner of those bad code is still around and I am forced to support their bad code.  They refuse to admit their code is bad",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bob Henderson",
+            "profile_url": "https://www.linkedin.com/in/bob-henderson-fargo-moorhead/",
+            "headline": "Director of Information Technology | Opinions don’t matter more than facts."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Horace Chan Becuase...that's the job? That's why we have intelligent people in their roles, so they can not only understand the tasks needed, but then do them.\n\nI've never seen a situation where the answer is \"I can just remake it/redo it my way\" vs \"I support this according to the standards the business has decided on\".\n\nThis level of individualism sounds like an absolute nightmare for support, as you end up with 20 different 'styles' in a product. Unless you're having everything be a 1 person project, which I guess is a choice...",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "(edited) 1w",
+          "posted_at_approx": true,
+          "text": "Bob Henderson with the help of AI, 1 person project is more efficient and productive than big team project.\n\nYou can't compromise on the quality of the deliverable, but anything else is fair game to optimize away.  If it hurts someone else ego or vested interest, that's too bad.\n\nActually it doesn't have to be 1 man, a small team is OK as long as I am the sr. who call the shot.\n\nIt is OK to follow a common standard or protocol, as long as it is written down and formalized, benchmarked and agree upon ahead of time.  If it is someone else's ad hoc implementation, aka bad code, too bad, mine is better.  And I document it well with my AI agent, so its contract is casted in stone.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bob Henderson",
+            "profile_url": "https://www.linkedin.com/in/bob-henderson-fargo-moorhead/",
+            "headline": "Director of Information Technology | Opinions don’t matter more than facts."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "1w",
+          "posted_at_approx": true,
+          "text": "Horace Chan I appreciate the thought, but well it comes off pretty poorly with the vibe of \"everything is fine as long as everyone lets me do what I want\".\n\nNot a team I'd want to be a part of.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-11T08:05:00+00:00",
+          "posted_at_hint": "(edited) 1w",
+          "posted_at_approx": true,
+          "text": "Bob Henderson you summarize it well. You have to respect external constriants, but at the end of the day, the biggest brain should call the shot, not seniority nor concesus of mediocre people.\n\nHave you read the Mythical Man Month?  Did you remember its recommended team structure?\n\nActually, teams of similar minds like mine works superisingly well, no BS, pure technical power house. We respect each other because we earn each other's respect the hard way.  Each own a piece and have full ownership.  The interface among the piece is settled in the open with reasons and logics.   The chief architect is well respected by all of us and he is probably the smartest person I know.\n\nThe only problem is hard to find enough engineers of such caliber to pull this team structure off.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Jon Ayre",
+            "profile_url": "https://www.linkedin.com/in/jonayre/",
+            "headline": "Strategic Advisory Practice Lead at Equal Experts. Strategist, technologist, advisor and CTO. Bringing insight and pragmatism to companies that care."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "(edited) 6d",
+          "posted_at_approx": true,
+          "text": "Horace Chan \"The biggest brain should call the shots\". Has it occurred to you that the biggest brain might not actually be you?",
+          "likes": 3,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bob Henderson",
+            "profile_url": "https://www.linkedin.com/in/bob-henderson-fargo-moorhead/",
+            "headline": "Director of Information Technology | Opinions don’t matter more than facts."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Horace Chan That's the problem with meritocracy:  It's super awesome only for those that benefit from it.\n\nYou're removing the humanity from the entire process and quantifying people down to their outputs.\n\nThat's a bit too late-stage capitalism hellscape for me. I wish you luck tho.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "(edited) 6d",
+          "posted_at_approx": true,
+          "text": "Oskar Kaminski I am not even a software engineer.  I am a hardware engineer pretending to know alot about software\n\nAnd you are right, I don't get along with others in code review, because I am THE gate keeper.  I don't write code, I QA the code, that's my day job.\n\nIf it is a bug, it is a bug.  And in hardware, you can't fix a bug with a patch, it is VERY expensive to fix a bug after the chip is made.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Jon Ayre Yeap. I have worked with many smart people and I know they are better than me, so I can trust their call.\n\nThat is perfectly fine and I get to learn from them too.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Bob Henderson I am surprised there are someone who against meritocracy.  I thought that this is THE way.\n\nWhat is the alternative?  Based on seniority or endless committee meetings?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bob Henderson",
+            "profile_url": "https://www.linkedin.com/in/bob-henderson-fargo-moorhead/",
+            "headline": "Director of Information Technology | Opinions don’t matter more than facts."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Horace Chan There are people against *any* way.\n\nMeritocracy has some pretty well known drawbacks, but the biggest one is the one represented in this post: The hubris of the winners and the tyranny of merit. When the entire system is designed around 'you get what you deserve', those that are 'winning' are known to implement systems that keep them 'winning' while holding back others. It's a self-replicating system, as it becomes the standard and the expectation, so you must keep pushing to be at the top.\n\nFrom a pure 'productivity is God and number must go up' mindset? Sure, works great. The problem is we're doing this with people, which have different needs, desires, drives, histories, and abilities to input.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Bob Henderson Isn't productivity is God and number must go up is how the business world works?\n\nEven if you don't follow the way, your competitors will, and you will lose marketshare and eventually the company will go bust.  It is the only stable and viable system.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bob Henderson",
+            "profile_url": "https://www.linkedin.com/in/bob-henderson-fargo-moorhead/",
+            "headline": "Director of Information Technology | Opinions don’t matter more than facts."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Horace Chan This 100% depends on the type of business you're in. Yes, for some, number must go up is the only answer. And if that's what you wanna do, go for it.\n\nBut the moment your 'number' involves people, it's a lot harder to quantify. Service driven organizations and such have a much harder time at this. And with AI making 'number must go up' deliverables that much easier to manufacturer, I think we may be seeing a shift towards the harder to quantify, human-driven solutions.\n\nIf it works for you, I wish you luck.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Bob Henderson AI works surprisingly well mapping previously hard to quatify stuff into clean numbers that you can optimize for.\n\nTake the messy human out of the equation then you can get some elegant engineering solutions.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bob Henderson",
+            "profile_url": "https://www.linkedin.com/in/bob-henderson-fargo-moorhead/",
+            "headline": "Director of Information Technology | Opinions don’t matter more than facts."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Horace Chan if you truly think you can quantify away the value of humanity, I worry for you",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Sean Dishman",
+        "profile_url": "https://www.linkedin.com/in/sean-dishman-a53729334/",
+        "headline": "Technical engineer at Forged Arrow"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-11T08:05:00+00:00",
+      "posted_at_hint": "1w",
+      "posted_at_approx": true,
+      "text": "The worst part about coding with AI is the ammount of bugs. Also code efficiency lacks it does not optimize anything it will re write the same thing 4 different times instead of making it a function.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Sean Dishman you are using AI wrong if your code generated by AI is buggy.\n\nLLM is just a leaky compiler, there are technics to make it less leaky or at least less leaky than medicore programmers",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Sean Dishman",
+            "profile_url": "https://www.linkedin.com/in/sean-dishman-a53729334/",
+            "headline": "Technical engineer at Forged Arrow"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Horace Chan what i ment by buggy is like the hackablity of it. Not like bugs that make it not run.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-17T08:05:00+00:00",
+          "posted_at_hint": "1d",
+          "posted_at_approx": true,
+          "text": "Sean Dishman why do you want to hack the code generated by AI?\n\nNo one is going to hack the assembly generated by the compiler.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Sean Dishman",
+            "profile_url": "https://www.linkedin.com/in/sean-dishman-a53729334/",
+            "headline": "Technical engineer at Forged Arrow"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-17T18:05:00+00:00",
+          "posted_at_hint": "14h",
+          "posted_at_approx": true,
+          "text": "Horace Chan I mean security wise i personally don't want to \"hack\" my own ai generated code right but other people can easily hack it if they are smart enough. When AI writes code it makes mistakes and if you miss a single mistake it could cost your company millions.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Val Akkapeddi",
+        "profile_url": "https://www.linkedin.com/in/val-akkapeddi-b9b35119/",
+        "headline": "Director of Engineering @ Harbor Health | Hacker | Fountain Pen Enthusiast"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-12T08:05:00+00:00",
+      "posted_at_hint": "6d",
+      "posted_at_approx": true,
+      "text": "I would love to see these claims backed up by actual objectivity.\n\nWith the utmost respect - most developers I've worked with in my career don't actually understand what \"clean code\" is. There are in metrics and theory behind this.\n\nBut what most people think it means is \"code that I can understand\". You will ALWAYS find code that you read or generated \"readable\", at least short-term. Evidence doesn't necessarily help - unless it plugs into an objective framework - because when you get right down to it, code and prose are both artifacts bouncing off of a mental model. Evidence that you generated will look more readable to you too.\n\nThe phenomenon you're describing - people rewriting other people's AI generated code with AI code - is specifically the problem I have to solve as a manager of ICs, because it leads to dilution of signal.\n\nMaybe each individual developer's input is more comprehensible to them, and their individual definition of done looks complete, but it rots maintainability & provability at an actual product level.\n\nAnd I'm not bad enough to coding to perform fake humility and defer to ICs and accept churn as the cost of doing business, sorry.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-12T08:05:00+00:00",
+          "posted_at_hint": "6d",
+          "posted_at_approx": true,
+          "text": "Val Akkapeddi You got it.  It is the human understanding of the real thing that matters,  code is just one of the manifest.\n\nWith AI, code is just an artifact, the harness, agent, whatever you call it that generate the code is the primary work surface.\n\nDivide and conquer is the only way, a single brain somewhere should know how all piece are connected, then each level of abstraction or detail should have a brain that knows it inside out.\n\nProblem of modern system is NO ONE actually know what's going on inside.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-18T08:05:00Z"
+}
