@@ -1,0 +1,38 @@
+{
+  "activity_id": "7479942871404412928",
+  "share_id": "7479942871404412928",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7479942871404412928/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-06T17:02:31+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Is it just me or is it common across the industry.\n\nI notice the response time of bug reports I filed are a lot slower in the post AI era.\n\nThe good ones have AI triaged the issues, then stuck waiting for human to review and merge\n\nThe bad ones are just sitting, and no one is address them.   The human owner is probably overwhelmed with bug reports to keep up.\n\nThe best ones are open source, so my AI agent can fix the bug, file the PR and move on with the bug-fix branch, while waiting patiently for the human to review and merge.\n\nClose source cannot keep up in the post AI era, it just can't deal with noise-to-signal ratio of the bug reports.\n",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ajay Andrews Cherayath",
+        "profile_url": "https://www.linkedin.com/in/ajaycherayath/",
+        "headline": "Ops Transformation | Data, Analytics & AI Leader | Startup Mentor | I simplify decision-making for CXOs & teach clarity to next‑gen talent."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:36:00+00:00",
+      "posted_at_hint": "(edited) 3mo",
+      "posted_at_approx": true,
+      "text": "AI didn’t just flood teams with bug reports. It broke the old contract about who owns quality. What used to be a technical defect is now a governance failure. When agents can detect issues, propose fixes, and file PRs, the real bottleneck isn’t engineering — it is the human permission layer that decides what gets accepted.\n\nOpen source works because authority is shared. Closed source stalls because authority is hoarded. In the post‑AI era, software quality is no longer a measure of code — it is a measure of how willing an organization is to let go of control.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:36:00Z"
+}

@@ -1,0 +1,22 @@
+{
+  "activity_id": "7483283195526864896",
+  "share_id": "7483283195526864896",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7483283195526864896/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-15T22:15:46+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Traditional online video tutorial is too inefficient.  \n\nIt is linear, the instructor has to assume all the students know nothing.   You may only need to learn what you don't know, but you to sit through the part that you already know.\n\nA more efficient way to learn is to use AI to distill the \"meat\" of the tutorial into markdown file, then you use the markdown file as learning map, quickly jump to watch only the videos that you care about.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:19:00Z"
+}

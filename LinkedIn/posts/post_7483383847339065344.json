@@ -1,0 +1,54 @@
+{
+  "activity_id": "7483383847339065344",
+  "share_id": "7483383847339065344",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7483383847339065344/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-16T04:55:43+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AI has the rights to learn like humans.\n\nIf human can read a book, learn its content and it doesn't violate any copyright laws, this should also apply to AI.\n\nAI-right = human-right > copy-right",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:19:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "can AI live without electricity?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:19:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen Elon is building AI data center in space, and he is also building robots.  What do you think?",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-19T23:19:00Z"
+}

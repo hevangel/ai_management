@@ -1,0 +1,22 @@
+{
+  "activity_id": "7482480900849463296",
+  "share_id": "7482480900849463296",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7482480900849463296/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-13T17:07:44+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Thou shalt log all tasks that take more 10 minutes of human time or costs more than $10 of tokens in Jira.\n\n- a requirement from our AI project manager.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:23:00Z"
+}

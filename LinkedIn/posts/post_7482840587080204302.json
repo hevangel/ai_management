@@ -1,0 +1,53 @@
+{
+  "activity_id": "7482840587080204302",
+  "share_id": "7482840587080204302",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7482840587080204302/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-14T16:57:00+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "People are porting all the software from whatever programming languages to Rust.\n\nBut C still runs faster than Rust.   After we ported the software to Rust, which is memory safe, why don't we port it again to C to squeeze out the last 10% of performance gain?\n\nRust port to C preserves the memory safe, right?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 1,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Benjamin Z.",
+        "profile_url": "https://www.linkedin.com/in/benjamin-z-64218221/",
+        "headline": "Sr. Engineering Lead at Heitmeyer Consulting"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:19:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Immediately after a port with perfect fidelity? Yes. After that, no.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Gustav Sterbrant",
+        "profile_url": "https://www.linkedin.com/in/gustav-sterbrant/",
+        "headline": "Principal Software Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:19:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "You’d think that if safety can be automated in this way, why can’t we just apply AI to make the code safe?\n\nOh yeah that’s right. It would transform the code to a clusterf of nullptr checks.",
+      "likes": 2,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:19:00Z"
+}

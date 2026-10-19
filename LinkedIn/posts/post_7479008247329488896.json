@@ -1,0 +1,22 @@
+{
+  "activity_id": "7479008247329488896",
+  "share_id": "7479008247329488896",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7479008247329488896/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-04T03:08:39+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I refuse to set a slash command for one liner in Claude Code\n\nTyping out the simple instructions like, \"commit, push, PR and merge\" is a healthy dose of slowdown in my super-fast-paced AI coding session.  Typing a /cppm may save 2 seconds in typing, but it actually adds extra cognitive burden to my brain.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:38:00Z"
+}

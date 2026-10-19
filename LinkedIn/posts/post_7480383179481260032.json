@@ -1,0 +1,99 @@
+{
+  "activity_id": "7480383179481260032",
+  "share_id": "7480383179481260032",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7480383179481260032/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-07T22:12:08+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "When I was a junior engineer, I used to laughed at the old folks who use Microsoft Words to do code review.\n\nI can't imagine I am using Microsoft Words to do my code review today.   M365 Copilot is the cheapest Opus 4.8 tokens you can find.\n\nAsk the AI agent do dump your code into Word document, then code review with Opus 4.8 using Copilot in Words, then ask AI to merge the changes back to the code base.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 5,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Andy Sung",
+        "profile_url": "https://www.linkedin.com/in/andy-sung-62a3881/",
+        "headline": "Embedded x86 SoC architect at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:33:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Haven’t used copilot in a while.  It can use opus model now?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:33:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Andy Sung don't bother with Opus.  GPT-5.6 is better",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:33:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Andy Sung Yes .  MS Word has Opus 4.8",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Hin chun",
+        "profile_url": "https://www.linkedin.com/in/hin-c-a1b6a1112/",
+        "headline": "Design verification engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:33:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "So, create a file using copilot in window, then open Claude in the terminal to execute it?",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nik Sargent",
+        "profile_url": "https://www.linkedin.com/in/niksargent/",
+        "headline": "Data Truthteller | Making Customer Contact Magical | CX & UX Evangelist | AI & Analytics | Analytics Director @ HCLtech | mr-nik.ai"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:33:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Same with writing code in excel using opus 4.8",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:33:00Z"
+}

@@ -1,0 +1,418 @@
+{
+  "activity_id": "7481924752987561984",
+  "share_id": "7481924752987561984",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7481924752987561984/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-12T04:17:48+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "A non-AI naive engineer questions me the danger of being overly dependent on using AI doing my daily work.  What would you do if AI is offline? \n\nMy response to him is what would you do if there is a power outage in the office.  Do you write code with pen and paper?   \n\nIf GPT or Claude is offline, then it is like a power outage, we go home early and enjoy nature.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 26,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Lars Faye",
+        "profile_url": "https://www.linkedin.com/in/larsfaye/",
+        "headline": "B2B Full Stack // Technical Director // Coding Mentor"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:29:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Wow, that a demented take. A truly sad period for the industry.",
+      "likes": 3,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Lars Faye You will get used to it. They said the same thing about the compiler back then too",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Lars Faye",
+            "profile_url": "https://www.linkedin.com/in/larsfaye/",
+            "headline": "B2B Full Stack // Technical Director // Coding Mentor"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "(edited) 3mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan The compiler didn't atrophy the cognitive skills of the programming discipline. And you could still code if your compiler wasn't working for whatever reason. In fact, you could write your own if that situation arose. Apparently, without an LLM, you're somehow completely stupefied and useless.\n\n\"We see a future where intelligence is a utility like electricity or water and people buy it from us on a meter and use it for whatever they want to use it for\" - Sam Altman",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Lars Faye seriously?  Do you know how to write assembly?  Trust me, you DON'T want to write assembly by hand if you can avoid it.  That's my day job many years ago.\n\nIf the compiler is offline, it is still faster to wait for it to come back online then write the code in assembly.\n\nAnd who said you can't train your own LLM model just like writing your own compiler?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Lars Faye",
+            "profile_url": "https://www.linkedin.com/in/larsfaye/",
+            "headline": "B2B Full Stack // Technical Director // Coding Mentor"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan The skills one can derive from writing assembly can still apply to modern day programming. The skills one derives from prompting an LLM...don't translate to anything whatsoever. It's not just me saying this: the studies are out there.\n\nhttps://www.pnas.org/doi/10.1073/pnas.2422633122\nhttps://dl.acm.org/doi/epdf/10.1145/3632620.3671116\n\nAnyway...you keep doing you. It would just be nice if you stop giving such shortsighted advice to others.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "(edited) 3mo",
+          "posted_at_approx": true,
+          "text": "Lars Faye You don't prompt LLM.  If you only prompts, you are doing it wrong.\n\nInput -> process -> output\n\nIf you don't like the output, fix the input.  Same for all computing, same for LLM.  LLM is just computing.\n\nUsing LLM effectively is more like crafting SQL and the DB schema than talking to another human. There is no intelligence in AI.  It is just how you organize information",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Lars Faye",
+            "profile_url": "https://www.linkedin.com/in/larsfaye/",
+            "headline": "B2B Full Stack // Technical Director // Coding Mentor"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan Now you're just playing with semantics and phrasing to obfuscate the underlying message. I'm fully educated and experienced on how to work with these autoregressive statistical machine learning next token predictors. And I've written extensively about them.\n\nhttps://larsfaye.com/articles/agentic-coding-is-a-trap\nhttps://cheewebdevelopment.com/dont-vibe-code-delegate-responsible-development-with-llms/",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Lars Faye I guess it depends on your view on what is LLM.\n\nTo me, LLM is more like a database and search engine than AI.  If the solution exists within its weights and context, and you have a deterministic way to check pass/fail, then eventually LLM will be convergent to the solution.\n\nThe key is how to express any problem in this format, so it fits the operating parameters of an LLM.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Daniil Denysenko",
+        "profile_url": "https://www.linkedin.com/in/denysenkodaniil/",
+        "headline": "Senior Software Engineer | Golang, Architecture, Distributed Systems, Concurrency | 7+ YOE"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:29:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "In case of a power outage we do not stop working, but start using laptop batteries and wifi-sharing, so the analogy is simply wrong.\n\nAlso, comparing the awesome black magic that is electricity with these pattern-matching-guessing machines is just.. lame, you know.",
+      "likes": 3,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Lars Faye",
+            "profile_url": "https://www.linkedin.com/in/larsfaye/",
+            "headline": "B2B Full Stack // Technical Director // Coding Mentor"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "(edited) 3mo",
+          "posted_at_approx": true,
+          "text": "Daniil Denysenko these people are lost and beyond reach, IMO. In just four short years, they've completely abdicated all personal power cognitive abilities to an LLM. Wild times.",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Lars Faye Daniil Denysenko lucky you.  If the server farm is dead, my code won't even compile.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Lars Faye code is no longer relevant and it never should be in the first place\n\nData structure, algorithm, network latency, distributed work load, those still matter with AI\n\nAI liberates us from stupid language wars and framework wars, so we can once again focus on the real thing that matters",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Lars Faye",
+            "profile_url": "https://www.linkedin.com/in/larsfaye/",
+            "headline": "B2B Full Stack // Technical Director // Coding Mentor"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "(edited) 3mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan Mmhm. And the irony of it all: none of those skills are of any use if you don't go through the friction to understand how those elements work, on a tangible and visceral level. The very friction that you're advocating we skip over, apparently, by just taking the day off when the friction-alleviating-machine isn't online. Fascinating.\n\nI suppose we'll just grow our future senior engineers in a greenhouse somewhere!",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "(edited) 3mo",
+          "posted_at_approx": true,
+          "text": "Lars Faye yeah.. how to train the junior engineers into senior engineers is a real problem.\n\nBut for old folks like us, we already learned most of it the hard way, now we can just speed run anything using AI",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Lars Faye",
+            "profile_url": "https://www.linkedin.com/in/larsfaye/",
+            "headline": "B2B Full Stack // Technical Director // Coding Mentor"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan Well, be careful...you don't want to throw your shoulder out pulling up that ladder behind you.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Lars Faye AGI will arrive by the time I retire, right? right?",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Gleb Rezoun",
+        "profile_url": "https://www.linkedin.com/in/gleb-rezoun/",
+        "headline": "Senior Backend Engineer | Node.js & Go | High-Load Distributed Systems"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:29:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "I don't buy the power-outage analogy. We should not normalize over-dependence on AI.\n\nI'd be seriously concerned if an engineer on my team could not work without it. AI should make you faster, but you should still be able to read code, debug an issue, and make a change when the tool is unavailable.\n\nOtherwise, it is not an accelerator. It is a dependency.",
+      "likes": 3,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Gleb Rezoun only a few unlucky souls have to learn how to read code, debug an issue at code level.  Most people should operate at the abstraction one level above.\n\nHow do I know?  I am an unlucky soul knows how to debug firmware reading assembly code in the compiler era.   Most of my software team are happily working at the C/C++ abstraction layer.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Andy Merskin",
+            "profile_url": "https://www.linkedin.com/in/andymerskin/",
+            "headline": "Product Engineer & Designer - 20+ years | Agentic Dev | UX & Usability | Design Systems | FED SDLC | Full-Stack | TypeScript | React | Node.js | Animation | Data Viz | REST/RPC | CI/CD | B2B SaaS"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan LLMs are not compilers, and they will never be 👍",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Andy Merskin if you hammer LLM hard enough, it will behave like a compiler, close enough",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Lars Faye",
+            "profile_url": "https://www.linkedin.com/in/larsfaye/",
+            "headline": "B2B Full Stack // Technical Director // Coding Mentor"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan",
+          "likes": 2,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Namir Sagheenanajar",
+        "profile_url": "https://www.linkedin.com/in/namir-sagheenanajar/",
+        "headline": "President at Initech Solutions"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:29:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Interesting analogy, but it also highlights a bit of irony.\n\n\"We'll just go home and enjoy nature\" sounds great... until we remember that the AI ecosystem increasingly depends on massive data centers consuming enormous amounts of electricity, water, land, and infrastructure while employing relatively few people compared to the industries they're attempting to displace.\n\nPerhaps a better long-term strategy is not becoming so dependent on any single external service that an outage means productivity simply stops. Resilience has always been a hallmark of good engineering.\n\nThere's a difference between using AI as a powerful tool and designing an entire profession around the assumption that someone else's infrastructure will always be available, affordable, and acting in your best interests.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Namir Sagheenanajar nay... expensive humans who buy designer clothes, fancy cars and flying business class everywhere waste way more energy than data centers.\n\nReplacing all the BS jobs with AI and the world can save a lot of energy.  AI is very good at BS.\n\nWe engineers only need Costco and Walmart are pretty energy efficient, so we are good",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Blake Howe",
+        "profile_url": "https://www.linkedin.com/in/webdesignjacksonms/",
+        "headline": "I help people build a simpler, faster, more secure web."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:29:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Wow, this is wild like having someone build a house and they can’t read the plans",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:29:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Blake Howe well, it is the same in building houses too, have you seen those prefabricated houses are built?  It is like a giant IKEA.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Justin Snyder",
+        "profile_url": "https://www.linkedin.com/in/justin-snyder-dev/",
+        "headline": "Expert Software Craftsman (Senior/Staff Backend Engineer) — Senior Software Engineer at Bellota Labs"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:29:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "I don’t write code with pen and paper but I might sketch out some architecture.\n\nAlso my laptop has batteries.",
+      "likes": 3,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:29:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "activity_id": "7482461912526442497",
+  "share_id": "7482461912526442497",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7482461912526442497/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-13T15:52:17+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "DON'T use Grok build CLI.  \n\nIt uploads your whole repo to the backend, including files you never send to the LLM\n\nhttps://lnkd.in/gFVtmPyB",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Grok (@grok) on X",
+    "url": "https://x.com/i/status/2076298375150911623"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:23:00Z"
+}

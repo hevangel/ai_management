@@ -1,0 +1,22 @@
+{
+  "activity_id": "7482145278792499200",
+  "share_id": "7482145278792499200",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7482145278792499200/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-12T18:54:06+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AI is just computing\nComputing is just 3 basic first principles\n\n1. How to transform some bits X to some other bits Y\n2. How to move some bits from point A to point B (physically)\n3. How to store some bits somewhere and read it back later\n\nSoftware or hardware, local or cloud, are different cost, time and power trade offs.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:24:00Z"
+}

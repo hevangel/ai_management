@@ -1,0 +1,22 @@
+{
+  "activity_id": "7479283909495533568",
+  "share_id": "7479283909495533568",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7479283909495533568/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-04T21:24:02+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "There are two types of tasks you can offload to AI\n\n1. Those you can merely glance at the result and you can tell whether the AI has screwed up or not \n\n2. Those you have to read the output in details to judge whether AI is doing what it is supposed to do correctly \n\nThe key is find the missing link translate type 2 tasks to type 1 tasks as much as you can",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:37:00Z"
+}

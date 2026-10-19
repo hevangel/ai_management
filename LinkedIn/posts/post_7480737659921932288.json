@@ -1,0 +1,28 @@
+{
+  "activity_id": "7480737659921932288",
+  "share_id": "7480737659921932288",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7480737659921932288/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-08T21:40:43+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Thariq talks about letting Fable to help you work out your unknown-unknown.\n\nWhat about the unknown-unknown-unknown (x3), the 3rd unknown is the stuff that is unknown to Fable's weights.  How can we deal with those?",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Member of Technical Staff @Anthropic. Claude Code.",
+    "author_name": "Thariq Shihipar",
+    "author_profile_url": "https://www.linkedin.com/in/thariqshihipar/",
+    "posted_at_hint": "Jul 6 • Edited",
+    "reshared_text": "My keynote at AI Engineer World Fair: “A Field Guide to Fable” is live on YouTube! I talk about how working with Claude changes with Fable and how important it is be more ambitious.\n\nhttps://lnkd.in/gY5w-8HV"
+  },
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:31:00Z"
+}

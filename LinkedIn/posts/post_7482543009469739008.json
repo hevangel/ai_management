@@ -1,0 +1,38 @@
+{
+  "activity_id": "7482543009469739008",
+  "share_id": "7482543009469739008",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7482543009469739008/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-13T21:14:32+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "In an Agent loop, the state of the repo is broken until the loop is completed.\n\nIf someone accidently steps into the loop, they will be experiencing a broken code base.\n\nYou have to build your infrastructure to segregate humans from the broken code base when AI is looping.\n\nIn the good old CD/CI, we call it the development staging or production staging, but we the loop actually runs inside the development staging, we need further partitioning of the dev stage.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Shivam Jaiswal",
+        "profile_url": "https://www.linkedin.com/in/igaming-shivam-jaiswal/",
+        "headline": "Founder, SolveByte · TheBrandBag · I help iGaming businesses build platforms that scale and IT teams ship with confidence · Sportsbook · Casino · Sweepstakes · Custom Game Dev · Blockchain"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:23:00+00:00",
+      "posted_at_hint": "(edited) 3mo",
+      "posted_at_approx": true,
+      "text": "I am in a loop, looping 😅",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:23:00Z"
+}
