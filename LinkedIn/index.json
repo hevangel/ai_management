@@ -3,11 +3,29 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-18T08:53:57.705515+00:00",
-  "total_posts": 377,
-  "total_comments": 248,
-  "total_replies": 227,
+  "generated_at": "2026-10-19T23:17:47.753557+00:00",
+  "total_posts": 407,
+  "total_comments": 263,
+  "total_replies": 234,
   "posts": [
+    {
+      "activity_id": "7517487951144996864",
+      "file": "posts/post_7517487951144996864.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7517487951144996864/",
+      "posted_at": "2026-10-18T07:33:15+00:00",
+      "title": "After SDD, TDD, the newest xDD is UDD UDD = Users Driven (crazy) Development AI…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7517487304521736192",
+      "file": "posts/post_7517487304521736192.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7517487304521736192/",
+      "posted_at": "2026-10-18T07:30:41+00:00",
+      "title": "ChatGPT (6.1 Sol) fixed my Windows task bar right click icon not working problem…",
+      "likes": 1,
+      "comment_count": 1
+    },
     {
       "activity_id": "7517315081114714112",
       "file": "posts/post_7517315081114714112.json",
@@ -546,6 +564,15 @@
       "posted_at": "2026-09-27T12:00:00+00:00",
       "title": "I asked GPT, Claude, Gemini, Muse explain to me how square root is implemented i…",
       "likes": 7,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7509837683309957121",
+      "file": "posts/post_7509837683309957121.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7509837683309957121/",
+      "posted_at": "2026-09-27T04:53:49+00:00",
+      "title": "Amazon Kiro code is doomed. It still uses Opus 5 and GPT-5.6. Why would I want t…",
+      "likes": 4,
       "comment_count": 0
     },
     {
@@ -1386,6 +1413,15 @@
       "comment_count": 1
     },
     {
+      "activity_id": "7498932310000484353",
+      "file": "posts/post_7498932310000484353.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7498932310000484353/",
+      "posted_at": "2026-08-28T02:39:46+00:00",
+      "title": "",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7498762121174929408",
       "file": "posts/post_7498762121174929408.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498762121174929408/",
@@ -2187,6 +2223,60 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7486294593895043072",
+      "file": "posts/post_7486294593895043072.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7486294593895043072/",
+      "posted_at": "2026-07-24T05:41:59+00:00",
+      "title": "How Codex or Claude Code install skill is wrong. They hide the skills in the .cl…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7486220335420235776",
+      "file": "posts/post_7486220335420235776.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7486220335420235776/",
+      "posted_at": "2026-07-24T00:46:55+00:00",
+      "title": "Microsoft needs to stop calling everything Copilot. There is a Copilot inside a…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7486175465074806785",
+      "file": "posts/post_7486175465074806785.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7486175465074806785/",
+      "posted_at": "2026-07-23T21:48:37+00:00",
+      "title": "Is pull request still relevant when AI is writing all the code and no human ever…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7486110673047953408",
+      "file": "posts/post_7486110673047953408.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7486110673047953408/",
+      "posted_at": "2026-07-23T17:31:09+00:00",
+      "title": "AI coding will only prevent expertise if you are lazy If you are curious, have a…",
+      "likes": 3,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7486061313731776512",
+      "file": "posts/post_7486061313731776512.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7486061313731776512/",
+      "posted_at": "2026-07-23T14:15:01+00:00",
+      "title": "Everyone is trying to build some sort of knowledge database Seriously how many d…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7486058572292968450",
+      "file": "posts/post_7486058572292968450.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7486058572292968450/",
+      "posted_at": "2026-07-23T14:04:07+00:00",
+      "title": "OpenAI and Anthropic heavily subsidize their monthly plan because that is where…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7486296431759302656",
       "file": "posts/post_7486296431759302656.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486296431759302656/",
@@ -2194,6 +2284,69 @@
       "title": "Proudly worked on the Vulcano chip. Those 2.4 Tbps bandwidth flows thru some RTL…",
       "likes": 7,
       "comment_count": 2
+    },
+    {
+      "activity_id": "7485949633832325120",
+      "file": "posts/post_7485949633832325120.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7485949633832325120/",
+      "posted_at": "2026-07-23T06:51:15+00:00",
+      "title": "Anyone has old #DVCON papers before 2010? I would like to add them to my DVCon a…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7485948789300613121",
+      "file": "posts/post_7485948789300613121.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7485948789300613121/",
+      "posted_at": "2026-07-23T06:47:53+00:00",
+      "title": "Since I teach AI how to read DVCon papers, might as well ask it some fun questio…",
+      "likes": 13,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7485884127653601281",
+      "file": "posts/post_7485884127653601281.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7485884127653601281/",
+      "posted_at": "2026-07-23T02:30:57+00:00",
+      "title": "Vibe coding will never go away. Yes, you need way more than vibe coding to build…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7485800984276008960",
+      "file": "posts/post_7485800984276008960.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7485800984276008960/",
+      "posted_at": "2026-07-22T21:00:34+00:00",
+      "title": "In the early days, I ban my intern doing anything by hand, he has to talk to AI…",
+      "likes": 6,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7485750265950900224",
+      "file": "posts/post_7485750265950900224.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7485750265950900224/",
+      "posted_at": "2026-07-22T17:39:02+00:00",
+      "title": "The next version of Claude Fable/Mythos will be running on AMD GPUs! Finally, I…",
+      "likes": 17,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7485709025246896130",
+      "file": "posts/post_7485709025246896130.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7485709025246896130/",
+      "posted_at": "2026-07-22T14:55:09+00:00",
+      "title": "There are two views of AI/LLM 1. AI is a fake human, trying to talk to it like a…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7485700905950990336",
+      "file": "posts/post_7485700905950990336.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7485700905950990336/",
+      "posted_at": "2026-07-22T14:22:53+00:00",
+      "title": "Jira has a limit of 500 child tickets under an Epic. I will never hit this limit…",
+      "likes": 6,
+      "comment_count": 0
     },
     {
       "activity_id": "7485340506898571264",
@@ -2223,6 +2376,24 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7485042050455912450",
+      "file": "posts/post_7485042050455912450.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7485042050455912450/",
+      "posted_at": "2026-07-20T18:44:50+00:00",
+      "title": "Helios is one the two platforms that can run the frontier open-source models wit…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7485014439763746816",
+      "file": "posts/post_7485014439763746816.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7485014439763746816/",
+      "posted_at": "2026-07-20T16:55:07+00:00",
+      "title": "Word processor didn't replace writers Spreadsheet didn't replace accountants LLM…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7485136161502408705",
       "file": "posts/post_7485136161502408705.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7485136161502408705/",
@@ -2238,6 +2409,105 @@
       "posted_at": "2026-07-20T12:00:00+00:00",
       "title": "I like Claude Code better than Codex CLI For one, I can't use many slash command…",
       "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7484845677928165376",
+      "file": "posts/post_7484845677928165376.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7484845677928165376/",
+      "posted_at": "2026-07-20T05:44:31+00:00",
+      "title": "DVCON AI library v0.2 added MCP server and agentic skill, so your Codex or Claud…",
+      "likes": 6,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7484779861652205568",
+      "file": "posts/post_7484779861652205568.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7484779861652205568/",
+      "posted_at": "2026-07-20T01:22:59+00:00",
+      "title": "I wonder how many tokens are burnt by everyone trying to convert pdf into markdo…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7484707276323303424",
+      "file": "posts/post_7484707276323303424.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7484707276323303424/",
+      "posted_at": "2026-07-19T20:34:34+00:00",
+      "title": "It seems hardware engineers are coping with AI better than software engineers. H…",
+      "likes": 100,
+      "comment_count": 8
+    },
+    {
+      "activity_id": "7484323534723280896",
+      "file": "posts/post_7484323534723280896.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7484323534723280896/",
+      "posted_at": "2026-07-18T19:09:42+00:00",
+      "title": "AI loop engineering is just the new DevOps - Patrick Debois, Godfather of DevOps…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7484309871719370753",
+      "file": "posts/post_7484309871719370753.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7484309871719370753/",
+      "posted_at": "2026-07-18T18:15:25+00:00",
+      "title": "After loop engineering, maybe the next new trend is zero token architecture. It…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7484282649826467840",
+      "file": "posts/post_7484282649826467840.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7484282649826467840/",
+      "posted_at": "2026-07-18T16:27:15+00:00",
+      "title": "Fable is the new GPT 4.1 Everyone knows it is the smartest model But it is so ex…",
+      "likes": 0,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7483978261669117953",
+      "file": "posts/post_7483978261669117953.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7483978261669117953/",
+      "posted_at": "2026-07-17T20:17:43+00:00",
+      "title": "PM (project managers) always ask engineers for numbers Good PM should ask engine…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7483893434181754880",
+      "file": "posts/post_7483893434181754880.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7483893434181754880/",
+      "posted_at": "2026-07-17T14:40:38+00:00",
+      "title": "Chat with your ebooks on static HTML page. No server, no API call, you can even…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7483760641590054912",
+      "file": "posts/post_7483760641590054912.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7483760641590054912/",
+      "posted_at": "2026-07-17T05:52:58+00:00",
+      "title": "HBS report on AI-native firms. They survey YC startups, it would be interested i…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7483750490095165440",
+      "file": "posts/post_7483750490095165440.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7483750490095165440/",
+      "posted_at": "2026-07-17T05:12:38+00:00",
+      "title": "AI can't turn a bad engineer into a good engineer. AI can turn a good engineer i…",
+      "likes": 7,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7483669839807414274",
+      "file": "posts/post_7483669839807414274.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7483669839807414274/",
+      "posted_at": "2026-07-16T23:52:09+00:00",
+      "title": "If your idea doesn't sound stupid, it is not big enough - Theo t3gg https://lnkd…",
+      "likes": 2,
       "comment_count": 0
     },
     {

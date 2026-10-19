@@ -1,0 +1,84 @@
+{
+  "activity_id": "7517487304521736192",
+  "share_id": "7517487304521736192",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7517487304521736192/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-18T07:30:41+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "ChatGPT (6.1 Sol) fixed my Windows task bar right click icon not working problem.  Wow!!!\n\nAI may still write buggy code, but no human beats AI in troubleshoot weird configuration issues.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-18T22:49:00+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "Could a simple google search have solved it?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-18T22:49:00+00:00",
+          "posted_at_hint": "(edited) 1d",
+          "posted_at_approx": true,
+          "text": "Job K Joseph nope.  Google search is useless on trouble shooting, too many irrelevant answers\n\nTo be fair, it took GPT almost 30 minutes and reboot my Windows twice to fix it",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Job K Joseph",
+            "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+            "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-19T04:49:00+00:00",
+          "posted_at_hint": "18h",
+          "posted_at_approx": true,
+          "text": "Horace Chan i dont think it was actively or agentively troubleshooting, but rather just doing a more efficient search&represent job.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-19T04:49:00+00:00",
+          "posted_at_hint": "18h",
+          "posted_at_approx": true,
+          "text": "Job K Joseph I don't think it is efficient search at all, it is more like keep trying some random stuffs until something finally works.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-19T22:49:00Z"
+}

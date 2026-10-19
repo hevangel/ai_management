@@ -1,0 +1,38 @@
+{
+  "activity_id": "7484779861652205568",
+  "share_id": "7484779861652205568",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7484779861652205568/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-20T01:22:59+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I wonder how many tokens are burnt by everyone trying to convert pdf into markdown files in the whole world. \n\nAdobe should update the pdf format that comes with embedded LLM friendly markdown text bock.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:07:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "All editing suites for that matter",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:07:00Z"
+}

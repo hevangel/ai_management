@@ -1,0 +1,22 @@
+{
+  "activity_id": "7485042050455912450",
+  "share_id": "7485042050455912450",
+  "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7485042050455912450/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-20T18:44:50+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Helios is one the two platforms that can run the frontier open-source models with more than a trillion parameters.   There will be many more super big open-source models coming after Moonshot K3.  Enterprise fine tuning trillion parameters LLM would be the next big demand of GPUs after training and interfering.   #AMDBrandAmbassador",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:05:00Z"
+}

@@ -1,0 +1,22 @@
+{
+  "activity_id": "7486294593895043072",
+  "share_id": "7486294593895043072",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7486294593895043072/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-24T05:41:59+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "How Codex or Claude Code install skill is wrong.   They hide the skills in the .claude or .codex folder, make it hard to read for humans.  They treat skills like dead reusable code, someone build it, you install it and use it without using your brain.\n\nMy experience is more like skill is a live document.  You need to continuously read it and revise it.  Skills should live in a skill folder at the repo root level, so I can easily read them in VSCode.\n\nHarden reusable skills have their place, but they belong to the production dark factory and the eval pipeline, not in the frontier vibe coding workspace.\n",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T22:54:00Z"
+}

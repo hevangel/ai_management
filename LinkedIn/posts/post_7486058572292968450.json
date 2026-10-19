@@ -1,0 +1,22 @@
+{
+  "activity_id": "7486058572292968450",
+  "share_id": "7486058572292968450",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7486058572292968450/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-23T14:04:07+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "OpenAI and Anthropic heavily subsidize their monthly plan because that is where they get new training data for their next model\n\nSomeone should create a GitHub or Huggingface for Claude Code / Codex session history log.  Make all those chat history from freely available to all other AI labs, so everyone gets good RL training data, so the open source model able to catch up with the close source model easier",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T22:59:00Z"
+}

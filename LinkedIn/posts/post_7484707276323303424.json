@@ -1,0 +1,159 @@
+{
+  "activity_id": "7484707276323303424",
+  "share_id": "7484707276323303424",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7484707276323303424/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-19T20:34:34+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "It seems hardware engineers are coping with AI better than software engineers. \n\nHardware engineers know the code is always a means to the end, the chip is what matters.  Using AI or not is just a pragmatic engineering decision, we will use it if AI helps us build the chip faster and better.\n\nMany software engineers think the code has intrinsic value, it is the meaning itself.  When AI generates code instead of humans writing the code, they have an identity crisis",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 100,
+  "reposts": 2,
+  "comment_count": 9,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Stanislav Rumega",
+        "profile_url": "https://www.linkedin.com/in/stanislav-rumega/",
+        "headline": "Experienced Certified LabVIEW Developer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:11:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Coding agents go straight from prompt/requirements prose to code. And we built superb reviewers of code. But we need to tell them to work as architects first, declare their intent (what they are going to build) and suggest an architecture, both of which must be checked and gated, not by other LLM, but rather by boring deterministic programs. We have nothing that reviews intent and architecture yet.\nhttps://www.linkedin.com/pulse/we-built-superb-reviewers-code-have-nothing-reviews-intent-rumega-a1pec",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:11:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Stanislav Rumega yeap. boring good old deterministic check is the key",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Raghuraman R",
+        "profile_url": "https://www.linkedin.com/in/rcube/",
+        "headline": "Project & Collateral/Workforce management handling technical challenges, with > two decades of hands-on Pre/Post Silicon DFx across x86/ARM/RISC-V cores & NIC/NOC fabric for 3DICs with A(G)I/ML leverage including HVM"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:11:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "To be fair, for software folks, means is the end itself.  For others, software (product) is just, if not only, a means to achieve something that software folks wont or rather shouldnt (seek to) understand.  Software is more a conduit or a plumbing tool/means to achieve different/multiple purposes.  So RTL coder can say this AI 'tool' (only) helps but I am the 'master', banking support person can say this 'ai' (chatgpt blah blah) is only facilitating 'to a point' beyond that I have to 'take over'.  But that is precisely the point - software is not aimed at solving 'all the problems'.  It is aimed at solving some/most of the problems and even those, *not completely*.  Even now all ads are about 'automating 95% or \"almost\" the entire' task but never the full task.  You can hae a co-author or 'agent' but finally some anthrope has to press the Send/Enter button  🤣  🤐",
+      "likes": 5,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Muzamil Farid",
+        "profile_url": "https://www.linkedin.com/in/muzamil-farid/",
+        "headline": "Senior Engineer @ Fraunhofer IIS | Digital Design | Project Engineering Management | System Engineering | R&D in SoC and IC Design | Verification & Quality"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:11:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Hardware is pretty much architecture, performance, trade offs, HDL was just a basic tool to get it done, AI does HDL better and faster in many cases especially with new AI models, But the real deal was always ability to sketch clean, thorough concise architecture where you can sit down and if asked explain why where and what...",
+      "likes": 3,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dave Rensberger",
+        "profile_url": "https://www.linkedin.com/in/daverensberger/",
+        "headline": "Software Engineer specializing in IoT and embedded"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:11:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "One thing that has always bothered me about software engineering culture is the belief that a piece of code should be an artwork or an elaborate puzzle. Those things may partially be valid, but in the end, software should primarily be a way to meet a set of functional requirements.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Anton Belov",
+        "profile_url": "https://www.linkedin.com/in/antonbelov1/",
+        "headline": "Sr. Architect R&D Synopsys | Electronic Design Automation | Static Timing Analysis | Formal Methods | C++ Perf/Cap"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:11:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "What nonsense 🙃 The value of code is the algorithm it encodes, not the code itself. Same for hardware (and digital hardware development is done completely in code anyway). Analog is a different story and *is* a bit of black magic.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Petar Petrov (PhD)",
+        "profile_url": "https://www.linkedin.com/in/petarpetrov/",
+        "headline": "(Lead Software Engineer)"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:11:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "I guess I've not lived enough to see people buying chips and deploying them in any industry without software.  What a silly take :)",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Peter S.",
+        "profile_url": "https://www.linkedin.com/in/peter-s-97aa02174/",
+        "headline": "Retired Senior Power Systems Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:11:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Let’s be honest about this. Any computing or other electronic task can be performed in either hardware or software, and this most likely includes AI. In other words both must be included in most any engineering solution.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ryan Harm",
+        "profile_url": "https://www.linkedin.com/in/ryanharm/",
+        "headline": "Embedded Systems & Product Engineer | Delivering Commercially Important RF, Hardware, Firmware & IoT Products"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:11:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Nah, I love it. Lets me focus on building product  instead of trying to remember the low level details of how to implement every line of code. But I'm also a hardware engineer, so...",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:11:00Z"
+}

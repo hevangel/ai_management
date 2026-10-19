@@ -1,0 +1,84 @@
+{
+  "activity_id": "7484282649826467840",
+  "share_id": "7484282649826467840",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7484282649826467840/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-18T16:27:15+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Fable is the new GPT 4.1\n\nEveryone knows it is the smartest model\nBut it is so expensive that no one will use it if they have to pay for it.\n\nGood old fashion human intelligence of an experienced engineer is cheaper than Fable, especially when you partner him/her up with GPT 5.6",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Roni Rechter",
+        "profile_url": "https://www.linkedin.com/in/roni-rechter/",
+        "headline": "Head of AI Programs at MaxBill | AI systems that act without human review — accountability, audit trails, liability | RAG & production systems in regulated billing"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:15:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Using Fable alot for grooming and planning , there is no issue using it in Claude Code, as I can time it with session resets",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T23:15:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Roni Rechter but Anthropic is taking away your Fable soon",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Roni Rechter",
+            "profile_url": "https://www.linkedin.com/in/roni-rechter/",
+            "headline": "Head of AI Programs at MaxBill | AI systems that act without human review — accountability, audit trails, liability | RAG & production systems in regulated billing"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-07-21T23:15:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan we will see",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Brandon Rizzo",
+        "profile_url": "https://www.linkedin.com/in/brandonrizzo/",
+        "headline": "Senior Security Engineer at Amazon | CISSP,GCTI,GMON,GPEN,GCIH"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:15:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Depends what you're building.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:15:00Z"
+}

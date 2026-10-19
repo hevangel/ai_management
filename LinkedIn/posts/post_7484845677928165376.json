@@ -1,0 +1,25 @@
+{
+  "activity_id": "7484845677928165376",
+  "share_id": "7484845677928165376",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7484845677928165376/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-20T05:44:31+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "DVCON AI library v0.2 \n\nadded MCP server and agentic skill, so your Codex or Claude Code can read DVCON papers too.\n\nhttps://lnkd.in/g4ijKKSs",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "GitHub - hevangel/dvcon_ai_library: DVCON AI library",
+    "url": "https://github.com/hevangel/dvcon_ai_library"
+  },
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:07:00Z"
+}

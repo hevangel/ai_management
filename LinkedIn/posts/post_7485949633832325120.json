@@ -1,0 +1,25 @@
+{
+  "activity_id": "7485949633832325120",
+  "share_id": "7485949633832325120",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7485949633832325120/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-23T06:51:15+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Anyone has old #DVCON papers before 2010?\n\nI would like to add them to my DVCon analysis.\n\nhttps://lnkd.in/gqMtgcyX",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "DVCon Proceedings Intelligence — corpus analysis",
+    "url": "https://hevangel.github.io/dvcon_ai_library/"
+  },
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T22:59:00Z"
+}

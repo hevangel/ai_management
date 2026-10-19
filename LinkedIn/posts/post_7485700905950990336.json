@@ -1,0 +1,22 @@
+{
+  "activity_id": "7485700905950990336",
+  "share_id": "7485700905950990336",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7485700905950990336/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-22T14:22:53+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Jira has a limit of 500 child tickets under an Epic.   I will never hit this limit if I use Jira manually, only an AI agent would hit this limit.\n\nIs Jira robust enough for the AI-era?   \n\nThere are rumors that Anthropic is going to acquire Atlassian.\nAnthropic please acquire Atlassian rewrite it in Rust.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:05:00Z"
+}

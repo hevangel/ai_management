@@ -1,0 +1,25 @@
+{
+  "activity_id": "7483893434181754880",
+  "share_id": "7483893434181754880",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7483893434181754880/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-17T14:40:38+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Chat with your ebooks on static HTML page.   No server, no API call, you can even host it on github.io pages.\n\nI implemented a good old RAG system using Gemma4 running in your browser.\n\nhttps://lnkd.in/dsGRMjKw",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "GitHub - hevangel/offline-rag-library: Agent Skill that scaffolds offline single-page library sites with in-browser RAG chatbots — EPUB→markdown conversion, prebuilt embeddings, and zero-server, zero-API-key retrieval via transformers.js + WebGPU.",
+    "url": "https://github.com/hevangel/offline-rag-library"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:15:00Z"
+}

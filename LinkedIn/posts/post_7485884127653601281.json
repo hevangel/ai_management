@@ -1,0 +1,38 @@
+{
+  "activity_id": "7485884127653601281",
+  "share_id": "7485884127653601281",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7485884127653601281/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-23T02:30:57+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Vibe coding will never go away. \n\nYes, you need way more than vibe coding to build a reliable production work.   But after you nail the dark factory using proper engineering disciplines, you move up one abstraction level, you vibe coding the next generation of the factory itself.\n\nYou can't build with a spec what you don't know.  You can only vibe code, then see what work and what not.  In the past, we call it tinkering.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Piotr Golczyk",
+        "profile_url": "https://www.linkedin.com/in/piotrgolczyk/",
+        "headline": "Empatyzer.com - fix team issues immediately!"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:03:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "The idea of \"vibe coding\" as exploring the unknown before formalization is a useful distinction, suggesting iterative discovery rather than full upfront specification. This reflects how complex systems often evolve, moving from emergent behavior to engineered structure.▶",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:03:00Z"
+}

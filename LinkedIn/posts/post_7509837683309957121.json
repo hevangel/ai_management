@@ -1,0 +1,22 @@
+{
+  "activity_id": "7509837683309957121",
+  "share_id": "7509837683309957121",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7509837683309957121/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-09-27T04:53:49+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Amazon Kiro code is doomed.  It still uses Opus 5 and GPT-5.6.   Why would I want to waste my tokens on 2nd tier models?\n\nCopilot and Cursor update to the latest model right away.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T22:49:00Z"
+}

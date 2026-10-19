@@ -1,0 +1,22 @@
+{
+  "activity_id": "7486175465074806785",
+  "share_id": "7486175465074806785",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7486175465074806785/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-23T21:48:37+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Is pull request still relevant when AI is writing all the code and no human ever read the code?   Why can't AI simply take turns to lock the main branch and commit their changes?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T22:56:00Z"
+}

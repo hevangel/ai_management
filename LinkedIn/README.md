@@ -6,25 +6,23 @@ links, comment text, timestamps, nested replies, and Horace's own replies).
 
 ## Coverage
 
-- **377 posts**, 2026-01-14 → 2026-10-17 (newest first in `index.json`)
-- 248 top-level comments, 227 nested replies, all threads fully expanded
+- **407 posts**, 2026-01-14 → 2026-10-18 (newest first in `index.json`)
+- 263 top-level comments, 234 nested replies, all threads fully expanded
 - LinkedIn renders only relative timestamps ("2w", "Jun 2"), never an
-  absolute `<time datetime>` — so `posted_at` is approximated from the
-  relative hint anchored at each post's `scraped_at`
-  (`posted_at_approx: true`; the original hint is kept in `posted_at_hint`)
-- Scope note: the activity feed was confirmed exhausted at 816 total posts
-  (2026-09-27). This archive covers the 377 most recent: rounds 1–3
-  (2026-09-26/27, 317 posts through Sep 26, including an audit correction
-  that recovered posts the first enumeration had missed) plus round 4
+  absolute `<time datetime>` — so for feed-scraped posts `posted_at` is
+  approximated from the relative hint anchored at each post's
+  `scraped_at` (`posted_at_approx: true`; the original hint is kept in
+  `posted_at_hint`). Posts recovered from the data export carry exact
+  timestamps instead (`posted_at_approx: false`, `posted_at_hint: null`).
+- Scope note: rounds 1–3 (2026-09-26/27, 317 posts) plus round 4
   (2026-10-18, 60 posts through Oct 17, assembled by
-  `tools/assemble_round4.py`). Roughly 439 older posts are not yet
-  included: the oldest ~197 have no activity IDs reachable via the feed
-  (the browser's accessibility tree truncates before the bottom articles)
-  and ~240 more sit in virtualization gaps in the enumerated region. A
-  fresh LinkedIn data export was requested 2026-10-18 to recover their
-  IDs and text; their comment threads will still need per-post page
-  extraction once the IDs are known (the export does not include other
-  people's comments).
+  `tools/assemble_round4.py`) covered the 377 most recent posts. The full
+  LinkedIn data export (downloaded 2026-10-19) lists 886 shares total and
+  supplies exact text + timestamps for the 510-post backlog (2014–2026);
+  those are being merged newest-first by `tools/assemble_backlog.py`,
+  keyed by their share/ugcPost URN ids (their JSON carries a `share_id`
+  field), with comment threads extracted per post from the post pages.
+  30 of 510 are merged so far; ~480 remain.
 
 ## Layout
 

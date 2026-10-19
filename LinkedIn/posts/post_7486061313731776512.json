@@ -1,0 +1,22 @@
+{
+  "activity_id": "7486061313731776512",
+  "share_id": "7486061313731776512",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7486061313731776512/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-23T14:15:01+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Everyone is trying to build some sort of knowledge database \n\nSeriously how many documents do you and your AI agent need to read to get the job done?\n\nTurn everything into markdown files, check it into a GitHub repo, add a light weight sqlite with text search plug-in is probably good enough for most people",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T22:56:00Z"
+}

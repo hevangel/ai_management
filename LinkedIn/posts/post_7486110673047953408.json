@@ -1,0 +1,60 @@
+{
+  "activity_id": "7486110673047953408",
+  "share_id": "7486110673047953408",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7486110673047953408/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-07-23T17:31:09+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AI coding will only prevent expertise if you are lazy\n\nIf you are curious, have an urge to understand everything along your way, AI coding helps you learn much faster than anything in the past.\n\nAnd you SHOULDN'T learn from friction, that is passive learning.  You hit those roadblocks and learn it the hard way on the job.   You should learn by EXPLORING instead.   You seek out all the boundary conditions and edge cases deliberately up front in a safe and relaxing environment.  So, you have little friction when you are doing the real job.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "B2B Full Stack // Technical Director // Coding Mentor",
+    "author_name": "Lars Faye",
+    "author_profile_url": "https://www.linkedin.com/in/larsfaye/",
+    "posted_at_hint": "Jul 22 • Edited",
+    "reshared_text": "Previously I wrote Agentic Coding is a Trap, which focused on the skill atrophy that can affect experienced developers. In my follow up, I shift focus to those that aren't as experienced and ask: if these tools demand expertise but also prevent skill formation, then how does one become an expert? Head this way ↓ for the essay link."
+  },
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Lars Faye",
+        "profile_url": "https://www.linkedin.com/in/larsfaye/",
+        "headline": "B2B Full Stack // Technical Director // Coding Mentor"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T22:56:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "The data isn't there to support your claims, but I appreciate the repost, nonetheless.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-07-21T22:56:00+00:00",
+          "posted_at_hint": "3mo",
+          "posted_at_approx": true,
+          "text": "Lars Faye too bad that I can't share my internal paper with you.\n\nI hired a new-grad last year, my only mandatory for him is you are NOT allowed to do anything by hand.   Go ramp up like a normal engineer, see how far you can go.\n\nNow, after 1 year, I have a junior engineer (with AI) who can work at the same level of a senior engineer (3-5 years of experience) and a free junior-ish level AI engineer that I can run many copies.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-19T22:56:00Z"
+}
