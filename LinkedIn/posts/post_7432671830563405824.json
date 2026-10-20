@@ -1,0 +1,25 @@
+{
+  "activity_id": "7432671830563405824",
+  "share_id": "7432671830563405824",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7432671830563405824/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-26T06:24:16+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "CSS is Turing complete.   A x86 emulator implemented in CSS only, yes no Javascript.   This is the craziest x86 implementation\n\nhttps://lyra.horse/x86css/",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "x86CSS",
+    "url": "https://lyra.horse/x86css/"
+  },
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T02:55:00Z"
+}

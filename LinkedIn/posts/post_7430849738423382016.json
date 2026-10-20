@@ -1,0 +1,151 @@
+{
+  "activity_id": "7430849738423382016",
+  "share_id": "7430849738423382016",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7430849738423382016/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-21T05:43:56+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "That is the stupidest comment I have heard regarding AI.   \n\nImagine in 1960s, a stupid CTO said junior engineers are not allowed to use TTY, they have to learn how to write program the hard way using punch cards.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "CEO at McHelp I First Aid Training and Mental Health First Aid Training for companies.",
+    "author_name": "Sebastian Schermer",
+    "author_profile_url": "https://www.linkedin.com/in/sebastianschermer/",
+    "posted_at_hint": "Feb 10",
+    "reshared_text": "Junior developers are not allowed to use AI for coding in our teams.\n\nThat's what a CTO told me last week.\n\nAt first, that sounded backwards to me.\n\n━━━━━\n\nBut his reasoning was simple:\n\nIf juniors don’t learn to think through problems themselves,\nthey never become seniors.\n\nAnd right now, that pipeline is breaking.\n\n━━━━━\n\nBetween 2023 and 2025, entry-level hiring dropped massively.\nBecause many companies thought AI could handle junior-level work.\n\nBoilerplate. Simple features. Basic tasks.\n\nBut that’s exactly how developers used to learn for later.\n\n━━━━━\n\nBefore AI:\n-> Juniors wrote simple code.\n-> Made mistakes.\n-> Learned why things break.\n-> Got better\n\nToday:\n-> AI writes the simple parts.\n-> Juniors are expected to understand complex systems immediately.\n-> Without the foundation.\n\n━━━━━\n\nThe result?\n• faster output today\n• fewer experienced engineers tomorrow\n• growing dependency on a shrinking group of seniors\n\nYou can’t skip the learning phase.\n\nSoftware engineering is not typing code.\nIt’s understanding systems.\n\n━━━━━\n\nAI doesn’t remove the need for developers.\nIt increases the need for people who actually understand what’s happening underneath.\n\nStrong organizations understand this.\nThey don’t optimize for short-term speed.\nThey invest in capability.\n\nBecause if you don’t grow juniors today, you won’t have seniors in five years."
+  },
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 8,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:32:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Maybe a healthy balance is required..",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-02-22T03:32:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Job K Joseph A healthy balance is 0% handwritten code,\n\nThe junior engineers should ask AI to go over the generated code with them to understand what is created.\n\nOr tell AI to generate 3 different variants of the same code and learn the tradeoff between different implementations.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Job K Joseph",
+            "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+            "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T03:32:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan that will work only if graduates complete their education with the minimum manual coding experience....  by they way, what will happen to comps that cannot afford to setup their own sovereign codegen platforms?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-02-22T03:32:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Job K Joseph They are doomed.  If compiler is $100k a piece, would you write assembly instead of C++?   They can only hope for the open source LLMs are cheap enough and good enough to be useful.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:32:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Indeed.\n\nAI is not a shortcut that replaces learning. It’s a tool that changes where learning happens.\n\nIn real systems, juniors don’t learn by typing boilerplate. They learn by working on well-defined components inside a coherent design. Creating that clarity is the senior responsibility.\n\nIf seniors can’t define work clearly enough for juniors (with or without AI), that’s not an AI problem. That’s a leadership failure.\n\nThe useful way to think about AI coding is like a 3D printer.\n\nThe value isn’t “writing code faster.”\nThe value is being able to try an idea, see it run, adjust it, and try again.\n\nThat feedback loop accelerates understanding, not bypasses it.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nathaniel L.",
+        "profile_url": "https://www.linkedin.com/in/nlayton/",
+        "headline": "Principal Software, AI Automation, Cloud Engineer with extensive leadership and delivery experience."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:32:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "I wonder if making them go 2 months with and then 2 months without would be useful. Teaching code syntax isn't important. Learning logic, logical constructs, and logical patterns is useful, and software teaches that.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-02-22T03:32:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Nathaniel L. Why write code without AI for 2 months?   Would you give up C++ for 2 months and write assembly instead?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Nathaniel L.",
+            "profile_url": "https://www.linkedin.com/in/nlayton/",
+            "headline": "Principal Software, AI Automation, Cloud Engineer with extensive leadership and delivery experience."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T03:32:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Yes. I'd recommend it. I've done it. I understand higher-level coding languages better because of it. A normal person buys a car to get to and from work. An engineer understands how the engine, electrical, and mechanical systems work. That's what sets us apart. If you don't want to understand how something works under the hood, that's fine, but you're not an engineer. Not every job needs an engineer, either, so that may be fine.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T03:32:00Z"
+}

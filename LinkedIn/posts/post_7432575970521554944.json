@@ -1,0 +1,38 @@
+{
+  "activity_id": "7432575970521554944",
+  "share_id": "7432575970521554944",
+  "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7432575970521554944/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-26T00:03:22+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "As a fan of the new WRX, it’s great to see how much trust goes into building it. Subaru relies on  AMD  to help advance safety technology—because when lives are on the line, only the most trusted partners will do. #AMDBrandAmbassador",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 23,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Shaik Reshma",
+        "profile_url": "https://www.linkedin.com/in/shaik-reshma-b7a0031a7/",
+        "headline": "Senior engineer at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:07:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Safety-critical automotive systems demand dependable, high-performance silicon. Great to see advanced compute platforms supporting this transformation",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T03:07:00Z"
+}

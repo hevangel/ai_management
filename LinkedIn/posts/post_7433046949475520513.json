@@ -1,0 +1,22 @@
+{
+  "activity_id": "7433046949475520513",
+  "share_id": "7433046949475520513",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7433046949475520513/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-27T07:14:52+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "There are something Opus 4.6 still can't do, even though the acceptance criteria is crystal clear.   I asked it to 100% clone the function, the look and feel of a single page in a website from screenshot.  It just can't get it right.   The output still look very fake to my human eye, although it insists they look the same.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T02:55:00Z"
+}

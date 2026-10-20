@@ -1,0 +1,53 @@
+{
+  "activity_id": "7432579117260165120",
+  "share_id": "7432579117260165120",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7432579117260165120/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-26T00:15:52+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Vibe managing doesn't work\n\nI setup my AI to generate daily report on EVERY work of my team, commits, Jira, document updates, meeting minutes.  Then I ask the AI to give me a weekly summary.   The AI gives me something more or less random.  The stupid AI thinks a task with 5 commits is more important than the task with only 1 commit.\n\nAt the end of the day, you still need to have weekly human meeting to know what's going on that are truly important.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:07:00+00:00",
+      "posted_at_hint": "(edited) 8mo",
+      "posted_at_approx": true,
+      "text": "Based on my interactions with my instance of AI, it takes time and patience to define what it shoud and shouldn't do and how it should what I ask.\n\nI have found that NOT starements are much more powerful. ie, dont do this, and this, and this....",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Leonardo Capossio",
+        "profile_url": "https://www.linkedin.com/in/lcapossio/",
+        "headline": "bard0.ai"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:07:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "...yet. need to polish it for sure 😃\n\nIt's good to experiment it will be ready some day.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T03:07:00Z"
+}

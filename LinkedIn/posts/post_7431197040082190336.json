@@ -1,0 +1,25 @@
+{
+  "activity_id": "7431197040082190336",
+  "share_id": "7431197040082190336",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7431197040082190336/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-22T04:43:59+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Polymarket has weather prediction betting, maybe we can use this supercomputer to make some profit.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Meteomatics revolutionizes weather forecasting with AMD EPYC™ CPUs",
+    "url": "https://bit.ly/3ZPhPWY"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T03:20:00Z"
+}

@@ -3,10 +3,10 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-20T02:52:05.368523+00:00",
-  "total_posts": 632,
-  "total_comments": 345,
-  "total_replies": 309,
+  "generated_at": "2026-10-20T03:32:40.890528+00:00",
+  "total_posts": 644,
+  "total_comments": 352,
+  "total_replies": 314,
   "posts": [
     {
       "activity_id": "7517487951144996864",
@@ -5517,6 +5517,69 @@
       "comment_count": 3
     },
     {
+      "activity_id": "7433046949475520513",
+      "file": "posts/post_7433046949475520513.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7433046949475520513/",
+      "posted_at": "2026-02-27T07:14:52+00:00",
+      "title": "There are something Opus 4.6 still can't do, even though the acceptance criteria…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7432987407597305856",
+      "file": "posts/post_7432987407597305856.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7432987407597305856/",
+      "posted_at": "2026-02-27T03:18:16+00:00",
+      "title": "The graph is so true. AI is just another shiny new tool, it is just like mobile,…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7432671830563405824",
+      "file": "posts/post_7432671830563405824.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7432671830563405824/",
+      "posted_at": "2026-02-26T06:24:16+00:00",
+      "title": "CSS is Turing complete. A x86 emulator implemented in CSS only, yes no Javascrip…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7432579117260165120",
+      "file": "posts/post_7432579117260165120.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7432579117260165120/",
+      "posted_at": "2026-02-26T00:15:52+00:00",
+      "title": "Vibe managing doesn't work I setup my AI to generate daily report on EVERY work…",
+      "likes": 5,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7432575970521554944",
+      "file": "posts/post_7432575970521554944.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7432575970521554944/",
+      "posted_at": "2026-02-26T00:03:22+00:00",
+      "title": "As a fan of the new WRX, it’s great to see how much trust goes into building it.…",
+      "likes": 23,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7432566366932566016",
+      "file": "posts/post_7432566366932566016.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7432566366932566016/",
+      "posted_at": "2026-02-25T23:25:12+00:00",
+      "title": "Year 2000 - Talk is cheap, show me the code Year 2026 - Code is cheap, show me t…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7432515569112780801",
+      "file": "posts/post_7432515569112780801.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7432515569112780801/",
+      "posted_at": "2026-02-25T20:03:21+00:00",
+      "title": "If you have a teenager who love programming and gaming. Here is a fun 2-day hack…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7432148642490343425",
       "file": "posts/post_7432148642490343425.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7432148642490343425",
@@ -5553,6 +5616,15 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7431395838511243264",
+      "file": "posts/post_7431395838511243264.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7431395838511243264/",
+      "posted_at": "2026-02-22T17:53:56+00:00",
+      "title": "Claude Code agent team tmux mode is a total distraction. If you think you need t…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7431439446786449408",
       "file": "posts/post_7431439446786449408.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7431439446786449408",
@@ -5560,6 +5632,42 @@
       "title": "Not only you have to think like a manager when commanding a team of AI agents wo…",
       "likes": 3,
       "comment_count": 0
+    },
+    {
+      "activity_id": "7431197040082190336",
+      "file": "posts/post_7431197040082190336.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7431197040082190336/",
+      "posted_at": "2026-02-22T04:43:59+00:00",
+      "title": "Polymarket has weather prediction betting, maybe we can use this supercomputer t…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7431139413931294720",
+      "file": "posts/post_7431139413931294720.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7431139413931294720/",
+      "posted_at": "2026-02-22T00:55:00+00:00",
+      "title": "Yeap. Coding is a solved problem. I haven't write a single line of new code for…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7430849738423382016",
+      "file": "posts/post_7430849738423382016.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7430849738423382016/",
+      "posted_at": "2026-02-21T05:43:56+00:00",
+      "title": "That is the stupidest comment I have heard regarding AI. Imagine in 1960s, a stu…",
+      "likes": 0,
+      "comment_count": 3
+    },
+    {
+      "activity_id": "7430676623688970240",
+      "file": "posts/post_7430676623688970240.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7430676623688970240/",
+      "posted_at": "2026-02-20T18:16:02+00:00",
+      "title": "AMD is hiring! And yes, we are still hiring junior engineers, where the rest of…",
+      "likes": 26,
+      "comment_count": 1
     },
     {
       "activity_id": "7428498720050278401",
