@@ -3,10 +3,10 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-20T00:01:12.830932+00:00",
-  "total_posts": 467,
-  "total_comments": 288,
-  "total_replies": 261,
+  "generated_at": "2026-10-20T00:20:24.445268+00:00",
+  "total_posts": 497,
+  "total_comments": 298,
+  "total_replies": 270,
   "posts": [
     {
       "activity_id": "7517487951144996864",
@@ -3312,6 +3312,114 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7472027535317344256",
+      "file": "posts/post_7472027535317344256.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7472027535317344256/",
+      "posted_at": "2026-06-14T20:49:48+00:00",
+      "title": "We need Blade Runners to kill runaway AI agents who burn way too many tokens.",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7471973432981618689",
+      "file": "posts/post_7471973432981618689.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471973432981618689/",
+      "posted_at": "2026-06-14T17:14:49+00:00",
+      "title": "Never deploy a new AI agent on Friday",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7471968409417789440",
+      "file": "posts/post_7471968409417789440.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471968409417789440/",
+      "posted_at": "2026-06-14T16:54:51+00:00",
+      "title": "It takes longer for me to boot up my laptop, login the company VPN, than the act…",
+      "likes": 3,
+      "comment_count": 3
+    },
+    {
+      "activity_id": "7471961047550308352",
+      "file": "posts/post_7471961047550308352.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471961047550308352/",
+      "posted_at": "2026-06-14T16:25:36+00:00",
+      "title": "How to build an AI engineer? 1. Start with Claude Code or Codex with lots of tok…",
+      "likes": 9,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7471815002312622080",
+      "file": "posts/post_7471815002312622080.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471815002312622080/",
+      "posted_at": "2026-06-14T06:45:16+00:00",
+      "title": "You don't need a skilled person to control the AI, you just need someone who has…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7471783934993907712",
+      "file": "posts/post_7471783934993907712.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471783934993907712/",
+      "posted_at": "2026-06-14T04:41:49+00:00",
+      "title": "In the pre-AI era, how many people you manage determine how high your level is i…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7471654658025881600",
+      "file": "posts/post_7471654658025881600.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471654658025881600/",
+      "posted_at": "2026-06-13T20:08:07+00:00",
+      "title": "AI revolution in the business world is something like this: You are in a car rac…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7471623687667101698",
+      "file": "posts/post_7471623687667101698.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471623687667101698/",
+      "posted_at": "2026-06-13T18:05:03+00:00",
+      "title": "Productivity gain of AI is real. For some tasks, it is not 30%, not 3x, not even…",
+      "likes": 7,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7471610868435410944",
+      "file": "posts/post_7471610868435410944.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471610868435410944/",
+      "posted_at": "2026-06-13T17:14:06+00:00",
+      "title": "When using AI agents at work, you are compelled to work at weekends. You don't h…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7471582704745066496",
+      "file": "posts/post_7471582704745066496.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471582704745066496/",
+      "posted_at": "2026-06-13T15:22:12+00:00",
+      "title": "Here is my conspiracy theory about the Fable 5 ban. What really got it banned is…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7471413157236944896",
+      "file": "posts/post_7471413157236944896.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471413157236944896/",
+      "posted_at": "2026-06-13T04:08:28+00:00",
+      "title": "Opus 4.8 is lazy. In my Claude Code session, after I instruct it to escalate a v…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7471405221903183872",
+      "file": "posts/post_7471405221903183872.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7471405221903183872/",
+      "posted_at": "2026-06-13T03:36:56+00:00",
+      "title": "Everyone should have two accounts, a human account and an AI agent account. That…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7471233163504144384",
       "file": "posts/post_7471233163504144384.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7471233163504144384/",
@@ -3357,11 +3465,137 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7470992732359024640",
+      "file": "posts/post_7470992732359024640.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470992732359024640/",
+      "posted_at": "2026-06-12T00:17:51+00:00",
+      "title": "I find it very hard to work with engineers who don't use AI. When I ask my AI wr…",
+      "likes": 27,
+      "comment_count": 3
+    },
+    {
+      "activity_id": "7470896446830051328",
+      "file": "posts/post_7470896446830051328.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470896446830051328/",
+      "posted_at": "2026-06-11T17:55:15+00:00",
+      "title": "Are you a builder, seller or measurer? https://lnkd.in/gzCkDimN",
+      "likes": 0,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7470881540743380992",
+      "file": "posts/post_7470881540743380992.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470881540743380992/",
+      "posted_at": "2026-06-11T16:56:01+00:00",
+      "title": "AI killed fantasy sports leagues It used to be fun picking your teams and winnin…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7471047784457056258",
       "file": "posts/post_7471047784457056258.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7471047784457056258/",
       "posted_at": "2026-06-11T12:00:00+00:00",
       "title": "Don't build things that use AI, build things for AI instead",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7470699815543435265",
+      "file": "posts/post_7470699815543435265.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470699815543435265/",
+      "posted_at": "2026-06-11T04:53:55+00:00",
+      "title": "Even if your engineers are truly AI-native and you have unlimited token budgets,…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7470673498492030976",
+      "file": "posts/post_7470673498492030976.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470673498492030976/",
+      "posted_at": "2026-06-11T03:09:20+00:00",
+      "title": "Here is a tip on saving tokens in Claude Code. Always run CC cronjob in a sub ag…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7470657885920915456",
+      "file": "posts/post_7470657885920915456.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470657885920915456/",
+      "posted_at": "2026-06-11T02:07:18+00:00",
+      "title": "Don't set a one size fit all token quota or limit. Some tasks are cheaper to bur…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7470618641596592129",
+      "file": "posts/post_7470618641596592129.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470618641596592129/",
+      "posted_at": "2026-06-10T23:31:21+00:00",
+      "title": "Software engineers are so used to having free tools, they are shocked by the cos…",
+      "likes": 32,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7470596596070645760",
+      "file": "posts/post_7470596596070645760.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470596596070645760/",
+      "posted_at": "2026-06-10T22:03:45+00:00",
+      "title": "If I distill my colleagues into agentic skills, can I spend their wages on token…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7470592734270078976",
+      "file": "posts/post_7470592734270078976.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470592734270078976/",
+      "posted_at": "2026-06-10T21:48:24+00:00",
+      "title": "Learning new ways to improve your efficiency at work is NOT overhead. The fly wh…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7470272730781609984",
+      "file": "posts/post_7470272730781609984.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470272730781609984/",
+      "posted_at": "2026-06-10T00:36:50+00:00",
+      "title": "If Anthropic really worries about AI is getting out of control, here is a simple…",
+      "likes": 0,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7470232180795805696",
+      "file": "posts/post_7470232180795805696.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470232180795805696/",
+      "posted_at": "2026-06-09T21:55:42+00:00",
+      "title": "AI cannot build itself. AI can't design GPU on its own. period. https://lnkd.in/…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7470014697262452736",
+      "file": "posts/post_7470014697262452736.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470014697262452736/",
+      "posted_at": "2026-06-09T07:31:30+00:00",
+      "title": "When you write code with AI, you have to handle 3 different versions of reality…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7470013800939896832",
+      "file": "posts/post_7470013800939896832.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7470013800939896832/",
+      "posted_at": "2026-06-09T07:27:56+00:00",
+      "title": "Building an AI native workflow is like mathematical induction, you prove it one…",
+      "likes": 3,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7469908754629607425",
+      "file": "posts/post_7469908754629607425.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7469908754629607425/",
+      "posted_at": "2026-06-09T00:30:31+00:00",
+      "title": "Don't measure your team's productivity by who commit more code or who burn more…",
       "likes": 1,
       "comment_count": 0
     },
@@ -3411,12 +3645,48 @@
       "comment_count": 1
     },
     {
+      "activity_id": "7469086993432526848",
+      "file": "posts/post_7469086993432526848.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7469086993432526848/",
+      "posted_at": "2026-06-06T18:05:08+00:00",
+      "title": "What should you do it yourself, what should you give it to AI? 1. If it increase…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7469045500109869056",
+      "file": "posts/post_7469045500109869056.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7469045500109869056/",
+      "posted_at": "2026-06-06T15:20:15+00:00",
+      "title": "The real productivity gain at work arrives when you have two humans, controlling…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7469043845859627008",
+      "file": "posts/post_7469043845859627008.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7469043845859627008/",
+      "posted_at": "2026-06-06T15:13:41+00:00",
+      "title": "I instructed my AI agent on Microsoft Teams to reply to a Teams message from my…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7469230879073058817",
       "file": "posts/post_7469230879073058817.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7469230879073058817/",
       "posted_at": "2026-06-06T12:00:00+00:00",
       "title": "The design of Antigravity is stupid. I can't @ mention to add a markdown file to…",
       "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7468883340721545218",
+      "file": "posts/post_7468883340721545218.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7468883340721545218/",
+      "posted_at": "2026-06-06T04:35:53+00:00",
+      "title": "If your job is solving problems, you don't have to worry about AI replacing your…",
+      "likes": 1,
       "comment_count": 0
     },
     {

@@ -1,0 +1,22 @@
+{
+  "activity_id": "7469908754629607425",
+  "share_id": "7469908754629607425",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7469908754629607425/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-09T00:30:31+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Don't measure your team's productivity by who commit more code or who burn more tokens.   The commit and tokens consumption just reflect who happens to be babysitting the AI agent.   \n\nThe real work is in the human-to-human communication channel.   Different human engineers collaborating to babysitting multiple AI agents searching for the right answer in parallel.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:18:00Z"
+}

@@ -1,0 +1,99 @@
+{
+  "activity_id": "7471968409417789440",
+  "share_id": "7471968409417789440",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7471968409417789440/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-14T16:54:51+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "It takes longer for me to boot up my laptop, login the company VPN, than the actual work of nagging my AI agents to keep working harder. \n\nTeams won't work.  The Codex/Claude/Cursor/Copilot mobile app are in the wrong shape, not user friendly.\n\nSomeone should build a new hardware device that is tailor made for humans nagging their AI agents.  Something like the tablet in Star Trek.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 5,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Santosh Ahuja",
+        "profile_url": "https://www.linkedin.com/in/santoshnahuja/",
+        "headline": "Engineering Executive | AI Infrastructure · GPU/Accelerator Systems · Distributed Systems · Silicon & Hardware-to-Cloud"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-22T00:02:00+00:00",
+      "posted_at_hint": "(edited) 4mo",
+      "posted_at_approx": true,
+      "text": "Don't use a computer. Call and talk to your agents on phone - completely secure and ask them to sms back secure links of demo's of work done.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-06-22T00:02:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Santosh Ahuja This is genius.  Let me try to bolt a whisper to my Claude Code",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Santosh Ahuja",
+            "profile_url": "https://www.linkedin.com/in/santoshnahuja/",
+            "headline": "Engineering Executive | AI Infrastructure · GPU/Accelerator Systems · Distributed Systems · Silicon & Hardware-to-Cloud"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-06-22T00:02:00+00:00",
+          "posted_at_hint": "(edited) 4mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan You will need twilio. You can configure a number - call in -> twilio intercepts the call and then transcribes the message and invokes an API that sends the prompt to your agent. Agent exceute -> can also converse back through the same route OR sms the demo link - some plumbing but possible.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vansh lata",
+        "profile_url": "https://www.linkedin.com/in/vansh-lata-0909b853/",
+        "headline": "Member of Technical Staff at AMD, Ex Samsung"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-22T00:02:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "I had it make a script to read prompts from my email. once task is done, email is sent with response, (further prompts can be given to probe further, session id specific)",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Martin Winston",
+        "profile_url": "https://www.linkedin.com/in/m-winston/",
+        "headline": "Don’t just link in - Beam in."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-22T00:02:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "There's an easier solution. Get rid of the AI.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T00:02:00Z"
+}

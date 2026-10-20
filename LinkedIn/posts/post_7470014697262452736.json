@@ -1,0 +1,22 @@
+{
+  "activity_id": "7470014697262452736",
+  "share_id": "7470014697262452736",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7470014697262452736/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-09T07:31:30+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "When you write code with AI, you have to handle 3 different versions of reality \n\n1. The actual state of the code \n2. What you think the code should look like\n3. What your AI agent thinks the code looks like\n\nIf all three are not aligned, you just invented a bug.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:15:00Z"
+}

@@ -1,0 +1,22 @@
+{
+  "activity_id": "7471623687667101698",
+  "share_id": "7471623687667101698",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7471623687667101698/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-13T18:05:03+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Productivity gain of AI is real.  For some tasks, it is not 30%, not 3x, not even 10x, more like 100x\n\nI have a task that took the best senior engineer 3 months to finish merely 2 years ago.\n\nMy AI agent finished it in less than 24 hours, burnt only $650 tokens (public API rate)",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:05:00Z"
+}

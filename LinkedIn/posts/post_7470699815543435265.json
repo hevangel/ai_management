@@ -1,0 +1,22 @@
+{
+  "activity_id": "7470699815543435265",
+  "share_id": "7470699815543435265",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7470699815543435265/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-11T04:53:55+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Even if your engineers are truly AI-native and you have unlimited token budgets, don't expect to see significant productivity gain right away if you are working on an existing code base. \n\nYour engineers have to repay years of technical debt, catch up with all the documentation first, before you can see the insane speed up from an AI development dark factory",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:12:00Z"
+}

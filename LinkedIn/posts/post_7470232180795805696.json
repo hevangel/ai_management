@@ -1,0 +1,25 @@
+{
+  "activity_id": "7470232180795805696",
+  "share_id": "7470232180795805696",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7470232180795805696/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-09T21:55:42+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AI cannot build itself.  AI can't design GPU on its own.  period.\n\nhttps://lnkd.in/ghumDiX9",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "When AI builds itself",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement"
+  },
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:15:00Z"
+}

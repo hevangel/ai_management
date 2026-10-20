@@ -1,0 +1,54 @@
+{
+  "activity_id": "7470272730781609984",
+  "share_id": "7470272730781609984",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7470272730781609984/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-10T00:36:50+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "If Anthropic really worries about AI is getting out of control, here is a simple solution.  \n\nThey just need to open source their best frontier model, so no one else will have any financial incentive to build an even better model.  Everyone will focus on cost optimization of the best model instead.\n\nAnthropic can sacrifice itself to save the humanity if it really believes in its own words, not just trying to pump the IPO.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-22T00:15:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "How will they earn then?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-06-22T00:15:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Job K Joseph Have you seen the chosen one needs to earn any money in any world saving stories?",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T00:15:00Z"
+}

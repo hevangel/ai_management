@@ -1,0 +1,22 @@
+{
+  "activity_id": "7471961047550308352",
+  "share_id": "7471961047550308352",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7471961047550308352/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-14T16:25:36+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "How to build an AI engineer? \n\n1. Start with Claude Code or Codex with lots of tokens\n2. Literally ask it to do everything for you, in the beginning it can't get much done \n3. When it figures out something that works, turn it into a skill\n4. As time progresses, you need to babysit your AI engineer less and less\n5. After a few months, it can handle 80% of your day to day work\n\nMost people didn't get pass step #2.  They think it is too hard and too slow, which is true.  You need to spend 3x of effort in the beginning using AI compared to do it mostly by hand semi-automatocally.\n",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 9,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:03:00Z"
+}

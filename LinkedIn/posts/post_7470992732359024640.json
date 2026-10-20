@@ -1,0 +1,145 @@
+{
+  "activity_id": "7470992732359024640",
+  "share_id": "7470992732359024640",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7470992732359024640/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-12T00:17:51+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I find it very hard to work with engineers who don't use AI.\n\nWhen I ask my AI writes a detail bug report and send it to another AI-native engineer, he will simply tell his AI to look at my bug report, test it and get new info back to my AI.  Then we align the findings on human channel, loop until the two AI eventually fixed the bug or concluded that it is indeed a feature.\n\nWhen my AI sends the bug report to a non-AI engineer, he says the report is too long, he asks me to explain to him in human language where exactly the bug is and wants me to convince him that it is indeed a bug as a human.\n\nI will just bypass that guy and fix the bug myself together with my AI.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 27,
+  "reposts": 0,
+  "comment_count": 8,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Avidan Efody",
+        "profile_url": "https://www.linkedin.com/in/avidan-efody/",
+        "headline": "HW/SW Verification Expert"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-22T00:11:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "\"give me the answer in 5 sentences max\" is a phrase i use a lot these days. Saves some tokens too.",
+      "likes": 10,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Ronen Karasik",
+            "profile_url": "https://www.linkedin.com/in/ronenkarasik/",
+            "headline": "Senior Staff DV Engineer at Qualcomm. Modem sub-system, Qlink-RF, Connectivity (PCIe, UFS, USB), Formal verification, Agentic AI for DV."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-06-22T00:11:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Avidan Efody you know /caveman? i think matt pocock also has the “sacrifice grammer, be concise” along the same line - getting bottom line up front speak from your agents",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Avidan Efody",
+            "profile_url": "https://www.linkedin.com/in/avidan-efody/",
+            "headline": "HW/SW Verification Expert"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-06-22T00:11:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Ronen Karasikthat good ;-)",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Milos Mirosavljevic",
+            "profile_url": "https://www.linkedin.com/in/milos-mirosavljevic/",
+            "headline": "Principal Engineer at Infineon Technologies | Functional Verification | MBA"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-06-22T00:11:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "\"Spare me your thought process\" I sometimes throw in.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-06-22T00:11:00+00:00",
+          "posted_at_hint": "(edited) 4mo",
+          "posted_at_approx": true,
+          "text": "Avidan Efody that's what the other engineer should ask his AI, not asking me.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Chen Ben - Haroosh",
+        "profile_url": "https://www.linkedin.com/in/chenbenharoosh/",
+        "headline": "Verification Engineer | Yet another AI Enthusiast | Python Automation Specialist | 8 Years Multi-Disciplinary Experience"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-22T00:11:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "Yup, Avidan Efody is on point. But then...\n\nWhen a non-AI engineer reads the report/mail/Teams/Slack message he will 100% of times ask for a call. then I will have to guide him and show him what I've found out, where is the bug/spec-problem/JIRA ticket. So I feel you Horace.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-06-22T00:11:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Chen Ben - Haroosh we need real time AI avatar to talk to that dumb engineer",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jeannie Lau",
+        "profile_url": "https://www.linkedin.com/in/jeannie-lau-073a3862/",
+        "headline": "Principal Engineer at Logikhaus"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-22T00:11:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "It's giving rage-baiting",
+      "likes": 2,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T00:11:00Z"
+}

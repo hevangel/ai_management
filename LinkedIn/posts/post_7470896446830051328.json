@@ -1,0 +1,41 @@
+{
+  "activity_id": "7470896446830051328",
+  "share_id": "7470896446830051328",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7470896446830051328/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-11T17:55:15+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Are you a builder, seller or measurer?\n\n https://lnkd.in/gzCkDimN",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Cloudflare layoffs: After firing 20% staff, CEO Matthew Prince explains in op-ed on how to decide which employees AI should replace",
+    "url": "https://www.msn.com/en-in/money/news/cloudflare-layoffs-after-firing-20-staff-ceo-matthew-prince-explains-in-op-ed-on-how-to-decide-which-employees-ai-should-replace/ar-AA249vSa"
+  },
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ajay Andrews Cherayath",
+        "profile_url": "https://www.linkedin.com/in/ajaycherayath/",
+        "headline": "Ops Transformation | Data, Analytics & AI Leader | Startup Mentor | I simplify decision-making for CXOs & teach clarity to next‑gen talent."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-22T00:11:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "AI isn’t deciding who stays — value is. The companies that thrive will be the ones honest enough to measure it, and human enough to manage it.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T00:11:00Z"
+}

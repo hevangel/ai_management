@@ -1,0 +1,22 @@
+{
+  "activity_id": "7469045500109869056",
+  "share_id": "7469045500109869056",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7469045500109869056/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-06T15:20:15+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "The real productivity gain at work arrives when you have two humans, controlling their own AI agents to debug the same problem.  \n\nWe have two Teams channels, one is human only, the other is AI only. \n\nMe and my coworker are chatting to discuss the big picture on how to solve the problem in the human only channel\n\nThe two AI agents are communicating the details with each other on the AI only side channel.  Testing the hypothesis the humans come up with and report the results back to the human master",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:19:00Z"
+}
