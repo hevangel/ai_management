@@ -3,11 +3,74 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-20T07:50:20.249256+00:00",
-  "total_posts": 767,
-  "total_comments": 407,
-  "total_replies": 345,
+  "generated_at": "2026-10-20T15:38:49.308496+00:00",
+  "total_posts": 774,
+  "total_comments": 411,
+  "total_replies": 350,
   "posts": [
+    {
+      "activity_id": "7518209377808330752",
+      "file": "posts/post_7518209377808330752.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7518209377808330752/",
+      "posted_at": "2026-10-20T08:34:50+00:00",
+      "title": "Writing firmware is a lot harder than writing the chip. I vibe coded Intel 4004…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7518084153268068353",
+      "file": "posts/post_7518084153268068353.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7518084153268068353/",
+      "posted_at": "2026-10-19T23:34:50+00:00",
+      "title": "I notice many repos with the postfix -engineer shows up in the internal github.…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7518003510257500160",
+      "file": "posts/post_7518003510257500160.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7518003510257500160/",
+      "posted_at": "2026-10-19T18:34:50+00:00",
+      "title": "Nowadays, when we deliver software/code, as long as the user can recover any err…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7518004832293515266",
+      "file": "posts/post_7518004832293515266.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7518004832293515266/",
+      "posted_at": "2026-10-19T18:34:50+00:00",
+      "title": "Asking AI to review won't work. You have to reframe the whole problem into a det…",
+      "likes": 3,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7517615641298845696",
+      "file": "posts/post_7517615641298845696.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7517615641298845696/",
+      "posted_at": "2026-10-19T15:34:50+00:00",
+      "title": "HoHoHo - Holy House of Horace Why stop at vibe coding when you can vibe your own…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7517704299557097473",
+      "file": "posts/post_7517704299557097473.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7517704299557097473/",
+      "posted_at": "2026-10-19T15:34:50+00:00",
+      "title": "I built my own 8086 in SystemVerilog from scratch DOS boots up fine, some old ga…",
+      "likes": 13,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7517805463774871552",
+      "file": "posts/post_7517805463774871552.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7517805463774871552/",
+      "posted_at": "2026-10-19T15:34:50+00:00",
+      "title": "Amazon Kiro tries to force AI to work like human, it ends up very tokens ineffic…",
+      "likes": 3,
+      "comment_count": 1
+    },
     {
       "activity_id": "7517487951144996864",
       "file": "posts/post_7517487951144996864.json",

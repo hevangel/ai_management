@@ -1,0 +1,21 @@
+{
+  "activity_id": "7518084153268068353",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7518084153268068353/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-19T23:34:50+00:00",
+  "posted_at_hint": "16h • Edited",
+  "posted_at_approx": true,
+  "text": "I notice many repos with the postfix -engineer shows up in the internal github.\n\nEveryone is building AI agents these days, and everyone is calling their agent XYZ-engineer.\n\nI am going to create an ai-engineer-engineer repo, this repo is the factory of ai-engineer.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T15:34:50Z"
+}

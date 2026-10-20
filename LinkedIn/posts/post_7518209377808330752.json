@@ -1,0 +1,21 @@
+{
+  "activity_id": "7518209377808330752",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7518209377808330752/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-20T08:34:50+00:00",
+  "posted_at_hint": "7h",
+  "posted_at_approx": true,
+  "text": "Writing firmware is a lot harder than writing the chip.\n\nI vibe coded Intel 4004 and the busicom calculator, I think I only burnt 2-3x of my 5 hr tokens limits. It works like a charm.\n\nI tried to vibe code the busicom firmware in Rust, I burnt thru my monthly tokens limits and it is still not done.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T15:34:50Z"
+}

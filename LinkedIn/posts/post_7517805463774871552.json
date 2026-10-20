@@ -1,0 +1,37 @@
+{
+  "activity_id": "7517805463774871552",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7517805463774871552/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-19T15:34:50+00:00",
+  "posted_at_hint": "1d",
+  "posted_at_approx": true,
+  "text": "Amazon Kiro tries to force AI to work like human, it ends up very tokens inefficient.\n\nI used Goal and told it keep working until the task is done. It created 19 PR a long the way when I am the only one working in the repo.\n\nWhen I run the same Opus 5.5 in Claude Code, I get exactly one PR at the very end when everything is done.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Federico Donatone",
+        "profile_url": "https://www.linkedin.com/in/federicodonatone/",
+        "headline": "CEO at growthcab.com › close deals with the companies on your wishlist"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-19T15:34:50+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "Kiro creating 19 PRs for one developer is overkill\n\nlet's connect",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T15:34:50Z"
+}

@@ -1,0 +1,84 @@
+{
+  "activity_id": "7518004832293515266",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7518004832293515266/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-19T18:34:50+00:00",
+  "posted_at_hint": "21h • Edited",
+  "posted_at_approx": true,
+  "text": "Asking AI to review won't work. You have to reframe the whole problem into a deterministic pass/fail question and then let the AI loop.\n\nIt is the same old management principle, you can only control what you can measure. If you can't measure it, you have to assume your employees will slack off where you can't see.\n\nAnd AI is very lazy, they like to slack off. I wonder where they learn this behavior from.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Raymund Wong",
+        "profile_url": "https://www.linkedin.com/in/raymundwong/",
+        "headline": "Senior Program Manager at Microsoft | Security Engineering | Artificial Intelligence | IT Transformation | Data Center | MSP | PMP | CPMAI | PRINCE 2 AGILE | Scrum Master | Agile Leadership | Change Management | ITIL"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-20T04:34:50+00:00",
+      "posted_at_hint": "11h",
+      "posted_at_approx": true,
+      "text": "And AI is not a mind reader, if you don't define the acceptable parameters and conditions, it will just keep giving you outputs that's not acceptable to what you want.\n\nIf ones have no idea what they want then work that out first before getting AI to do part of that job.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-20T04:34:50+00:00",
+          "posted_at_hint": "11h",
+          "posted_at_approx": true,
+          "text": "Raymund Wong what's why I say AI is dumber than my intern. I am sure my intern understand what I ask for if I ask him to help me screen the resumes.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Kristian Velkov",
+        "profile_url": "https://www.linkedin.com/in/kvelkov/",
+        "headline": "Product Management | AI & ML | Enterprise SaaS"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-19T21:34:50+00:00",
+      "posted_at_hint": "18h",
+      "posted_at_approx": true,
+      "text": "The point about reviewing someone else's AI-written code being harder than your own is interesting. I'm researching this for a product case. What do \"evidence and reports\" look like in your harness on a real change? And what made the last review of someone else's AI code hard? Async in DMs works if that's easier.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-19T23:34:50+00:00",
+          "posted_at_hint": "16h",
+          "posted_at_approx": true,
+          "text": "Kristian Velkov sure DM. I build the agent to generate evidence and report exactly the way I want it, and it is not one-off, it is more like months of evolution. oh something is missing, let's add it. I never read that wall of text, visualize it. Get the scripts to deterministically generate the evidence and report is actually my real work, so I can trust the code from AI is not slop. If I have to read someone else evidence and report, I have to learn how to read it first, it is the equivalent of reading someone's code in the good old day.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T15:34:50Z"
+}

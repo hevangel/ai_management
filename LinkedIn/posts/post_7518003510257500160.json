@@ -1,0 +1,21 @@
+{
+  "activity_id": "7518003510257500160",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7518003510257500160/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-19T18:34:50+00:00",
+  "posted_at_hint": "21h",
+  "posted_at_approx": true,
+  "text": "Nowadays, when we deliver software/code, as long as the user can recover any error on the fly with the help of AI just-in-time debug, it is NOT a bug, it is a FEATURE.\n\nI called it LLM assist exception handling, the next evolution of the good old try-catch.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T15:34:50Z"
+}
