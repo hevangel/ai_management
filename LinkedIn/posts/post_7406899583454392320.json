@@ -1,0 +1,53 @@
+{
+  "activity_id": "7406899583454392320",
+  "share_id": "7406899583454392320",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7406899583454392320/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-17T03:34:34+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Finally, I got my AMD brand ambassador T-shirt\n\n#amdbrandambassador",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 34,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Laura Ward",
+        "profile_url": "https://www.linkedin.com/in/laura-ward-a730b1102/",
+        "headline": "Global Brand Marketing | AI/HPC Storytelling | B2B & B2C | AMD Brand Ambassador"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-24T05:15:00+00:00",
+      "posted_at_hint": "10mo",
+      "posted_at_approx": true,
+      "text": "Officially Official!!!!! :) Keep up the great work.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Azat Islambekov",
+        "profile_url": "https://www.linkedin.com/in/azat-islambekov-61b30a263/",
+        "headline": "Test Technician 2 GLOBAL CLUSTER ENGINEERING"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-24T05:15:00+00:00",
+      "posted_at_hint": "10mo",
+      "posted_at_approx": true,
+      "text": "Congratulations",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T05:15:00Z"
+}

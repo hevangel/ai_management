@@ -1,0 +1,22 @@
+{
+  "activity_id": "7403498011139620864",
+  "share_id": "7403498011139620864",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7403498011139620864/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-07T18:17:56+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Context Engineering \n\nLevel 0 : make sure the context is there\nLevel 1 : make sure the LLM knows how to use the context correctly\nLevel 2 : figure out how to search the relevant context and show it to the LLM fast\nLevel 3: optimize the cost of the context search\n\nFor some reason, most people are focusing on level 2 and 3, not many people pay attention to level 0 and 1.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T05:41:00Z"
+}

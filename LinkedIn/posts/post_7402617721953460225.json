@@ -1,0 +1,145 @@
+{
+  "activity_id": "7402617721953460225",
+  "share_id": "7402617721953460225",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7402617721953460225/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-05T07:59:58+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Personal record, controlling 4 instances of AI coding agents simultaneously\n\n2x Claude Code - roll the dice vibe bug fixing\n\n1x GitHub Copilot - inspect the bug fix from Claude, manual touch up, use AI to update Jira and commit the fixes.\n\n1x Cursor - porting some other old code to new stack",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 11,
+  "reposts": 0,
+  "comment_count": 8,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "JJ Marr",
+        "profile_url": "https://www.linkedin.com/in/jjmarr/",
+        "headline": "Scaling Production LLM Orchestration | SDE 2 @ AMD, B. Eng"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T05:46:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "I did this a few months ago and crashed our shared build server. YMMV.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-11-24T05:46:00+00:00",
+          "posted_at_hint": "11mo",
+          "posted_at_approx": true,
+          "text": "JJ Marr that's why you need a server farm.  I happen to work at a place with virtually unlimited CPU.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "JJ Marr",
+            "profile_url": "https://www.linkedin.com/in/jjmarr/",
+            "headline": "Scaling Production LLM Orchestration | SDE 2 @ AMD, B. Eng"
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-11-24T05:46:00+00:00",
+          "posted_at_hint": "(edited) 11mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan Easier said than done when my AIs can spawn thousands of gcc processes each to debug a template issue. Gimme access and I'll DDoS you in a week.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-11-24T05:46:00+00:00",
+          "posted_at_hint": "(edited) 11mo",
+          "posted_at_approx": true,
+          "text": "JJ Marr there is why you need your personal MI300 server.   192 cores. 8 GPU, 1TB of RAM all to yourself.  It will take lots of processes to crash it.   \n\nAnd I wrap the sub agent run with slurm, which is a job dispatcher for HPC, probably way over engineered for what I do.  But since the infrastructure is there, might as well use it.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "JJ Marr",
+            "profile_url": "https://www.linkedin.com/in/jjmarr/",
+            "headline": "Scaling Production LLM Orchestration | SDE 2 @ AMD, B. Eng"
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-11-24T05:46:00+00:00",
+          "posted_at_hint": "11mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan if only I could afford that! But I don't want to spend my own money on build systems even though for C++, I can get parallelism in the thousands of jobs for a suitably sized codebase.\n\nI wouldn't call slurm overengineered. It's underengineered compared to other options for distributed builds. \n\nWe could adopt something like Bazel or Buck2 & provide a company wide Remote Build Execution service. A distributed hermetic build system with caching of artifacts would save me hours every week.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-11-24T05:46:00+00:00",
+          "posted_at_hint": "11mo",
+          "posted_at_approx": true,
+          "text": "JJ Marr there is a few perks of being a PMTS.  I can get access to those servers even though it is kind of a waste of resources to use it on my tasks straightly speaking.  But it is cool to push the limit without worrying, so why not.  I am so spoiled that I get the habit of using RAM disk for most of my work.  If you want speed, nothing beats RAM disk.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Michael Chan",
+        "profile_url": "https://www.linkedin.com/in/michael-kh-chan/",
+        "headline": "Security Engineer @ Clarity | Cybersecurity, AI Security & AppSec | OSWE, OSEP, OSCP"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T05:46:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "天龍八部 soon!",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-11-24T05:46:00+00:00",
+          "posted_at_hint": "11mo",
+          "posted_at_approx": true,
+          "text": "Michael Chan I have 4 monitors, stream deck and phone.  Total 6 screens",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T05:46:00Z"
+}

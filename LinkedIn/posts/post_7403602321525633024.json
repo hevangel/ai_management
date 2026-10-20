@@ -1,0 +1,44 @@
+{
+  "activity_id": "7403602321525633024",
+  "share_id": "7403602321525633024",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7403602321525633024/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-08T01:12:25+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "If you want AI adoption in your company, let your employees have access to unlimited tokens of any LLM, give them 1 day a week to goof around with AI, the engineer spirit will take care of the adoption all by itself.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Technology Executive/CTO",
+    "author_name": "Donald Newell",
+    "author_profile_url": "https://www.linkedin.com/in/donnewell/",
+    "posted_at_hint": "Dec 7, 2025",
+    "reshared_text": "In a clear sign that the leaders of the GenAI revolution are lost, we get this from Microsoft. Julia Liuson, President of the Developer Division, wrote:\n“AI is now a fundamental part of how we work. Just like collaboration, data-driven thinking, and effective communication, using AI is no longer optional.”\n\nCalling out the use of specific productivity tools as part of evaluating/reviewing an employee’s performance rarely makes sense. If the various copilots and surrounding tools aren’t naturally attracting engineers, and if employees who use them aren’t demonstrably more productive than those who don’t, then maybe it’s the tools that need to be reevaluated.\n\nIf I worked in Julia’s organization, I’d want to see a serious discussion of how she personally uses GenAI in her own job, and how much measurable productivity it has actually added.\n\nhttps://lnkd.in/gzbv4txP\nDon N."
+  },
+  "likes": 11,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jeremy Ralph",
+        "profile_url": "https://www.linkedin.com/in/jeremyralph/",
+        "headline": "Principal Verification Engineer at Microsoft"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T05:39:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "What you recommend is my current experience at MSFT.  Obviously the LLM used needs to be approved to use with IP, but all the big names are there",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T05:39:00Z"
+}

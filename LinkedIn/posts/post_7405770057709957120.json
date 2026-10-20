@@ -1,0 +1,44 @@
+{
+  "activity_id": "7405770057709957120",
+  "share_id": "7405770057709957120",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7405770057709957120/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-14T00:46:14+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I feel like I am expert astrologer, numerologist, tarot reader, feng shi master and philosopher.\n\nGenerative AI is the ultimate BS machine, if there is no way to judge the correctness of an answer, GenAI can hallucinate way better than human.\n\nDon't use AI to replace experts, use AI to replace BS-ers",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "AI advisor to founders and executives · OpenAI private beta tester (2021) · Lisbon & SF",
+    "author_name": "Sebastian Rinnebach",
+    "author_profile_url": "https://www.linkedin.com/in/sebastian-rinnebach/",
+    "posted_at_hint": "Dec 12, 2025",
+    "reshared_text": "The most dangerous sentence in tech right now?\n\n“Generative AI is amazing at tasks where I’m not qualified to judge the output.”\n\nIf I ask ChatGPT to write Python code, and I don't know Python, I’m impressed because it looks like code. It runs (mostly). It solves the immediate problem.\n\nBut I have no idea if it’s secure, scalable, or hallucinated garbage.\n\nWe are currently seeing a massive surge in the \"Illusion of Competence.\"\n\nWe feel like designers.\nWe feel like lawyers.\nWe feel like developers.\n\nBut without the domain expertise to critique the output, we aren't creators - we are just gambling that the machine is right.\n\nDon't use AI to replace the expert. Use AI to accelerate the expert."
+  },
+  "likes": 9,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T05:29:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "What about the efficiency of code output.. nobody seems to be talking about that.. for example human written RTL code through specific design methods can reduce gate count by at least 10 to 15% . Same goes with software... time to do some performance benchmarking to debunk the blind hysteria.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T05:29:00Z"
+}

@@ -1,0 +1,28 @@
+{
+  "activity_id": "7404913954080141314",
+  "share_id": "7404913954080141314",
+  "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7404913954080141314/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-11T16:04:23+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "FSR is getting really good.  It is so good that if you don't pay close attention to it, you can't really tell the difference between a native frame and a FSR frame.  AMD finally caught up in the game of fake frames.\n\n#amdbrandambassador",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Senior Vice President & General Manager, Computing and Graphics Group at AMD",
+    "author_name": "Jack Huynh",
+    "author_profile_url": "https://www.linkedin.com/in/jackhuynh/",
+    "posted_at_hint": "Dec 10, 2025",
+    "reshared_text": "🚀 Today we launch the driver that activates AMD FSR Redstone… pushing the boundaries of what’s possible in real-time graphics and a critical step in our strategy to redefine the future of gaming.\n\nFSR Redstone delivers three breakthrough machine learning-powered, real-time features that elevate both visuals and gameplay:\n\n💡 Radiance Caching – predicts indirect lighting to reduce ray tracing computation, enabling richer, more cinematic visuals without sacrificing performance\n\n✨ Ray Regeneration – refinement of ray-traced details, making reflections, shadows, and surfaces sharper and more realistic\n\n🎮 ML Frame Generation – delivers smoother, more immersive action for fast-paced gameplay, trained on gaming’s most demanding scenarios\n\nThis launch is the result of incredible co-engineering across the industry.  To our developers, partners, and the gaming community: thank you.  The next chapter starts now."
+  },
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T05:35:00Z"
+}

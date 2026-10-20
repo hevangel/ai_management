@@ -1,0 +1,69 @@
+{
+  "activity_id": "7406926734614302720",
+  "share_id": "7406926734614302720",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7406926734614302720/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-17T05:22:27+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I don't believe in AGI.  Humans have souls and consciousness.  AI is just GPUs with lots of RAM.\n\nI see the source code of the GPU, I can run simulation and emulation of it.  I can attest there is absolutely no souls and consciousness in GPUs, it is just waveforms in there.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mick Hua",
+        "profile_url": "https://www.linkedin.com/in/mick-hua-353353a/",
+        "headline": "GCP Data Engineer | AI Enthusiast, Agentic Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-24T05:15:00+00:00",
+      "posted_at_hint": "10mo",
+      "posted_at_approx": true,
+      "text": "The same can be argued of brains, just a soup of chemicals. But who knows, a question to be answered in the far future.\n\nMaybe there's a little orange person that sits in the meta layer of reality that decides if something gets a soul or not.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-12-24T05:15:00+00:00",
+          "posted_at_hint": "10mo",
+          "posted_at_approx": true,
+          "text": "Mick Hua ha ha... someone took my bait.   I know I have a soul and consciousness, if you would like to argue you don't have one, hello NPC.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Mick Hua",
+            "profile_url": "https://www.linkedin.com/in/mick-hua-353353a/",
+            "headline": "GCP Data Engineer | AI Enthusiast, Agentic Engineer"
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-12-24T05:15:00+00:00",
+          "posted_at_hint": "10mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan nah, don't have the time for that sort of discussion. If you think your beliefs are fact, good for you, respect for your conviction.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T05:15:00Z"
+}

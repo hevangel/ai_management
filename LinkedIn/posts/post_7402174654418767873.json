@@ -1,0 +1,22 @@
+{
+  "activity_id": "7402174654418767873",
+  "share_id": "7402174654418767873",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7402174654418767873/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-04T02:39:23+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Google really has the tendency to shoot itself on the foot. \n\nBoth Gemini CLI and Antigravity do not support BYOT (bring your own tokens).   I can't connect it to the Gemini end point proxy inside our firewall. \n\nDoes Google really want to compete with Anthropic or OpenAI in the enterprise market or they only want the hobbyists?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T05:46:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "activity_id": "7404246401200738304",
+  "share_id": "7404246401200738304",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7404246401200738304/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-09T19:51:46+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "The world's first exascale computer, M ➡️B ➡️ T ➡️E, that is a billion of billions.   An average AI PC is 40 FLOPS.   This supercomputer is 1.8 EFLOPS.  The question is, can I play Doom on it? #AMDBrandAmbassador",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "AMD Instinct MI430X Powers the Next Wave of AI and Science",
+    "url": "https://bit.ly/44SygVh"
+  },
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T05:35:00Z"
+}

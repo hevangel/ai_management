@@ -1,0 +1,22 @@
+{
+  "activity_id": "7402732034571341824",
+  "share_id": "7402732034571341824",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7402732034571341824/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-05T15:34:13+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Opus 4.5 is actually cheaper than Sonnet 4.5\n\nI have a very complex task, Opus finished it with 20M tokens, but Sonnet needs 44M tokens. \n\nOpus is $5/M, Sonnet is $3/M.   Opus is cheaper.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T05:43:00Z"
+}

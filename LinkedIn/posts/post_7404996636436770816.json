@@ -1,0 +1,44 @@
+{
+  "activity_id": "7404996636436770816",
+  "share_id": "7404996636436770816",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7404996636436770816/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-11T21:32:56+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Companies should stop dictating which AI tools the engineers should use.  Just buy everything and let the engineers choose what they like.  We are in such an early phase in AI adoption that premature cost optimization is receipt for failure.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Vice President, Head of AI Lab, Centre of Excellence Cyber | MBA Candidate, Imperial College",
+    "author_name": "Ivan J.",
+    "author_profile_url": "https://www.linkedin.com/in/ivanjacobs/",
+    "posted_at_hint": "Dec 9, 2025",
+    "reshared_text": "A software engineer at Apple recently wrote: “I've never been so stressed, so unfulfilled, and so bored at the same time.”\n\nNot because their workload exploded, but because AI tools were pushed so aggressively into their day-to-day that prompting became the job, tracked and measured for performance.\n\nIf more companies start doing the same, what happens to the skills people were originally hired for? What does it mean for motivation when the craft gets replaced by a set of instructions typed into a box?\n\nLeaders keep saying #AI will “free people up to do more important things.” But what are those “more important things” in practice?\n\nAre organisations actually creating them, or repeating lines they heard elsewhere? And if there’s no new path, no new responsibilities, no investment in capability building, what exactly are employees being freed into?\n\nWhen workers spend their days supervising outputs from a system they didn’t build, without training in quality assurance or decision-making under uncertainty, what does that do to engagement? To career progression? To compensation over time?\n\nIf teams start feeling like human middleware between the company and its AI stack, is that really augmentation? And if this is the direction we’re heading, what kind of workplace culture will it create?\n\nWe keep calling this the fourth industrial revolution. The question is: does it actually feel like one?"
+  },
+  "likes": 13,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Udaya Kumar Napa",
+        "profile_url": "https://www.linkedin.com/in/udaya-kumar-napa-2b96022/",
+        "headline": "Design Verification at Calligo Technologies"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T05:35:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "Very much agree! The initial throttling of AI tools has set the industry back by atleast a year.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T05:35:00Z"
+}

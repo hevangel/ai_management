@@ -1,0 +1,22 @@
+{
+  "activity_id": "7405001729664024577",
+  "share_id": "7405001729664024577",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7405001729664024577/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-11T21:53:10+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "ChatGPT is hallucinating when I ask it to double check the price of a flight ticket quote that I got from the travel agent is really the cheapest. \n\nThe quote is $900 and ChatGPT claims the cheapest is $200.  When I ask him to show me the proof, it apologizes that he just made up the price.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 18,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T05:32:00Z"
+}

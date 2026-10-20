@@ -1,0 +1,99 @@
+{
+  "activity_id": "7403601126866137088",
+  "share_id": "7403601126866137088",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7403601126866137088/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-08T01:07:41+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Vim luddites (n.) - modern day luddites insist on writing code by hand on vim, refuse to use modern day IDE like VScode or AI coding agents like Claude Code.\n\none interesting observation, I don't see any emacs luddites.  maybe the LISP root to emacs makes the emacs user more open to AI.  LISP was OG AI after all.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 1,
+  "comment_count": 5,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Matthew Ballance",
+        "profile_url": "https://www.linkedin.com/in/matthew-ballance/",
+        "headline": "Design Verification Methodology & Open-Source EDA | Applying AI to silicon design and verification"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T05:39:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "Hmm... Wonder what that makes me, as an avid VSCode and Copilot user who still stubbornly clings to Vim keybindings",
+      "likes": 8,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-11-24T05:39:00+00:00",
+          "posted_at_hint": "11mo",
+          "posted_at_approx": true,
+          "text": "Matthew Ballance me too",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Dan B.",
+            "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+            "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-11-24T05:39:00+00:00",
+          "posted_at_hint": "11mo",
+          "posted_at_approx": true,
+          "text": "Matthew Ballance I'll chime in here and say, that makes you...smart! 😊😂😉",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Devinder Gill",
+        "profile_url": "https://www.linkedin.com/in/devindergill/",
+        "headline": "Sr Architect at Synopsys Inc"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T05:39:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "I treat Claude/AI like a new generation compiler which provides you much higher level abstraction and frees you from writing a syntactically correct code to atleast well defined small blocks.\nI think the SW world already have frameworks for boilerplate creation.\n\nDV Engineers have no choice but to adopt new paradigm otherwise risk losing on productivity.It can also help with portable stimulus code optimized for many disparate platforms including HW assisted verification.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Dan B.",
+        "profile_url": "https://www.linkedin.com/in/danbarrowman/",
+        "headline": "Seasoned Electrical/FPGA/ASIC/RTL Engineer with individual & managerial experience"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T05:39:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "Plenty of eMacs users in hardware/rtl/Verilog because there are some good tools support for our stuff. I've used eMacs in the past but I'm more of a vim user now. Let's see, maybe I'll decide to get back into eMacs again?",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T05:39:00Z"
+}
