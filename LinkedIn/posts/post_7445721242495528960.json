@@ -1,0 +1,53 @@
+{
+  "activity_id": "7445721242495528960",
+  "share_id": "7445721242495528960",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7445721242495528960/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-03T06:37:59+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AI allows just in time learning.\n\nWhen Claude is slowly chunking out tokens to vibe code your app, you quickly ask ChatGPT explain to you whatever Claude had just proposed, since you absolutely have no idea what it is.\n\nDon't ask Claude to teach you in the same Claude Code session, you will pollute the context window.   Use ChatGPT on the side is better.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 10,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-24T01:33:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "Nice. Human staying in the loop. Same tool, two concurrent applications.\n\nNice.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Alan Sing Teik",
+        "profile_url": "https://www.linkedin.com/in/alan-sing-teik-440bb8a2/",
+        "headline": "RTL design | verilog | JasperGold"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T01:33:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "Agree, always get a second opinion",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T01:33:00Z"
+}

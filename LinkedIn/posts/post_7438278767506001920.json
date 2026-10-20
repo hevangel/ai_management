@@ -1,0 +1,22 @@
+{
+  "activity_id": "7438278767506001920",
+  "share_id": "7438278767506001920",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7438278767506001920/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-03-13T17:44:14+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "When you build software, you have to assume the users are idiots, so they can't break your software by doing something stupid.\n\nWhen you build AI workflow, you also have to assume the users are idiots.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:50:00Z"
+}

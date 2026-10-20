@@ -1,0 +1,25 @@
+{
+  "activity_id": "7444582665355354112",
+  "share_id": "7444582665355354112",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7444582665355354112/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-03-31T03:13:41+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AMD is an AI-first company.  Not only we build the chips that power AI, but our engineers also use AI to build the AI chips.  It doesn't mean generating more AI slop, it about applying good old boring engineering disciplines with LLM in the loop. #AMDBrandAmbassador",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "AI in Chip Design: S3E1",
+    "url": "https://bit.ly/4152eDe"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:41:00Z"
+}

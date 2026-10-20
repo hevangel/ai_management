@@ -1,0 +1,22 @@
+{
+  "activity_id": "7445313572768817152",
+  "share_id": "7445313572768817152",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7445313572768817152/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-02T03:38:03+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "In computation theory, for a given program you can trade time for space, vice versa.  (e.g. pre-compute a look up table, instead of spending the CPU cycles to calculate the value every time)\n \nThe same idea can apply to tokens too. You can spend the tokens up front to \"harden\" the long decisions tree into code, instead of running it agenticly.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:35:00Z"
+}

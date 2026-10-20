@@ -1,0 +1,38 @@
+{
+  "activity_id": "7442583223043461121",
+  "share_id": "7442583223043461121",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7442583223043461121/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-03-25T14:48:36+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Shutting down Sora is a good thing.  AI video slop generation is just a waste of GPU allocation and energy.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-24T01:50:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "I think even overcasual use of any AI tool is an environmental sin. I would love if all AI tools would : (1) show an estimate of tokens and/or energy required to fulfil the task, before we click send (2) generate a daily or weekly usage report for each user/license",
+      "likes": 2,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T01:50:00Z"
+}

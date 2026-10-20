@@ -1,0 +1,69 @@
+{
+  "activity_id": "7444756770759290880",
+  "share_id": "7444756770759290880",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7444756770759290880/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-03-31T14:45:31+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Going back to work after 2 weeks of vacation, my inbox has hundreds of unreal emails.  I tried to ask the AI to help me deal with the pile.  \n\nLong story short, at the end I still have to deal with the emails the old fashion way. AI can help me filter out unless emails, but it can't tell what is truly important that I absolutely have to reply on the first day.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 1,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Lingkai Shi",
+        "profile_url": "https://www.linkedin.com/in/lingkai-shi-2bb01720/",
+        "headline": "Hardware IP Development Leader at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-24T01:41:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "How do you access the email? Copilot?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-03-24T01:41:00+00:00",
+          "posted_at_hint": "7mo",
+          "posted_at_approx": true,
+          "text": "Lingkai Shi PM you on Teams",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-24T01:41:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "Yes. AI can file into groups according to conditional instructions, but decisions can only come from humans.\n\nhttps://www.linkedin.com/posts/jarmo-venalainen-abb61810_agents-eating-fast-food-while-we-watch-kpis-activity-7444285769021624321-OfI8?utm_source=share&utm_medium=member_ios&rcm=ACoAAAI6FS8B2DkdOJhcLufZjc3FZM-WfUEVOfY",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T01:41:00Z"
+}

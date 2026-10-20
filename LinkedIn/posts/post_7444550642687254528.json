@@ -1,0 +1,41 @@
+{
+  "activity_id": "7444550642687254528",
+  "share_id": "7444550642687254528",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7444550642687254528/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-03-31T01:06:26+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Transformer is Turing complete and someone trained a tiny working computer on a Transformer using Claude Code.   Is the Skynet moment?\n\nhttps://lnkd.in/gV8y4riR",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Can You Train a Computer?",
+    "url": "https://dimitrisp.substack.com/p/can-you-train-a-computer"
+  },
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan/",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-24T01:44:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "Calvin Hass remembered many years, we joked that we should train a neural network (it was not yet a transformer back then) as a computer, finally someone did it",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T01:44:00Z"
+}

@@ -1,0 +1,38 @@
+{
+  "activity_id": "7445138403286761473",
+  "share_id": "7445138403286761473",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7445138403286761473/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-01T16:01:59+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "In the past, when two teams coded a similar tool, it guaranteed a turf war of survival.  No one is willing to give up the code created by their hard work.    \n\nIn the AI era, everyone vibe code, we don't have any attachment to the code anymore.  If two teams coded a similar idea, it is easy to refactor the two code bases into one, keeping the best from both.\n\nWe can focus on the requirements and technical trade off, not fighting for ownership.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Samuel Carlson",
+        "profile_url": "https://www.linkedin.com/in/samuel-d-carlson/",
+        "headline": "Senior Member of Technical Staff at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-03-24T01:35:00+00:00",
+      "posted_at_hint": "7mo",
+      "posted_at_approx": true,
+      "text": "It's even easier to quantitatively define the cost of forking. Human + machine energy loss is real.\n\nhttps://steve-yegge.medium.com/vibe-maintainer-a2273a841040",
+      "likes": 4,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T01:35:00Z"
+}

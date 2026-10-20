@@ -1,0 +1,25 @@
+{
+  "activity_id": "7445718217240739840",
+  "share_id": "7445718217240739840",
+  "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7445718217240739840/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-03T06:25:57+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Have you wonder is agile still matters in the age of AI?   \n\nI asked ChatGPT Deep Research, since the tokens is already spent, might as well share the article with everyone, so you don't have to waste your tokens",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Scrum in the Age of AI Agents: From Managing Execution to Managing Intent, Risk, and Learning - ChatGPT Deep Research",
+    "url": "https://www.linkedin.com/pulse/scrum-age-ai-agents-from-managing-execution-intent-risk-horace-chan-u92ff/"
+  },
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:33:00Z"
+}

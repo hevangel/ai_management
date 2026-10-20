@@ -1,0 +1,28 @@
+{
+  "activity_id": "7445659739675316224",
+  "share_id": "7445659739675316224",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7445659739675316224/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-03T02:33:35+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Gemma on AMD chips.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": null,
+    "author_name": "AMD Developer",
+    "author_profile_url": "https://www.linkedin.com/showcase/amd-developer/",
+    "posted_at_hint": "Apr 2 • Edited",
+    "reshared_text": "1️⃣ Gemma 4 dropped from Google.\n\n2️⃣ 256K context. 4 sizes. Dense. Mixture of Experts.\n\n3️⃣ Day 0 support on AMD Instinct, Radeon, Ryzen AI and Ryzen AI Max.\n\n4️⃣ Deploy now on SGLang, LM Studio, vLLM, Ollama.\n\nFor all the details ↓\n\nhttps://lnkd.in/gZxN6DuQ"
+  },
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:33:00Z"
+}
