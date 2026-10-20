@@ -1,0 +1,28 @@
+{
+  "activity_id": "7392321759351533568",
+  "share_id": "7392321759351533568",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7392321759351533568/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-06T22:07:30+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "5% of AI products failed because people work on more than one AI project\n\nThe real data is 100% of people who use AI succeed.  They just keep trying until they get it working",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "AI Software Engineer at Reveal Technology",
+    "author_name": "Dylan Dawson",
+    "author_profile_url": "https://www.linkedin.com/in/dylan-dawson-51a25725a/",
+    "posted_at_hint": "Nov 6, 2025",
+    "reshared_text": "\"95% of AI projects fail\" is a statistic I've seen floating around a lot recently. Aside from a lack of scope and planning, the main reason seems to be that too much emphasis is placed on complexity rather than on the end-user.\n\nWe have to know the needs of customers in our domain, and we have to make sure that we design systems that know their own limits. I've had many experiences with customer-facing chatbots refusing to tell me whether they could or couldn't connect me to an agent and, worse than that, acting like they were able to do something that they were never capable of doing in the first place.\n\nThe solution is to make sure that the whole system, especially the prompts and the UI, are still user-centric. It doesn't matter if you build the most impressive LLM-automated system in the world if the end-user experience is made worse for the majority of customers."
+  },
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T07:46:00Z"
+}

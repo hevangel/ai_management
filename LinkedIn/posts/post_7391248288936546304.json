@@ -1,0 +1,38 @@
+{
+  "activity_id": "7391248288936546304",
+  "share_id": "7391248288936546304",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7391248288936546304/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-03T23:01:54+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "In the AI era, don't be a 10x engineer, be a 2-3x engineer.\n\n10x means you over learned that one thing.  No matter how fast you work, you are slower than AI.\n\n\n2-3x in everything instead.  Humans still have an advantage in dealing with context compared to AI.  1M tokens context window is a lot smaller than you think.  It takes the human brain to figure out how to use that 1M (Gemini) or 200k (Claude) tokens wisely.\n\n#ai #agent #human_vs_ai",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 10,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Usman Zia",
+        "profile_url": "https://www.linkedin.com/in/musmanziak/",
+        "headline": "Sr. Design Verification (AI/ML) at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "Yes, it’s about mastering system design and understanding architecture at scale. AI is great at implementation of your design patterns.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T07:50:00Z"
+}

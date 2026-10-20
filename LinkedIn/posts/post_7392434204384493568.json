@@ -1,0 +1,28 @@
+{
+  "activity_id": "7392434204384493568",
+  "share_id": "7392434204384493568",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7392434204384493568/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-07T05:34:19+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AI courses with hands on lab running on AMD ROCm stack.  Now you can play with AMD GPU before you buy\n\n#amdbrandambassadors",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": null,
+    "author_name": "AMD Developer",
+    "author_profile_url": "https://www.linkedin.com/showcase/amd-developer/",
+    "posted_at_hint": "Nov 4, 2025",
+    "reshared_text": "Introducing AMD AI Academy — free, hands-on learning for AI developers.\n\nWhether you're building models, optimizing GPU kernels, or scaling AI infrastructure, AMD AI Academy gives you practical, self-paced training to go from curiosity to production.\n\nChoose your path. Build real-world skills. Start today: https://bit.ly/4hO2A90\n\n#AMDevs"
+  },
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T07:46:00Z"
+}

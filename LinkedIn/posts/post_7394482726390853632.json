@@ -1,0 +1,25 @@
+{
+  "activity_id": "7394482726390853632",
+  "share_id": "7394482726390853632",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7394482726390853632/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-12T21:14:24+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Can someone create an MCP server for the ORBIT-2 so I can feed the full Earth weather forecast into my soft commodities future trading AI agent? #AMDBrandAmbassador",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "ORBIT-2: AMD and ORNL Advancing Earth System Intelligence at Exascale",
+    "url": "https://bit.ly/4nO3Lq7"
+  },
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T07:42:00Z"
+}

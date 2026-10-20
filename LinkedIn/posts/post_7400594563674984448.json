@@ -1,0 +1,38 @@
+{
+  "activity_id": "7400594563674984448",
+  "share_id": "7400594563674984448",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7400594563674984448/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-29T18:00:40+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "The MCP specification just released a new version, yet no one is talking about it.   \n\nx402, a new agent payment protocol is just announced, yet no one is talking about it\n\nPeople merely focused on the marketing hype around new Google models.\n\nProtocols and standards are what drive the next phase of AI revolution, not slightly better benchmark results of the models",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 9,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Daniel Joyce",
+        "profile_url": "https://www.linkedin.com/in/danieljoyce/",
+        "headline": "AI Native Software Engineer / Consultant / Fractional CTO"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T07:34:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "Ooof. Agent payments ...",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T07:34:00Z"
+}

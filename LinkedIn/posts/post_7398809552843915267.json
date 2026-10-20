@@ -1,0 +1,38 @@
+{
+  "activity_id": "7398809552843915267",
+  "share_id": "7398809552843915267",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7398809552843915267/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-24T19:47:40+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Why do people seem so surprised Google made a comeback with Gemini 3.  Google has lots of money, lots of talents and lots of data.\n\nThese 3 are the most important elements in the AI arm race.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 9,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Leonardo Capossio",
+        "profile_url": "https://www.linkedin.com/in/lcapossio/",
+        "headline": "bard0.ai"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T07:36:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "Not super surprising, but bear in mind that money doesn't translate to success and talent also doesn't translate to success, at least directly. Still need to work hard, be efficient and have clear objectives. The fact of them having the LLM breakthrough themselves in their hands before OpenAI and dropping the ball to them (a startup) was a sign of lack of direction and focus. Now they seem to be pulling back, but it is a tough race, every day there are different challenges. As a huge company you can fail and be left behind too.",
+      "likes": 2,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T07:36:00Z"
+}

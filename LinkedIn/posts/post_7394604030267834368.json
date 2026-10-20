@@ -1,0 +1,22 @@
+{
+  "activity_id": "7394604030267834368",
+  "share_id": "7394604030267834368",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7394604030267834368/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-13T05:16:25+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Here is a dilemma using AI today.  For any given task, it is still faster to do it by hand than using AI.  \n\nHowever if you do it by hand, after you are done, you don't have anything that you can reuse the next time.\n\nUsing AI is slower, but if you extract the prompts and tools for future use, you are compounding your productivity and you can also scale out.\n\n",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T07:40:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "activity_id": "7391512532026523648",
+  "share_id": "7391512532026523648",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7391512532026523648/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-04T16:31:55+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AMD is a hardware company, we sell chips.  If the whole software stack is open source, the users don't to pay for software license fee, they can use the money saved to buy more chips. #AMDBrandAmbassador",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Open Ecosystems: The Key to Digital Sovereignty",
+    "url": "https://bit.ly/4oicT7z"
+  },
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T07:50:00Z"
+}

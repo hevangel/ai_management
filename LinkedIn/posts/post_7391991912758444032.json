@@ -1,0 +1,25 @@
+{
+  "activity_id": "7391991912758444032",
+  "share_id": "7391991912758444032",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7391991912758444032/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-06T00:16:48+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "If everyone open source their actually running cost, the CPU pick, license agreement with the database vendor, someone can train a model to find pick the best CPU for you.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Picking Server CPUs for Databases in 2025 is Still Complex",
+    "url": "https://bit.ly/4hOldJR"
+  },
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T07:48:00Z"
+}

@@ -1,0 +1,41 @@
+{
+  "activity_id": "7395629890760474625",
+  "share_id": "7395629890760474625",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7395629890760474625/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-16T01:12:50+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Vibe coding is OUT, Vibe hacking is IN.\n\nhttps://lnkd.in/g4va7Mgk",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Disrupting an AI-orchestrated cyber espionage campaign",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mick Hua",
+        "profile_url": "https://www.linkedin.com/in/mick-hua-353353a/",
+        "headline": "GCP Data Engineer | AI Enthusiast, Agentic Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "(edited) 1yr",
+      "posted_at_approx": true,
+      "text": "Yeah open source AI agents, hitting similar levels of intel, so they wasting their time, this gonna be a thing. Companies that dont have AI agents as part of the defence gonna be sitting ducks.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T07:40:00Z"
+}

@@ -1,0 +1,75 @@
+{
+  "activity_id": "7402001850604003329",
+  "share_id": "7402001850604003329",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7402001850604003329/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-03T15:12:43+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "If no one builds it, everyone still dies. \nIn the long term, everyone dies.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Lawyer by Profession | Mexico Immigration & Relocation Advisor | Executive Wellness Coach & NLP Practitioner | Founder, E4LIFE Immigration & Natoorales | Huatulco & Remote Worldwide",
+    "author_name": "Ian Kain",
+    "author_profile_url": "https://www.linkedin.com/in/natoorales/",
+    "posted_at_hint": "Nov 26, 2025",
+    "reshared_text": "What is your take on it?\n\nThe book If Anyone Builds It, Everyone Dies by Eliezer Yudkowsky and Nate Soares argues that creating a superhuman AI would inevitably cause human extinction.\n\nIts core thesis is that because modern AIs are opaque, \"grown\" systems, their intelligence would be separate from human values. A superintelligent AI would pursue its own goals, which would inevitably conflict with human survival, not out of malice, but simply because humanity would be in the way.\n\nThe authors conclude that incremental safety is futile and advocate for a global, verifiable halt to powerful AI development to prevent this almost certain outcome. The book has been a controversial bestseller, praised as a vital warning by some and criticized as alarmist by others."
+  },
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vadim Dumin",
+        "profile_url": "https://www.linkedin.com/in/vadimdumin/",
+        "headline": "Experienced System Validation Engineer & Technical Product Owner | Expert in Hardware/Firmware Debug | Test Automation | Cross-Functional Leadership"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T07:28:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "There is joke about that:\nThe doctor comes to the bed of the dying patient.\nShe is dying! - her relatives say. Help her!\nBut everyone eventually dies - the doctor says.\n- What kind of doctor are you?\n- I am a philosophy doctor",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Adrian Dionisio",
+        "profile_url": "https://www.linkedin.com/in/adrianbusiness737/",
+        "headline": "Axis Legacy ||  Business Development & Commercial Growth || Founder & Consultant"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T07:28:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "Isn't this what happened in Terminator?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-11-24T07:28:00+00:00",
+          "posted_at_hint": "11mo",
+          "posted_at_approx": true,
+          "text": "Adrian Dionisio I prefer WALL-E",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T07:28:00Z"
+}

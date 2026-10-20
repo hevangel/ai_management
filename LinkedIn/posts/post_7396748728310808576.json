@@ -1,0 +1,22 @@
+{
+  "activity_id": "7396748728310808576",
+  "share_id": "7396748728310808576",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7396748728310808576/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-19T03:18:42+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Unexpected AI trick, prompt the LLM to think in a different language make it able to solve a trick question that it can't solve before. \n\nHere is my guess, the original question plays with tenses in English, that's what tricks the LLM.  Chinese is a tenseless language, so forcing the LLM to think in Chinese side steps the trick.\n\n",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T07:38:00Z"
+}
