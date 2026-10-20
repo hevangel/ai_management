@@ -1,0 +1,22 @@
+{
+  "activity_id": "7422323543482318848",
+  "share_id": "7422323543482318848",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7422323543482318848/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-28T17:03:53+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "How to leverage AI in coding effectively, based on common pitfalls many developers encounter:\n\n1. Solve Known Problems First: Instead of using AI as a last resort for complex, poorly understood issues, apply it to problems you already know how to solve. This helps in understanding AI's capabilities and refining its application.\n\n2. Master Context Management: Avoid overwhelming AI models with entire codebases. Provide precise, minimal context to prevent \"context rot\" and improve performance. Leverage descriptive files like claude MD or agent MD to guide the AI to relevant information.\n\n3. Stay Current with Tools: The AI development landscape is rapidly evolving. Using outdated tools can misrepresent current AI capabilities. Embrace state-of-the-art solutions to unlock significant performance improvements.\n\n4. Maintain Clean Environments: Ensure your development environment is free of errors (e.g., broken type systems, faulty configurations). A clean environment allows AI agents to focus on core tasks rather than repeatedly attempting to fix environmental issues.\n\n5. Avoid Over-configuration: Resist the urge to excessively configure AI agents with numerous skills or plugins. Such \"MCP Hell\" often bloats context and degrades performance. Start simple and add configurations only when addressing specific, identified problems.\n\nAI generated from Theo t3.gg YouTube",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:15:00Z"
+}

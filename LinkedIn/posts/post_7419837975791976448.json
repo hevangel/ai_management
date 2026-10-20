@@ -1,0 +1,38 @@
+{
+  "activity_id": "7419837975791976448",
+  "share_id": "7419837975791976448",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7419837975791976448/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-21T20:27:07+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "If you feel you are falling behind in all the changes in the AI landscape, remember none of those even exist 6 months ago. Worse by worse, it will take you 6 months to catch up.\n\n",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:21:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "?",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T04:21:00Z"
+}

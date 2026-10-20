@@ -1,0 +1,69 @@
+{
+  "activity_id": "7426768700835426304",
+  "share_id": "7426768700835426304",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7426768700835426304/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-09T23:27:21+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I am pitching Opus 4.6 against GPT 5.3.  \n\nGet them to write the same complex system, download all DVCon papers, clean up the data, upload to database, create AI enabled UI to let users chat with the papers.  \n\nBoth of them have been working hard for a few hours already, the job is still in progress.  I am so excited to see which one is better at the end. \n\nStay tuned for the result.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 19,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Roni Rechter",
+        "profile_url": "https://www.linkedin.com/in/roni-rechter/",
+        "headline": "Head of AI Programs at MaxBill | AI systems that act without human review — accountability, audit trails, liability | RAG & production systems in regulated billing"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:59:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "50 Euro on Opus 4.6",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Simon Bergeron",
+            "profile_url": "https://www.linkedin.com/in/slbergeron/",
+            "headline": "AI in SMBs | Measure first, then Automate | Managing Partner @ Lemonbrand"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T03:59:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Roni Rechter Don't use /fast mode or your 50€ won't last long 😂",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vikash kumar",
+        "profile_url": "https://www.linkedin.com/in/vikash-kumar-95153b49/",
+        "headline": "Senior Verification Architect at Arm | Ex-Intel | Springer Author (AI-Assisted Hardware Verification) | ICCAD/DATE/VTS TPC | IEEE Senior Member"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:59:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Claude AI is definitely better as of today",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T03:59:00Z"
+}

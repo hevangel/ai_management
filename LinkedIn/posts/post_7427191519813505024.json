@@ -1,0 +1,22 @@
+{
+  "activity_id": "7427191519813505024",
+  "share_id": "7427191519813505024",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7427191519813505024/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-11T03:27:28+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Claude Code corrupted my ~/.claude.json and everything dies\n\nThe price of YOLO mode\n\nGood that I have hourly backup snapshot.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T03:51:00Z"
+}

@@ -1,0 +1,22 @@
+{
+  "activity_id": "7424292377198067714",
+  "share_id": "7424292377198067714",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7424292377198067714/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-03T03:27:19+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Here is an idea for Microsoft to pump its stock price.  Vibe code a clone of OpenClaw tightly integrates with Windows and Copilot, wall it in sandbox mode at OS level to tighten the security.  Only two companies can pull this off, only two companies write their own OSes. \n\nCall it Clawpilot.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:10:00Z"
+}

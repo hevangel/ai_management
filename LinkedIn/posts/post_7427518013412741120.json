@@ -1,0 +1,68 @@
+{
+  "activity_id": "7427518013412741120",
+  "share_id": "7427518013412741120",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7427518013412741120/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-12T01:04:51+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I vibed code a DVCon AI library that you can chat with DVCon papers in merely a few hours (on-and-off).   It has a web scrapper, extraction pipeline, RAG database, LLM call backend and web frontend.   \n\nThis version is created with GPT-5.3, I am still debugging the Opus 4.6 version.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 42,
+  "reposts": 1,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": "2026-02-22T03:51:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Re-implement it with Cursor/GPT-4.5 on my own PC, so I can open source it\n\nhttps://github.com/hevangel/dvcon_ai_library",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Troy Guo",
+        "profile_url": "https://www.linkedin.com/in/troy-guo-a50871103/",
+        "headline": "Arm China - Staff Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:51:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "awesome",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ankit Gupta",
+        "profile_url": "https://www.linkedin.com/in/ankit-gupta-83a197171/",
+        "headline": "Design Verification Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:51:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Excited to explore, please do share, once it's available to use.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T03:51:00Z"
+}

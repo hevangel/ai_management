@@ -1,0 +1,41 @@
+{
+  "activity_id": "7428898693426307073",
+  "share_id": "7428898693426307073",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7428898693426307073/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-15T20:31:10+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "This article is so wrong.  Prompt is the new code, code is the new binary.\n\nNo company would stupid enough to fire all the engineers after the code is done and compiled into an app.   No company would stupid enough to think that prompts can operate on its own forever without the people who create them to maintain them.\n\nhttps://lnkd.in/gz4GtR2h",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Workers Are Afraid AI Will Take Their Jobs. They’re Missing the Bigger Danger.",
+    "url": "https://www.wsj.com/lifestyle/careers/ai-knowledge-capture-employees-a69a0e1c"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "JJ Marr",
+        "profile_url": "https://www.linkedin.com/in/jjmarr/",
+        "headline": "Scaling Production LLM Orchestration | SDE 2 @ AMD, B. Eng"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T03:45:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "C++'s ABI compatibility guarantees exist *because* so many companies \"fired all the engineers\" in the 90s after finishing their product and literally do not have the source code to their compiled binaries, yet still need to add more functionality. I can call directly into a binary compiled in the 90s and things still work (except std::string but we don't talk about that).\n\nIt's inefficient in practice which is why modern languages don't make these guarantees, but it exists and you can be employed to deal with it.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T03:45:00Z"
+}

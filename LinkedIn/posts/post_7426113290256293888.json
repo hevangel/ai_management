@@ -1,0 +1,22 @@
+{
+  "activity_id": "7426113290256293888",
+  "share_id": "7426113290256293888",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7426113290256293888/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-08T04:02:59+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Making sure the AI agent can access all the documents a human engineer can access is the key to successful AI adoption\n\nIf there are people in the team that have different read permission than most people, for example the contractors, and it is too hard to segregate the context of the AI agents to prevent people reading things that they are not allowed to read. For the sake of AI adoption, we should either give them full read permission or remove them.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:01:00Z"
+}

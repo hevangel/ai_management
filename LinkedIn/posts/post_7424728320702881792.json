@@ -1,0 +1,38 @@
+{
+  "activity_id": "7424728320702881792",
+  "share_id": "7424728320702881792",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7424728320702881792/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-04T08:19:36+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "The narrative of the stock market doesn't add up\n\nAI is eating the lunch of the software companies -> stock crashed\n\nAI companies are spending too much on capex building data centres to eat the software companies -> stock crashed \n\n",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:05:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "THE BEGINING OF THE END OF THE IRON HORSE ERA\n\nhttps://lnkd.in/ezErKPGN",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T04:05:00Z"
+}

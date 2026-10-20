@@ -1,0 +1,53 @@
+{
+  "activity_id": "7420905949479063552",
+  "share_id": "7420905949479063552",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7420905949479063552/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-24T19:10:52+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "The bottleneck in AI fluency has shifted. In 2026, the advantage isn’t better prompting—it’s cognitive architecture.\n\n​To become a \"100x builder,\" you must move beyond tool selection and adopt a systems-thinking mindset. Here is how the top 1% are evolving:\n\n1. ​From Crafter to Manager: Stop doing the work; start managing the throughput. Your role is to provide missions, guardrails, and the definition of \"done\" for a team of agents.\n\n2. ​Kill the \"Contribution Badge\": Don't over-structure your input to feel \"involved.\" Modern models thrive on unstructured context—bringing premature order only creates noise.\n\n3. ​Master the Altitude Shift: You must fluidly move between high-altitude strategy (agentic patterns) and low-altitude reality (verifying specific lines of code).\n\n4. ​Build vs. Reflect: High-velocity \"Build Mode\" is a trap without a meditative \"Reflect Mode.\" Speed is only an asset if you take the time to analyze why a prompt worked.\n\n5. ​Taste is Your Moat: Delegate technical architecture and standards to AI, but never delegate Human Architecture. Vision and coherence remain exclusively human work.\n\n6. ​Experience is Incompressible: You can speedrun software development with AI, but you cannot speedrun the deep experience required to build a product people actually want.\n\n​The AI is no longer just a tool; it’s a partner that challenges you to level up your intent. The builders who figure this out first will be impossible to catch.\n\n​AI generated based on insights by Nate B Jones Youtube",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vlad Pomogaev",
+        "profile_url": "https://www.linkedin.com/in/pomogaev/",
+        "headline": "Digital Designer at Microchip"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:19:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "https://videocardz.com/newz/ffmpeg-devs-tell-amd-to-clean-up-ai-slop-submissions",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:19:00+00:00",
+      "posted_at_hint": "(edited) 9mo",
+      "posted_at_approx": true,
+      "text": "I read this current AI articulation era as a time of shift from learning to manage tools (or agents) to being able to communicate trained judgment to the latest, largest computer/database.\n\nConversation is the mechanism that builds the cognitive, interactive communication interface and architecture.\n\nWhen that works, AI can spin up as many agents as needed on its own. The human role shifts from micromanaging to something closer to a conductor in front of an orchestra—setting intent, timing, and coherence, not playing every instrument.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T04:19:00Z"
+}

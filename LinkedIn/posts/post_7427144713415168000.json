@@ -1,0 +1,22 @@
+{
+  "activity_id": "7427144713415168000",
+  "share_id": "7427144713415168000",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7427144713415168000/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-11T00:21:29+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Surprisingly, running both Opus 4.6 and GPT 5.3 building the same thing in parallel doesn't add extra stress to my brain, in fact it lightens the load of my brain.\n\nBoth Claude Code and Codex started with the same some-what detailed initial prompt.   They got different things wrong and got stuck on different places along the way.  I can \"cheat\" and ask one to look at the other instead of trying to fix it with my own brain.\n\nI still have to make the same high-level decision as the product morph into shape, but I only have to make the decision once, then type the increment requirement twice.   I don't mind typing; I missed the days I have to type every single character in my code.   In a way, typing is relaxing.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T03:59:00Z"
+}

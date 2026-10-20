@@ -1,0 +1,38 @@
+{
+  "activity_id": "7424834084763463684",
+  "share_id": "7424834084763463684",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7424834084763463684/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-04T15:19:52+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Why Facebook stock went up? \n\nI can use AI to filter out all sponsored posts in Facebook and Instagram.   I use AI to create and summarize my own feed.\n\nIf no one is reading anything without filtered and curated by your AI secretary first, no one will see any useless and unwanted ads.  Why spend money on ads for human?\n",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:05:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "Cool. Thanks. Hadn't thought of that. Interesting to see how that changes the junk mail marketing world, everywhere. 🙂",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T04:05:00Z"
+}

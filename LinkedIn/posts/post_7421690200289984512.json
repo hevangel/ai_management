@@ -1,0 +1,22 @@
+{
+  "activity_id": "7421690200289984512",
+  "share_id": "7421690200289984512",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7421690200289984512/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-26T23:07:12+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I don't get why everyone is all over Clawdbot lately? \n\nI have Tailscale setup for ages, I can ssh to my home server and look at the Claude Code instances running in tmux from my phone anywhere \n\nWhy do you need to do it via WhatsApp or iMessage?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:15:00Z"
+}

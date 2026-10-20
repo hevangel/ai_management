@@ -1,0 +1,22 @@
+{
+  "activity_id": "7421259379728998400",
+  "share_id": "7421259379728998400",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7421259379728998400/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-25T18:35:16+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "English is ambiguous, Latin is precise\n\nWe should train a Latin speaking and thinking LLM to combat AI hallucinations.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:19:00Z"
+}
