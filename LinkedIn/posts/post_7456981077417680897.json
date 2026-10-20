@@ -1,0 +1,69 @@
+{
+  "activity_id": "7456981077417680897",
+  "share_id": "7456981077417680897",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7456981077417680897/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-04T08:20:32+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Once you ban human from writing code and reading the code, every line must be written and test by AI.    You liberated yourself from many human constraints in selecting your programming language and frameworks.\n\n1. Boiler plate, who cares?  It is actually better to lock down what AI can or cannot do with boiler plate\n\n2. Strong type and linting is always better\n\n3. Fast run time and debug turn around time, absolutely.   AI speed is different than human speed\n\n4. Synthetic sugar to make the code easier for human to read - VERY BAD.   AI don't care about 10 level deep for loop or 5 pages long if-else statement.  AI can read it and understand it pretty well.\n\n5. Everything in one file, why not?  AI has 1M context window.  The lesser files to read the better.\n\nWhat is good and what's bad in programing has flipped upside down.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T00:49:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "What about code perf, memory usage, memory mgmt, etc?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-04-23T00:49:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Job K Joseph human still driving the AI agent in a very tight leash.  Just no typing",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Damian Tedrow",
+        "profile_url": "https://www.linkedin.com/in/damian-tedrow-700837151/",
+        "headline": "Cobblestone Project Leader"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T00:49:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "checkout http://github.com/damiant3/NewRepository for all that, and more.  And a little sugar helps actually.  Even the compiler has a token budget.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T00:49:00Z"
+}

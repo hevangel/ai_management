@@ -1,0 +1,54 @@
+{
+  "activity_id": "7457888888745877504",
+  "share_id": "7457888888745877504",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7457888888745877504/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-06T20:27:52+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "M365 blocks Claude Code from sending emails directly. \n\nI have to copy and paste my AI's reply and send it to my colleague's AI because AI can't use email. \n\nWe are living in this weird world",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jeremy Ralph",
+        "profile_url": "https://www.linkedin.com/in/jeremyralph/",
+        "headline": "Principal Verification Engineer at Microsoft"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-05-23T00:42:00+00:00",
+      "posted_at_hint": "5mo",
+      "posted_at_approx": true,
+      "text": "Get the AI to generate a script that sends email",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-05-23T00:42:00+00:00",
+          "posted_at_hint": "5mo",
+          "posted_at_approx": true,
+          "text": "Jeremy Ralph sigh. it is not a technical problem, it is a legal problem.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T00:42:00Z"
+}

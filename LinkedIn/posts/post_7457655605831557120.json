@@ -1,0 +1,25 @@
+{
+  "activity_id": "7457655605831557120",
+  "share_id": "7457655605831557120",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7457655605831557120/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-06T05:00:53+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I got my posture report visiting chiro.   That seems pretty easy for AI to clone, I feed the report pdf to Opus 4.7, give it a 2 pages long prompt on roughly what I want. 2 hours later, Opus one shot a fully functional website analyze posture using ML visual model.\n\nBTW, GPT-5.5 totally failed.  First, it stuck by asking me stupid questions.  Then it gave me a non-functional mock up.  Now it is still trying hard to get it done as I am typing this post\n\nHere is the repo\nhttps://lnkd.in/gWST7yun",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "GitHub - hevangel/posturelab_opus47: PostureLab — AI-powered posture analysis (web + Android)",
+    "url": "https://github.com/hevangel/posturelab_opus47"
+  },
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:43:00Z"
+}

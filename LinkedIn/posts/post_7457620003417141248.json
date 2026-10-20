@@ -1,0 +1,22 @@
+{
+  "activity_id": "7457620003417141248",
+  "share_id": "7457620003417141248",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7457620003417141248/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-06T02:39:24+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I wonder what I am giving up when upskilling an Opus skill to run in Sonnet or Haiku.\n\nIt is cheaper to run, but there must be a trade off somewhere.   Here is my pet theory.\n\nWe have Opus -> Sonnet -> Haiku -> bash script\nThe more we lock down the logic, the more brittle the skill becomes.\n\nThen the question is do we really need the middle tier of Sonnet and Haiku?   Can we just get by with only bash script and Opus?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:45:00Z"
+}

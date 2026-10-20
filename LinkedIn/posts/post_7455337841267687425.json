@@ -1,0 +1,69 @@
+{
+  "activity_id": "7455337841267687425",
+  "share_id": "7455337841267687425",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7455337841267687425/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-29T19:30:54+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "We don't need UBI - universal basic income \nWe need UBT - universal basic tokens",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vadim Dumin",
+        "profile_url": "https://www.linkedin.com/in/vadimdumin/",
+        "headline": "Experienced System Validation Engineer & Technical Product Owner | Expert in Hardware/Firmware Debug | Test Automation | Cross-Functional Leadership"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T00:52:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "Extending the same idea… Do you believe money will disappear entirely in the future as a tool for the goods and services exchange?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-04-23T00:52:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Vadim Dumin money already disappeared.  Everything is just credits these days",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Vadim Dumin",
+            "profile_url": "https://www.linkedin.com/in/vadimdumin/",
+            "headline": "Experienced System Validation Engineer & Technical Product Owner | Expert in Hardware/Firmware Debug | Test Automation | Cross-Functional Leadership"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-04-23T00:52:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan money (cash) is IOU in the present , credit is IOU is in the future. So they are different based on your belief in my character and belief in the future. As the dollar bill says :” In God we trust” and I would add to that “all others pay cash” ))",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T00:52:00Z"
+}

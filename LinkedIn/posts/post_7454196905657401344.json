@@ -1,0 +1,38 @@
+{
+  "activity_id": "7454196905657401344",
+  "share_id": "7454196905657401344",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7454196905657401344/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-26T15:57:14+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "What is AI? \n\nSuper auto complete + auto search + auto copy and paste",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Martin Winston",
+        "profile_url": "https://www.linkedin.com/in/m-winston/",
+        "headline": "Don’t just link in - Beam in."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T00:57:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "Plus auto have done this myself by the time I correct all the AI errors.\n\nAuto-complete without telepathy is auto-bad-or-lucky guess.\n\nAuto-search without auto-corroborate is a rumor mill or an hallucination waiting to happen.\n\nI don't hate AI, but I don't love how often it disappoints me.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T00:57:00Z"
+}

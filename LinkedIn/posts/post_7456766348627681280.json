@@ -1,0 +1,84 @@
+{
+  "activity_id": "7456766348627681280",
+  "share_id": "7456766348627681280",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7456766348627681280/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-03T18:07:17+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AI agent is an illusion.  There is no such thing as an AI agent. It is just context + LLM.\n\nIt is a lot easier to just pause an agent, do some brian surgery in its context, wake it up again than trying to get two agents to communicate with each other pretending agent is a real thing.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jeremy Ralph",
+        "profile_url": "https://www.linkedin.com/in/jeremyralph/",
+        "headline": "Principal Verification Engineer at Microsoft"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-05-23T00:50:00+00:00",
+      "posted_at_hint": "5mo",
+      "posted_at_approx": true,
+      "text": "Is my prompt on a crontab an agent?",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nathaniel L.",
+        "profile_url": "https://www.linkedin.com/in/nlayton/",
+        "headline": "Principal Software, AI Automation, Cloud Engineer with extensive leadership and delivery experience."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T00:50:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "Context + LLM + tools + inference engine with tool loop + optional task loop with optional wakeup",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-04-23T00:50:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Nathaniel L. tools are just how the harness interpret some specially format output from LLM, it is part of the illusion too.Imagine there is only two LLM, big and small, the big LLM can output anything.  The small LLM can only take output from the big LLM, and the ONLY thing that it can output is bash scripts.   The harness automatically run it and let the big LLM knows the result.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Nathaniel L.",
+            "profile_url": "https://www.linkedin.com/in/nlayton/",
+            "headline": "Principal Software, AI Automation, Cloud Engineer with extensive leadership and delivery experience."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-04-23T00:50:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Horace, sure. Nothing magical is happening.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T00:50:00Z"
+}

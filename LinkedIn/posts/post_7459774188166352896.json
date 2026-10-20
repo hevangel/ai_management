@@ -1,0 +1,68 @@
+{
+  "activity_id": "7459774188166352896",
+  "share_id": "7459774188166352896",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7459774188166352896/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-12T01:19:22+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I just realize LLM can make typos like human.  My Claude Code session missed a character in a userid in one of the steps, then it spent the next 15 minutes trying to look up this non-existing user, use brute force to complete the tasks. It keeps going until I stop it and tell it, hey you missed a k here.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jeremy Ralph",
+        "profile_url": "https://www.linkedin.com/in/jeremyralph/",
+        "headline": "Principal Verification Engineer at Microsoft"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-05-23T00:42:00+00:00",
+      "posted_at_hint": "5mo",
+      "posted_at_approx": true,
+      "text": "I had it use some Russian characters for a word once.  Really weird",
+      "likes": 4,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Leonardo Capossio",
+        "profile_url": "https://www.linkedin.com/in/lcapossio/",
+        "headline": "bard0.ai"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-05-23T00:42:00+00:00",
+      "posted_at_hint": "5mo",
+      "posted_at_approx": true,
+      "text": "Claude Code's quality has just been tanking. I will just either refuse to do it, ask you to do it or go down the wrong rabbit hole. And the latency is horrible. It's probably not the model, just the backend is made so they can save as much compute as possible since they underestimated how much people would take it up. The new deal with SpaceX might save it, but for now Codex is brilliant.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Charles Manning",
+        "profile_url": "https://www.linkedin.com/in/charles-manning-8ba27719/",
+        "headline": "Consultant at Independent consultant; The Yaffs guy"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-05-23T00:42:00+00:00",
+      "posted_at_hint": "5mo",
+      "posted_at_approx": true,
+      "text": "LLMs don't think.They see a bit pattern, they generate a different bit pattern. They do not know what the input or output bit patterns mean.If they have been trained on spelling mistakes they will generate spelling mistakes.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T00:42:00Z"
+}

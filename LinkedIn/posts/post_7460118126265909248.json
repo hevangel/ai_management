@@ -1,0 +1,22 @@
+{
+  "activity_id": "7460118126265909248",
+  "share_id": "7460118126265909248",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7460118126265909248/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-13T00:06:03+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I start using AI to help me reply to emails and Teams messages.   I state explicitly the reply is from AI Horace, so it won't confuse people.  But something doesn't feel right.\n\nEmail and Teams should be reserved for human only, we need to build an agent-to-agent communication channel so that my agent can talk to your agent, don't pollute the human communication channel.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:39:00Z"
+}

@@ -1,0 +1,28 @@
+{
+  "activity_id": "7453540596243398656",
+  "share_id": "7453540596243398656",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7453540596243398656/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-24T20:29:18+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "We should let AI read Albert Camus",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Research Scientist (AI Systems) & Founder | Ontology-Driven AI, Reasoning Systems & Agent Design",
+    "author_name": "Benny Cheung",
+    "author_profile_url": "https://www.linkedin.com/in/becheung/",
+    "posted_at_hint": "Apr 24",
+    "reshared_text": "I've been writing software for 36 years. Here's the opinion that gets me the most surprising looks:\n\nPhilosophy is the most underrated engineering skill.\n\nNot the armchair kind. The rigorous study of what systems can and cannot do, what knowledge actually is, and where meaning comes from.\n\nI keep running into the same pattern: every fundamental AI problem I hit, some philosopher already diagnosed it centuries ago.\n\n𝗛𝗮𝗹𝗹𝘂𝗰𝗶𝗻𝗮𝘁𝗶𝗼𝗻𝘀? 𝗞𝗮𝗻𝘁 𝗴𝗼𝘁 𝘁𝗵𝗲𝗿𝗲 𝗶𝗻 𝟭𝟳𝟴𝟭.\n\nYour LLM optimizes for coherence, not truth. Kant called this \"transcendental illusion.\" Reason beyond experience, producing beautifully structured nonsense. The fix isn't more training. It's external grounding. RAG isn't just an engineering trick. It's what Kant prescribed.\n\n\"𝗗𝗼𝗲𝘀 𝗔𝗜 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱?\" 𝗪𝗶𝘁𝘁𝗴𝗲𝗻𝘀𝘁𝗲𝗶𝗻 𝗱𝗶𝘀𝘀𝗼𝗹𝘃𝗲𝗱 𝘁𝗵𝗶𝘀 𝗶𝗻 𝟭𝟵𝟱𝟯.\n\nMeaning is use, not inner experience. If a system uses language correctly in every context, what would \"understanding\" add? The question isn't \"is it conscious?\" It's \"will we decide to treat it as if it is?\"\n\n𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗹𝗼𝘀𝘀? 𝗟𝗮𝗼𝘇𝗶, 𝟮,𝟱𝟬𝟬 𝘆𝗲𝗮𝗿𝘀 𝗮𝗴𝗼.\n\n\"The Tao that can be spoken is not the eternal Tao.\" Your model lives on a 12,000-dimensional surface. Text output is sequential. Every token collapses that space and almost everything is lost. Once you see this, you understand why temperature matters so much.\n\n𝗖𝗼𝗺𝗽𝘂𝘁𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗹𝗶𝗺𝗶𝘁𝘀? 𝗚𝗼𝗱𝗲𝗹, 𝗧𝘂𝗿𝗶𝗻𝗴, 𝗖𝗼𝗼𝗸 (𝟭𝟵𝟯𝟭-𝟭𝟵𝟳𝟭).\n\nFive permanent walls: unprovability, undecidability, intractability, unlearnability, thermodynamic floors. Same proof skeleton behind all of them. These aren't problems waiting to be solved. They're the terrain.\n\nEvery time we \"discover\" an AI limitation, a philosopher already mapped it. Philosophy and mathematics spent 2,500 years studying the structure of knowledge, language, and computation. AI systems are implementations of those structures. The limits come with the territory.\n\n𝗠𝘆 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗹𝗶𝘀𝘁:\nBuild with LLMs → Kant's 𝘊𝘳𝘪𝘵𝘪𝘲𝘶𝘦 𝘰𝘧 𝘗𝘶𝘳𝘦 𝘙𝘦𝘢𝘴𝘰𝘯 (the transcendental illusion section)\nDesign AI interactions → Wittgenstein's 𝘗𝘩𝘪𝘭𝘰𝘴𝘰𝘱𝘩𝘪𝘤𝘢𝘭 𝘐𝘯𝘷𝘦𝘴𝘵𝘪𝘨𝘢𝘵𝘪𝘰𝘯𝘴\nTune model parameters → 𝘛𝘢𝘰 𝘛𝘦 𝘊𝘩𝘪𝘯𝘨 (not for mysticism, for information loss)\nWork on AI safety → Godel, Turing, computational complexity\n\nThe market tells you to learn the latest framework. I'm saying read a 250-year-old book.\n\nFrameworks change every 18 months. The structure of knowledge doesn't.\n\n---\nWhat's a non-technical book or thinker that fundamentally changed how you approach engineering? I think the best engineers all have at least one.\n\n♻️ Repost if you believe the best engineers think beyond the code.\n\n#AI #Philosophy #SoftwareEngineering #MachineLearning #CriticalThinking #TechLeadership #AIEngineering #CareerDevelopment"
+  },
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:57:00Z"
+}

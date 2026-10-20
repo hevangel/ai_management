@@ -1,0 +1,38 @@
+{
+  "activity_id": "7457209310822162432",
+  "share_id": "7457209310822162432",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7457209310822162432/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-04T23:27:28+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "When you use the number of your company's share as the price unit when shopping for a new car, you know the stock market is in a bubble.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bill Lye",
+        "profile_url": "https://www.linkedin.com/in/wmlye/",
+        "headline": "30+ years of CMOS Mixed-Signal Design"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-05-23T00:45:00+00:00",
+      "posted_at_hint": "5mo",
+      "posted_at_approx": true,
+      "text": "Shades of 2000...",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T00:45:00Z"
+}

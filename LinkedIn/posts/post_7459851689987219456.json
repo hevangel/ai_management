@@ -1,0 +1,25 @@
+{
+  "activity_id": "7459851689987219456",
+  "share_id": "7459851689987219456",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7459851689987219456/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-12T06:27:20+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Anthropic engineer has published this controversial article Using Claude Code: The Unreasonable Effectiveness of HTML\n\nI only have one question for this guy, has he used VSCode?\n\nFor everything claims he said AI generated HTML is better than markdown, there exists an even better extension to do the same thing on VSCode\n\nhttps://lnkd.in/gzAPfzJc",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Thariq (@trq212) on X",
+    "url": "https://twitter.com/trq212/status/2052809885763747935"
+  },
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:40:00Z"
+}

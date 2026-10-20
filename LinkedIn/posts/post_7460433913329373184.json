@@ -1,0 +1,22 @@
+{
+  "activity_id": "7460433913329373184",
+  "share_id": "7460433913329373184",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7460433913329373184/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-13T21:00:53+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AI is dumb.  It lacks common sense. \n\nI created a skill to file expense reports on Concur, then I ask Claude Code to update an expense report, it doesn't invoke the Concur skill. \n\nI asked why, it said it thinks the Concur skill can only create new expense reports, it doesn't know Concur can update expense reports too \n😮‍💨",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:39:00Z"
+}

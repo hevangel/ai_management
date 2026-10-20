@@ -1,0 +1,22 @@
+{
+  "activity_id": "7453870519809921024",
+  "share_id": "7453870519809921024",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7453870519809921024/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-25T18:20:18+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I 100% vibe code these days, but I still consider myself a programmer.\nInstead of typing it up by hands, I just \"wish\" the program into existence.\n\nObviously, Python backend and JavaScript frontend are programs \nAI agent is also a program; it is a program with non-deterministic output.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:57:00Z"
+}
