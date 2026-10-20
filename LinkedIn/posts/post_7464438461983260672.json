@@ -1,0 +1,25 @@
+{
+  "activity_id": "7464438461983260672",
+  "share_id": "7464438461983260672",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7464438461983260672/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-24T22:13:32+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I finally cracked the problem of cloning the Bloomberg UI using LLM\n\nOpus 4.7 or GPT-5.5 can't understand the screen capture to clone the UI correctly on its own, but I just told it to use OpenCV to write some tools to help yourself.\n\nHere is a Bloomberg mockup, it is still work in progress.   After I successfully clone the keyboard and the command line, I am sure it is just the matter of tokens needs to be burnt to get a perfect Bloomberg UI clone.\n\nhttps://lnkd.in/gU6x8KRm",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Bloomberg Terminal Mockup — AMD",
+    "url": "https://chanmainvest.github.io/bloomberg-mockup/"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:24:00Z"
+}

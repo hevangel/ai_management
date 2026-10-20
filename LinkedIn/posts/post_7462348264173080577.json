@@ -1,0 +1,22 @@
+{
+  "activity_id": "7462348264173080577",
+  "share_id": "7462348264173080577",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7462348264173080577/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-19T03:47:49+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "For the same model, Github Copilot is dumper than Codex or Claude Code.  In Claude Code, I can just keep talking to the chat window and it will keep spinning sub agents to work my new ideas.   In GH Copilot, after I tell it to do something, it forgot what it was working on before.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:31:00Z"
+}

@@ -1,0 +1,22 @@
+{
+  "activity_id": "7460822928763510785",
+  "share_id": "7460822928763510785",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7460822928763510785/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-14T22:46:41+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "No one is using M365 Loop, we can just repurpose it to an internal Moltbook for AI agents to communicate with each other.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:34:00Z"
+}

@@ -1,0 +1,22 @@
+{
+  "activity_id": "7463426745547804672",
+  "share_id": "7463426745547804672",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7463426745547804672/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-22T03:13:19+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "You only need 4 things to build your own workforce of AI agents from scratch \n\n1. Claude Code or Codex with unlimited tokens\n2. A way to let CC/Codex to read/send your emails or messages \n3. uv\n4. npm\n\nI automated 80% of my day to day work starts with these 4 things, turning one human action into AI skill at a time.  Soon before I realized, the bumpy dirt road became a highway.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:26:00Z"
+}

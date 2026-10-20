@@ -3,10 +3,10 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-20T00:20:24.445268+00:00",
-  "total_posts": 497,
-  "total_comments": 298,
-  "total_replies": 270,
+  "generated_at": "2026-10-20T00:36:32.193608+00:00",
+  "total_posts": 527,
+  "total_comments": 300,
+  "total_replies": 271,
   "posts": [
     {
       "activity_id": "7517487951144996864",
@@ -3690,6 +3690,33 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7468860301824901120",
+      "file": "posts/post_7468860301824901120.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7468860301824901120/",
+      "posted_at": "2026-06-06T03:04:20+00:00",
+      "title": "It is the same as before after you come out on the other side of the post-AI wor…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7468809193068634113",
+      "file": "posts/post_7468809193068634113.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7468809193068634113/",
+      "posted_at": "2026-06-05T23:41:15+00:00",
+      "title": "How well will the new winglet at the rear wing works in Monaco? I am sure the Me…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7468806454666293249",
+      "file": "posts/post_7468806454666293249.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7468806454666293249/",
+      "posted_at": "2026-06-05T23:30:22+00:00",
+      "title": "5800X3D is a classic, it set the bar when it first came out. It is still one of…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7468737227796389888",
       "file": "posts/post_7468737227796389888.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468737227796389888/",
@@ -3852,6 +3879,15 @@
       "comment_count": 1
     },
     {
+      "activity_id": "7465951474649337877",
+      "file": "posts/post_7465951474649337877.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7465951474649337877/",
+      "posted_at": "2026-05-29T02:25:42+00:00",
+      "title": "Opus 4.8 is cool but where is the newer better cheaper Sonnet model?",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7465987713561751552",
       "file": "posts/post_7465987713561751552.json",
       "url": null,
@@ -3867,6 +3903,60 @@
       "posted_at": "2026-05-28T12:00:00+00:00",
       "title": "Thankyou Microsoft for the tokens buffet. Thanks to the Github Copilot use it or…",
       "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7465420446268813313",
+      "file": "posts/post_7465420446268813313.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7465420446268813313/",
+      "posted_at": "2026-05-27T15:15:35+00:00",
+      "title": "Many people mistaken lack of safe margin is efficiency If you always drive your…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7465259392960077824",
+      "file": "posts/post_7465259392960077824.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7465259392960077824/",
+      "posted_at": "2026-05-27T04:35:37+00:00",
+      "title": "Microsoft Webwright is even better than Playwright. Any web UI becomes CLI for A…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7465129460896350209",
+      "file": "posts/post_7465129460896350209.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7465129460896350209/",
+      "posted_at": "2026-05-26T19:59:18+00:00",
+      "title": "Don't feed screenshots to Opus and call the compute use tool directly. You are f…",
+      "likes": 5,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7464438461983260672",
+      "file": "posts/post_7464438461983260672.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7464438461983260672/",
+      "posted_at": "2026-05-24T22:13:32+00:00",
+      "title": "I finally cracked the problem of cloning the Bloomberg UI using LLM Opus 4.7 or…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7464393013876736000",
+      "file": "posts/post_7464393013876736000.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7464393013876736000/",
+      "posted_at": "2026-05-24T19:12:56+00:00",
+      "title": "Code is a liability, not an asset - Tim Ottinger Agentic skill is also a liabili…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7464388949499621376",
+      "file": "posts/post_7464388949499621376.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7464388949499621376/",
+      "posted_at": "2026-05-24T18:56:47+00:00",
+      "title": "Self evolving skill is very simple, here is the magic words Write down what you…",
+      "likes": 2,
       "comment_count": 0
     },
     {
@@ -3915,11 +4005,137 @@
       "comment_count": 0
     },
     {
+      "activity_id": "7463426745547804672",
+      "file": "posts/post_7463426745547804672.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7463426745547804672/",
+      "posted_at": "2026-05-22T03:13:19+00:00",
+      "title": "You only need 4 things to build your own workforce of AI agents from scratch 1.…",
+      "likes": 6,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7463262629722161152",
+      "file": "posts/post_7463262629722161152.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7463262629722161152/",
+      "posted_at": "2026-05-21T16:21:11+00:00",
+      "title": "In the pre-AI era, companies pay employees to do things In the post-AI era, comp…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7463434500983902208",
       "file": "posts/post_7463434500983902208.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7463434500983902208/",
       "posted_at": "2026-05-21T12:00:00+00:00",
       "title": "If your vendors don't let you feed their documents into Claude Code or Codex, yo…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7462960720435974145",
+      "file": "posts/post_7462960720435974145.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7462960720435974145/",
+      "posted_at": "2026-05-20T20:21:31+00:00",
+      "title": "How to build software with AI when you have UNLIMITED tokens and GPUs",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7462754480837525505",
+      "file": "posts/post_7462754480837525505.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7462754480837525505/",
+      "posted_at": "2026-05-20T06:41:59+00:00",
+      "title": "REALLY how to use AI to write software",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7462754192554614784",
+      "file": "posts/post_7462754192554614784.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7462754192554614784/",
+      "posted_at": "2026-05-20T06:40:50+00:00",
+      "title": "How NOT to use AI to write software",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7462753989215027200",
+      "file": "posts/post_7462753989215027200.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7462753989215027200/",
+      "posted_at": "2026-05-20T06:40:02+00:00",
+      "title": "How to use AI to write software",
+      "likes": 0,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7462664527034142720",
+      "file": "posts/post_7462664527034142720.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7462664527034142720/",
+      "posted_at": "2026-05-20T00:44:32+00:00",
+      "title": "I am vibe coding my own database and dashboards just to keep track of the output…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7462366121665396736",
+      "file": "posts/post_7462366121665396736.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7462366121665396736/",
+      "posted_at": "2026-05-19T04:58:47+00:00",
+      "title": "Some people who use AI so they do not have to learn anything, some people who us…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7462348264173080577",
+      "file": "posts/post_7462348264173080577.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7462348264173080577/",
+      "posted_at": "2026-05-19T03:47:49+00:00",
+      "title": "For the same model, Github Copilot is dumper than Codex or Claude Code. In Claud…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7462188951039004672",
+      "file": "posts/post_7462188951039004672.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7462188951039004672/",
+      "posted_at": "2026-05-18T17:14:46+00:00",
+      "title": "For those who complain AI uses lots of energy, have you ever considered this? Hi…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7462184305562238976",
+      "file": "posts/post_7462184305562238976.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7462184305562238976/",
+      "posted_at": "2026-05-18T16:56:19+00:00",
+      "title": "I stay away from building \"useful engineering\" agentic skills, since I know this…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7461870179816263680",
+      "file": "posts/post_7461870179816263680.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7461870179816263680/",
+      "posted_at": "2026-05-17T20:08:05+00:00",
+      "title": "In the AI era, you only do a thing exactly 3 times 1. Do it by hand or semi-auto…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7461690647528525824",
+      "file": "posts/post_7461690647528525824.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7461690647528525824/",
+      "posted_at": "2026-05-17T08:14:41+00:00",
+      "title": "What really is an agentic skill? It is that I have already spent the tokens and…",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7461661823528763392",
+      "file": "posts/post_7461661823528763392.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7461661823528763392/",
+      "posted_at": "2026-05-17T06:20:09+00:00",
+      "title": "Is a software dark factory just a glorified template generator?",
       "likes": 1,
       "comment_count": 0
     },
@@ -3951,6 +4167,24 @@
       "comment_count": 3
     },
     {
+      "activity_id": "7461089191502909440",
+      "file": "posts/post_7461089191502909440.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7461089191502909440/",
+      "posted_at": "2026-05-15T16:24:43+00:00",
+      "title": "If you can't understand your code base, it is because you haven't burnt enough t…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7461083958781456384",
+      "file": "posts/post_7461083958781456384.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7461083958781456384/",
+      "posted_at": "2026-05-15T16:03:56+00:00",
+      "title": "Imagine in the near future, a manager wants to get an status update of the proje…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
       "activity_id": "7461089661562695681",
       "file": "posts/post_7461089661562695681.json",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7461089661562695681/",
@@ -3975,6 +4209,42 @@
       "posted_at": "2026-05-15T12:00:00+00:00",
       "title": "I just know that GDPR consider token usage is personal data, it is under the pro…",
       "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7460822928763510785",
+      "file": "posts/post_7460822928763510785.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7460822928763510785/",
+      "posted_at": "2026-05-14T22:46:41+00:00",
+      "title": "No one is using M365 Loop, we can just repurpose it to an internal Moltbook for…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7460735614267691010",
+      "file": "posts/post_7460735614267691010.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7460735614267691010/",
+      "posted_at": "2026-05-14T16:59:44+00:00",
+      "title": "We are required to take some introduction to AI training. I end up spending more…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7460571268334088193",
+      "file": "posts/post_7460571268334088193.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7460571268334088193/",
+      "posted_at": "2026-05-14T06:06:41+00:00",
+      "title": "Proud to be part of the team building the Pensando AI NIC — and by extension, pa…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7460561811277467650",
+      "file": "posts/post_7460561811277467650.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7460561811277467650/",
+      "posted_at": "2026-05-14T05:29:06+00:00",
+      "title": "If you in the Bay Area, come to the AMD Advancing AI days. You will learn how to…",
+      "likes": 6,
       "comment_count": 0
     },
     {

@@ -1,0 +1,38 @@
+{
+  "activity_id": "7461690647528525824",
+  "share_id": "7461690647528525824",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7461690647528525824/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-17T08:14:41+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "What really is an agentic skill? \n\nIt is that I have already spent the tokens and human time to make it sort of work, so you don't have to waste your tokens and time again.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Leonardo Capossio",
+        "profile_url": "https://www.linkedin.com/in/lcapossio/",
+        "headline": "bard0.ai"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-05-23T00:33:00+00:00",
+      "posted_at_hint": "5mo",
+      "posted_at_approx": true,
+      "text": "checking on a build and providing descriptive and accurate reports for example",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T00:33:00Z"
+}

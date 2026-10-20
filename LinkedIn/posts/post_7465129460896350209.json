@@ -1,0 +1,22 @@
+{
+  "activity_id": "7465129460896350209",
+  "share_id": "7465129460896350209",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7465129460896350209/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-05-26T19:59:18+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Don't feed screenshots to Opus and call the compute use tool directly.  You are flushing tokens down the toilet \n\nInstead ask Opus to create a bespoke OpenCV program to understand the UI that it needs to control, then operate the computer use from the json boundary box and OCR text instead.\n\nNot only a lot cheaper, it runs a lot faster too .",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:24:00Z"
+}
