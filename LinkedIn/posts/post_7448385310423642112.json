@@ -1,0 +1,22 @@
+{
+  "activity_id": "7448385310423642112",
+  "share_id": "7448385310423642112",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7448385310423642112/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-10T15:04:02+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "The next logical evolution of agentic skill is adopting the class hierarchy.   Software engineers like the OOP mental model a lot, we should apply it to agentic skills.   Bring in the concept of sub-class, abstract function, override, extend, mix-in.\n",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:18:00Z"
+}

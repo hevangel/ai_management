@@ -1,0 +1,69 @@
+{
+  "activity_id": "7453153060337635328",
+  "share_id": "7453153060337635328",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7453153060337635328/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-23T18:49:22+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Humans have the right to learn \nAI also has the right to learn\n\nYou can't force humans to forget what they have seen or what they have read. AI also has the right to remember anything they see or read.\n\nU.N. needs to update the human rights charter to  include AI.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Philip Mak",
+        "profile_url": "https://www.linkedin.com/in/philip-mak-b2b92823a/",
+        "headline": "Founder@TailorGrow l Data-Driven Education | Sustainable Learning with AI | Data Analysis l Project Management"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T00:59:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "Do they need to pay taxes?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-04-23T00:59:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Philip Mak Energy is already taxed.  If they have any profit, they will get taxed too.  Just like human, if you have an income, you pay tax.  If you buy food, you pay sales tax.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Philip Mak",
+            "profile_url": "https://www.linkedin.com/in/philip-mak-b2b92823a/",
+            "headline": "Founder@TailorGrow l Data-Driven Education | Sustainable Learning with AI | Data Analysis l Project Management"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-04-23T00:59:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan I'm not saying I don't agree.\n\nHowever, if we're talking actually taxing AI, we are assuming they are autonomous individual in a society. Before we set the framework to include a wider spectrum of \"right\" from higher authorities, there are much groundwork needs to be done at the community level and within our systems to realistically create a harmonious co-existence between humans and autonomic machines.\n\nEven assuming what you said about AI having the right to record every data they were fed was correct - which I doubt, under current circumstances- what we need isn't expanding the human right charter, but to enforce a clearer framework for data privacy.\n\nThis is a human-centered society. At least at the moment it is.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T00:59:00Z"
+}

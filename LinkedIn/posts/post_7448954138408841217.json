@@ -1,0 +1,25 @@
+{
+  "activity_id": "7448954138408841217",
+  "share_id": "7448954138408841217",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7448954138408841217/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-12T04:44:21+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Thanks to AI, I finally understand how elliptic encryption works.\n\nNope, Opus or GPT can't explain to my dumb brain no matter how hard they tried.   Someone vibe coded an interactive tutorial that explains it very well.  \nNo one would bother to hand code interactive tutorial in the pre-AI era.  It was too hard.\n\nhttps://lnkd.in/gHv7qAHu",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "An interactive intro to Elliptic Curve Cryptography (ECC)",
+    "url": "https://growingswe.com/blog/elliptic-curve-cryptography"
+  },
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:09:00Z"
+}

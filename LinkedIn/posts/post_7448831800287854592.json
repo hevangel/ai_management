@@ -1,0 +1,22 @@
+{
+  "activity_id": "7448831800287854592",
+  "share_id": "7448831800287854592",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7448831800287854592/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-11T20:38:13+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I am proposing a new AGI test. \n\nDelete all Chinese from the pre training dataset, and see whether the AI can learn Chinese on its own. \n\nUse the 1900 data set to see whether AI can invent relativity is probably too tough.  Not everyone can invent relativity.  But any person can learn Chinese.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:16:00Z"
+}

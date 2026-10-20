@@ -1,0 +1,41 @@
+{
+  "activity_id": "7451338920857985024",
+  "share_id": "7451338920857985024",
+  "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7451338920857985024/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-18T18:40:38+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "People talk about the technical aspect of adopting AI at work, what about how office politics would change in the new AI era?\n\nI asked ChatGPT Deep Research for the answer.  I already spent the tokens, might as well share the report with everyone.   Enjoy.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Office Politics in the Age of AI",
+    "url": "https://www.linkedin.com/pulse/office-politics-age-ai-horace-chan-2rrac/"
+  },
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T01:02:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "The way I see it, the human side of this hasn’t really changed.\n\nPeople have always entered data into corporate systems in a selective way.\n\nWhat gets written, when it gets written, how it’s framed, and what gets left out have always been shaped by timing, incentives, attention, and context. AI doesn’t suddenly remove that. It doesn’t make people more complete, more neutral, or more consistent in how they record reality.\n\nSo the idea that better outcomes come from people “behaving differently” because AI is present feels off. Most people will continue to enter data the same way they always have.\n\nWhere AI does change things is on the inference side.\n\nIt can move across domains, connect fragments that were never compared before, and surface patterns that no single person would see in isolation. It can highlight gaps in the data, suggest what should be collected to close them, and expose inconsistencies or anomalies, whether they come from human behavior or from the underlying system itself.\n\nSo the shift isn’t in how data is entered.\n\nIt’s in how incomplete, biased, and uneven data gets interpreted once it exists.\n\nAI doesn’t fix the inputs.\n\nIt makes the structure of those inputs visible.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T01:02:00Z"
+}

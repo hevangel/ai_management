@@ -1,0 +1,38 @@
+{
+  "activity_id": "7453499010671108096",
+  "share_id": "7453499010671108096",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7453499010671108096/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-24T17:44:03+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Is harness engineering just another bitter lesson?\n\nI skipped over learning prompt engineering back in 2024, I was betting on AI will be smart be enough to understand me soon.\n\nI skipped over building context engineering back in 2025, I just dump everything into markdown files, clean them up for AI to read, betting on AI will be smart enough to distill useful information from them automatically.\n\nShould I wait and skip building harness engineering in 2026?   Will AI be smart enough to orchestrate itself in 2027?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "周欣缘",
+        "profile_url": "https://www.linkedin.com/in/%E6%AC%A3%E7%BC%98-%E5%91%A8-27b726189/",
+        "headline": "AMD - PCIe DV Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T00:59:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "The slower I learn, the faster I learn.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T00:59:00Z"
+}

@@ -1,0 +1,60 @@
+{
+  "activity_id": "7451306516290232320",
+  "share_id": "7451306516290232320",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7451306516290232320/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-18T16:31:52+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Those who never code in assembly have no right to say AI vibe coding is not real software engineers to the younger generation.\n\nReal software engineers knows how to manage the money without a garbage collector.\n\nAs a dinosaur who can't keep up with all those overly complicated frameworks in the past two decades.  I can troll those anti-AI folks all day along.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Secure Platform Architect at Aegis Power Systems, Inc.",
+    "author_name": "John Osborne",
+    "author_profile_url": "https://www.linkedin.com/in/john-osborne-30b09142/",
+    "posted_at_hint": "Apr 17",
+    "reshared_text": "There should be a rule for software engineers. if you haven't spent a full day or more trying to determine why your code isn't compiling/working only to find it's a one line or one character change, then you cannot use any AI assisted development tools. actually, just turn off all intellisense"
+  },
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "JJ Marr",
+        "profile_url": "https://www.linkedin.com/in/jjmarr/",
+        "headline": "Scaling Production LLM Orchestration | SDE 2 @ AMD, B. Eng"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T01:02:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "I spent 2 weeks staring at assembly before making a 1 line change to eliminate a buffer overflow. Do I have more of a right to AI now?",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Javad Monshi Zadeh",
+            "profile_url": "https://www.linkedin.com/in/javad-monshi-zadeh/",
+            "headline": "Validation Engineer at AMD - Toronto"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-04-23T01:02:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "JJ Marr I spent 2 weeks pushing the papers and called it engineering",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:02:00Z"
+}

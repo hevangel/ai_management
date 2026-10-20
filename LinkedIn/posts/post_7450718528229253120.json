@@ -1,0 +1,22 @@
+{
+  "activity_id": "7450718528229253120",
+  "share_id": "7450718528229253120",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7450718528229253120/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-17T01:35:24+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "My branch review MCP server, an UI to let AI and human  review code together.\n\nI am so frustrated of telling AI where to make the changes across 10 different files exactly using the tiny chat box in Claude Code\n\nhttps://lnkd.in/gmvqwar7",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:06:00Z"
+}

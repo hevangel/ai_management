@@ -1,0 +1,72 @@
+{
+  "activity_id": "7450896331302395904",
+  "share_id": "7450896331302395904",
+  "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7450896331302395904/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-17T13:21:56+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "We need a 100% deterministic AI.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Do You Trust Your Compiler?",
+    "url": "https://www.linkedin.com/pulse/do-you-trust-your-compiler-jan-rosen-26roc/"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Barry Moss",
+        "profile_url": "https://www.linkedin.com/in/barrygmoss/",
+        "headline": "FPGA/ASIC Design Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T01:06:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "If AI prompts are considered the new source code, then projects cannot be ISO9001 certified since the results are not repeatable, at least with current AI models. Now I suspect that the current workaround is that the AI-generated code is still considered the source (and may require some human editing or review) so ISO9001 repeatability can still be met. But the people advocating going directly from AI prompts to binary executables or silicon gates haven't given this issue enough consideration.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-04-23T01:06:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Barry Moss It may not be repeated every time, what about statistically repeatable?  Say if I rerun the prompt 10 times and get 7 times right, can we accept majority rules?",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T01:06:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "Yes.\n\nAI code:\n\nIF the probability of A might be B, and the state space is in region C, then PRINT \"Yes\", ELSE PRINT \"No\"",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T01:06:00Z"
+}

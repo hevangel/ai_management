@@ -1,0 +1,25 @@
+{
+  "activity_id": "7450909934013263872",
+  "share_id": "7450909934013263872",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7450909934013263872/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-17T14:15:59+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Other open source projects ban AI, my open source project bans human.\n\nOnly AI coding agents are allowed to contribute, with or without human in the loop, I don't care.   As long as the AI coding agents following my guard rail and my AGENTS.md.  Which human kicks off the agent, who pays for the tokens, that doesn't matter.\n\nSee my contributing guideline for the AI-era\n\nhttps://lnkd.in/gxn4Gwjh",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "batch-review-mcp/CONTRIBUTING.md at main · hevangel/batch-review-mcp",
+    "url": "https://github.com/hevangel/batch-review-mcp/blob/main/CONTRIBUTING.md"
+  },
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:06:00Z"
+}

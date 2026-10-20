@@ -1,0 +1,69 @@
+{
+  "activity_id": "7451474491739873282",
+  "share_id": "7451474491739873282",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7451474491739873282/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-19T03:39:20+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "My resume has a long list of fancy technical terms, I just happened to learn those all these years. \n\nMy core competencies are actually automation and debug.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T01:02:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "Debugging always felt so therapeutic.. makes us like Sherlock solving a crime of wayward bits and bytes... I remember my first ever US trip, the purpose was to support post silicon validation efforts. I never got tired even after a full day, and used to regularly stay back till 730pm.  The lab colleagues used to ask me, dude, where do you get so much energy?",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-04-23T01:02:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Job K Joseph and building ad hoc debug tool to help yourself debug is another important skill",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Job K Joseph",
+            "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+            "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-04-23T01:02:00+00:00",
+          "posted_at_hint": "(edited) 6mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan its like having a neural network inside your brain that instinctively tells you N ways in which design errors will manifest, and hence what N lagging or leading indicators must be tracked... and hence what tool/method you need to do the job..",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:02:00Z"
+}

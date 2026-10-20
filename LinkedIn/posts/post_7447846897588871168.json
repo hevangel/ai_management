@@ -1,0 +1,115 @@
+{
+  "activity_id": "7447846897588871168",
+  "share_id": "7447846897588871168",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7447846897588871168/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-09T03:24:34+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "People wonder what junior engineers will do in the new AI era. \n\nHere is an idea\n\nThe senior engineers are busy writing skills to automate the dark factory running on the most expensive frontier models. \n\nThe junior engineers take the skills, port them to run reliably on cheaper or open source models. \n\nKind of like the good old team A, team B idea.  Team A builds a new product, team B adds incremental features and creates more cost efficient versions",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 12,
+  "reposts": 0,
+  "comment_count": 6,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Avidan Efody",
+        "profile_url": "https://www.linkedin.com/in/avidan-efody/",
+        "headline": "HW/SW Verification Expert"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T01:22:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "Claude won't be offended if you ask it to translate its skills to run on cheaper model.\n\nSo unfortunately not sure that's the direction for juniors.",
+      "likes": 5,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-04-23T01:22:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Avidan Efody Anthropic already put a filter in Claude Code to prevent users using CC to reverse engineer the leaked CC source code.\n\nAt some point down the road, they will make harder for you distill the skil to work on cheaper or open source models.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Avidan Efody",
+            "profile_url": "https://www.linkedin.com/in/avidan-efody/",
+            "headline": "HW/SW Verification Expert"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-04-23T01:22:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan interesting...",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "JJ Marr",
+        "profile_url": "https://www.linkedin.com/in/jjmarr/",
+        "headline": "Scaling Production LLM Orchestration | SDE 2 @ AMD, B. Eng"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T01:22:00+00:00",
+      "posted_at_hint": "6mo",
+      "posted_at_approx": true,
+      "text": "As a junior engineer I see this as an opportunity to skip seniority requirements and hit Team A immediately since everyone's starting from zero experience.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-04-23T01:22:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "JJ Marr Yeap. This kind of opportunity comes once every decade.  Let a junior leap frog a senior. But at some point, the stack will be more mature and the pace of change will slow down.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Javad Monshi Zadeh",
+            "profile_url": "https://www.linkedin.com/in/javad-monshi-zadeh/",
+            "headline": "Validation Engineer at AMD - Toronto"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-04-23T01:22:00+00:00",
+          "posted_at_hint": "6mo",
+          "posted_at_approx": true,
+          "text": "JJ Marr What you going to do about those managers and directors that are still ruling with outdated pre-MI pre-AI gauges?",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:22:00Z"
+}

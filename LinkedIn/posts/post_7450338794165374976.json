@@ -1,0 +1,22 @@
+{
+  "activity_id": "7450338794165374976",
+  "share_id": "7450338794165374976",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7450338794165374976/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-16T00:26:29+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Other open source projects ban AI pull request.  My open source project flip it to the other side, I ban human pull request.   All pull request must be done by an AI coding agent.  \n\nOn top of committing code, it MUST commit the session history file, tell me what agent harness it is, what model it uses, what are the chat history with human, so that my review agent can reproduce and audit the pull request.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:08:00Z"
+}

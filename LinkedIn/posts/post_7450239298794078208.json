@@ -1,0 +1,25 @@
+{
+  "activity_id": "7450239298794078208",
+  "share_id": "7450239298794078208",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7450239298794078208/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-15T17:51:07+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AMD is helping the scientist to find new drugs to save life.  Lisa said it in many interviews; it is her vision to apply AI to advance health science, and she really means it. #AMDBrandAmbassador",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "OpenFold3 Meets AMD Instinct™ GPUs: Unlocking Scalable, High-Throughput Structural Biology",
+    "url": "https://bit.ly/48ytUo6"
+  },
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:08:00Z"
+}

@@ -1,0 +1,22 @@
+{
+  "activity_id": "7448823339118198784",
+  "share_id": "7448823339118198784",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7448823339118198784/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-11T20:04:36+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "How much does the subscription fee the SAAS company charge its customers?  \n\nProbably 2x of the token cost it takes Claude Code to reverse engineer and implement the same thing from scratch. \n\nWhy 2x?  You want to run Opus 4.6 and GPT-5. 4 in parallel and let them cross check each other's work.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:18:00Z"
+}

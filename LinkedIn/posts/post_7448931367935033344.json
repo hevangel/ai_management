@@ -1,0 +1,28 @@
+{
+  "activity_id": "7448931367935033344",
+  "share_id": "7448931367935033344",
+  "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7448931367935033344/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-12T03:13:52+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Ryzen AI Max+ 395 is the best machine to run your local AI workload\n\n#amdbrandambassadors",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Global AI & Ecosystem Leader | Sovereign AI | Business Development | Public Sector & Strategic Partnerships | HPC | AMD",
+    "author_name": "Jens Stapelfeldt",
+    "author_profile_url": "https://www.linkedin.com/in/jensstapelfeldt/",
+    "posted_at_hint": "Apr 10 • Edited",
+    "reshared_text": "Another short interview from my #PyTorch Conference week in Paris this time with my colleague Daniel, discussing his session:\n“From Pretrained to Personal: Privacy-First Fine-Tuning on AI PCs.”\n\nOne of the key messages from his talk is simple but powerful:\nThe data you most want to fine-tune on is often the data you cannot upload.\nWhether in healthcare, finance, government, or enterprise environments, privacy and data control are non-negotiable.\n\nWhat is changing now is not incremental it’s a capability shift.\nThanks to more efficient fine-tuning methods like LoRA and QLoRA, increasingly capable AI PCs, and mature frameworks built around PyTorch, it is now possible to perform meaningful model fine-tuning fully locally keeping sensitive data inside your organization.\n\nIn this 2-minute demo interview, Daniel shows how this works in practice on the AMD Ryzen AI Max+ 395, demonstrating that local, privacy-first AI workflows are becoming realistic for developers, researchers, and enterprises.\n\nWe also shared a preview of something we are very excited about:\nthe upcoming AMD AI Playbooks, a collection of guided, hands-on developer experiences designed to help people get started with local AI, fine-tuning, and other advanced workflows on modern AI hardware.\n\nThis is exactly the kind of shift we are seeing across the ecosystem:\nfrom generic pretrained models to personalized, domain-specific models trained where the data lives.\n\n🎥 Watch the short demo interview below — and stay tuned for the launch of the AMD AI Playbooks later this month.\n\n👉 For more information, register for the AMD AI Developer Program, and follow me here on LinkedIn for updates and upcoming content on local AI and privacy-first fine-tuning.\nSee links below in the comments section!\n\n#PyTorch #LocalAI #FineTuning #Privacy #AIPC #AMD #AIInfrastructure #OpenSource #DeveloperExperience #AgenticAI #Ryzen PyTorch #PyTorchConf #Paris #StationF"
+  },
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T01:16:00Z"
+}

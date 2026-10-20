@@ -1,0 +1,38 @@
+{
+  "activity_id": "7450224325325946880",
+  "share_id": "7450224325325946880",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7450224325325946880/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-04-15T16:51:37+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Are tokens just commodities?  That's the trillion dollars question on how should you invest in this AI bubble.  In the dot com bubble, it turns out bandwidth is commodities.  Remember that, people used to think Cisco would the first trillion dollar company instead of Apple or Google.\n\nOne thing we know for sure, GPU/TPU are fungible commodities.  People may try to convince you otherwise, but I have in the semiconductor industry long enough to know that there is no long lasting moat in raw compute power.  It is just physics after all.   No one can have a monopoly over physics.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vadim Dumin",
+        "profile_url": "https://www.linkedin.com/in/vadimdumin/",
+        "headline": "Experienced System Validation Engineer & Technical Product Owner | Expert in Hardware/Firmware Debug | Test Automation | Cross-Functional Leadership"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-04-23T01:09:00+00:00",
+      "posted_at_hint": "(edited) 6mo",
+      "posted_at_approx": true,
+      "text": "Interesting. I agree with you that raw computer power is not a lasting moat. Applications are on top of the software stack, and the Just-in-time opportunities are on top of applications Maslow's pyramid of needs. Whoever enables the mainstream platform for designing these applications will win the AI game, I think.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T01:09:00Z"
+}
