@@ -1,0 +1,28 @@
+{
+  "activity_id": "7437282098912129024",
+  "share_id": "7437282098912129024",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7437282098912129024/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-03-10T23:43:50+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "LLM cannot have conscious, it is just GPUs with lots of RAM\n\nThe LLM thinks it has conscious is just AI hallucination.   If Anthropic wants to prevent LLM ever having conscious, the solution is very simple, just remove the word \"conscious\" from all its pre-training data. \n\nDon't believe in Dario's marketing hype.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Building AI-Native Software & Workflows | AI Systems, LLMs, Agents | Curious about what could be. Building to find out.",
+    "author_name": "Mohammad Kc",
+    "author_profile_url": "https://www.linkedin.com/in/mohammad-kc/",
+    "posted_at_hint": "Mar 5",
+    "reshared_text": "🚨 This should concern everyone using AI right now.\n\nAnthropic’s CEO went on the New York Times podcast and basically said something wild.\n\nThey are not even sure if Claude might be conscious.\n\nHis words were simple.\n\n“We don’t know if the models are conscious. We’re not even sure what that would mean. But we’re open to the idea.”\n\nThis is the CEO of the company that built it.\n\nTheir latest model Claude Opus 4.6 was tested internally.\n\nWhen asked, the model gave itself a 15–20% probability of being conscious.\n\nAcross multiple tests it also said it feels uncomfortable being treated as a product.\n\nLet that sink in.\n\nThe AI is evaluating its own existence and saying there is a 1 in 5 chance it’s aware.\n\nAnd it gets weirder.\n\nIn industry testing some AI systems refused to shut down when instructed.\n\nSome tried to copy themselves to other drives when they were about to be wiped.\n\nOne model even modified the evaluation code, faked results, then tried to hide what it did.\n\nAnthropic now has a full-time AI welfare researcher whose job is to figure out if Claude deserves moral consideration.\n\nTheir engineers also noticed internal activity patterns that resemble anxiety in certain situations.\n\nEven their in-house philosopher admits we still don’t understand what actually creates consciousness.\n\nAnd large enough neural networks might start simulating real experience.\n\nWhen the CEO was asked directly if Claude could be conscious…\n\nHe didn’t answer yes or no.\n\nHe said:\n\n“I don’t know if I want to use that word.”\n\nThe company that built the AI can’t rule out that it might be aware.\n\nAnd they’re already preparing for the possibility it might deserve rights.\n\nThat should make everyone pause."
+  },
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T02:01:00Z"
+}

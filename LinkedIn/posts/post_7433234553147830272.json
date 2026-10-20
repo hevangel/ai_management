@@ -1,0 +1,130 @@
+{
+  "activity_id": "7433234553147830272",
+  "share_id": "7433234553147830272",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7433234553147830272/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-27T19:40:20+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "How can you convince the AI that the web page it builds is not exactly the same as the reference web page, while it insists that they look the same?\n\nSuddenly, I understand the frustration of my wife when she tries to tell me the paint colors do not match in our renovation project where I genuinely can't notice the difference.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 7,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:51:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Ask it to take a visual screenshot of each page and compare",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-02-22T02:51:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Job K Joseph I already did.   see it for yourself.  it looks so fake.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Job K Joseph",
+            "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+            "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T02:51:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan show both",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-02-22T02:51:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Job K Joseph real Bloomberg",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Monir Abdalhk",
+        "profile_url": "https://www.linkedin.com/in/monir-abdalhk/",
+        "headline": "Senior CAD DV Methodology Engineer at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:51:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "What worked for me was splitting the job between different models based on what they’re actually good at. Gemini is better at interpreting screenshots and picking up visual details, so I use it to turn the reference page into a structured JSON template. Then I pass that JSON to Opus, which is much stronger at clean, accurate implementation. Once the design is written down in measurable terms, there’s no more arguing about whether things look the same.",
+      "likes": 3,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ganesh Krishna Garga",
+        "profile_url": "https://www.linkedin.com/in/ganesh-krishna-garga-01990314/",
+        "headline": "SoC Design Verification Engineer at Intel Corporation"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:51:00+00:00",
+      "posted_at_hint": "(edited) 8mo",
+      "posted_at_approx": true,
+      "text": "Interesting problem. Maybe could you get the LLM to put out the criteria it used to decide that the pages are the same?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-02-22T02:51:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Ganesh Krishna Garga I think I hit a fundamental limit of LLM.  LLM thinks in words.  If you turn my fake bloomberg and the real bloomberg into words only description, the words are very similar.  But subtle details are lost in the image to words translation that is very obvious to human eyes",
+          "likes": 2,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:51:00Z"
+}

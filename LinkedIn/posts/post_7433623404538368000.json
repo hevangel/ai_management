@@ -1,0 +1,41 @@
+{
+  "activity_id": "7433623404538368000",
+  "share_id": "7433623404538368000",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7433623404538368000/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-28T21:25:29+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "When an 80 year old investment legend talks about how AI can disrupt the economy, you have to listen carefully.  Especially when he can understand and explain everything very well.\n\nHe is not a tech bro from within the AI bubble, he is from the same places as Warren Buffett. \n\nhttps://lnkd.in/gUcMFS9H",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "AI Hurtles Ahead",
+    "url": "https://youtu.be/b9BbEFQ0fUQ?si=ud9TFVq7no4_Y16e"
+  },
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:51:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "He does have a thorough memo, as he calls it, but it is an awfully anthropomorphic description of what is in the end a computer program.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T02:51:00Z"
+}

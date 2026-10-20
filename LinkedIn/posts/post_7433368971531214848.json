@@ -1,0 +1,100 @@
+{
+  "activity_id": "7433368971531214848",
+  "share_id": "7433368971531214848",
+  "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7433368971531214848/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-02-28T04:34:28+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Fake Bloomberg, Opus 4.6 vs GPT-5.3\n\nI think I hit a fundamental limit of LLM.  LLM thinks in words.  Although I gave the AI coding agent real Bloomberg screenshots for reference, it just can't match the look 100%.   If you describe the fake Bloomberg and the real Bloomberg is words, the description is very similar.   The detail is lost in the image to words translation, which are very obvious to human eyes\n\nBoth still look fake, but which one you like better?\n",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 5,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Michael Chan",
+        "profile_url": "https://www.linkedin.com/in/michael-kh-chan/",
+        "headline": "Security Engineer @ Clarity | Cybersecurity, AI Security & AppSec | OSWE, OSEP, OSCP"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:51:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Maybe use specialized UI design tools like Figma to get the skeleton of the frontend first? Then use Claude for the backend.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-02-22T02:51:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Michael Chan good idea.  Let me try again with pencil",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-02-22T02:51:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Michael Chan nope.  it doesn't work.  I let GPT-5.3 and Opus 4.6 control pencil (kind a similar to Figma) to clone the Bloomberg UI, it looks better, but everything is still kinda off.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Job K Joseph",
+        "profile_url": "https://www.linkedin.com/in/jobkjoseph/",
+        "headline": "Director - Hi-tech | Global Presales Leader | Enterprise Strategy | CXO Advisor | Thought Leader | Insight-Led Digital Transformation /Growth Partner"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:51:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Not so bad, does the llm one have the grid? That one looks more functionally useful:-)",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-02-22T02:51:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Job K Joseph both are functional on the first attempt, it is the look and feel that's wrong.\n\nActually vibe code a functional stock chart works pretty well since Sonnet 3.5.  that's my test for all new models to measure AI's progress",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:51:00Z"
+}

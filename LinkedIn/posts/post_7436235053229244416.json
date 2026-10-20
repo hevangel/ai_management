@@ -1,0 +1,176 @@
+{
+  "activity_id": "7436235053229244416",
+  "share_id": "7436235053229244416",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7436235053229244416/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-03-08T02:23:15+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I re-implement the DVCon AI library using Cursor with GPT-5.4 on my own PC, so I can open source it \n\nHere is the repo\nhttps://lnkd.in/g4ijKKSs\n\nDVCon U.S  #dvcon",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 47,
+  "reposts": 0,
+  "comment_count": 10,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Srinivasan Venkataramanan",
+        "profile_url": "https://www.linkedin.com/in/svenka3/",
+        "headline": "CEO & Founder AsFigo"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:25:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Can it extract useful, complete code patterns found in such papers? That would be wonderful",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T02:25:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Srinivasan Venkataramanan yes.  All the paper is converted to markdown file and store on the disk.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Srinivasan Venkataramanan",
+            "profile_url": "https://www.linkedin.com/in/svenka3/",
+            "headline": "CEO & Founder AsFigo"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T02:25:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "No I meant to say SV UVM/UPF/PSS code as addendum, can use used to practice the concepts from the paper, used as test suite for Verilator and more..",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T02:25:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Srinivasan Venkataramanan that is an interesting idea, let me vibe code this feature after I clean up the remaining little bugs here and there.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Srinivasan Venkataramanan",
+            "profile_url": "https://www.linkedin.com/in/svenka3/",
+            "headline": "CEO & Founder AsFigo"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T02:25:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan Thanks for following up. As first step we could perhaps extract figures that have captions such as “code snippet” etc. References listing full code download could be another great clue- I recall some papers from Dave Rich would have those. Then seasoned folks such as Verilab friends, ever friendly Verif Gentleman Tudor Timisescu and Ben Cohen usually have code downloads on their websites for ages. Now with AI this can be done for most papers where it is relevant",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Pallavi Kumar",
+        "profile_url": "https://www.linkedin.com/in/pallavikum/",
+        "headline": "Senior staff verification engineer @ AMD | AI Evangelist"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:25:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Super cool project thank you ! How do you like gpt 5.4 in comparison with Claude’s 4.6 ?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T02:25:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Pallavi Kumar I like 5.4 better.  Claude Code is definitely better than Codex CLI.  But honestly, I don't think they are any different to me, since I can't really push it to their limits\n\nFor some reason, I actually like GitHub Copilot or Cursor the best when I have time, because I like to ask the Coding agent to explain things to me in markdown files with mermaid diagrams.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Pallavi Kumar",
+            "profile_url": "https://www.linkedin.com/in/pallavikum/",
+            "headline": "Senior staff verification engineer @ AMD | AI Evangelist"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T02:25:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan true true cursor does a great job with it",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jonathan Stern",
+        "profile_url": "https://www.linkedin.com/in/supertam/",
+        "headline": "Leader North American AI Field Support @ AMD | AI Solutions | Technical Leadership | Customer Enablement"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:25:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "This whole thing was built in Cursor!?\nEnd‑to‑end ingestion, GROBID integration, local embeddings, clean UI — all shipped from a single AI‑augmented workflow. 🤯",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T02:25:00+00:00",
+          "posted_at_hint": "(edited) 8mo",
+          "posted_at_approx": true,
+          "text": "Jonathan Stern yes. but it is the 3rd time I am building it.  I build it with opus 4.6 and 5.3 codex a few weeks ago, so I know exactly what I need in my initial prompt.\n\nthe first run got it 80% correct, then I have to ask AI to debug some corner cases one by one.\n\nactually, it is more than three times, I have attempted to vibe code it since the early day of vibe coding, I am only able to successfully build it with opus 4.6 and later models",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:25:00Z"
+}

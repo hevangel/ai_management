@@ -1,0 +1,84 @@
+{
+  "activity_id": "7433939255816646656",
+  "share_id": "7433939255816646656",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7433939255816646656/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-03-01T18:20:34+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "When I told people I vibe code and I don't look at the generated code at all, they look shocked \n\nIn the pre-AI era, looking at the code is the only way to confirm the correctness of the code, that's why we do it. \n\nNowadays, I simply vibe code my own debug and visualization tools to check the correctness of the generated code at a higher abstraction level.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:40:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "Makes sense. I'm not a programmer, but from interacting with AI two aspects have become clear:\n\n1. The input from the user is parsed non-deterministically by the llm, so what ends up in there is not through a logical causal communication channel.\n2. The output code, (only fragments for me personally for trial purposes), are however purely logical causal code.\n3. The AI is very bad at choosing the larger \"strategy\" for even little code fragments.\n\nI suspect that llm's like, Claude, Codex compilers or whatever they are, will very, very rapidly get better with coding \"strategy\".\n\n4. The AI can, does and will use fully deterministic code verification routines, which include but are not limited to, test frameworks, static analysis, formal verfication, model checking, etc., as has always been done.\n\nSo the code which comes out, from a non-dereministic llm, is actually 100% deterministic.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nathaniel L.",
+        "profile_url": "https://www.linkedin.com/in/nlayton/",
+        "headline": "Principal Software, AI Automation, Cloud Engineer with extensive leadership and delivery experience."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-02-22T02:40:00+00:00",
+      "posted_at_hint": "8mo",
+      "posted_at_approx": true,
+      "text": "If the only validation that your code actually needs is i/o correctness, then this is great. Many of us need a higher level of precision. What it looks like is important to end users, but how it gets there is important for security, stability, and scalability. There are some tools for this, but most are developer assist and need to grow. Some people are building now. We'll all get there soon.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-02-22T02:40:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Nathaniel L. you need to make security, stability and scalability quantifiable, then log verything.  turn it into an I/O problem.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Nathaniel L.",
+            "profile_url": "https://www.linkedin.com/in/nlayton/",
+            "headline": "Principal Software, AI Automation, Cloud Engineer with extensive leadership and delivery experience."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-02-22T02:40:00+00:00",
+          "posted_at_hint": "8mo",
+          "posted_at_approx": true,
+          "text": "Yes.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:40:00Z"
+}
