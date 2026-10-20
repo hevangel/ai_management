@@ -1,0 +1,28 @@
+{
+  "activity_id": "7408244662081101824",
+  "share_id": "7408244662081101824",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7408244662081101824/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-20T20:39:26+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "There are experts in building AI and there are experts in using AI.  Rarely are they the same person. \n\nThe best F1 drivers don't build his own car.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Principal Security Engineer & AI Security Researcher | Claude Certified Architect | AWS Machine Learning Engineer & Solutions Architect | Deep Learning | Mechanistic Interpretability | AI Architect",
+    "author_name": "Travis Lelle",
+    "author_profile_url": "https://www.linkedin.com/in/travislelle/",
+    "posted_at_hint": "Dec 15, 2025",
+    "reshared_text": "I see a lot of people talking about AI as \"experts\" but not many people actually sharing notebooks or projects.\n\nThis leads me to believe that a lot of people with AI in their titles have never touched PyTorch and think \"prompting\" Gemini makes you an expert. 🤔\n\nedit: I'm using PyTorch as an example framework - the idea is that although effective prompting can be a science - prompting alone doesn't make someone an expert with AI in my opinion."
+  },
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T05:04:00Z"
+}

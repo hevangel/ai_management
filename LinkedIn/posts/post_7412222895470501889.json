@@ -1,0 +1,22 @@
+{
+  "activity_id": "7412222895470501889",
+  "share_id": "7412222895470501889",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7412222895470501889/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-31T20:07:30+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Over the holidays, I used AI to organize my audiobook collection, download missing covers, clean up the missing author metadata \n\nAI generates tons of python scripts calling the appropriate python package   The AI has to loop and debug its scripts but eventually it gets the job done. \n\nThis is a revelation, for many years, we programmers think the code is the center of the world, but code is just a means to an end.  Processing information is the purpose of the code.  The code itself is irrelevant.  That's why computer science is also called information technology",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:49:00Z"
+}

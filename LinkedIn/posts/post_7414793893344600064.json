@@ -1,0 +1,22 @@
+{
+  "activity_id": "7414793893344600064",
+  "share_id": "7414793893344600064",
+  "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7414793893344600064/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-07T22:23:44+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Wow.  I want to get a new AI laptop to run the agentic loop locally.   The API calls to cloud LLM is slow and expensive.   It seems the 200B local model is the sweet spot to fit inside a laptop. #AMDBrandAmbassador",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:35:00Z"
+}

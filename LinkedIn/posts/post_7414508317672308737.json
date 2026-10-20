@@ -1,0 +1,265 @@
+{
+  "activity_id": "7414508317672308737",
+  "share_id": "7414508317672308737",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7414508317672308737/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-07T03:28:57+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "There is no senior engineer.  ChatGPT is only 3 years old, Claude Code is less than a year old. Everyone is a junior engineer in this new vibe/agentic coding era.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 8,
+  "reposts": 0,
+  "comment_count": 16,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Marcin Mroczkowski",
+        "profile_url": "https://www.linkedin.com/in/marcinmroczkowski/",
+        "headline": "CTO at Codebase.run | Building reliable workflows for AI coding agents"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-24T04:45:00+00:00",
+      "posted_at_hint": "10mo",
+      "posted_at_approx": true,
+      "text": "Damn man you are so wrong.\n\nI love AI, but if you think seniority in architecture is void then...\nDo not force me to swear.",
+      "likes": 5,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-12-24T04:45:00+00:00",
+          "posted_at_hint": "(edited) 10mo",
+          "posted_at_approx": true,
+          "text": "Marcin Mroczkowski yes, it will be void.  The architecture of everything, software and hardware like wise will change beyond everyone's recognition. \n\nComputational theories are still important. Physical stuff like latency, bandwidth, capacity, power, cost and their trade off are still important. \n\nIn the AI era, it is only AI and first principle thinking matters, all the layers in the middle suddenly go away.  All the architectural best practices based on historical convention of how we write code will be blown into pieces. \n\nIf how we build chips and the network is changed drastically because of AI, all the software layers sitting on top will have a platonic shift.\n\nThe boundary of software and hardware will get blurred again, just like in the early days of computers.  When you can vibe code software, what stop you from vibe code hardware?   If you can easily move pieces of software into hardware, what will happen?\n\nWhat if you can optimize across all layers at the same time?  Application, front end, backend, database, networking stack, OS, CPU, it is just one giant Turing machine that moves bits around.\n\nThe boundary of frontend and backend developer is pretty much gone today.  What's next?",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Josh Griffith",
+            "profile_url": "https://www.linkedin.com/in/cheevly/",
+            "headline": "Been vibin’ ever since text-davinci-003."
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-12-24T04:45:00+00:00",
+          "posted_at_hint": "10mo",
+          "posted_at_approx": true,
+          "text": "Marcin Mroczkowski if you are using any of the 'classic' architectures for code (pre-LLM software patterns), you are barely scratching the surface of what AI is capable of.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Marcin Mroczkowski",
+            "profile_url": "https://www.linkedin.com/in/marcinmroczkowski/",
+            "headline": "CTO at Codebase.run | Building reliable workflows for AI coding agents"
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-12-24T04:45:00+00:00",
+          "posted_at_hint": "10mo",
+          "posted_at_approx": true,
+          "text": "Josh Griffith We need to make some call-in if possible because I am very interested in your approach 🙂",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Marcin Mroczkowski",
+            "profile_url": "https://www.linkedin.com/in/marcinmroczkowski/",
+            "headline": "CTO at Codebase.run | Building reliable workflows for AI coding agents"
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-12-24T04:45:00+00:00",
+          "posted_at_hint": "10mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan It maybe come to terms, but right now it is not reality.\n\nIf AI trend would continue then sure. I am talking about current state.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Josh Griffith",
+            "profile_url": "https://www.linkedin.com/in/cheevly/",
+            "headline": "Been vibin’ ever since text-davinci-003."
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-12-24T04:45:00+00:00",
+          "posted_at_hint": "(edited) 10mo",
+          "posted_at_approx": true,
+          "text": "Marcin Mroczkowski given your Java background, I wonder what your relationship is with aspect-oriented programming.\n\nI will say that the only way to embrace my approach is to accept that the code itself will be rendered unreadable / unmaintainable by humans, lol",
+          "likes": 2,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-12-24T04:45:00+00:00",
+          "posted_at_hint": "10mo",
+          "posted_at_approx": true,
+          "text": "Marcin Mroczkowski oh yeah.  It is a long road ahead.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-12-24T04:45:00+00:00",
+          "posted_at_hint": "10mo",
+          "posted_at_approx": true,
+          "text": "Josh Griffith yeap.  Code is the new binary. \n\nI am old enough to remember we have to write assembly code by hand. Then it comes C, later C++",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Marcin Mroczkowski",
+            "profile_url": "https://www.linkedin.com/in/marcinmroczkowski/",
+            "headline": "CTO at Codebase.run | Building reliable workflows for AI coding agents"
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-12-24T04:45:00+00:00",
+          "posted_at_hint": "10mo",
+          "posted_at_approx": true,
+          "text": "Josh Griffith If I understand you correctly, you are still \"orchestrator\" of small chunks written by AI alone.\n\nSo the question is more about \"is this process full-auto?\" or you still need human architect to oversee it.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Josh Griffith",
+            "profile_url": "https://www.linkedin.com/in/cheevly/",
+            "headline": "Been vibin’ ever since text-davinci-003."
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-12-24T04:45:00+00:00",
+          "posted_at_hint": "10mo",
+          "posted_at_approx": true,
+          "text": "Marcin Mroczkowski i can delete half my codebase and regenerate it and it just works, slots right back into the existing functionality.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Tomasz Pijanowski",
+        "profile_url": "https://www.linkedin.com/in/tomaszpijanowski/",
+        "headline": "From business problems to working solutions | Founder of ToruAI | Building TORIS"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-24T04:45:00+00:00",
+      "posted_at_hint": "10mo",
+      "posted_at_approx": true,
+      "text": "Yes and no\n\nIf extracted to prompts and tools only then yes.\n\nIf building/creating solutions then no.\n\nBuilding without knowledge could lead to scope creep, architectural clutter, other major blockers…\n\nMore over solving problems is not only building :)\nSo if you were junior you will hit the wall much faster ;)",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-12-24T04:45:00+00:00",
+          "posted_at_hint": "10mo",
+          "posted_at_approx": true,
+          "text": "Tomasz Pijanowski there will be senior and junior eventually when the changes slow down, best practices stabilized.  \n\nWhat I am saying is AI is changing so fast that what we the seniors had learnt in the last 20 years is quickly becoming obsoleted",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Colin Brennan",
+        "profile_url": "https://www.linkedin.com/in/svz-colin-brennan/",
+        "headline": "The Fix-It-Felix your codebase deserves | Senior Full Stack engineer | AI best practices | Codebase damage control and repair specialist"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-24T04:45:00+00:00",
+      "posted_at_hint": "10mo",
+      "posted_at_approx": true,
+      "text": "This is the funniest shit I've read all week.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Miłosz Suchy",
+        "profile_url": "https://www.linkedin.com/in/miloszsuchy/",
+        "headline": "Engineering Lead in DevOps & SRE with 17+ years of experience bridging deep technical expertise with team leadership, engineering transformation, and clear communication between technical and business stakeholders."
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-24T04:45:00+00:00",
+      "posted_at_hint": "10mo",
+      "posted_at_approx": true,
+      "text": "Well, if you look at this from the perspective of technology maturity, entry-barrier and the amount of knowledge you need to acquire to be \"senior-level\" proficient it's much easier than e.g. to be senior DB admin 😉😄",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Joseph Noble",
+        "profile_url": "https://www.linkedin.com/in/thejosephnoble/",
+        "headline": "Builder | Consultant | SMB AI + Modernization"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-24T04:45:00+00:00",
+      "posted_at_hint": "10mo",
+      "posted_at_approx": true,
+      "text": "Horace Chan\nGonna let my good friend Grok respond to this:\nAh, the \"everyone's a junior in AI Wonderland\" thesis—charming in its naivety, like declaring all drivers novices because Tesla Autopilot just hit puberty. But let's dissect this with the precision of a senior engineer debugging a junior's infinite loop.\n\nChatGPT may be a toddler, but software engineering isn't. Fundamentals like algorithms, architecture, and \"don't ship code that hallucinates\" predate it by decades. Seniors aren't obsolete; they're the firefighters dousing AI's dumpster fires.\n\nExhibit A: In 2023, GitHub Copilot spat out vulnerable code snippets, recycling old bugs like a bad DJ remixing hits. Result? Security holes in production apps, patched by—gasp—experienced humans.\n\nExhibit B: Air Canada's AI chatbot in 2024 promised nonexistent refunds, costing them a lawsuit. Who fixed it? Not the bot's \"vibe,\" but seniors rewriting the logic.\n\nExhibit C: Countless \"agentic\" workflows in 2025 imploded under scale, spewing memory leaks and race conditions. Juniors cheered the hype; seniors sighed and refactored.\n\nIn this era, seniors are more vital than ever—guiding the chaos, lest we all drown in buggy, unethical sludge. The vibe? It's called expertise.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Josh Griffith",
+        "profile_url": "https://www.linkedin.com/in/cheevly/",
+        "headline": "Been vibin’ ever since text-davinci-003."
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-24T04:45:00+00:00",
+      "posted_at_hint": "10mo",
+      "posted_at_approx": true,
+      "text": "Fully agree.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T04:45:00Z"
+}

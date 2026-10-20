@@ -1,0 +1,38 @@
+{
+  "activity_id": "7410815229644926976",
+  "share_id": "7410815229644926976",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7410815229644926976/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-27T22:53:57+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Vibe managing is real.  I hook up my Claude Code to github, Jira, Confluence and our CI/CD and regression test, I can get real time status on everyone's work progress.   Right now, I still follow up with them using the good old email, Teams message or sync-up calls.   The technology to automate that and close the loop is just around the corner.\n\nDo we still need the daily scrum or weekly status meeting if AI can facilitate communication better than human?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 14,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "JJ Marr",
+        "profile_url": "https://www.linkedin.com/in/jjmarr/",
+        "headline": "Scaling Production LLM Orchestration | SDE 2 @ AMD, B. Eng"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-12-24T04:49:00+00:00",
+      "posted_at_hint": "10mo",
+      "posted_at_approx": true,
+      "text": "This requires people to leave comments on the Jira and write Confluence documentation.",
+      "likes": 3,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T04:49:00Z"
+}

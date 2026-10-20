@@ -1,0 +1,53 @@
+{
+  "activity_id": "7418895047955501056",
+  "share_id": "7418895047955501056",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7418895047955501056/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-19T06:00:16+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Is it just me? \n\nI am obsessed with asking AI to compare all the very similar yet slightly different AI frameworks or SDKs.  Why do we need 5 versions of more or less the same thing, one from each leading AI lab? \n\nWhy can't they just work together and create one common framework/SDK?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Rob Szolomicki",
+        "profile_url": "https://www.linkedin.com/in/rob-s-6066835/",
+        "headline": "Pre-Silicon Chip Verification"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:23:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "We need the costco of AI",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:23:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "Here’s a way to understand how AI can sound intelligent while still being just a computer.\n\nPut about thirty ordinary words in a bucket. Try making 8-word sentences by picking eight words at random. Almost every result looks like noise, even though all the words are real.\n\nThis is because randomness overwhelms structure. Sentence-like word orders are extremely rare compared to all possible orders. Random picking almost never produces language.\n\nNow change the bucket. Add multiple copies of glue words like “the”, “is”, “to”, “and”, “I”. Keep selecting randomly. Very quickly you will get plausible 8-word sentences such as:\n“The quiet clock decided to apologize for yesterday.”\n\nWith just that adjustment, fluency appears without meaning. Many random picks now look like sentences. They sound right but often say little.\n\nAdding word copies in this example is equivalent to training in AI: repeated exposure increases likelihood. No understanding was added, only weighting. This is how fluency appears before meaning.\n\nAs models get larger, sentences become longer and stories improve, but the computer still does not understand anything. Humans supply the understanding when we read the response to the prompt.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T04:23:00Z"
+}

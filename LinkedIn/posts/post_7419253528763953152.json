@@ -1,0 +1,22 @@
+{
+  "activity_id": "7419253528763953152",
+  "share_id": "7419253528763953152",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7419253528763953152/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-20T05:44:44+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I am vibe coding the whole service to only use a single instance of Postgres.  Why bother with all other databases and microservices if Postgres can be the one database that rules them all. \n\nFront end, back end, database schema, all in one giant mono repo.  Let's see how far it can go before everything starts falling apart.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:23:00Z"
+}

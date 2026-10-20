@@ -1,0 +1,53 @@
+{
+  "activity_id": "7418495628453896193",
+  "share_id": "7418495628453896193",
+  "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7418495628453896193/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-18T03:33:06+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I’m happy to share that I’ve obtained a new certification: Build with Andrew from DeepLearning.AI!",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 22,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Eric Qu",
+        "profile_url": "https://www.linkedin.com/in/daozhengqu/",
+        "headline": "Do is better."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:26:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "Congratulations! 🎉",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Karthik Govindarajan",
+        "profile_url": "https://www.linkedin.com/in/karthik-govindarajan-261b8725/",
+        "headline": "Senior Design Verification Engineer at Intel Corporation | IP & Sub-System level Verification Expert"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:26:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "Congratulations! 🎉",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T04:26:00Z"
+}

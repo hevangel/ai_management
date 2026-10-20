@@ -1,0 +1,22 @@
+{
+  "activity_id": "7414874832745660416",
+  "share_id": "7414874832745660416",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7414874832745660416/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-08T03:45:21+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "If we can vibe code software, what stops us from vibe code hardware? \n\nImagine in the future, the local AI will automatically compile a portion of your software and run it in an embedded FPGA to makes it 1000x faster. \n\nGuess which company has all 3 pieces - CPU, GPU and FPGA?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:32:00Z"
+}

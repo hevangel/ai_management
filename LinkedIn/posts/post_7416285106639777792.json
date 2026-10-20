@@ -1,0 +1,22 @@
+{
+  "activity_id": "7416285106639777792",
+  "share_id": "7416285106639777792",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7416285106639777792/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-12T01:09:17+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "How to build your second brain with the help of AI\n\n8 Components \n\n1. The Dropbox: A single, easy point for capturing thoughts.\n2. The Sorter: AI that automatically classifies your input.\n3. The Form: Consistent data structures for predictable storage and retrieval.\n4. The Filing Cabinet: Where all your organized information lives.\n5. The Receipt: An audit trail that logs system actions, building trust.\n6. The Bouncer: A confidence filter that prevents low-quality outputs from cluttering your system.\n7. The Tap on the Shoulder: Proactive nudges (daily digests, weekly reviews) that surface important information.\n8. The Fix Button: A simple way to correct errors and maintain accuracy.\n\n12 Rules\n\n1. Focus on One Human Behavior: Design the system so you only have to do one thing consistently (like dropping a thought in Slack).\n2. Separate Components: Keep memory (Notion), compute (Zapier/AI), and interface (Slack) distinct for flexibility.\n3. Prompt Like APIs: Give your AI clear, fixed instructions for reliable outputs.\n4. Build Trust: Incorporate features like audit trails and easy corrections.\n5. Handle Errors Gracefully: Default to safe behaviors when the AI is uncertain.\n6. Small, Frequent, Actionable Outputs: Deliver concise, useful information that's easy to act on.\n7. Focus on Next Actions: Ensure project notes include concrete, executable steps.\n8. Prefer Routing Over Organizing: Let the AI do the categorization.\n9.Keep Categories Small: Simplicity reduces friction and improves adoption.\n10. Design for Restart: Make it easy to pick up where you left off without guilt.\n11. Build Core Loops First: Establish essential functionality before adding complexity.\n12. Prioritize Maintainability: Choose tools and setups that are easy to manage and fix.\n\nAI generated from NateBJones' YouTube video",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:30:00Z"
+}

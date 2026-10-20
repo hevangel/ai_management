@@ -1,0 +1,22 @@
+{
+  "activity_id": "7414795553160671234",
+  "share_id": "7414795553160671234",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7414795553160671234/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-07T22:30:20+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "When the factories install robots, they reorganized the factory floor, so humans work around the robots.\n\nIn this AI era, when companies adopt agentic AI, we should reorganize our workflow, so the humans work around the AI agents.\n\nThis is the easiest path of adoption; humans are more way adaptable than robots or LLM.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:35:00Z"
+}

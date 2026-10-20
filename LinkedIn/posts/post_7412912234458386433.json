@@ -1,0 +1,22 @@
+{
+  "activity_id": "7412912234458386433",
+  "share_id": "7412912234458386433",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7412912234458386433/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-02T17:46:42+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "In the era of AI, we have a code fragmentation problem.   \n\nUnless it is a well-known and well supported opensource library, it is far easier to tell my AI to \"steal\" bits and pieces from the package I want to reuse and embed only the code that I need directly in my project, instead of trying to import the whole package and call the API.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T04:48:00Z"
+}

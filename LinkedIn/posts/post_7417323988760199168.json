@@ -1,0 +1,38 @@
+{
+  "activity_id": "7417323988760199168",
+  "share_id": "7417323988760199168",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7417323988760199168/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-14T21:57:26+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "If AI can't read it, it doesn't exist\n\nJust like in web 2.0 era, if Google can't index your website, it doesn't exist.\nIn the AI era, you have to make everything AI readable.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:26:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "Yes.  Do this.\n\n1.\tLet the robot visit\nIf the robot isn’t allowed on your page, it doesn’t exist to it.\n\n2.\tPut the words on the page\nThe robot needs to see the words right away, not hidden behind buttons.\n\n3.\tSay what it’s about clearly\nUse simple words and a clear title, like a school poster.\n\n4.\tTell the robot what things are\nAdd labels like “this is a person” or “this is an article” so it understands.\n\n5.\tUse a clean web address\nShort, clear links are easier for robots to remember.\n\n6.\tMake it easy to copy\nShort paragraphs and headings help the robot grab the right part.\n\n7.\tKeep it fast and neat\nSlow or messy pages are hard to read.\n\n8.\tGive it a map\nA sitemap is a list of all your pages so the robot doesn’t miss any.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T04:26:00Z"
+}

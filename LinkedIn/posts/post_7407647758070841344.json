@@ -1,0 +1,22 @@
+{
+  "activity_id": "7407647758070841344",
+  "share_id": "7407647758070841344",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7407647758070841344/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-12-19T05:07:33+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AI First Engineer Principles\n\n1. No hands allowed. Do everything thru AI\n- Andrej Karpathy: Software Is Changing (Again) - YouTube\n\n2. You probably need to build your own tooling and harness to make AI useful.\n- Hands are allowed when building the tools.\n- Don’t fall in love with the IDE/Coding agent or the LLM\n- use whatever you feel most comfortable to work with\n- they are more or less the same, some lead by a few weeks/months\n- when you reach the limit of the IDE/Coding agent, it is time to level up\n\n3. AI is good at copying code and following instructions\n- Levels of context engineering\n  - Level 0 : make sure the context is there\n  - Level 1 : make sure the AI knows how to use the context correctly\n  - Level 2 : figure out how to search the relevant context and show it to the AI fast\n  - Level 3 : optimize the cost of the context search\n- premature optimization kills many good startups and good projects\n\n4. AI has infinite patient, and it never goes tried\n- Just assume you have access to unlimited GPU and unlimited tokens\n- Rich Sutton: The Bitter Lesson\n- The infinite intern theorem\n  - In philosophy, the infinite monkey theorem states that if there are infinite monkeys with infinite typewriters, eventually one monkey will type a book of Shakespeare\n  - AI is smarter than monkeys, it is around the intelligent level of interns. If we have infinite interns, keep rolling the dice, eventually one of them will get the work done as long as we have a reliable way to check for the correctness of the work\n\n5. Your brain is the bottleneck of AI\n- if you can visualize clearly how it could be done, the AI will make it happen\n- good old engineering principle, divide and conquer\n\n6. DON’T trust AI’s output.\n- You never know when AI suddenly goes stupid.\n- Always check for the correctness of AI’s work\n- Prefers good old fashion rule based checks\n- The AI is NOT allowed to change the checks\n- Check early, check often. The earlier you catch its mistake, the cheaper to fix\n- Build the error checking and retry loop into the AI agent\n- Don’t let AI make irreversible changes without a human in the loop\n  - AI should not write live production database directly\n  - AI should not delete files directly\n  - It is OK to have a layer of human reviewed tool calls to gate the changes\n\n7. Always ask the AI to write a report on what it has done and commit the report with the code\n- You don’t have repeat yourself talking to AI the next time, just ask AI to follow previous reports\n- Useful for future fine tuning or cost optimization",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 14,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T05:09:00Z"
+}

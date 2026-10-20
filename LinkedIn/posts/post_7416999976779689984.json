@@ -1,0 +1,84 @@
+{
+  "activity_id": "7416999976779689984",
+  "share_id": "7416999976779689984",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7416999976779689984/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-01-14T00:29:55+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Everyone hates the daily scrum stand up meeting, why not use AI to automate it. \n\nAs long as everyone answers the 3 standup questions everyday somewhere, in Jira comments or commit messages, the AI agent can pull all the info together and create an AI daily scrum report.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 10,
+  "reposts": 0,
+  "comment_count": 4,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "JJ Marr",
+        "profile_url": "https://www.linkedin.com/in/jjmarr/",
+        "headline": "Scaling Production LLM Orchestration | SDE 2 @ AMD, B. Eng"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:30:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "This'll only happen when the AI can DM me on Teams when I don't fill out the Jira,  ask me for status updates, and maybe shame me for not making progress on my assigned ticket.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Zoia Ermolova",
+        "profile_url": "https://www.linkedin.com/in/zoya-ermolova/",
+        "headline": "Business System Analyst I 8+ years experience insurance domain I SaaS I Enterprise Solutions I Digital Transformation  I Agile"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:30:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "MS Teams already has plagin for it:\nWe actually used this plugin in MS Teams on one of my projects.\nEvery day, a card popped up in the general channel with the classic 3 standup questions, and everyone had a clear deadline to fill it in.\n\nAfter that, the Scrum Master reviewed all the cards, checked if there were any blockers or topics that needed discussion, and only brought those items into a live conversation.\n\nIt worked well: less meeting fatigue, clear written timeline, and discussions were focused only where needed.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-01-23T04:30:00+00:00",
+          "posted_at_hint": "9mo",
+          "posted_at_approx": true,
+          "text": "Zoia Ermolova how can you get Teams to get info from Jira and GitHub?",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "J. Rubens F.",
+        "profile_url": "https://www.linkedin.com/in/rubensq/",
+        "headline": "QA Engineer Turned Builder | Helping Founders Show Up on LinkedIn — Daily | 20 Years of Testing Discipline Applied to Growth"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-01-23T04:30:00+00:00",
+      "posted_at_hint": "9mo",
+      "posted_at_approx": true,
+      "text": "Leveraging AI for daily updates not only streamlines communication but also supports data-driven decision-making.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T04:30:00Z"
+}
