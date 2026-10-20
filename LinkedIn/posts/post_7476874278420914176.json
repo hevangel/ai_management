@@ -1,0 +1,38 @@
+{
+  "activity_id": "7476874278420914176",
+  "share_id": "7476874278420914176",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7476874278420914176/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-28T05:49:01+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Antigravity is dumb.  Why wasted 5k tokens per chat on skills that I will never use?   Why does it even install alphafold for me by default?  Do I look like a biologist?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Sujith B",
+        "profile_url": "https://www.linkedin.com/in/sujith006/",
+        "headline": "PQC Engineer @codesstellar | co-founder @Notabot | Data science & ML"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-07-21T23:43:00+00:00",
+      "posted_at_hint": "3mo",
+      "posted_at_approx": true,
+      "text": "Well its an optional selection, it was you who installed it but i think you should consider using it for minimal work cuz gemini hallucinates like  A LOT.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:43:00Z"
+}

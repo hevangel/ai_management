@@ -1,0 +1,38 @@
+{
+  "activity_id": "7473901502147870720",
+  "share_id": "7473901502147870720",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7473901502147870720/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-20T00:56:16+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Using Sonnet to debug won't save you any money, it will cost you a lot more when the bug slips thru the crack.\n\nOpus knows how to root cause the bug, Sonnet tends to just treat the symptoms, patch it up and call it a day. \n\nHow about using Sonnet with human review the bug fix?  Human is way more expensive than tokens, it won't save you any money either.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-21T23:51:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "The catch nobody mentions: Opus root-causes well, but it only gets better with feedback on its fixes — and in chip design you can't send confidential RTL out to give it that feedback. So the loop has to close on-prem, over your own traces. That's the actual hard problem.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:51:00Z"
+}

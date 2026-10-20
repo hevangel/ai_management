@@ -1,0 +1,25 @@
+{
+  "activity_id": "7473633859675279360",
+  "share_id": "7473633859675279360",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7473633859675279360/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-19T07:12:45+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Boris said his CLAUDE.md only has 2 lines\n\nI am better than him, mine only has 1 line\n\n@AGENTS.md",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Overview - Claude Code Docs",
+    "url": "https://code.claude.com/docs/en/overview"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:53:00Z"
+}

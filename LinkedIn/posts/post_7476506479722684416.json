@@ -1,0 +1,22 @@
+{
+  "activity_id": "7476506479722684416",
+  "share_id": "7476506479722684416",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7476506479722684416/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-27T05:27:31+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Sonnet is lazy, it always asks me to look things up for it.\nOpus will just go look things up itself without bothering me.\n\nI suspect Anthropic deliberately train them this way.  Smaller weight sizes just mean it know less random knowledge; it should not make the model lazier.  \n\nFor many tasks, I just need the model keep digging, I don't need the model to know a lot of random knowledge.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:45:00Z"
+}

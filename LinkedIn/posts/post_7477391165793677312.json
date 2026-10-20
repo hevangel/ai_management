@@ -1,0 +1,25 @@
+{
+  "activity_id": "7477391165793677312",
+  "share_id": "7477391165793677312",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7477391165793677312/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-29T16:02:57+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "GLM is cheapest tokens available for personal use, so I joined z.ai for a month and see how it is. \n\nSubjective experience is so far so good, it is better than Sonnet but worse than Opus. I am using Cline for interactive work and Opencode for agentic work with GLM.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Z.ai - Advanced AI Chatbot & Agent powered by GLM-5.3-Flash",
+    "url": "https://chat.z.ai/"
+  },
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:41:00Z"
+}

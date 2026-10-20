@@ -1,0 +1,22 @@
+{
+  "activity_id": "7473879859446853632",
+  "share_id": "7473879859446853632",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7473879859446853632/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-19T23:30:16+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Claude is like a black hole, it is swallowing more and more pieces of the harness around it into its weights\n\nWhy do you need a harness if the LLM can vibe code its own harness on the fly?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:51:00Z"
+}

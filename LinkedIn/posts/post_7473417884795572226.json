@@ -1,0 +1,22 @@
+{
+  "activity_id": "7473417884795572226",
+  "share_id": "7473417884795572226",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7473417884795572226/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-18T16:54:33+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Here is the post-AI workflow\n\n1. User reports an issue in email or chat\n2. AI agent start carry out first investigation \n- if the user is dumb, the AI politely tell them, they are dumb\n- if it is a real bug, AI files a Jira ticket\n3. Human tech lead look at the Jira ticket\n- if it is a simple fix -> full auto AI\n- if it is urgent -> sr. human engineer with his AI\n- if it can wait -> jr. human engineer with his AI",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:53:00Z"
+}

@@ -1,0 +1,54 @@
+{
+  "activity_id": "7474240814680932353",
+  "share_id": "7474240814680932353",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7474240814680932353/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-20T23:24:35+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I can't taste the difference between a $200 bottle wine vs a $2000 bottle wine, so the $200 wine is good enough for me\n\nIf you can't tell the difference between AI generated stuff vs human hand crafted stuff, then AI generated stuff is good enough for you.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jarmo Venalainen",
+        "profile_url": "https://www.linkedin.com/in/jarmo-venalainen-abb61810/",
+        "headline": "Studying what AI is, what it can do and what it will do."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-21T23:49:00+00:00",
+      "posted_at_hint": "(edited) 4mo",
+      "posted_at_approx": true,
+      "text": "For me AI is fast at mixing up quasi-random recepies based on a corpus of what people have and have not liked, so,\n\nSome of it's muffins are really delicious,\n\nbut,\n\nMost of them are like industrially produced white bread.\n\nThat raises the question, if a human artist chooses the tasty one during his chat, as per his unique taste, is that original art?\n\nFurther reading:\nhttps://www.linkedin.com/posts/jarmo-venalainen-abb61810_for-me-ai-is-fast-at-mixing-up-quasi-random-activity-7474560098053345280-ZAtc?utm_source=share&utm_medium=member_ios&rcm=ACoAAAI6FS8B2DkdOJhcLufZjc3FZM-WfUEVOfY",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-06-21T23:49:00+00:00",
+          "posted_at_hint": "(edited) 4mo",
+          "posted_at_approx": true,
+          "text": "Jarmo Venalainen cooking is an art for sure.  I don't think the cooks need to grow their own food to make cooking an art",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-19T23:49:00Z"
+}

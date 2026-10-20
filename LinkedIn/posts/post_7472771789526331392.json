@@ -1,0 +1,38 @@
+{
+  "activity_id": "7472771789526331392",
+  "share_id": "7472771789526331392",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7472771789526331392/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-16T22:07:12+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "If you ask your engineers to justify why they need Opus, you will end up spending a lot more money on tokens. \n\nThe only way to justify it is run benchmark.  Running a benchmark run consumes 3x to 10x of the tokens amount that need to get the job done the first time.  And don't forget to factor in the engineers' time that can otherwise spend on productive work instead of running benchmark.\n\nFor engineers' day to day work, get it done and move on fast is probably the cheapest way. \n\nFully automated production work load is a different story.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-21T23:55:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "Agree. You can also use Claude once to write scripts that filter and compact the input data. For repeated workflows, the next runs consume much less context because the model sees only the relevant logs, RTL snippets, traces, or summaries instead of all the raw data.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:55:00Z"
+}

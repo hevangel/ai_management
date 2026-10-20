@@ -1,0 +1,38 @@
+{
+  "activity_id": "7475948905931808768",
+  "share_id": "7475948905931808768",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7475948905931808768/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-25T16:31:55+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Email with a fully AI-native colleague asking for a very specific question feels like calling the tech support hotline, dial 1 for X, dial 2 for Y.\n\nHis AI cannot understand exactly what I am asking for, it just keep giving me seemingly helpful looking but useless answers\n\nI should just ask for the path to his Claude Code history jsonl and get my AI to dig up the information myself.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Barry Moss",
+        "profile_url": "https://www.linkedin.com/in/barrygmoss/",
+        "headline": "FPGA/ASIC Design Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-21T23:48:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "Or perhaps your colleague should just answer their own messages? Frankly if I had a colleague that let AI answer their email or chats in such a useless fashion, I would just write them off as useless.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:48:00Z"
+}

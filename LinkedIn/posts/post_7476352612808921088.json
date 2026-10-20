@@ -1,0 +1,22 @@
+{
+  "activity_id": "7476352612808921088",
+  "share_id": "7476352612808921088",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7476352612808921088/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-26T19:16:06+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "In pre AI era, very often I don't know what I want/need until I write the code, then refactor it. \n\nThat's why waterfall is dead and agile takes over the software world. \n\nIn post AI era, somehow people assume engineers know what we want/need before the AI writes the code and put the constraints into the harness and the loop. \n\nWaterfall development will not work.  We have to figure out how we can vibe code using the agile workflow reliably instead",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-19T23:45:00Z"
+}

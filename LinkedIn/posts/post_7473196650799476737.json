@@ -1,0 +1,54 @@
+{
+  "activity_id": "7473196650799476737",
+  "share_id": "7473196650799476737",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7473196650799476737/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-18T02:15:27+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I am pretty sure Opus 4.8 does not have real understanding like a human.   I just come across a case that the EDA tool's user guide and the example tarball comes with the tool has a slight mismatch, probably outdate config.   \n\nThe example and the doc are not very big, it fit nicely into 200k context window plus my smoke testbench.   Opus just cannot figure out the correct answer when there is a contradiction in the context.  It keeps burning tokens and running in circle.   \n\nFinally, I spent 30 minutes read everything with my own eyes, I spot the contradiction right away.   Then I told Opus what's the ground truth is in 1 line, the whole thing simple works in the next loop.\n\nI will try this test with Fable when it is unbanned.  Looks like our jobs are still safe until an LLM can get this test working.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Hin chun",
+        "profile_url": "https://www.linkedin.com/in/hin-c-a1b6a1112/",
+        "headline": "Design verification engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-21T23:55:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "Opus, sonnet which one you recommend?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-06-21T23:55:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Hin chun it depends on your task.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-19T23:55:00Z"
+}

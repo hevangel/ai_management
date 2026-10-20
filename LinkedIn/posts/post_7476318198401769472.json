@@ -1,0 +1,54 @@
+{
+  "activity_id": "7476318198401769472",
+  "share_id": "7476318198401769472",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7476318198401769472/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-26T16:59:21+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Claude Code and Codex should flip the default behavior to auto approve.   New users are frustrated by having to hit \"Yes\" every 2 minutes and for some reason, they are reluctant to enable auto approve.\n\nAI shouldn't blame the user if the user approves a dumb action proposed by the AI.   AI should NOT propose dumb actions in the first place.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Maria Wong",
+        "profile_url": "https://www.linkedin.com/in/maria-wong-0397423/",
+        "headline": "Technical Lead at General Motors"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-21T23:48:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "When it's not approved, the task mostly fails and wasted my tokens.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Vansh lata",
+            "profile_url": "https://www.linkedin.com/in/vansh-lata-0909b853/",
+            "headline": "Member of Technical Staff at AMD, Ex Samsung"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-06-21T23:48:00+00:00",
+          "posted_at_hint": "4mo",
+          "posted_at_approx": true,
+          "text": "Maria Wong Wasting tokens is worth taking wrong directions from AI",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-19T23:48:00Z"
+}

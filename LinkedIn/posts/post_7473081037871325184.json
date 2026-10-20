@@ -1,0 +1,38 @@
+{
+  "activity_id": "7473081037871325184",
+  "share_id": "7473081037871325184",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7473081037871325184/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-17T18:36:02+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Today, I mistaken a colleague as an AI on Teams.  \n\nHe wrote long messages with emoji in the chat, so I confronted him that he should clearly mark AI generated messages, so I can skip it, let my AI read it for me instead. It turns out he wrote it as a human. \n\nWe need a reverse Turing test.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Inas Dager",
+        "profile_url": "https://www.linkedin.com/in/inasdager/",
+        "headline": "Sr. Verification engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-06-21T23:55:00+00:00",
+      "posted_at_hint": "4mo",
+      "posted_at_approx": true,
+      "text": "Asma Qaisi Shahd Joudeh",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-19T23:55:00Z"
+}

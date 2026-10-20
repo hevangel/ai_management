@@ -1,0 +1,28 @@
+{
+  "activity_id": "7472054115120861184",
+  "share_id": "7472054115120861184",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7472054115120861184/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-06-14T22:35:25+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Claude Code and Codex should have a built-in ponytail.   This one is on par with the ralph-loop.\n\nHere is the best\n\nWhy \"ponytail\"?  \nYou know exactly why",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Lead GenAI Engineer at Trimble | Founder & Creator of Ponytail",
+    "author_name": "Dietrich Gebert",
+    "author_profile_url": "https://www.linkedin.com/in/dietrich-gebert-b3a314a9/",
+    "posted_at_hint": "Jun 12",
+    "reshared_text": "Ever met a senior dev whose entire personality is \"do we even need to build this?\" I packaged that guy into a plugin.\n\nMeet ponytail, lazy-senior-dev mode for your coding agent. It writes the least code that actually works, then stops.\n\nThe goal isn't to write as little code as possible, but to write only what is necessary.\n\nBenchmarked across multiple real tasks against a no-skill agent and Caveman (the other minimalist skill):\n• A seventh of the code: 490 lines vs 3,629 no-skill, and a third of Caveman's 1,440\n• 47% fewer tokens, 3x faster than no-skill\n• 100% on every security and concurrency probe, same as everyone\n• Surprise feature request? ponytail added it in 96 lines. Caveman needed 413. No-skill: 1,115.\n\nLazy, not negligent: trust-boundary validation, data-loss handling, security, and accessibility are never on the chopping block.\n\n\"What if I really need the 120-line cache class?\" You don't. Insist anyway and he'll build it. Slowly. Correctly. While looking at you.\n\n\"Does it scale?\" The code you never wrote scales infinitely. Zero bugs, zero CVEs, 100% uptime since forever. The 3,139 lines nobody wrote have never caused an incident.\n\nEvery shortcut it takes is marked with a ponytail: comment naming its upgrade path.\n\nThe best code really is the code you never wrote.\n\nSteal it here: https://lnkd.in/e7ZeuBFB"
+  },
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T00:01:00Z"
+}
