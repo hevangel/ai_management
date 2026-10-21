@@ -1,0 +1,27 @@
+{
+  "activity_id": "7518477073024503808",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7518477073024503808/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-21T01:45:00+00:00",
+  "posted_at_hint": "13h • Edited",
+  "posted_at_approx": true,
+  "text": "How to use AI to augment your thinking.\n\n1. have a gut feel first, then ask, then think to verify\n\n2. think about what you don't need to think about, then offload it to AI.\nCEO doesn't have to think about every little details of how to run a company. Focus your attention at where it pays off\n\n3. move up abstraction level, you only need to understand what still matters.\nmost people don't need to worry about assembly, most people don't need to worry about code\n\n4. be 100% AI-native, even if it takes you 2 hours to get AI to do the tasks that you can do it by hand in 2 minutes. Always use AI to do everything, because that is what compounds.\n\n5. You can actually ask AI to disagree with you, steelman the attack\n\n6. Keep human-free zone. Don't let other humans distract you from working with your AI.\nYou need to stay in the zone when working with AI just like when you were writing code in the past.\n\nTo be fair, I would completely agree with him 6 months ago, but now I have moved on to the next level, but first you must unlearn what you have learned",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Software Engineer @ MongoDB",
+    "author_name": "Anton Pokhyla",
+    "author_profile_url": "https://www.linkedin.com/in/apokhyla/",
+    "posted_at_hint": "Oct 18",
+    "reshared_text": "Keeping AI from polluting your thinking\n\nWrote down a couple of rules for myself on how to work with AI while preserving my own thinking and a strong sense of ownership. Decided to share, as I find it incredibly relevant these days:\n\n1. Think first, then ask. Form own answer or hypothesis before prompting, then compare. You keep the thinking and still get a second opinion.\n2. AI is for mechanical work only. Delegate only what you can do yourself, but that AI will do faster.\n3. Understand output. If you cannot explain AI's output, you haven't learnt it. You've only borrowed it.\n4. Flag the reflex. If you need AI even for the simplest task (which you'd handle in 2 minutes yourself) – that's the habit forming. Pause there.\n5. Get alternative thoughts from people. AI tends to agree with everything. Friends, peers will push back and usually for good reason.\n6. Keep AI-free zones. For example: hours of deep work, long reading, journaling and walks.\n\nI know it's an overused saying, but with great power comes great responsibility."
+  },
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-21T14:45:00Z"
+}

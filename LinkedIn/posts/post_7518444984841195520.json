@@ -1,0 +1,21 @@
+{
+  "activity_id": "7518444984841195520",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7518444984841195520/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-20T23:45:00+00:00",
+  "posted_at_hint": "15h • Edited",
+  "posted_at_approx": true,
+  "text": "schrodinger's repo\n\nI have started so many agents and git work trees working on my repo that it is currently in a superposition state of pass and fail. Until all the agents finish working, all the PR collapsed into main, only then I will know whether the repo actually works or not.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-21T14:45:00Z"
+}

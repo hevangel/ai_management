@@ -1,0 +1,21 @@
+{
+  "activity_id": "7518681033190375424",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7518681033190375424/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-21T14:33:00+00:00",
+  "posted_at_hint": "12m",
+  "posted_at_approx": true,
+  "text": "How to burn your monthly tokens budget in one day\n\n1. Ask AI an impossible task that sounds do-able\n2. /goal it\n\nOpus can implement a working 4004 busicom firmware in Rust. My mistake was ask it to do as good as the genius human engineer who fit it under 1kB.\n\nThe Rust version is > 10kB.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-21T14:45:00Z"
+}

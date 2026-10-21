@@ -1,0 +1,27 @@
+{
+  "activity_id": "7518678165943132162",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7518678165943132162/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-21T14:22:00+00:00",
+  "posted_at_hint": "23m",
+  "posted_at_approx": true,
+  "text": "The job of verification is NOT finding bugs, it is make sure the chip is bugs free.\n\nI once worked with a legendary design engineer when I was much younger and I didn't find a single bug in his RTL.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "Pre-silicon Verification @ NVIDIA",
+    "author_name": "Vedant Gala",
+    "author_profile_url": "https://www.linkedin.com/in/vedantgala/",
+    "posted_at_hint": "1d",
+    "reshared_text": "When I started out in hardware verification, I thought the job was mostly about finding bugs. The only metric that mattered to me was, how many bugs did I find.\n\n7+ years later, I've realised it's a lot messier than that.\n\nBugs are inevitable. Humans write specifications, design systems, make assumptions, and build the tools used to verify them. Somewhere along the way, something will get missed.\n\nSometimes you spend hours chasing a failure that turns out to be something completely different from what you suspected. Sometimes the bug is obvious in hindsight. And sometimes the problem is that the specification itself leaves room for interpretation.\n\nEven with AI, I don't think we'll eliminate bugs. AI can help us write code, generate tests, and find mistakes faster. But if the requirements are ambiguous, or there's a little grey area in what \"correct\" actually means, mistakes will still happen.\n\nWorking at NVIDIA has taught me that engineering isn't about expecting perfection. It's about building systems and processes that help us catch mistakes before they become expensive.\n\nThe goal isn't to stop humans from making mistakes. It's to get better at finding them before they matter.\n\n#Engineering #HardwareVerification #AI"
+  },
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-21T14:45:00Z"
+}
