@@ -1,0 +1,159 @@
+{
+  "activity_id": "7388481891210911744",
+  "share_id": "7388481891210911744",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7388481891210911744/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-10-27T07:49:14+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "AI Coding: The Real Playbook\n\nThere are far too many so-called experts online pretending to know how AI coding works—some even open classes and sell them to non-programmers who don’t know better. I’ve had enough of it. Tossing snarky comments on Threads is fun, but it’s time to put real knowledge on the table. So here’s my hands-on piece on AI coding, written to publicly debunk their nonsense and invite them to argue on my turf.\n\nYou may ask, who am I to say all this? I’m an industry insider—an engineer at a leading AI company. Just a few weeks ago, I completed the company’s first deployment of an “AI engineer.” But titles and business cards are for show. My real credentials come from working directly with essentially unlimited GPUs and tokens, and seeing firsthand where this generation of LLM-based AI technology truly reaches its limits.\n\nThis article is entirely human-written—a byproduct of thinking, not prompting. If the writing feels clunky, if there are typos or Cantonese expressions mixed in, that’s fine. Feed it to your AI assistant to polish it up. In this AI era, what matters most is capturing genuine insight and practical knowledge. I can always ask an AI editor to pretty it up later. Enough talk—let’s debunk the common myths spread by fake AI gurus online.\n\ncontinue on the comments. \n\nNOTE: the original post is written in Chinese and one-shot translated to English with GPT5\n\n#AI #VibeCoding",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 9,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "In Philosophy, there’s the Infinite Monkey Theorem—given infinite monkeys and infinite typewriters, one will eventually produce Shakespeare. AI is smarter than monkeys, maybe just slightly better than outsourced humans. I propose the Infinite Indian Outsourcing Theorem: with infinite GPUs and tokens, AI will eventually write the exact program you want.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "Vibe Coding isn’t new. Before AI, it was called Indian outsourcing —a different kind of AI (Actual Indians). Junior engineers used to handle everything themselves—hands-on coding from start to finish—but that doesn’t scale. Real engineering requires dividing work, defining architecture, and letting others execute.\n\nOutsourcing changed that. The goal was cost-cutting, and you get what you pay for. Many outsourced engineers didn’t care much about quality, often delivering errors or nonsense—just like today’s AI. When I managed a 50-person outsourcing team, I thought I could just delegate, but I ended up spending my days breaking tasks into detailed specs, writing documentation, reviewing every line, and rejecting bad work. Compared to that, AI is a dream—it never argues when it’s wrong. Veterans who have suffered through bad outsourcing already know how to master Vibe Coding: divide and conquer, write clear specs, automate acceptance testing.",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "Myth 3: Vibe Coding Is Either Useless or Omnipotent\n\nIf there were a word of the year for 2025, it would be Vibe Coding —coined by Andrej Karpathy early this year to describe building software entirely through AI. The reactions have been polarized. Some say anyone can now code and all engineers are doomed. Others dismiss Vibe Coding as toy-level tech that can’t handle real applications—with wild stories about AI deleting entire databases.\n\nWhile the amateurs argue, the pros have already gone all-in. The idea that over 70% of code at tech giants is AI-generated isn’t a myth. In my own team, AI produces over 200% of our code—yes, that’s possible, because a lot of it is junk. AI isn’t useless or magical; it’s a tool. A powerful one that needs skill to wield effectively.\n\nTechnically speaking, LLMs aren’t “artificial intelligences” that think like humans—they’re more like black-box computation engines, similar to MySQL. Once you grasp how they work, the illusion of “talking to AI” disappears. It’s just: prompt + context in, text out. If the output fails, don’t argue with it—fix the input and retry. That loop of testing and adjusting? We used to call that debugging.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "This year has seen a flood of new agentic frameworks. It’s still too early to declare a winner. The top two vendors now are Codex and Claude Code with their agent SDKs, with Google and Microsoft catching up fast. Independent open-source options include Hugging Face’s smolagent and fastagent (a post-MCP framework). I even contributed a small feature to fastagent for my company and submitted a pull request—supporting open source the right way. I wonder how long it’ll take before online AI tutors start teaching real agent SDKs—probably not until these frameworks are already outdated.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "Myth 2: Build Apps with No-Code Platforms\n\nFor some reason, there’s a wave of “AI tutors” teaching n8n online. I wonder if they’re sponsored or just recycling old no-code trends from the last hype cycle. I don’t look down on no-code platforms just because I’m an engineer—I actually hold a Microsoft Power Automate certification. My company runs half on M365, and before the AI boom, I built plenty of automation flows myself. On Linux, of course, shell scripts do the same job even better.\n\nIf you had asked me back in January—before MCP unified the field and before GPT-5’s reasoning models launched—I would’ve said using no-code platforms was a smart move, far better than last year’s messy LangChain/Graph Python workflows. But if you’re still teaching n8n in October 2025, you’re clearly more focused on selling courses than keeping up with the AI revolution. With Claude Code or Codex-based AI agents, once you connect them to MCP, all that’s left is writing a proper system prompt. A no-code workflow that just links everything to one big box in the middle is basically useless.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "Myth 1: Use Cheap Open-Source LLMs to Code\n\nDon’t waste your time on second-tier LLMs. Your time is worth more. Sure, open-source LLMs are cheap and only three months behind the top models, but in the AI world, three months equals three human years. You wouldn’t want to use outdated tech, would you? Setting aside patriotic loyalty to domestic models, the main problem is you never know when those LLMs will start hallucinating. Top-tier models aren’t perfect, but their failure rate is far lower. If your hourly rate is more than $20, the time lost to a few hallucinations already costs more than the premium LLM subscription.\n\nAre cheap LLMs totally useless? Of course not. Use the best for yourself, but optimize costs when deploying for others. If you’re absolutely sure a task is simple enough, go ahead and use a cheaper model. If not, the professional way is to first build it with a top-tier LLM, then create evaluations to test how low you can go without breaking functionality. There’s no cheapest LLM—only cheaper ones. If an 8B model works, maybe a local 1B model can too.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mick Hua",
+        "profile_url": "https://www.linkedin.com/in/mick-hua-353353a/",
+        "headline": "GCP Data Engineer | AI Enthusiast, Agentic Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T08:01:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "Horace Chan everything you have said I agree with, but its all rather surface level stuff. What are your top context engineering techniques? What are your subagent workflows and loops?",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2025-11-24T08:01:00+00:00",
+          "posted_at_hint": "11mo",
+          "posted_at_approx": true,
+          "text": "Mick Hua None.  Everything is just markdown files committed into GitHub.  I let Claude Code rediscover everything every time.\n\nI played with RAG, not good.  Tried MCP memory, not good too.   I'm still waiting for my graph db license so I can try knowledge graph.\n\nI have some sub agents and reusable prompt files, but I can't make the master agent call them reliability. I end up tell them exactly what they need to use.\n\nIf people say in the AI era is a manager managing a fleet of AI agent workers, they forgot to say you have to micromanage your workers",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Mick Hua",
+            "profile_url": "https://www.linkedin.com/in/mick-hua-353353a/",
+            "headline": "GCP Data Engineer | AI Enthusiast, Agentic Engineer"
+          },
+          "is_author_reply": false,
+          "posted_at": "2025-11-24T08:01:00+00:00",
+          "posted_at_hint": "11mo",
+          "posted_at_approx": true,
+          "text": "Horace Chan, never bothered with rag or MCP, but i've just been tinkering with greenfield codebases. I assume if you went in that direction its because your code base is large.\n\nPredefined agent workflows are the core of my current setup, have you explored this space yet? if yes curious to know your experience.",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T08:01:00Z"
+}

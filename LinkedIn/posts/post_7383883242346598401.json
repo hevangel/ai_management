@@ -1,0 +1,41 @@
+{
+  "activity_id": "7383883242346598401",
+  "share_id": "7383883242346598401",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7383883242346598401/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-10-14T15:15:50+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "ROCm has day 1 support on all major opensource models.  The Strix Halo mini PC is the best for hobbyist to self-host LLM at home lab.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "How AMD's AI Software Helped It Score The Multi-Billion Dollar OpenAI Deal",
+    "url": "https://bit.ly/4n0h6LP"
+  },
+  "reshared_post": null,
+  "likes": 9,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Conrad Fernandez",
+        "profile_url": "https://www.linkedin.com/in/conrad-fernandez/",
+        "headline": "GPU & AI Engineer @ AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "Worked on this model, definitely the coolest one yet. 96GB VRAM is insane",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T08:06:00Z"
+}

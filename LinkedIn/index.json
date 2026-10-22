@@ -3,10 +3,10 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-22T14:54:37.572636+00:00",
-  "total_posts": 782,
-  "total_comments": 411,
-  "total_replies": 350,
+  "generated_at": "2026-10-22T15:16:28.329423+00:00",
+  "total_posts": 802,
+  "total_comments": 427,
+  "total_replies": 353,
   "posts": [
     {
       "activity_id": "7518919578643550208",
@@ -7045,6 +7045,186 @@
       "title": "In the AI era, don't be a 10x engineer, be a 2-3x engineer. 10x means you over l…",
       "likes": 10,
       "comment_count": 1
+    },
+    {
+      "activity_id": "7390410664974094336",
+      "file": "posts/post_7390410664974094336.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7390410664974094336/",
+      "posted_at": "2025-11-01T15:33:29+00:00",
+      "title": "We almost reach the point LLM is no longer AI.",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7390223561895956480",
+      "file": "posts/post_7390223561895956480.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7390223561895956480/",
+      "posted_at": "2025-11-01T03:10:00+00:00",
+      "title": "vibe coding is OUT, vibe managing is IN. The high up mandates everyone has to us…",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7389722704507179008",
+      "file": "posts/post_7389722704507179008.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7389722704507179008/",
+      "posted_at": "2025-10-30T17:59:47+00:00",
+      "title": "Why every HR keep saying the company pays above average but the employees think…",
+      "likes": 19,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7389481557310361600",
+      "file": "posts/post_7389481557310361600.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7389481557310361600/",
+      "posted_at": "2025-10-30T02:01:33+00:00",
+      "title": "WLB = wage life balance Most of the work life balance (WLB) problems will disapp…",
+      "likes": 19,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7388737896654057474",
+      "file": "posts/post_7388737896654057474.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7388737896654057474/",
+      "posted_at": "2025-10-28T00:46:30+00:00",
+      "title": "Yet another shiny new supercomputer built by AMD. Too bad that Lux won't make it…",
+      "likes": 5,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7388481891210911744",
+      "file": "posts/post_7388481891210911744.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7388481891210911744/",
+      "posted_at": "2025-10-27T07:49:14+00:00",
+      "title": "AI Coding: The Real Playbook There are far too many so-called experts online pre…",
+      "likes": 7,
+      "comment_count": 7
+    },
+    {
+      "activity_id": "7386821518510604288",
+      "file": "posts/post_7386821518510604288.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7386821518510604288/",
+      "posted_at": "2025-10-22T17:51:30+00:00",
+      "title": "In an interview, Lisa said she would like apply AI to solve the world's health i…",
+      "likes": 5,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7386467803794505729",
+      "file": "posts/post_7386467803794505729.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7386467803794505729/",
+      "posted_at": "2025-10-21T18:25:58+00:00",
+      "title": "AMD AI Dev Day is a full day of fun and learn, and freebies!!! Nether heap sort…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7386189571430129664",
+      "file": "posts/post_7386189571430129664.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7386189571430129664/",
+      "posted_at": "2025-10-21T00:00:22+00:00",
+      "title": "We always joked about AI agents are infinite interns. In fact, interns are still…",
+      "likes": 11,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7383883242346598401",
+      "file": "posts/post_7383883242346598401.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7383883242346598401/",
+      "posted_at": "2025-10-14T15:15:50+00:00",
+      "title": "ROCm has day 1 support on all major opensource models. The Strix Halo mini PC is…",
+      "likes": 9,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7382499990667063296",
+      "file": "posts/post_7382499990667063296.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7382499990667063296/",
+      "posted_at": "2025-10-10T19:39:18+00:00",
+      "title": "Hardware engineers DON'T listen to this guy. We still have our jobs while the so…",
+      "likes": 11,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7382407627621916672",
+      "file": "posts/post_7382407627621916672.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7382407627621916672/",
+      "posted_at": "2025-10-10T13:32:17+00:00",
+      "title": "The secret of the power of unlimited tokens is you can just let the AI keep gues…",
+      "likes": 11,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7382394536578392064",
+      "file": "posts/post_7382394536578392064.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7382394536578392064/",
+      "posted_at": "2025-10-10T12:40:15+00:00",
+      "title": "I am proud to be a deeplearning.ai beta tester.",
+      "likes": 8,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7381282378947751936",
+      "file": "posts/post_7381282378947751936.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7381282378947751936/",
+      "posted_at": "2025-10-07T11:00:56+00:00",
+      "title": "Lisa is genius, Jean is super genius. It is a deal that should be written into b…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7380690300660301824",
+      "file": "posts/post_7380690300660301824.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7380690300660301824/",
+      "posted_at": "2025-10-05T19:48:14+00:00",
+      "title": "What does AMD stand for? 🤔 #amdbrandambassador",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7380495247522516992",
+      "file": "posts/post_7380495247522516992.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7380495247522516992/",
+      "posted_at": "2025-10-05T06:53:10+00:00",
+      "title": "AMD is included in the CBOE Magnificent 10 index ($MGTN). It is a tier 1 index c…",
+      "likes": 5,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7379587367839436800",
+      "file": "posts/post_7379587367839436800.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7379587367839436800/",
+      "posted_at": "2025-10-02T18:45:34+00:00",
+      "title": "Go Go Kimi. Roaring in the street of the Singapore circuit in the upcoming race.…",
+      "likes": 5,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7379228568645664771",
+      "file": "posts/post_7379228568645664771.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7379228568645664771/",
+      "posted_at": "2025-10-01T18:59:50+00:00",
+      "title": "I get to play with the fastest computer on Earth at work, I can't wait to get my…",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7376678384535441408",
+      "file": "posts/post_7376678384535441408.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7376678384535441408/",
+      "posted_at": "2025-09-24T18:06:19+00:00",
+      "title": "Sign up for the AMD Dev Day. Lots of exciting contents on the frontier of AI.",
+      "likes": 2,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7373047213473787904",
+      "file": "posts/post_7373047213473787904.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7373047213473787904/",
+      "posted_at": "2025-09-14T17:37:20+00:00",
+      "title": "What can an \"AI engineer\" do? Here is the answer from Master Yoda #AI #LLM #MCP…",
+      "likes": 5,
+      "comment_count": 0
     }
   ]
 }

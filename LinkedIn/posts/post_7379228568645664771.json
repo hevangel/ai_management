@@ -1,0 +1,41 @@
+{
+  "activity_id": "7379228568645664771",
+  "share_id": "7379228568645664771",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7379228568645664771/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-10-01T18:59:50+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "I get to play with the fastest computer on Earth at work, I can't wait to get my hand on the AMD quantum computer that is coming up.  Maybe I can crack the Bitcoin encryption with quantum computer and become super rich. #AMDBrandAmbassador",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "IBM and AMD partner on hybrid classical-quantum computing | AMD posted on the topic | LinkedIn",
+    "url": "https://bit.ly/4nPft4V"
+  },
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mahmoud Assal",
+        "profile_url": "https://www.linkedin.com/in/mahmoud-assal-0b542476/",
+        "headline": "Senior Staff Design Verification Engineer at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "Fair deal: you crack Bitcoin, we’ll help you spend it.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T08:13:00Z"
+}

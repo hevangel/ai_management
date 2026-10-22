@@ -6,8 +6,8 @@ links, comment text, timestamps, nested replies, and Horace's own replies).
 
 ## Coverage
 
-- **782 posts**, 2025-11-03 → 2026-10-22 (newest first in `index.json`)
-- 411 top-level comments, 350 nested replies, all threads fully expanded
+- **802 posts**, 2025-09-14 → 2026-10-22 (newest first in `index.json`)
+- 427 top-level comments, 353 nested replies, all threads fully expanded
 - LinkedIn renders only relative timestamps ("2w", "Jun 2"), never an
   absolute `<time datetime>` — so for feed-scraped posts `posted_at` is
   approximated from the relative hint anchored at each post's
@@ -22,7 +22,7 @@ links, comment text, timestamps, nested replies, and Horace's own replies).
   those are being merged newest-first by `tools/assemble_backlog.py`,
   keyed by their share/ugcPost URN ids (their JSON carries a `share_id`
   field), with comment threads extracted per post from the post pages.
-  390 of 510 are merged so far; ~120 remain.
+  410 of 510 are merged so far; ~100 remain.
 
 ## Layout
 

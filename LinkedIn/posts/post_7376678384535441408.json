@@ -1,0 +1,41 @@
+{
+  "activity_id": "7376678384535441408",
+  "share_id": "7376678384535441408",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7376678384535441408/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-09-24T18:06:19+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Sign up for the AMD Dev Day.  Lots of exciting contents on the frontier of AI.",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "AMD AI Dev Day is October 20th!",
+    "url": "https://bit.ly/3Kgngtz"
+  },
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Rayyan Rashid",
+        "profile_url": "https://www.linkedin.com/in/r-rashid/",
+        "headline": "Generative AI Engineer | Python | Anthropic"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "Looking forward to it!",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T08:13:00Z"
+}

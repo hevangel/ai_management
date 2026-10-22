@@ -1,0 +1,28 @@
+{
+  "activity_id": "7390410664974094336",
+  "share_id": "7390410664974094336",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7390410664974094336/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-01T15:33:29+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "We almost reach the point LLM is no longer AI.",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": "AI Engineer | C#/.NET · LLM Integration | App Modernization",
+    "author_name": "Seth Ficke",
+    "author_profile_url": "https://www.linkedin.com/in/seth-ficke/",
+    "posted_at_hint": "Oct 31, 2025",
+    "reshared_text": "AI is whatever we haven’t automated yet.\n\nIn the 1960s, recognizing handwritten text was “artificial intelligence.”\nIn the 1980s, beating a chess grandmaster was “artificial intelligence.”\nIn the 2000s, speech recognition was “artificial intelligence.”\nToday, all of that is “just software.”\n\nThe line between “AI” and “ordinary computing” isn’t technical — it’s cultural.\n\nOnce something works reliably, we stop calling it AI and start calling it “an app,” “a feature,” or “productivity software.”"
+  },
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T07:53:00Z"
+}

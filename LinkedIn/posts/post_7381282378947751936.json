@@ -1,0 +1,28 @@
+{
+  "activity_id": "7381282378947751936",
+  "share_id": "7381282378947751936",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7381282378947751936/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-10-07T11:00:56+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Lisa is genius, Jean is super genius.  It is a deal that should be written into business and finance textbook \n\n#amdbrandambassadors",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": null,
+    "author_name": "AMD",
+    "author_profile_url": "https://www.linkedin.com/company/amd/",
+    "posted_at_hint": "Oct 6, 2025",
+    "reshared_text": "We’re incredibly proud to announce a multi-year, multi generation strategic partnership with OpenAI that puts AMD compute at the center of the global AI infrastructure buildout.\n\n✅ 6GW of AI infrastructure\n✅ Initial 1GW deployment of AMD Instinct MI450 series GPU capacity beginning 2H 2026\n✅ Enabling very large-scale AI deployments and advancing the entire AI ecosystem\n\nMore on the news: https://bit.ly/3KzsnFk."
+  },
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-20T08:09:00Z"
+}

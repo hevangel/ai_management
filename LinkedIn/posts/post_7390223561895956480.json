@@ -1,0 +1,38 @@
+{
+  "activity_id": "7390223561895956480",
+  "share_id": "7390223561895956480",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7390223561895956480/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-11-01T03:10:00+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "vibe coding is OUT, vibe managing is IN. \n\nThe high up mandates everyone has to use AI, including the managers.  But the managers don't code, what can they use AI for? \n\nI am tasked by my director to cook something up.  I hook up AI to email, Jira, Confluence, Jama, pdf and PowerPoint MCP servers, that pretty much covers what the managers in their day to day work. \n\nNext I just need to hook up a text to speech model, so the AI can dial into meetings for the managers.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Vlad Pomogaev",
+        "profile_url": "https://www.linkedin.com/in/pomogaev/",
+        "headline": "Digital Designer at Microchip"
+      },
+      "is_author_reply": false,
+      "posted_at": "2025-11-24T07:53:00+00:00",
+      "posted_at_hint": "11mo",
+      "posted_at_approx": true,
+      "text": "Hook them up to the HR system to give them the ability to fire people too 🤣",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T07:53:00Z"
+}

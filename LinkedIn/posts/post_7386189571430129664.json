@@ -1,0 +1,41 @@
+{
+  "activity_id": "7386189571430129664",
+  "share_id": "7386189571430129664",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7386189571430129664/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-10-21T00:00:22+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "We always joked about AI agents are infinite interns.  In fact, interns are still light years ahead of LLM/AI.   I have to babysit an AI 15 minutes to get something done and often ends up in frustration, I only have to give a 15 second instruction to my intern to get the same thing done.. #AMDBrandAmbassador",
+  "post_type": "article_share",
+  "shared_article": {
+    "title": "Calling all students! Discover what it's like to innovate alongside the best at AMD. Watch our new Student Programs video to hear directly from former interns about their experience driving... | AMD | 23 comments",
+    "url": "https://bit.ly/47AN4JW"
+  },
+  "reshared_post": null,
+  "likes": 11,
+  "reposts": 1,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jakob Prince",
+        "profile_url": "https://www.linkedin.com/in/jakobprince/",
+        "headline": "AI Strategy at PromptQL | Accurate AI for teams with Shared Context"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "I would argue that because while interns are often lacking in information and inexperience to always make the correct decision, at least they tell you when they're unsure and learn from instruction to better themselves. This contrasts from most unadaptive AI systems being \"confidently wrong\" and not learning like a human.\n\nThis is what we've tried to address with PromptQL. Creating an AI system that signals its confidence levels, surfaces ambiguity in its responses, learns from feedback, and improves its knowledge of a company's terminology, processes, and tribal knowledge (just like an intern... one that never sleeps that is)",
+      "likes": 2,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-20T08:04:00Z"
+}

@@ -1,0 +1,54 @@
+{
+  "activity_id": "7389722704507179008",
+  "share_id": "7389722704507179008",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7389722704507179008/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2025-10-30T17:59:47+00:00",
+  "posted_at_hint": null,
+  "posted_at_approx": false,
+  "text": "Why every HR keep saying the company pays above average but the employees think exactly opposite?\n\nHere is an example:   \nWe compare AMD to APPL/GOOG.   \nHR compare AMD to GM/WMT\n\nHere is a solution.   When HR benchmark the pay, they are NOT allowed to use companies than has lower market cap than your company.   HR should only benchmark up, not benchmark down.\n\n#WLB",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 19,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Christopher Lam",
+        "profile_url": "https://www.linkedin.com/in/christopherlam888/",
+        "headline": "Engineering Student @ University of Waterloo"
+      },
+      "is_author_reply": false,
+      "posted_at": null,
+      "posted_at_hint": "1yr",
+      "posted_at_approx": true,
+      "text": "What should my company use as a benchmark?",
+      "likes": 9,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": null,
+          "posted_at_hint": "(edited) 1yr",
+          "posted_at_approx": true,
+          "text": "Christopher Lam you guys are 70% millionaire among the workers, stop complaining\n\nYou guys just need to push the stock price higher.  BTW, I am an NVDA shareholder too",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T07:53:00Z"
+}
