@@ -1,0 +1,21 @@
+{
+  "activity_id": "7519470312594386944",
+  "url": "https://www.linkedin.com/posts/horacechan_step-1-you-have-to-do-everything-with-ai-share-7519470311986196480-FAQY/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-23T19:55:28+00:00",
+  "posted_at_hint": "19h",
+  "posted_at_approx": true,
+  "text": "Step 1. You have to do everything with AI 100%, it won't scale and you have to baby-sit the AI, it probably takes longer than you do it by hand.\nStep 2. After you have done it for a few weeks, you have collected a few hundred repetitive tasks in your Claude Code sessions. Then ask Claude Code to harvest your chat sessions and build an auto router and sub-agents to do the work for you\nStep 3. You just automated 80% of your old job away, now you can spend more time working on newer cooler stuff.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 8,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-24T14:55:28Z"
+}

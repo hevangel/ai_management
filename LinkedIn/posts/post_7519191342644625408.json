@@ -1,0 +1,52 @@
+{
+  "activity_id": "7519191342644625408",
+  "url": "https://www.linkedin.com/posts/horacechan_i-cant-believe-i-have-to-use-github-project-share-7519191341868965888-tPVf/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-23T14:55:28+00:00",
+  "posted_at_hint": "1d • Edited",
+  "posted_at_approx": true,
+  "text": "I can't believe I have to use Github project to manage the tasks of my agents. I can't keep track of what all my agents are doing in my brain anymore.\nI have so many things going on, here are some of the list\n1. build all classic chips from scratch in SystemVerilog\n2. rewrite all classic software on all those classic chips in Rust\n3. build my own Bloomberg clone to manage my portfolio\n4. build my own management guru (HBR/Sloan/McKinsey) slop generator\n5. build my AI philosopher to submit paper debate those anti-AI philosophers\n6. write my sci-fi stories about AI with AI\n7. turn my sci-fi stories into AI generated manga\n8. turn my sci-fi stories into AI generated movies\n9. run an AI generated Youtube channel as an investment influencer.\n10. get my AI stream on twitter, haven't decide on the topic yet, maybe playing Rust version of classic games running on my SV chip. Instead of speed run, I do a step run. Break anywhere in the code, break anywhere in the chip, then step.\nOh... I also have a real day job building the chip that power the AI.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Horace Chan",
+        "profile_url": "https://www.linkedin.com/in/horacechan",
+        "headline": "Expert in applying AI in verification"
+      },
+      "is_author_reply": true,
+      "posted_at": "2026-10-23T14:55:28+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "I am using Muse, Dot and Duet\nGitHub project is the one place everyone can access",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ahmed Hassan",
+        "profile_url": "https://www.linkedin.com/in/ahassann/",
+        "headline": "Senior Verification Consultant at Siemens EDA"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-23T14:55:28+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "I created an obsidian extension just for this exact use. Wanted some jira-look-like task tracker but in md so AI can access it easily. \nYou can also create multiple projects, priorities, sprints\n\nhttps://community.obsidian.md/plugins/task-tracker",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-24T14:55:28Z"
+}

@@ -1,0 +1,68 @@
+{
+  "activity_id": "7519546916146200576",
+  "url": "https://www.linkedin.com/posts/horacechan_fable-is-the-smartest-coding-model-only-share-7519546915609481216-qSht/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-24T00:55:28+00:00",
+  "posted_at_hint": "14h • Edited",
+  "posted_at_approx": true,
+  "text": "Fable is the SMARTEST coding model\nOnly Fable managed to get a Rust version of the busicom firmware fits within 4k address space of 4004 with 1 byte to spare.\nBut it cheated, it wrote half of the code in embedded assembly instead of Rust\nTo comparison, the original human code is only 1k.\nhttps://lnkd.in/gGTFQY5P",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-24T00:55:28+00:00",
+      "posted_at_hint": "14h",
+      "posted_at_approx": true,
+      "text": "I'm sure fable can write directly into binary, no need for compiler.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-24T04:55:28+00:00",
+          "posted_at_hint": "10h",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen but every software has to re-implement in Rust and only Rust",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Brandon Allen",
+        "profile_url": "https://www.linkedin.com/in/brandon-allen-621a41255/",
+        "headline": "Senior Agentic Multi-AI Engineer | Data Scientist | System Design Architect"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-24T00:55:28+00:00",
+      "posted_at_hint": "14h",
+      "posted_at_approx": true,
+      "text": "yes in your opinion it is; diverse methods allow diverse results, it would be naive to assume its the best imo",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-24T14:55:28Z"
+}

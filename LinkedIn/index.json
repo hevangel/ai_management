@@ -3,11 +3,74 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-22T15:16:28.329423+00:00",
-  "total_posts": 802,
-  "total_comments": 427,
-  "total_replies": 353,
+  "generated_at": "2026-10-24T14:55:46.564350+00:00",
+  "total_posts": 809,
+  "total_comments": 433,
+  "total_replies": 355,
   "posts": [
+    {
+      "activity_id": "7519546916146200576",
+      "file": "posts/post_7519546916146200576.json",
+      "url": "https://www.linkedin.com/posts/horacechan_fable-is-the-smartest-coding-model-only-share-7519546915609481216-qSht/",
+      "posted_at": "2026-10-24T00:55:28+00:00",
+      "title": "Fable is the SMARTEST coding model Only Fable managed to get a Rust version of t…",
+      "likes": 2,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7519470312594386944",
+      "file": "posts/post_7519470312594386944.json",
+      "url": "https://www.linkedin.com/posts/horacechan_step-1-you-have-to-do-everything-with-ai-share-7519470311986196480-FAQY/",
+      "posted_at": "2026-10-23T19:55:28+00:00",
+      "title": "Step 1. You have to do everything with AI 100%, it won't scale and you have to b…",
+      "likes": 8,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7519048469773365248",
+      "file": "posts/post_7519048469773365248.json",
+      "url": "https://www.linkedin.com/posts/horacechan_i-just-discovered-if-i-only-have-a-single-share-7519048469186007041-xB00/",
+      "posted_at": "2026-10-23T14:55:28+00:00",
+      "title": "I just discovered if I only have a single Luna session in Codex, I can run it 24…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7519089639132143617",
+      "file": "posts/post_7519089639132143617.json",
+      "url": "https://www.linkedin.com/posts/horacechan_ai-is-just-a-bunch-of-gpus-stop-humanizing-share-7519089638435889152-3YXs/",
+      "posted_at": "2026-10-23T14:55:28+00:00",
+      "title": "AI is just a bunch of GPUs, stop humanizing it. Three reasons why AI is not cons…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7519095460985421826",
+      "file": "posts/post_7519095460985421826.json",
+      "url": "https://www.linkedin.com/posts/horacechan_claude-code-made-3-new-versions-within-a-share-7519095459928358913-Aqrx/",
+      "posted_at": "2026-10-23T14:55:28+00:00",
+      "title": "Claude Code made 3 new versions within a day. Does Anthropic has any concept of…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7519130930951688192",
+      "file": "posts/post_7519130930951688192.json",
+      "url": "https://www.linkedin.com/posts/horacechan_ai-can-build-a-8086-from-scratch-but-it-share-7519130930234490881-1jbA/",
+      "posted_at": "2026-10-23T14:55:28+00:00",
+      "title": "AI can build a 8086 from scratch, but it is really struggling building a 286, no…",
+      "likes": 1,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7519191342644625408",
+      "file": "posts/post_7519191342644625408.json",
+      "url": "https://www.linkedin.com/posts/horacechan_i-cant-believe-i-have-to-use-github-project-share-7519191341868965888-tPVf/",
+      "posted_at": "2026-10-23T14:55:28+00:00",
+      "title": "I can't believe I have to use Github project to manage the tasks of my agents. I…",
+      "likes": 6,
+      "comment_count": 2
+    },
     {
       "activity_id": "7518919578643550208",
       "file": "posts/post_7518919578643550208.json",

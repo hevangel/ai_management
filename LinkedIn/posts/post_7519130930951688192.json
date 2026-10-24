@@ -1,0 +1,68 @@
+{
+  "activity_id": "7519130930951688192",
+  "url": "https://www.linkedin.com/posts/horacechan_ai-can-build-a-8086-from-scratch-but-it-share-7519130930234490881-1jbA/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-23T14:55:28+00:00",
+  "posted_at_hint": "1d",
+  "posted_at_approx": true,
+  "text": "AI can build a 8086 from scratch, but it is really struggling building a 286, no matter how much I yell at it.\nThe AI got 286 real mode working, but it seems it can't figure out how to implement protection mode.\nI have burnt enough tokens on it that I am considering maybe I should wait for GPT-7 or Opus-6 before trying again.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 3,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bill Lye",
+        "profile_url": "https://www.linkedin.com/in/wmlye/",
+        "headline": "30+ years of CMOS Mixed-Signal Design"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-23T14:55:28+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "286 protected mode is cursed. The LLM's are saving you from yourself.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Expert in applying AI in verification"
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-23T14:55:28+00:00",
+          "posted_at_hint": "(edited) 1d",
+          "posted_at_approx": true,
+          "text": "Bill Lye yeah, the fake reset the CPU switch from protected mode back to real mode is insane\n\nI end up chatting with GPT to learn how protected mode work",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Jesse Waldorf",
+        "profile_url": "https://www.linkedin.com/in/jesse-waldorf-19178644/",
+        "headline": "Manager of Capital Projects - SCRD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-23T14:55:28+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "have you tried ALL CAPS YET?",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-24T14:55:28Z"
+}

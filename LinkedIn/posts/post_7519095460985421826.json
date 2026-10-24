@@ -1,0 +1,21 @@
+{
+  "activity_id": "7519095460985421826",
+  "url": "https://www.linkedin.com/posts/horacechan_claude-code-made-3-new-versions-within-a-share-7519095459928358913-Aqrx/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-23T14:55:28+00:00",
+  "posted_at_hint": "1d",
+  "posted_at_approx": true,
+  "text": "Claude Code made 3 new versions within a day.\nDoes Anthropic has any concept of nightly build, beta release vs stable release?\n\nCan someone feed some good software engineering textbooks to Claude, so Claude knows how to write production software properly.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-24T14:55:28Z"
+}
