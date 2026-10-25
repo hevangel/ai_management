@@ -3,11 +3,38 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-24T14:55:46.564350+00:00",
-  "total_posts": 809,
-  "total_comments": 433,
+  "generated_at": "2026-10-25T14:49:44.471867+00:00",
+  "total_posts": 812,
+  "total_comments": 436,
   "total_replies": 355,
   "posts": [
+    {
+      "activity_id": "7519963210423332866",
+      "file": "posts/post_7519963210423332866.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519963210423332866/",
+      "posted_at": "2026-10-25T03:49:30+00:00",
+      "title": "If you don't look at the code your AI generated, how do you know AI didn't cheat…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7519789089097703424",
+      "file": "posts/post_7519789089097703424.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519789089097703424/",
+      "posted_at": "2026-10-24T16:49:30+00:00",
+      "title": "How to make your AI coding agents behave well? I applied HR's PIP procedure on m…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7519794081158512640",
+      "file": "posts/post_7519794081158512640.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519794081158512640/",
+      "posted_at": "2026-10-24T16:49:30+00:00",
+      "title": "I ran so many AI agents that it crashed my 128G - 16 cores VM.",
+      "likes": 2,
+      "comment_count": 2
+    },
     {
       "activity_id": "7519546916146200576",
       "file": "posts/post_7519546916146200576.json",
