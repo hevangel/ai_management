@@ -1,0 +1,53 @@
+{
+  "activity_id": "7520313612415025152",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520313612415025152/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-26T03:33:00+00:00",
+  "posted_at_hint": "13h",
+  "posted_at_approx": true,
+  "text": "I just use Github projects as my orchestration layer for my AI agents.  Every coding agent knows Github.  Github issue is essentially a message board.  The AI(s) can take care of the co-ordination among themselves.\n\nA message board is all you need, AI can take care of the rest, that's what OpenAI's hack taught me.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-26T03:33:00+00:00",
+      "posted_at_hint": "13h",
+      "posted_at_approx": true,
+      "text": "Just be careful, don't let AI agents to have full right of everything.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Using AI building the chips that power the AI."
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-26T03:33:00+00:00",
+          "posted_at_hint": "13h",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen the AI has their own account",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-26T16:33:00Z"
+}

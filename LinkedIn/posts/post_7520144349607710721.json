@@ -1,0 +1,21 @@
+{
+  "activity_id": "7520144349607710721",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520144349607710721/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-25T16:33:00+00:00",
+  "posted_at_hint": "1d",
+  "posted_at_approx": true,
+  "text": "Codex is dumb.  It took over my computer all in a sudden while I am working.\n\nI have so many sessions running and it took me awhile for figure out who took over my computer, I have to fight for it with the mouse control for the mean time.\n\nIt turns out it picked the computer-use tool instead of the built-in browser to test a website.\n\nMaybe I should disable computer-use in Codex.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-26T16:33:00Z"
+}

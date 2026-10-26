@@ -3,11 +3,65 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-25T14:49:44.471867+00:00",
-  "total_posts": 812,
-  "total_comments": 436,
-  "total_replies": 355,
+  "generated_at": "2026-10-26T16:49:33.032079+00:00",
+  "total_posts": 818,
+  "total_comments": 437,
+  "total_replies": 356,
   "posts": [
+    {
+      "activity_id": "7520493971031375872",
+      "file": "posts/post_7520493971031375872.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520493971031375872/",
+      "posted_at": "2026-10-26T15:33:00+00:00",
+      "title": "Introducing Slopman-e, my open source implementation of IEEE-1647 e language in…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7520313612415025152",
+      "file": "posts/post_7520313612415025152.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520313612415025152/",
+      "posted_at": "2026-10-26T03:33:00+00:00",
+      "title": "I just use Github projects as my orchestration layer for my AI agents. Every cod…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7520317001597153281",
+      "file": "posts/post_7520317001597153281.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520317001597153281/",
+      "posted_at": "2026-10-26T03:33:00+00:00",
+      "title": "After the AGI tried all the traditional religions, it got attracted to the Churc…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7520268035513835520",
+      "file": "posts/post_7520268035513835520.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520268035513835520/",
+      "posted_at": "2026-10-26T00:33:00+00:00",
+      "title": "Everyone rewrite all the software in Rust these days I am going to port SystemC…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7520222656999362560",
+      "file": "posts/post_7520222656999362560.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520222656999362560/",
+      "posted_at": "2026-10-25T21:33:00+00:00",
+      "title": "There are 3 types of time in AI coding 1. Human time - you need to eat and sleep…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7520144349607710721",
+      "file": "posts/post_7520144349607710721.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520144349607710721/",
+      "posted_at": "2026-10-25T16:33:00+00:00",
+      "title": "Codex is dumb. It took over my computer all in a sudden while I am working. I ha…",
+      "likes": 0,
+      "comment_count": 0
+    },
     {
       "activity_id": "7519963210423332866",
       "file": "posts/post_7519963210423332866.json",
