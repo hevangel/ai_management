@@ -3,11 +3,38 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-26T16:49:33.032079+00:00",
-  "total_posts": 818,
-  "total_comments": 437,
+  "generated_at": "2026-10-27T15:02:18.168195+00:00",
+  "total_posts": 821,
+  "total_comments": 439,
   "total_replies": 356,
   "posts": [
+    {
+      "activity_id": "7520716284205113344",
+      "file": "posts/post_7520716284205113344.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7520716284205113344",
+      "posted_at": "2026-10-27T06:02:00+00:00",
+      "title": "People often mixed up precise with rigid. A programming language is rigid, you h…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7520704392417722368",
+      "file": "posts/post_7520704392417722368.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7520704392417722368",
+      "posted_at": "2026-10-27T05:02:00+00:00",
+      "title": "Why open source tools is better than closed source commercial tools? You can fix…",
+      "likes": 4,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7520557223740092416",
+      "file": "posts/post_7520557223740092416.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7520557223740092416",
+      "posted_at": "2026-10-26T20:02:00+00:00",
+      "title": "How to be a 10x engineer (in 2026 with AI)",
+      "likes": 2,
+      "comment_count": 1
+    },
     {
       "activity_id": "7520493971031375872",
       "file": "posts/post_7520493971031375872.json",

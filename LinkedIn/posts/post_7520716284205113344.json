@@ -1,0 +1,22 @@
+{
+  "activity_id": "7520716284205113344",
+  "share_id": "7520716284205113344",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7520716284205113344",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-27T06:02:00+00:00",
+  "posted_at_hint": "9h",
+  "posted_at_approx": true,
+  "text": "People often mixed up precise with rigid.\n\nA programming language is rigid, you have to follow the syntax correctly or the compiler will choke.\n\nUsing LLM to write a program doesn't have to be rigid, but you still have to be precise. You have to tell LLM exactly what you want or at least if you don't care about something, you know exactly what you can let LLM just slop it out.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-27T15:02:00Z"
+}
