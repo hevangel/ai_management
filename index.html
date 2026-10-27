@@ -427,7 +427,8 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
       problem: 'Problem',
       readAngle: 'Read each angle',
       readAngleHint: 'The same investigation through five editorial lenses — click a publication to open its essay:',
-      linkedinNav: 'LinkedIn posts'
+      linkedinNav: 'LinkedIn posts',
+      comicsNav: 'Comics'
     },
     zh: {
       loading: '載入中……',
@@ -447,7 +448,8 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
       problem: '問題',
       readAngle: '閱讀每一個角度',
       readAngleHint: '同一項研究，五種編輯視角——點擊刊物名稱即可閱讀該角度：',
-      linkedinNav: 'LinkedIn 帖文'
+      linkedinNav: 'LinkedIn 帖文',
+      comicsNav: '漫畫'
     }
   };
 
@@ -618,7 +620,8 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     topnav.innerHTML = sections.map(function (s) {
       return '<a href="' + appUrl('section/' + esc(s.id)) + '"' + (s.id === activeId ? ' class="active"' : '') + '>' + esc(L(s, 'name')) + '</a>';
     }).join('') +
-      '<a href="' + appUrl('LinkedIn/') + '">' + esc(t('linkedinNav')) + '</a>';
+      '<a href="' + appUrl('LinkedIn/') + '">' + esc(t('linkedinNav')) + '</a>' +
+      '<a href="' + appUrl('comics/') + '">' + esc(t('comicsNav')) + '</a>';
   }
 
   function siteTitle() {
@@ -962,8 +965,9 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     if (href.indexOf(APP_BASE) === 0) dest = href.slice(APP_BASE.length);
     else if (href.charAt(0) === '#') dest = href.replace(/^#\/?/, '');
     if (dest === null) return;
-    /* LinkedIn posts archive is a standalone page (folder "LinkedIn") — native navigation */
+    /* LinkedIn posts archive and Comics are standalone pages — native navigation */
     if (dest.toLowerCase().indexOf('linkedin/') === 0) return;
+    if (dest.toLowerCase().indexOf('comics/') === 0) return;
     e.preventDefault();
     if (appUrl(dest) === location.pathname + location.search) { route(); return; }
     history.pushState(null, '', appUrl(dest));

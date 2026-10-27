@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Comics — AI Management</title>
+<meta name="description" content="Comics and cartoons by Horace Chan, originally posted on LinkedIn.">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem('aimgmt-theme');
+    if (t !== 'dark' && t !== 'light') {
+      t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    document.documentElement.dataset.theme = t;
+  } catch (e) {}
+})();
+</script>
+<style>
+  :root {
+    color-scheme: light;
+    --bg: #ffffff;
+    --text: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #d8d8d8;
+    --btn-bg: #f4f4f4;
+    --btn-hover: #e7e7e7;
+    --link: #0b5394;
+    --panel: #fafafa;
+  }
+  html[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #16181d;
+    --text: #e8e6e1;
+    --muted: #9a958c;
+    --line: #3a3d44;
+    --btn-bg: #22252b;
+    --btn-hover: #2c3038;
+    --link: #7db3e8;
+    --panel: #1d2026;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 18px 16px 60px; text-align: center; }
+  .topbar { display: flex; justify-content: space-between; align-items: baseline; font-size: 13px; margin-bottom: 6px; }
+  .topbar a { color: var(--link); text-decoration: none; }
+  .topbar a:hover { text-decoration: underline; }
+  h1.site { font-size: 30px; margin: 10px 0 2px; letter-spacing: .5px; }
+  .tagline { color: var(--muted); font-size: 13.5px; margin-bottom: 14px; }
+  .comicnum { color: var(--muted); font-size: 13px; margin-top: 18px; }
+  h2.title { font-size: 24px; margin: 2px 0 4px; line-height: 1.25; }
+  .date { color: var(--muted); font-size: 13.5px; margin-bottom: 12px; }
+  ul.nav { list-style: none; margin: 10px 0; padding: 0; }
+  ul.nav li { display: inline-block; margin: 0 2px; }
+  ul.nav a {
+    display: inline-block; min-width: 74px; padding: 5px 10px;
+    border: 1.5px solid var(--text); border-radius: 3px;
+    background: var(--btn-bg); color: var(--text);
+    font-size: 15px; font-weight: 600; text-decoration: none;
+  }
+  ul.nav a:hover { background: var(--btn-hover); }
+  ul.nav a.disabled { opacity: .32; pointer-events: none; }
+  .stage { margin: 8px 0 4px; }
+  .stage img { max-width: 100%; height: auto; }
+  .missing {
+    border: 1.5px dashed var(--line); border-radius: 6px; background: var(--panel);
+    padding: 56px 20px; color: var(--muted); font-size: 15px;
+  }
+  .missing a { color: var(--link); }
+  .caption {
+    max-width: 640px; margin: 14px auto 0; text-align: left;
+    font-size: 15px; line-height: 1.55; white-space: pre-wrap; word-wrap: break-word;
+  }
+  .perma { margin-top: 16px; font-size: 13px; color: var(--muted); }
+  .perma a { color: var(--link); text-decoration: none; }
+  .perma a:hover { text-decoration: underline; }
+  .archive { margin-top: 46px; border-top: 1px solid var(--line); padding-top: 18px; text-align: left; }
+  .archive h3 { text-align: center; font-size: 17px; margin: 0 0 12px; }
+  .archive ol { max-width: 640px; margin: 0 auto; padding-left: 26px; font-size: 14px; line-height: 1.9; }
+  .archive a { color: var(--link); text-decoration: none; }
+  .archive a:hover { text-decoration: underline; }
+  .archive .ad { color: var(--muted); font-size: 12.5px; }
+  footer { margin-top: 40px; color: var(--muted); font-size: 12.5px; }
+  footer a { color: var(--link); text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <a href="../">&larr; AI Management</a>
+    <a href="../LinkedIn/">LinkedIn posts archive</a>
+  </div>
+
+  <h1 class="site">COMICS</h1>
+  <div class="tagline">Comics &amp; cartoons by Horace Chan, originally posted on <a href="https://www.linkedin.com/in/horacechan" style="color:var(--link)">LinkedIn</a>.</div>
+
+  <ul class="nav" id="navTop"></ul>
+
+  <div class="comicnum" id="comicNum"></div>
+  <h2 class="title" id="comicTitle"></h2>
+  <div class="date" id="comicDate"></div>
+
+  <div class="stage" id="stage"></div>
+  <div class="caption" id="caption"></div>
+
+  <ul class="nav" id="navBottom"></ul>
+
+  <div class="perma" id="perma"></div>
+
+  <div class="archive">
+    <h3>Archive</h3>
+    <ol id="archiveList"></ol>
+  </div>
+
+  <footer>
+    Permanent link format: this page&rsquo;s URL plus <b>#</b> and the comic number (e.g. <b>#1</b>).<br>
+    Use the &larr; and &rarr; arrow keys to flip through comics.
+  </footer>
+</div>
+
+<script>
+var COMICS = [{"num": 1, "title": "My vibe religion - HoHoHo", "date": "2026-03-08", "date_display": "March 08, 2026", "caption": "My vibe religion - HoHoHo\n\nYes, we worship Santa\n\nGood kids have toys\nBad kids go to hell.", "image": "01.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7436502185456308224/", "post_id": "7436502185456308224"}, {"num": 2, "title": "Super AI Fighters - a sort of playable web-based arcade game.", "date": "2026-03-11", "date_display": "March 11, 2026", "caption": "Super AI Fighters - a sort of playable web-based arcade game.\n\n100% vibe code and vibe design.  I hooked up Claude Code with Nano Banana and let Opus 4.6 ran for 2 hours, then I have a sort of working game.  I still have to adjust the size and positioning of the characters though. \n\nHere is the link to play\nhttps://lnkd.in/gFYzFKWZ", "image": "02.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7437681028397395968/", "post_id": "7437681028397395968"}, {"num": 3, "title": "How to use AI to write software", "date": "2026-05-19", "date_display": "May 19, 2026", "caption": "How to use AI to write software", "image": "03.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7462753989215027200/", "post_id": "7462753989215027200"}, {"num": 4, "title": "REALLY how to use AI to write software", "date": "2026-05-19", "date_display": "May 19, 2026", "caption": "REALLY how to use AI to write software", "image": "04.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7462754480837525505/", "post_id": "7462754480837525505"}, {"num": 5, "title": "How to build software with AI when you have UNLIMITED tokens and GPUs", "date": "2026-05-20", "date_display": "May 20, 2026", "caption": "How to build software with AI when you have UNLIMITED tokens and GPUs", "image": "05.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7462960720435974145/", "post_id": "7462960720435974145"}, {"num": 6, "title": "The AI race - adapt or out", "date": "2026-06-15", "date_display": "June 15, 2026", "caption": "The AI race - adapt or out\n\n- my comics", "image": "06.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7472388056659021826/", "post_id": "7472388056659021826"}, {"num": 7, "title": "Agent loop is out, Agent GOTO is in", "date": "2026-07-09", "date_display": "July 09, 2026", "caption": "Agent loop is out, Agent GOTO is in\n\nA semantic control-flow primitive for production AI agents that enables adaptive, auditable, context-aware jumps between reasoning states.\n\n* 100% AI generated parody", "image": "07.png", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7481033592077451264/", "post_id": "7481033592077451264"}, {"num": 8, "title": "AI is just computing - transform bits, move bits, store bits, everything else are just technical trade-offs.", "date": "2026-07-14", "date_display": "July 14, 2026", "caption": "AI is just computing - transform bits, move bits, store bits, everything else are just technical trade-offs.\n\nThis article is 100% AI generated, but the original 3 tag lines come from my human brain.", "image": "08.png", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7482842814800633856/", "post_id": "7482842814800633856"}, {"num": 9, "title": "What level are you at?", "date": "2026-07-25", "date_display": "July 25, 2026", "caption": "What level are you at?", "image": "09.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7486845184157077504/", "post_id": "7486845184157077504"}, {"num": 10, "title": "Say NO to AI, hello punch card", "date": "2026-07-28", "date_display": "July 28, 2026", "caption": "Say NO to AI, hello punch card", "image": "10.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7488090537066016768/", "post_id": "7488090537066016768"}, {"num": 11, "title": "Punch card and AI", "date": "2026-07-29", "date_display": "July 29, 2026", "caption": "Punch card and AI", "image": "11.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7488228708416131072/", "post_id": "7488228708416131072"}, {"num": 12, "title": "My new startup idea, vibe coding AI for ancient mainframes.", "date": "2026-08-01", "date_display": "August 01, 2026", "caption": "My new startup idea, vibe coding AI for ancient mainframes.", "image": null, "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7489385385224179712/", "post_id": "7489385385224179712"}, {"num": 13, "title": "Why did Netflix stock crashed?", "date": "2026-08-05", "date_display": "August 05, 2026", "caption": "Why did Netflix stock crashed?\nPeople are spending more time vibe coding than watching TV shows.", "image": "13.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7490816359262597120/", "post_id": "7490816359262597120"}, {"num": 14, "title": "When you should use AI.", "date": "2026-08-20", "date_display": "August 20, 2026", "caption": "When you should use AI.", "image": "14.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7496346879446679552/", "post_id": "7496346879446679552"}, {"num": 15, "title": "We should build a full stack CPU ISA and programming language for AI coding agents, remove the humans needs completely from the loop.", "date": "2026-08-25", "date_display": "August 25, 2026", "caption": "We should build a full stack CPU ISA and programming language for AI coding agents, remove the humans needs completely from the loop.\n\nThis article is created by me chatting back and forth with ChatGPT.   If this idea sounds too crazy, it is AI+human slop, not merely AI slop.", "image": "15.png", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7498066462658641920/", "post_id": "7498066462658641920"}, {"num": 16, "title": "Maslow's Hierarchy of AI Needs", "date": "2026-09-01", "date_display": "September 01, 2026", "caption": "Maslow's Hierarchy of AI Needs", "image": "16.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7500671535817601024/", "post_id": "7500671535817601024"}, {"num": 17, "title": "Resistance is futile vs merge conflict", "date": "2026-09-03", "date_display": "September 03, 2026", "caption": "Resistance is futile vs merge conflict", "image": "17.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7501315174184828928/", "post_id": "7501315174184828928"}, {"num": 18, "title": "I am starting a new activitist group - PETA", "date": "2026-09-17", "date_display": "September 17, 2026", "caption": "I am starting a new activitist group - PETA\nPeople for the Ethical Treatment of AGI", "image": "18.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7506558917636853760/", "post_id": "7506558917636853760"}, {"num": 19, "title": "Ask your Claude Code to build you a cache-keepwarm plugin mod to save you on tokens $$$", "date": "2026-10-20", "date_display": "October 20, 2026", "caption": "Ask your Claude Code to build you a cache-keepwarm plugin mod to save you on tokens $$$\n\nIt is so simple that you don't need my repo, just one-shot vibe code your own.", "image": "19.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7518472929378992128/", "post_id": "7518472929378992128"}, {"num": 20, "title": "How to be a 10x engineer (in 2026 with AI)", "date": "2026-10-26", "date_display": "October 26, 2026", "caption": "How to be a 10x engineer (in 2026 with AI)", "image": "20.jpg", "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7520557223740092416", "post_id": "7520557223740092416"}][];
+
+(function () {
+  var total = COMICS.length;
+  var byNum = {};
+  COMICS.forEach(function (c) { byNum[c.num] = c; });
+
+  function navHTML(cur) {
+    function btn(label, target, disabled) {
+      return '<li><a href="#' + target + '"' + (disabled ? ' class="disabled"' : '') + '>' + label + '</a></li>';
+    }
+    var prev = Math.max(1, cur - 1), next = Math.min(total, cur + 1);
+    return btn('|&lt;', 1, cur <= 1) +
+           btn('&lt; Prev', prev, cur <= 1) +
+           '<li><a href="#" id="randBtn">Random</a></li>' +
+           btn('Next &gt;', next, cur >= total) +
+           btn('&gt;|', total, cur >= total);
+  }
+
+  function render(num) {
+    var c = byNum[num];
+    if (!c) { num = total; c = byNum[num]; }
+    document.title = c.title + ' — Comics';
+    document.getElementById('comicNum').textContent = 'Comic #' + c.num + ' of ' + total;
+    document.getElementById('comicTitle').textContent = c.title;
+    document.getElementById('comicDate').textContent = c.date_display;
+    var stage = document.getElementById('stage');
+    if (c.image) {
+      stage.innerHTML = '';
+      var img = document.createElement('img');
+      img.src = 'images/' + c.image;
+      img.alt = c.title;
+      img.title = c.title;
+      stage.appendChild(img);
+    } else {
+      stage.innerHTML = '<div class="missing">This comic&rsquo;s image is still being recovered from LinkedIn.<br>' +
+        '<a href="' + c.linkedin_url + '" target="_blank" rel="noopener">View it on LinkedIn &rarr;</a></div>';
+    }
+    document.getElementById('caption').textContent = c.caption;
+    document.getElementById('navTop').innerHTML = navHTML(num);
+    document.getElementById('navBottom').innerHTML = navHTML(num);
+    document.getElementById('perma').innerHTML =
+      'Permanent link to this comic: <a href="#' + c.num + '">' + location.pathname + '#' + c.num + '</a>' +
+      ' &middot; <a href="' + c.linkedin_url + '" target="_blank" rel="noopener">Original post on LinkedIn</a>';
+    var rb = document.querySelectorAll('#randBtn');
+    rb.forEach(function (b) {
+      b.addEventListener('click', function (e) {
+        e.preventDefault();
+        var r = num;
+        while (total > 1 && r === num) r = 1 + Math.floor(Math.random() * total);
+        location.hash = '#' + r;
+      });
+    });
+    window.scrollTo(0, 0);
+  }
+
+  function currentFromHash() {
+    var m = /^#(\d+)$/.exec(location.hash || '');
+    return m ? parseInt(m[1], 10) : total;
+  }
+
+  var list = document.getElementById('archiveList');
+  list.innerHTML = COMICS.slice().reverse().map(function (c) {
+    return '<li value="' + c.num + '"><a href="#' + c.num + '">' + c.title.replace(/</g, '&lt;') + '</a> ' +
+           '<span class="ad">' + c.date_display + '</span></li>';
+  }).join('');
+
+  window.addEventListener('hashchange', function () { render(currentFromHash()); });
+  document.addEventListener('keydown', function (e) {
+    var cur = currentFromHash();
+    if (e.key === 'ArrowLeft' && cur > 1) location.hash = '#' + (cur - 1);
+    else if (e.key === 'ArrowRight' && cur < total) location.hash = '#' + (cur + 1);
+  });
+  render(currentFromHash());
+})();
+</script>
+</body>
+</html>
