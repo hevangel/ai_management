@@ -1,0 +1,37 @@
+{
+  "activity_id": "7520873631233671168",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7520873631233671168/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-27T18:00:54+00:00",
+  "posted_at_hint": "1d",
+  "posted_at_approx": true,
+  "text": "As a chip engineer, I can proudly say I worked on chips that go to space, power the AI and run the Internet.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 13,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Rehan Khan",
+        "profile_url": "https://www.linkedin.com/in/rehan-khan-b62b90/",
+        "headline": "PMTS/DV Lead at AMD"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-27T18:00:54+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "And gaming",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-28T18:00:54Z"
+}

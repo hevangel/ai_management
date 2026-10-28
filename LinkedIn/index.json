@@ -3,11 +3,47 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-27T15:02:18.168195+00:00",
-  "total_posts": 821,
-  "total_comments": 439,
-  "total_replies": 356,
+  "generated_at": "2026-10-28T18:01:52.750930+00:00",
+  "total_posts": 825,
+  "total_comments": 441,
+  "total_replies": 357,
   "posts": [
+    {
+      "activity_id": "7521261291605262338",
+      "file": "posts/post_7521261291605262338.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7521261291605262338/",
+      "posted_at": "2026-10-28T17:34:54+00:00",
+      "title": "Make a wish, and it will come true. Great wish come at a great price, at $200 a…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7521230723266068482",
+      "file": "posts/post_7521230723266068482.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7521230723266068482/",
+      "posted_at": "2026-10-28T16:00:54+00:00",
+      "title": "Slopman-e is here. Is it the time to short CDNS? https://lnkd.in/gQnaW5WN",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7520873631233671168",
+      "file": "posts/post_7520873631233671168.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7520873631233671168/",
+      "posted_at": "2026-10-27T18:00:54+00:00",
+      "title": "As a chip engineer, I can proudly say I worked on chips that go to space, power…",
+      "likes": 13,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7520898593403342848",
+      "file": "posts/post_7520898593403342848.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7520898593403342848/",
+      "posted_at": "2026-10-27T18:00:54+00:00",
+      "title": "PIP your AI agents. AI is lazy, PIP them to make them work harder.",
+      "likes": 2,
+      "comment_count": 0
+    },
     {
       "activity_id": "7520716284205113344",
       "file": "posts/post_7520716284205113344.json",

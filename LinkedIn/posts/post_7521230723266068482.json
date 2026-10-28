@@ -1,0 +1,53 @@
+{
+  "activity_id": "7521230723266068482",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7521230723266068482/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-28T16:00:54+00:00",
+  "posted_at_hint": "2h",
+  "posted_at_approx": true,
+  "text": "Slopman-e is here.  Is it the time to short CDNS?\n\nhttps://lnkd.in/gQnaW5WN",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-28T17:00:54+00:00",
+      "posted_at_hint": "1h",
+      "posted_at_approx": true,
+      "text": "you can be e-champion!",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Using AI building the chips that power the AI."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-28T17:25:54+00:00",
+          "posted_at_hint": "35m",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen It is 100% AI slop. I am surprise it actually work and I still know nothing about Rust.\n\nI wouldn't trust your next TSMC tapeout with Slopman-e",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-28T18:00:54Z"
+}
