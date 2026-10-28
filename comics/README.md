@@ -21,9 +21,12 @@ root page's top navigation.
 2. Append an entry to `comics.json`.
 3. Run `python3 tools/build_comics.py` and commit the result.
 
-## Known gap
+## Note on comic #12
 
 Comic #12 ("My new startup idea, vibe coding AI for ancient
-mainframes.", 2026-08-01) has no local image yet: its LinkedIn image
-only loads in a signed-in view. The page shows a placeholder linking
-to the original post until the image is recovered.
+mainframes.", 2026-08-01) was recovered last: its LinkedIn image
+only loads in a signed-in view, and the full-size viewer URL could
+not be extracted (LinkedIn signs each size separately). The local
+file is a 4x Lanczos upscale of the verified 160x106 thumbnail, so
+it looks softer than the other comics. If a full-resolution copy is
+ever obtained, just replace `images/12.jpg`.
