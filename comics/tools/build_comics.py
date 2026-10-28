@@ -140,7 +140,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 </div>
 
 <script>
-var COMICS = /*__DATA__*/[];
+var COMICS = /*__DATA__*/;
 
 (function () {
   var total = COMICS.length;
