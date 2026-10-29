@@ -1,0 +1,53 @@
+{
+  "activity_id": "7521423998040223744",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7521423998040223744/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-29T04:49:59+00:00",
+  "posted_at_hint": "10h",
+  "posted_at_approx": true,
+  "text": "After my little team has built our own incompatible Jira for the 3rd time, I change my opinion about Altassian's stock value.\n\nMaybe people will stay with Jira after all, even it is easy to vibe code your own Jira.  It is hard for different engineers (even I am their boss and we are all AI-native) vibe code different versions of Jira that are compatible with each other.\n\nOn the other hand, it is pretty easy to vibe code a Jira bridge, then sync the tickets in our ad-hoc Jira back to the mothership Jira.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-29T05:49:59+00:00",
+      "posted_at_hint": "9h",
+      "posted_at_approx": true,
+      "text": "Good starting point to build an open source alternative.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Using AI building the chips that power the AI."
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-10-29T05:49:59+00:00",
+          "posted_at_hint": "9h",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen You know how big companies work.  It is easier to vibe code your own software then filling all the forms and talk to all the humans to bring in an open source project.",
+          "likes": 2,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-29T14:49:59Z"
+}

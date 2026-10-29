@@ -3,11 +3,29 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-28T18:01:52.750930+00:00",
-  "total_posts": 825,
-  "total_comments": 441,
-  "total_replies": 357,
+  "generated_at": "2026-10-29T14:50:22.609080+00:00",
+  "total_posts": 827,
+  "total_comments": 442,
+  "total_replies": 358,
   "posts": [
+    {
+      "activity_id": "7521439778228162560",
+      "file": "posts/post_7521439778228162560.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7521439778228162560/",
+      "posted_at": "2026-10-29T05:49:59+00:00",
+      "title": "#AMDBrandAmbassadors",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7521423998040223744",
+      "file": "posts/post_7521423998040223744.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7521423998040223744/",
+      "posted_at": "2026-10-29T04:49:59+00:00",
+      "title": "After my little team has built our own incompatible Jira for the 3rd time, I cha…",
+      "likes": 2,
+      "comment_count": 1
+    },
     {
       "activity_id": "7521261291605262338",
       "file": "posts/post_7521261291605262338.json",
