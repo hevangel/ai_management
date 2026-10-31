@@ -3,11 +3,47 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-29T14:50:22.609080+00:00",
-  "total_posts": 827,
-  "total_comments": 442,
-  "total_replies": 358,
+  "generated_at": "2026-10-31T15:15:38.799182+00:00",
+  "total_posts": 831,
+  "total_comments": 445,
+  "total_replies": 362,
   "posts": [
+    {
+      "activity_id": "7522190566827143168",
+      "file": "posts/post_7522190566827143168.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522190566827143168/",
+      "posted_at": "2026-10-31T07:50:00+00:00",
+      "title": "I spent 2 hours merging over 100 branches and workfree across in 3 repos, interl…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7522191840968740864",
+      "file": "posts/post_7522191840968740864.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522191840968740864/",
+      "posted_at": "2026-10-31T07:50:00+00:00",
+      "title": "You can't get a full view of your code in Codex or Claude Code alone, those UI a…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7522098877156524033",
+      "file": "posts/post_7522098877156524033.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522098877156524033/",
+      "posted_at": "2026-10-31T01:50:00+00:00",
+      "title": "In OpenAI's article, The Future of the Firm, the author envision 3 ways AI enter…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7521997540695793665",
+      "file": "posts/post_7521997540695793665.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7521997540695793665/",
+      "posted_at": "2026-10-30T18:50:00+00:00",
+      "title": "I don't know how to write \"hello world\" in Rust Yet, I am checking in millions l…",
+      "likes": 3,
+      "comment_count": 3
+    },
     {
       "activity_id": "7521439778228162560",
       "file": "posts/post_7521439778228162560.json",

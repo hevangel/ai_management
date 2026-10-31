@@ -1,0 +1,21 @@
+{
+  "activity_id": "7522191840968740864",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7522191840968740864/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-31T07:50:00+00:00",
+  "posted_at_hint": "7h • Edited",
+  "posted_at_approx": true,
+  "text": "You can't get a full view of your code in Codex or Claude Code alone, those UI are NOT build to help you understand.\n\nAfter burning lots of tokens, it time for me to do my homework, open VSCode and DataGrip and ask Codex explain the code to me the old fashion way by opening the files.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-10-31T14:50:00Z"
+}

@@ -1,0 +1,128 @@
+{
+  "activity_id": "7521997540695793665",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7521997540695793665/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-10-30T18:50:00+00:00",
+  "posted_at_hint": "20h • Edited",
+  "posted_at_approx": true,
+  "text": "I don't know how to write \"hello world\" in Rust\n\nYet, I am checking in millions lines of Rust code created by my AI coding agent. Even if I wanted to, I can't review the code, I don't know Rust.\n\nBut, I know how to play around with the end product and use it as a user. If I haven't seen a bug, then it is bug free to me. If something doesn't work as expected, I will just ask AI to fix it for me on the spot.\n\nIf your software is open source, you don't need to ship it bug free, your user's AI can do just in time debugging and fixing. Move the testing, debug and patching downstream to the users.\n\nIt is the Shift Right Movement. Instead of shift the schedule to the left, we shift QA to the right.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 7,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Craig Gagnon BSc",
+        "profile_url": "https://www.linkedin.com/in/craig-gagnon-chemist/",
+        "headline": "De-Risking Critical Infrastructure at Speed (Telcarion) | Chemist | Vendor to BHP, TetraTech | $100M+/40b litres water treated Client Impact"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-30T18:50:00+00:00",
+      "posted_at_hint": "20h",
+      "posted_at_approx": true,
+      "text": "Sounds like every bethesda game ive ever played",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Navid Mahmood",
+            "profile_url": "https://www.linkedin.com/in/navidmahmood/",
+            "headline": "Software Engineer & Development Manager | AI & Machine Learning | Computer Vision | Real-Time Systems | ITS"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-30T20:50:00+00:00",
+          "posted_at_hint": "18h",
+          "posted_at_approx": true,
+          "text": "Craig Gagnon BSc The accuracy of this is both painful and funny.",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Craig Gagnon BSc",
+            "profile_url": "https://www.linkedin.com/in/craig-gagnon-chemist/",
+            "headline": "De-Risking Critical Infrastructure at Speed (Telcarion) | Chemist | Vendor to BHP, TetraTech | $100M+/40b litres water treated Client Impact"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-30T20:50:00+00:00",
+          "posted_at_hint": "18h",
+          "posted_at_approx": true,
+          "text": "Navid Mahmood Almost as painful as an arrow to the knee",
+          "likes": 1,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Jonathan Sneed",
+            "profile_url": "https://www.linkedin.com/in/jonathan-sneed/",
+            "headline": "Cybersecurity SME"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-30T21:50:00+00:00",
+          "posted_at_hint": "17h",
+          "posted_at_approx": true,
+          "text": "Craig Gagnon BSc waking up in jail?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Craig Gagnon BSc",
+            "profile_url": "https://www.linkedin.com/in/craig-gagnon-chemist/",
+            "headline": "De-Risking Critical Infrastructure at Speed (Telcarion) | Chemist | Vendor to BHP, TetraTech | $100M+/40b litres water treated Client Impact"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-10-30T21:50:00+00:00",
+          "posted_at_hint": "17h",
+          "posted_at_approx": true,
+          "text": "Jonathan Sneed haha",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-30T18:50:00+00:00",
+      "posted_at_hint": "20h",
+      "posted_at_approx": true,
+      "text": "move fast, break fast. no time for perfection.",
+      "likes": 2,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Christopher Fortin",
+        "profile_url": "https://www.linkedin.com/in/crfortin/",
+        "headline": "Founder, SVP Strategic Development at 5Seams, Inc."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-10-30T21:50:00+00:00",
+      "posted_at_hint": "17h",
+      "posted_at_approx": true,
+      "text": "\"move fast and break things\" hmmm",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-10-31T14:50:00Z"
+}
