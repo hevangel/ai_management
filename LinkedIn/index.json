@@ -3,11 +3,38 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-10-31T15:15:38.799182+00:00",
-  "total_posts": 831,
-  "total_comments": 445,
+  "generated_at": "2026-11-01T15:49:07.494819+00:00",
+  "total_posts": 834,
+  "total_comments": 446,
   "total_replies": 362,
   "posts": [
+    {
+      "activity_id": "7522550398243606528",
+      "file": "posts/post_7522550398243606528.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522550398243606528/",
+      "posted_at": "2026-11-01T07:50:00+00:00",
+      "title": "The first line of code I write in a year. It is a ritual, you have to hand type…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7522344778517233664",
+      "file": "posts/post_7522344778517233664.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522344778517233664/",
+      "posted_at": "2026-10-31T17:50:00+00:00",
+      "title": "Clouding compute is someone else's server Muse/dot/grok-bot or other AI agent is…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7522337688285401088",
+      "file": "posts/post_7522337688285401088.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522337688285401088/",
+      "posted_at": "2026-10-31T16:50:00+00:00",
+      "title": "Using AI well is not about writing fancy prompts or installing cool skills, it i…",
+      "likes": 1,
+      "comment_count": 0
+    },
     {
       "activity_id": "7522190566827143168",
       "file": "posts/post_7522190566827143168.json",
