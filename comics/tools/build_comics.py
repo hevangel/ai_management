@@ -67,9 +67,7 @@ TEMPLATE = r"""<!DOCTYPE html>
   .topbar a { color: var(--link); text-decoration: none; }
   .topbar a:hover { text-decoration: underline; }
   h1.site { font-size: 30px; margin: 10px 0 2px; letter-spacing: .5px; }
-  .tagline { color: var(--muted); font-size: 13.5px; margin-bottom: 14px; }
   .comicnum { color: var(--muted); font-size: 13px; margin-top: 18px; }
-  h2.title { font-size: 24px; margin: 2px 0 4px; line-height: 1.25; }
   .date { color: var(--muted); font-size: 13.5px; margin-bottom: 12px; }
   ul.nav { list-style: none; margin: 10px 0; padding: 0; }
   ul.nav li { display: inline-block; margin: 0 2px; }
@@ -88,10 +86,6 @@ TEMPLATE = r"""<!DOCTYPE html>
     padding: 56px 20px; color: var(--muted); font-size: 15px;
   }
   .missing a { color: var(--link); }
-  .caption {
-    max-width: 640px; margin: 14px auto 0; text-align: left;
-    font-size: 15px; line-height: 1.55; white-space: pre-wrap; word-wrap: break-word;
-  }
   .perma { margin-top: 16px; font-size: 13px; color: var(--muted); }
   .perma a { color: var(--link); text-decoration: none; }
   .perma a:hover { text-decoration: underline; }
@@ -113,16 +107,12 @@ TEMPLATE = r"""<!DOCTYPE html>
   </div>
 
   <h1 class="site">COMICS</h1>
-  <div class="tagline">Comics &amp; cartoons by Horace Chan, originally posted on <a href="https://www.linkedin.com/in/horacechan" style="color:var(--link)">LinkedIn</a>.</div>
-
   <ul class="nav" id="navTop"></ul>
 
   <div class="comicnum" id="comicNum"></div>
-  <h2 class="title" id="comicTitle"></h2>
   <div class="date" id="comicDate"></div>
 
   <div class="stage" id="stage"></div>
-  <div class="caption" id="caption"></div>
 
   <ul class="nav" id="navBottom"></ul>
 
@@ -164,7 +154,6 @@ var COMICS = /*__DATA__*/;
     if (!c) { num = total; c = byNum[num]; }
     document.title = c.title + ' — Comics';
     document.getElementById('comicNum').textContent = 'Comic #' + c.num + ' of ' + total;
-    document.getElementById('comicTitle').textContent = c.title;
     document.getElementById('comicDate').textContent = c.date_display;
     var stage = document.getElementById('stage');
     if (c.image) {
@@ -175,15 +164,12 @@ var COMICS = /*__DATA__*/;
       img.title = c.title;
       stage.appendChild(img);
     } else {
-      stage.innerHTML = '<div class="missing">This comic&rsquo;s image is still being recovered from LinkedIn.<br>' +
-        '<a href="' + c.linkedin_url + '" target="_blank" rel="noopener">View it on LinkedIn &rarr;</a></div>';
+      stage.innerHTML = '<div class="missing">This comic&rsquo;s image is still being recovered.</div>';
     }
-    document.getElementById('caption').textContent = c.caption;
     document.getElementById('navTop').innerHTML = navHTML(num);
     document.getElementById('navBottom').innerHTML = navHTML(num);
     document.getElementById('perma').innerHTML =
-      'Permanent link to this comic: <a href="#' + c.num + '">' + location.pathname + '#' + c.num + '</a>' +
-      ' &middot; <a href="' + c.linkedin_url + '" target="_blank" rel="noopener">Original post on LinkedIn</a>';
+      'Permanent link to this comic: <a href="#' + c.num + '">' + location.pathname + '#' + c.num + '</a>';
     var rb = document.querySelectorAll('#randBtn');
     rb.forEach(function (b) {
       b.addEventListener('click', function (e) {

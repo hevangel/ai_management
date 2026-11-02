@@ -21,12 +21,12 @@ root page's top navigation.
 2. Append an entry to `comics.json`.
 3. Run `python3 tools/build_comics.py` and commit the result.
 
-## Note on comic #12
+## Note on comic #13
 
-Comic #12 ("My new startup idea, vibe coding AI for ancient
-mainframes.", 2026-08-01) was recovered last: its LinkedIn image
+Comic #13 ("My new startup idea, vibe coding AI for ancient
+mainframes.", 2026-08-01, formerly #12 before comic #10 was inserted) was recovered last: its LinkedIn image
 only loads in a signed-in view, and the full-size viewer URL could
 not be extracted (LinkedIn signs each size separately). The local
 file is a 4x Lanczos upscale of the verified 160x106 thumbnail, so
 it looks softer than the other comics. If a full-resolution copy is
-ever obtained, just replace `images/12.jpg`.
+ever obtained, just replace `images/13.jpg`.
