@@ -3,11 +3,56 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-01T15:49:07.494819+00:00",
-  "total_posts": 834,
-  "total_comments": 446,
+  "generated_at": "2026-11-02T15:52:12.352888+00:00",
+  "total_posts": 839,
+  "total_comments": 447,
   "total_replies": 362,
   "posts": [
+    {
+      "activity_id": "7522852863950094336",
+      "file": "posts/post_7522852863950094336.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522852863950094336/",
+      "posted_at": "2026-11-02T03:51:00+00:00",
+      "title": "Do we actually need very long run AI agents? I mean AI agents that runs 24x7 non…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7522863070419898368",
+      "file": "posts/post_7522863070419898368.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522863070419898368/",
+      "posted_at": "2026-11-02T03:51:00+00:00",
+      "title": "AutoClaw gives out generous free tokens, but its API is too busy.",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7522865958303006720",
+      "file": "posts/post_7522865958303006720.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7522865958303006720/",
+      "posted_at": "2026-11-02T03:51:00+00:00",
+      "title": "#amdbrandambassadors I worked on Venice.",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7522796703192846336",
+      "file": "posts/post_7522796703192846336.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522796703192846336/",
+      "posted_at": "2026-11-01T23:51:00+00:00",
+      "title": "After AGI tried all the religions, this time it chooses atheism. A machine doesn…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7522725259788107776",
+      "file": "posts/post_7522725259788107776.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7522725259788107776/",
+      "posted_at": "2026-11-01T18:51:00+00:00",
+      "title": "NEVER trust Anthropic. They just ban Claude using REA, Reverse Engineer Anything…",
+      "likes": 6,
+      "comment_count": 1
+    },
     {
       "activity_id": "7522550398243606528",
       "file": "posts/post_7522550398243606528.json",

@@ -1,0 +1,37 @@
+{
+ "activity_id": "7522725259788107776",
+ "url": "https://www.linkedin.com/feed/update/urn:li:share:7522725259788107776/",
+ "author": {
+  "name": "Horace Chan",
+  "profile_url": "https://www.linkedin.com/in/horacechan",
+  "headline": "Expert in applying AI in verification"
+ },
+ "posted_at": "2026-11-01T18:51:00+00:00",
+ "posted_at_hint": "21h",
+ "posted_at_approx": true,
+ "text": "NEVER trust Anthropic. They just ban Claude using REA, Reverse Engineer Anything, which is perfectly legal to do and it is the fundamental rights of engineers, take things apart and learn how it works, then rebuilt it and make a better one. That's why we need open source models. https://lnkd.in/gm6NEmzX",
+ "post_type": "original",
+ "shared_article": null,
+ "reshared_post": null,
+ "likes": 6,
+ "reposts": 0,
+ "comment_count": 1,
+ "comments": [
+  {
+   "comment_id": null,
+   "author": {
+    "name": "Christopher Fortin",
+    "profile_url": "https://www.linkedin.com/in/christopherfortin/",
+    "headline": "Founder, SVP Strategic Development at 5Seams, Inc."
+   },
+   "is_author_reply": false,
+   "posted_at": "2026-11-01T21:51:00+00:00",
+   "posted_at_hint": "18h",
+   "posted_at_approx": true,
+   "text": "what about software ? did they get a nasty letter from Adobe's lawyers ?",
+   "likes": 0,
+   "replies": []
+  }
+ ],
+ "scraped_at": "2026-11-02T15:51:00Z"
+}

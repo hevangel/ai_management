@@ -1,0 +1,21 @@
+{
+ "activity_id": "7522852863950094336",
+ "url": "https://www.linkedin.com/feed/update/urn:li:share:7522852863950094336/",
+ "author": {
+  "name": "Horace Chan",
+  "profile_url": "https://www.linkedin.com/in/horacechan",
+  "headline": "Expert in applying AI in verification"
+ },
+ "posted_at": "2026-11-02T03:51:00+00:00",
+ "posted_at_hint": "12h",
+ "posted_at_approx": true,
+ "text": "Do we actually need very long run AI agents? I mean AI agents that runs 24x7 non stop for weeks or months. I found the optimal flow in term of tokens usage lately is have a Sonnet running the loop with Haiku doing the mechanical tool calls. Pause it once a day, let Fable review the progress with Opus beef up the guard rail of the loop with my human guidance, then kick it off again. For GPT, Luna-max can do the loop pretty well, Astra for code review and Sol to update the harness.",
+ "post_type": "original",
+ "shared_article": null,
+ "reshared_post": null,
+ "likes": 2,
+ "reposts": 0,
+ "comment_count": 0,
+ "comments": [],
+ "scraped_at": "2026-11-02T15:51:00Z"
+}
