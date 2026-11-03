@@ -3,11 +3,29 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-02T15:52:12.352888+00:00",
-  "total_posts": 839,
+  "generated_at": "2026-11-03T15:47:34.670248+00:00",
+  "total_posts": 841,
   "total_comments": 447,
   "total_replies": 362,
   "posts": [
+    {
+      "activity_id": "7523237221303365633",
+      "file": "posts/post_7523237221303365633.json",
+      "url": "https://www.linkedin.com/posts/horacechan_my-glm-agent-switched-to-thinking-in-chinese-share-7523237221303365633-UaLh/",
+      "posted_at": "2026-11-03T04:46:00+00:00",
+      "title": "My GLM agent switched to thinking in Chinese in mid session. I have been talking…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7523158537410273280",
+      "file": "posts/post_7523158537410273280.json",
+      "url": "https://www.linkedin.com/posts/horacechan_if-you-dont-see-productivity-gain-using-share-7523158537410273280-Yv3b/",
+      "posted_at": "2026-11-02T23:46:00+00:00",
+      "title": "If you don't see productivity gain using AI, you are doing it wrong To the bare…",
+      "likes": 5,
+      "comment_count": 0
+    },
     {
       "activity_id": "7522852863950094336",
       "file": "posts/post_7522852863950094336.json",
