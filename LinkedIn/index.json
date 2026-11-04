@@ -3,11 +3,29 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-03T15:47:34.670248+00:00",
-  "total_posts": 841,
-  "total_comments": 447,
+  "generated_at": "2026-11-04T15:52:11.383682+00:00",
+  "total_posts": 843,
+  "total_comments": 469,
   "total_replies": 362,
   "posts": [
+    {
+      "activity_id": "7523762008467341312",
+      "file": "posts/post_7523762008467341312.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7523762008467341312",
+      "posted_at": "2026-11-04T15:11:00+00:00",
+      "title": "My quest to rebuild the early history of computers in SystemVerilog and Rust. ht…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7523421136332754944",
+      "file": "posts/post_7523421136332754944.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523421136332754944",
+      "posted_at": "2026-11-03T16:51:00+00:00",
+      "title": "",
+      "likes": 501,
+      "comment_count": 22
+    },
     {
       "activity_id": "7523237221303365633",
       "file": "posts/post_7523237221303365633.json",

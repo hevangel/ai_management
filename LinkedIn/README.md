@@ -6,8 +6,8 @@ links, comment text, timestamps, nested replies, and Horace's own replies).
 
 ## Coverage
 
-- **841 posts**, 2025-09-14 → 2026-11-03 (newest first in `index.json`)
-- 447 top-level comments, 362 nested replies, all threads fully expanded
+- **843 posts**, 2025-09-14 → 2026-11-04 (newest first in `index.json`)
+- 469 top-level comments, 362 nested replies, all threads fully expanded
 - LinkedIn renders only relative timestamps ("2w", "Jun 2"), never an
   absolute `<time datetime>` — so for feed-scraped posts `posted_at` is
   approximated from the relative hint anchored at each post's
