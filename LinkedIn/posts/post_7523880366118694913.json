@@ -1,0 +1,20 @@
+{
+  "activity_id": "7523880366118694913",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7523880366118694913/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-04T23:52:00+00:00",
+  "posted_at_hint": "16h",
+  "posted_at_approx": true,
+  "text": "Although my GLM session is thinking in Chinese, the code comments and the github issue, PR comments it wrote are still in English, very interesting behavior.\n\nI didn't bother nudge the session back to English, it seems like GLM is smarter when I let it think in Chinese. Not a scientific benchmark, just subjective observation.",
+  "post_type": "original",
+  "shared_article": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-11-05T15:52:00Z"
+}

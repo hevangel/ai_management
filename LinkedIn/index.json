@@ -3,11 +3,29 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-04T15:52:11.383682+00:00",
-  "total_posts": 843,
-  "total_comments": 469,
+  "generated_at": "2026-11-05T15:52:50.321601+00:00",
+  "total_posts": 845,
+  "total_comments": 470,
   "total_replies": 362,
   "posts": [
+    {
+      "activity_id": "7523880366118694913",
+      "file": "posts/post_7523880366118694913.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7523880366118694913/",
+      "posted_at": "2026-11-04T23:52:00+00:00",
+      "title": "Although my GLM session is thinking in Chinese, the code comments and the github…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7523815630484131840",
+      "file": "posts/post_7523815630484131840.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7523815630484131840/",
+      "posted_at": "2026-11-04T18:52:00+00:00",
+      "title": "In the past, when we write software, we have to write a document or user guide f…",
+      "likes": 1,
+      "comment_count": 1
+    },
     {
       "activity_id": "7523762008467341312",
       "file": "posts/post_7523762008467341312.json",

@@ -1,0 +1,36 @@
+{
+  "activity_id": "7523815630484131840",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7523815630484131840/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-04T18:52:00+00:00",
+  "posted_at_hint": "21h",
+  "posted_at_approx": true,
+  "text": "In the past, when we write software, we have to write a document or user guide for the software seperately.\n\nNow, when we build AI agents or skill, do we still have to write any document or user guide? Can I just tell the user ask GPT or Claude to teach you how to use my agent or my skill?",
+  "post_type": "original",
+  "shared_article": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-04T20:52:00+00:00",
+      "posted_at_hint": "19h",
+      "posted_at_approx": true,
+      "text": "write FAQ.md",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-05T15:52:00Z"
+}
