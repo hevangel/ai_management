@@ -1,0 +1,127 @@
+{
+  "activity_id": "7524213063236018178",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7524213063236018178/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-05T21:52:00+00:00",
+  "posted_at_hint": "18h",
+  "posted_at_approx": true,
+  "text": "I have an interesting observation. Those who knows how to write assembly has much better time coping with coding with AI.\n\nMost AI nay sayers are those never experience the joy (and pain) of low level programming. They grown up in the nice and tidy high level language and framework world that are now shattered by LLM.",
+  "post_type": "original",
+  "shared_article": null,
+  "likes": 8,
+  "reposts": 0,
+  "comment_count": 7,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-05T22:52:00+00:00",
+      "posted_at_hint": "17h",
+      "posted_at_approx": true,
+      "text": "how about who knows to write microcode?",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Using AI building the chips that power the AI."
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-11-06T02:52:00+00:00",
+          "posted_at_hint": "13h",
+          "posted_at_approx": true,
+          "text": "Bondan Rufen do people actually write microcode by hand?",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Bondan Rufen",
+            "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+            "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-11-06T06:52:00+00:00",
+          "posted_at_hint": "9h",
+          "posted_at_approx": true,
+          "text": "Horace Chan yes, you have to know the microarchitecture before writing microcode.",
+          "likes": 0,
+          "replies": []
+        },
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Arkarup Gupta",
+            "profile_url": "https://www.linkedin.com/in/arkarup-gupta/",
+            "headline": "SOC ARCHITECT, SOC Integration| SOC for IOT automotive ML/AI | EX-ISRO"
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-11-06T11:52:00+00:00",
+          "posted_at_hint": "4h",
+          "posted_at_approx": true,
+          "text": "Horace Chan they used to some mil-std-1750 born that way",
+          "likes": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Adeel Ahmad",
+        "profile_url": "https://www.linkedin.com/in/adeel-ahmad/",
+        "headline": "Engineering Leader · Heliqon · ex-Adobe & Caterpillar · Author, Bloomsbury · Misophonia Podcast host"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-06T12:52:00+00:00",
+      "posted_at_hint": "3h",
+      "posted_at_approx": true,
+      "text": "And never took ECE 222",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Arkarup Gupta",
+        "profile_url": "https://www.linkedin.com/in/arkarup-gupta/",
+        "headline": "SOC ARCHITECT, SOC Integration| SOC for IOT automotive ML/AI | EX-ISRO"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-06T11:52:00+00:00",
+      "posted_at_hint": "4h",
+      "posted_at_approx": true,
+      "text": "might be true lol",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Subhendra Basu",
+        "profile_url": "https://www.linkedin.com/in/subhendra-basu/",
+        "headline": "AI/ML Engineer | Technical Trainer | Python, GenAI, RAG, AWS | Built search at LinkedIn & Yahoo! | Shipped a live ML system in 5G | Taught 200 engineers, 120 placed"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-06T02:52:00+00:00",
+      "posted_at_hint": "13h",
+      "posted_at_approx": true,
+      "text": "That gives me a business idea",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-06T15:52:00Z"
+}

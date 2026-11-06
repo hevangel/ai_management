@@ -3,11 +3,38 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-05T15:52:50.321601+00:00",
-  "total_posts": 845,
-  "total_comments": 470,
-  "total_replies": 362,
+  "generated_at": "2026-11-06T15:58:46.828457+00:00",
+  "total_posts": 848,
+  "total_comments": 475,
+  "total_replies": 365,
   "posts": [
+    {
+      "activity_id": "7524348349504716800",
+      "file": "posts/post_7524348349504716800.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524348349504716800/",
+      "posted_at": "2026-11-06T06:52:00+00:00",
+      "title": "Norton thinks Anthropic webpage is dangerous 😱",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7524295433523802112",
+      "file": "posts/post_7524295433523802112.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524295433523802112/",
+      "posted_at": "2026-11-06T02:52:00+00:00",
+      "title": "My Claude Code got a 400 API error I ask the Claude Chat and it doesn't know how…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7524213063236018178",
+      "file": "posts/post_7524213063236018178.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524213063236018178/",
+      "posted_at": "2026-11-05T21:52:00+00:00",
+      "title": "I have an interesting observation. Those who knows how to write assembly has muc…",
+      "likes": 8,
+      "comment_count": 4
+    },
     {
       "activity_id": "7523880366118694913",
       "file": "posts/post_7523880366118694913.json",

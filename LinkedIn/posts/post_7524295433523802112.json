@@ -1,0 +1,36 @@
+{
+  "activity_id": "7524295433523802112",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7524295433523802112/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-06T02:52:00+00:00",
+  "posted_at_hint": "13h",
+  "posted_at_approx": true,
+  "text": "My Claude Code got a 400 API error\nI ask the Claude Chat and it doesn't know how to fix it",
+  "post_type": "original",
+  "shared_article": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-06T06:52:00+00:00",
+      "posted_at_hint": "9h",
+      "posted_at_approx": true,
+      "text": "it will ask you to wait 😀",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-06T15:52:00Z"
+}
