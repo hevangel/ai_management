@@ -1,0 +1,97 @@
+{
+  "activity_id": "7524513271274606593",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7524513271274606593/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-06T17:50:00+00:00",
+  "posted_at_hint": "22h • Edited",
+  "posted_at_approx": true,
+  "text": "Computer Architecture A Quantitative Approach in SystemVerilog and VHDL !!!\n\nWhy read the thousands pages textbook page by page when you can simply learn by playing around with the code?\n\nhttps://lnkd.in/gjjw894K",
+  "post_type": "original",
+  "shared_article": null,
+  "likes": 67,
+  "reposts": 3,
+  "comment_count": 5,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Srinivasan Venkataramanan",
+        "profile_url": "https://www.linkedin.com/in/svenka3/",
+        "headline": "CEO & Founder AsFigo"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-07T15:46:00+00:00",
+      "posted_at_hint": "4m",
+      "posted_at_approx": true,
+      "text": "Well, reading is fun (or was before AI)",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nathan Vaz",
+        "profile_url": "https://www.linkedin.com/in/nathan-vaz18/",
+        "headline": "Computer Architecture"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-07T01:50:00+00:00",
+      "posted_at_hint": "14h",
+      "posted_at_approx": true,
+      "text": "It is inherently better to learn architecture without a HDL, always.",
+      "likes": 2,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Using AI building the chips that power the AI."
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-11-07T05:50:00+00:00",
+          "posted_at_hint": "10h",
+          "posted_at_approx": true,
+          "text": "Nathan Vaz your wish shalt be granted. Let me ask Claude to do draw a schematic version of the implementation. Stay tuned",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Chaitanya Tejaswi",
+        "profile_url": "https://www.linkedin.com/in/crtejaswi/",
+        "headline": "VLSI/IITGuwahati | ECE/GTU"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-07T15:34:00+00:00",
+      "posted_at_hint": "16m",
+      "posted_at_approx": true,
+      "text": "neat work!",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Sean Galloway",
+        "profile_url": "https://www.linkedin.com/in/sean-g-galloway/",
+        "headline": "Principal Engineer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-07T02:50:00+00:00",
+      "posted_at_hint": "13h",
+      "posted_at_approx": true,
+      "text": "I did a similar thing with Knuth. I used TAOCP much like a cookbook. That is fine for a quick problem I need to solve, but I missed the “why” behind the solutions. Without the theory from the textbook, it will be hard to judge the trade offs.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-07T15:50:00Z"
+}

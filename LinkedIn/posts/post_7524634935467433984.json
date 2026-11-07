@@ -1,0 +1,20 @@
+{
+  "activity_id": "7524634935467433984",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7524634935467433984/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-07T01:50:00+00:00",
+  "posted_at_hint": "14h",
+  "posted_at_approx": true,
+  "text": "Introduction to Algorithms (the white book) in Rust\n\nAll the algorithms form all 4 editions.\n\nI am pretty sure Claude had read the book in pre-training, otherwise it couldn't memorize all the examples\n\nhttps://lnkd.in/gRVMHjgj",
+  "post_type": "original",
+  "shared_article": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-11-07T15:50:00Z"
+}

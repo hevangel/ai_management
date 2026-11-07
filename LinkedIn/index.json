@@ -3,11 +3,38 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-06T15:58:46.828457+00:00",
-  "total_posts": 848,
-  "total_comments": 475,
-  "total_replies": 365,
+  "generated_at": "2026-11-07T15:51:37.727177+00:00",
+  "total_posts": 851,
+  "total_comments": 479,
+  "total_replies": 366,
   "posts": [
+    {
+      "activity_id": "7524741843931152384",
+      "file": "posts/post_7524741843931152384.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524741843931152384/",
+      "posted_at": "2026-11-07T08:50:00+00:00",
+      "title": "Spend your time mentoring good junior engineers, spend your time improving your…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7524634935467433984",
+      "file": "posts/post_7524634935467433984.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524634935467433984/",
+      "posted_at": "2026-11-07T01:50:00+00:00",
+      "title": "Introduction to Algorithms (the white book) in Rust All the algorithms form all…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7524513271274606593",
+      "file": "posts/post_7524513271274606593.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524513271274606593/",
+      "posted_at": "2026-11-06T17:50:00+00:00",
+      "title": "Computer Architecture A Quantitative Approach in SystemVerilog and VHDL !!! Why…",
+      "likes": 67,
+      "comment_count": 4
+    },
     {
       "activity_id": "7524348349504716800",
       "file": "posts/post_7524348349504716800.json",
