@@ -1,0 +1,37 @@
+{
+  "activity_id": "7524930431889100801",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7524930431889100801/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-07T20:51:00+00:00",
+  "posted_at_hint": "19h",
+  "posted_at_approx": true,
+  "text": "Levels of AI literacy\nLevel 0 - you are still struggling to use AI to get something done\nLevel 1 - know how to use your favorite frontier AI to get something done.\nLevel 2 - know how to use any frontier AI to get the same thing done\nLevel 3 - know how to use cheaper or open source AI to get it done, able to make trade off in cost and quality\nLevel 4 - you train your own AI to get it done\nLevel 5 - you still remember how to do it without any AI",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Nick Becker",
+        "profile_url": "https://www.linkedin.com/in/nickabecker/",
+        "headline": "Computer. Just a computer."
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-08T02:51:00+00:00",
+      "posted_at_hint": "13h",
+      "posted_at_approx": true,
+      "text": "Level 6: You retire from software engineering, cancel your internet subscription, throw away all of your computers, buy a goat, plant a garden, and live off the land for the rest of your days. 😂",
+      "likes": 2,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-08T15:51:00Z"
+}

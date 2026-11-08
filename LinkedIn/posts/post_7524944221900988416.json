@@ -1,0 +1,62 @@
+{
+  "activity_id": "7524944221900988416",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7524944221900988416/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-07T21:51:00+00:00",
+  "posted_at_hint": "18h • Edited",
+  "posted_at_approx": true,
+  "text": "Agent memory is the WRONG approach. Don't listen to Anthropic, they just want to sell you more tokens. Don't distill your chat session into markdown files only Claude can read, the correct way is distill it into programs, scripts, regex, database, open source models, anything that let you burn less tokens on Claude.",
+  "post_type": "reshare",
+  "shared_article": {
+    "title": "The components of agent memory",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory"
+  },
+  "reshared_post": {
+    "author_headline": null,
+    "author_name": "Anthropic",
+    "author_profile_url": "https://www.linkedin.com/company/anthropicresearch/",
+    "posted_at_hint": "22h",
+    "reshared_text": "Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time. Open https://lnkd.in/gxreKurS"
+  },
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Harish Vishwanathan",
+        "profile_url": "https://www.linkedin.com/in/harish-v-a9138910/",
+        "headline": "Digital Design & Verification Engineering Leader making Wireless Communications Hardware, Complex RF SoC DV lead"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-07T22:51:00+00:00",
+      "posted_at_hint": "17h",
+      "posted_at_approx": true,
+      "text": "What does the cost saving setup ideally look like? Would you, by experience, have a locally maintained open-source model to tweak the iterative outputs of said regex, scripts, and/or partition setup using XML or json files.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan",
+            "headline": "Using AI building the chips that power the AI."
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-11-07T23:51:00+00:00",
+          "posted_at_hint": "16h",
+          "posted_at_approx": true,
+          "text": "Harish Vishwanathan no one knows, ideally, you don't have to spend the expensive tokens cost more than twice.",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-11-08T15:51:00Z"
+}

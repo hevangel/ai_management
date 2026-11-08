@@ -3,11 +3,74 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-07T15:51:37.727177+00:00",
-  "total_posts": 851,
-  "total_comments": 479,
-  "total_replies": 366,
+  "generated_at": "2026-11-08T15:52:08.496228+00:00",
+  "total_posts": 858,
+  "total_comments": 481,
+  "total_replies": 367,
   "posts": [
+    {
+      "activity_id": "7525061255938809856",
+      "file": "posts/post_7525061255938809856.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525061255938809856/",
+      "posted_at": "2026-11-08T05:51:00+00:00",
+      "title": "Another test page generate with Gemini. I am not sure it is the capability of mo…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7525061491742543872",
+      "file": "posts/post_7525061491742543872.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525061491742543872/",
+      "posted_at": "2026-11-08T05:51:00+00:00",
+      "title": "Chibi style, generated with Muse",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7524987202775355392",
+      "file": "posts/post_7524987202775355392.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7524987202775355392/",
+      "posted_at": "2026-11-08T00:51:00+00:00",
+      "title": "Pilot page 2 generated using Muse instead of ChatGPT",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7524975636356956160",
+      "file": "posts/post_7524975636356956160.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7524975636356956160/",
+      "posted_at": "2026-11-07T23:51:00+00:00",
+      "title": "Pilot testing page of my new Silicon Wars manga. I am learning how to use ChatGP…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7524944221900988416",
+      "file": "posts/post_7524944221900988416.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7524944221900988416/",
+      "posted_at": "2026-11-07T21:51:00+00:00",
+      "title": "Agent memory is the WRONG approach. Don't listen to Anthropic, they just want to…",
+      "likes": 7,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7524930431889100801",
+      "file": "posts/post_7524930431889100801.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7524930431889100801/",
+      "posted_at": "2026-11-07T20:51:00+00:00",
+      "title": "Levels of AI literacy Level 0 - you are still struggling to use AI to get someth…",
+      "likes": 2,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7524893201300717569",
+      "file": "posts/post_7524893201300717569.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7524893201300717569/",
+      "posted_at": "2026-11-07T18:51:00+00:00",
+      "title": "What if AI companies are anime girls",
+      "likes": 2,
+      "comment_count": 0
+    },
     {
       "activity_id": "7524741843931152384",
       "file": "posts/post_7524741843931152384.json",
