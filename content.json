@@ -205,7 +205,58 @@
       "name_zh": "文章",
       "description": "Management articles on AI strategy, organization design, and value creation.",
       "description_zh": "有關 AI 策略、組織設計與價值創造的管理文章。",
-      "items": []
+      "items": [
+        {
+          "slug": "saas-agent-tollbooth",
+          "title": "Sell the Work, Not the Doorway: How SaaS Wins in the Age of Agents",
+          "title_zh": "賣的是工作，不是門口：SaaS 如何在代理時代勝出",
+          "summary": "Forcing customers onto a proprietary agent to mark up model usage is an access toll, not a moat. Why controlled openness — open the capability layer, govern the transactions, charge for trusted execution — is the more durable SaaS strategy.",
+          "summary_zh": "強迫客戶使用專有代理來加價轉售模型用量，是通行費而非護城河。為何「受控開放」——開放能力層、掌控交易、對可信執行收費——才是更持久的 SaaS 策略。",
+          "path": "articles/saas-agent-tollbooth/index.md",
+          "cover": "articles/saas-agent-tollbooth/cover.png",
+          "date": "2026-07-30"
+        },
+        {
+          "slug": "ai-junior-engineer-agents",
+          "title": "AI Junior-Engineer Agents and the Rewiring of Software Organizations",
+          "title_zh": "AI 初級工程師代理與軟件組織的重新佈線",
+          "summary": "Give every engineer an agent as capable as a junior engineer and the org chart does not just speed up: the firm shifts toward human judgment, boundary ownership, and review. Research evidence and a game-theoretic look at same-team, cross-team, and vendor-negotiation scenarios.",
+          "summary_zh": "給每位工程師配一個相當於初級工程師的代理，組織不會只是變快，而是轉向人類判斷、邊界擁有權與審查。結合研究證據，並以博弈論分析同一團隊、跨團隊與供應商談判三種情境。",
+          "path": "articles/ai-junior-engineer-agents/index.md",
+          "cover": "articles/ai-junior-engineer-agents/cover.png",
+          "date": "2026-06-07"
+        },
+        {
+          "slug": "beyond-lines-of-code",
+          "title": "Beyond Lines of Code: Rethinking Developer Performance in the AI Era",
+          "title_zh": "超越代碼行數：重新思考 AI 時代的開發者績效",
+          "summary": "AI has made code cheap, so volume metrics no longer measure performance. A difficulty-adjusted model, the traces that separate the lazy from the unlucky, and a low-effort, defensible improvement workflow for engineering managers.",
+          "summary_zh": "AI 令代碼變得廉價，數量指標不再能衡量績效。經難度調整的模型、分辨「懶」與「運氣差」的痕跡，以及給工程經理的低工夫、站得住腳的改善流程。",
+          "path": "articles/beyond-lines-of-code/index.md",
+          "cover": "articles/beyond-lines-of-code/cover.png",
+          "date": "2026-04-06"
+        },
+        {
+          "slug": "office-politics-in-the-age-of-ai",
+          "title": "Office Politics in the Age of AI",
+          "title_zh": "AI 時代的辦公室政治",
+          "summary": "When AI works only if knowledge is written down, indexed, and permissioned, influence shifts from holders of tribal knowledge to those who control the knowledge supply chain. A map of the new power levers, tactics, risks, and a roadmap for organizations.",
+          "summary_zh": "當 AI 必須依靠被寫下、索引並設定權限的知識才能運作，影響力便由部落知識的持有者，轉移到掌控知識供應鏈的人。新權力槓桿、手段、風險與組織路線圖一覽。",
+          "path": "articles/office-politics-in-the-age-of-ai/index.md",
+          "cover": "articles/office-politics-in-the-age-of-ai/cover.png",
+          "date": "2026-04-18"
+        },
+        {
+          "slug": "micromanaging-people-vs-ai",
+          "title": "Why I Hate Micromanaging People but Love Micromanaging AI",
+          "title_zh": "為何我討厭事事插手管人，卻樂於事事插手管 AI",
+          "summary": "An engineering manager explains the paradox of managing human engineers and AI agents — and why the real dividing line is ownership and motivation, not intelligence.",
+          "summary_zh": "一位工程經理剖析管理人類工程師與 AI 代理的矛盾——以及為何真正的分水嶺是承擔與動機，而非智能。",
+          "path": "articles/micromanaging-people-vs-ai/index.md",
+          "cover": "articles/micromanaging-people-vs-ai/cover.png",
+          "date": "2026-11-08"
+        }
+      ]
     }
   ]
 }
