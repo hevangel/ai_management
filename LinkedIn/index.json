@@ -3,11 +3,56 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-09T15:51:08.082562+00:00",
-  "total_posts": 862,
+  "generated_at": "2026-11-10T16:11:00.153560+00:00",
+  "total_posts": 867,
   "total_comments": 481,
   "total_replies": 367,
   "posts": [
+    {
+      "activity_id": "7525789764948692992",
+      "file": "posts/post_7525789764948692992.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525789764948692992/",
+      "posted_at": "2026-11-10T06:10:59+00:00",
+      "title": "Pre AI, you learn it first, then do it Post AI, you do it first, then learn it",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7525795570041430016",
+      "file": "posts/post_7525795570041430016.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525795570041430016/",
+      "posted_at": "2026-11-10T06:10:59+00:00",
+      "title": "Every AI lab's harness, platform or bot has the wrong implementation. They optim…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7525653720295034880",
+      "file": "posts/post_7525653720295034880.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525653720295034880/",
+      "posted_at": "2026-11-09T21:10:59+00:00",
+      "title": "Quantum computer is the next frontier after AI GPUs Umbra at the Oak Ridge Natio…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7525653945302626305",
+      "file": "posts/post_7525653945302626305.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525653945302626305/",
+      "posted_at": "2026-11-09T21:10:59+00:00",
+      "title": "Kimi is #1 at #F1",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7525605077320151040",
+      "file": "posts/post_7525605077320151040.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525605077320151040/",
+      "posted_at": "2026-11-09T18:10:59+00:00",
+      "title": "AMD ❤️Google cloud #amdbrandambassadors",
+      "likes": 2,
+      "comment_count": 0
+    },
     {
       "activity_id": "7525455511794712577",
       "file": "posts/post_7525455511794712577.json",

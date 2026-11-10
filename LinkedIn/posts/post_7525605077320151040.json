@@ -1,0 +1,27 @@
+{
+  "activity_id": "7525605077320151040",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525605077320151040/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-09T18:10:59+00:00",
+  "posted_at_hint": "22h",
+  "posted_at_approx": true,
+  "text": "AMD ❤️Google cloud #amdbrandambassadors",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": null,
+    "author_name": "AMD",
+    "author_profile_url": "https://www.linkedin.com/company/amd/",
+    "posted_at_hint": "1d",
+    "reshared_text": "A little ❤️ in the cloud. A lot of EPYC behind the news. We're excited to announce our expanded Google Cloud collaboration, with 5th Gen AMD EPYC processors powering the host infrastructure for Google Cloud TPU 8tx and helping protect sensitive AI models: https://lnkd.in/gDWwyGW5"
+  },
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-11-10T16:10:59Z"
+}
