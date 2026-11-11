@@ -22,7 +22,10 @@
           "summary_zh": "當 AI 讓企業的產出增長快於薪酬增長，傳統「增長 vs 效率」的二選一便告失效。五種出版角度解析這場變革。",
           "path": "articles/case-studies/vibeitda/problem.md",
           "cover": "articles/case-studies/vibeitda/cover.png",
-          "cover_zh_text": ["VIBEITDA", "為何 AI 原生公司能在不增加人手下成長"],
+          "cover_zh_text": [
+            "VIBEITDA",
+            "為何 AI 原生公司能在不增加人手下成長"
+          ],
           "date": "2026-09-16",
           "case": {
             "publications": [
@@ -82,7 +85,10 @@
           "summary_zh": "AI 代理令軟件執行變得充裕，瓶頸也由「生產變更」轉移到「驗證變更」。五種出版角度剖析這場轉變對 Scrum、工程生產力與軟件交付經濟學的衝擊。",
           "path": "articles/case-studies/scrum-ai-agents/problem.md",
           "cover": "articles/case-studies/scrum-ai-agents/cover.png",
-          "cover_zh_text": ["AI 代理時代的 Scrum", "當執行變得充裕，驗證成為瓶頸"],
+          "cover_zh_text": [
+            "AI 代理時代的 Scrum",
+            "當執行變得充裕，驗證成為瓶頸"
+          ],
           "date": "2026-10-03",
           "case": {
             "publications": [
@@ -206,6 +212,16 @@
       "description": "Management articles on AI strategy, organization design, and value creation.",
       "description_zh": "有關 AI 策略、組織設計與價值創造的管理文章。",
       "items": [
+        {
+          "slug": "ai-native-software-dark-factory",
+          "title": "The AI-Native Software Dark Factory: From Goldratt to Generative Software Systems",
+          "title_zh": "AI 原生軟件暗廠：從高德拉特到生成式軟件系統",
+          "summary": "A software dark factory is not Ford's assembly line. It is a compiler-like program-synthesis and template-generation system built on reusable product-line assets, independent verification, and Goldratt-inspired economic discipline.",
+          "summary_zh": "軟件暗廠並非福特式裝配線，而是結合程式合成、低代碼範本生成、可重用軟件產品線資產、獨立驗證及限制理論經濟思維的 AI 原生系統。",
+          "path": "articles/ai-native-software-dark-factory/index.md",
+          "cover": "articles/ai-native-software-dark-factory/cover.png",
+          "date": "2026-11-11"
+        },
         {
           "slug": "saas-agent-tollbooth",
           "title": "Sell the Work, Not the Doorway: How SaaS Wins in the Age of Agents",
