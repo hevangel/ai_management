@@ -1,0 +1,21 @@
+{
+  "activity_id": "7526472440642895872",
+  "url": "https://www.linkedin.com/posts/horacechan_all-ai-coding-has-the-wrong-uiux-starting-share-7526472440642895872-3Rlw/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-12T03:09:10+00:00",
+  "posted_at_hint": "13h",
+  "posted_at_approx": true,
+  "text": "All AI coding has the wrong UI/UX, starting with Cursor 3.0, then VSCode foolishly copy them, later on Codex desktop, Claude Code desktop, Z-Coder and almost everyone follows.\n\nThe problem is they put the chat window in the middle, the browser or files comes and goes. Why is it wrong? It assumes human is multi-tasking controlling all the agents.\n\nThe original VSCode layout is the right UI/UX for AI agents. We should not control the agents manually, we should build meta-agents/scripts to control the lesser agents. Human is always in the cockpit. The center panel is the dashboard and markdown report showing me how my agents are running.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-11-12T16:09:10Z"
+}

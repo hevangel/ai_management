@@ -1,0 +1,27 @@
+{
+  "activity_id": "7526436948039782400",
+  "url": "https://www.linkedin.com/posts/horacechan_amdbrandambassadors-share-7526436948039782400-y1Sr/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-12T01:09:10+00:00",
+  "posted_at_hint": "15h",
+  "posted_at_approx": true,
+  "text": "This is the first new chip I worked on since I joint AMD. To be exact, I only work on one of the chiplet inside this chip.\n\n#amdbrandambassadors",
+  "post_type": "reshare",
+  "shared_article": null,
+  "reshared_post": {
+    "author_headline": null,
+    "author_name": "AMD",
+    "author_profile_url": "https://www.linkedin.com/company/amd/",
+    "posted_at_hint": "1d",
+    "reshared_text": "AMD is extending its CPU leadership into the next generation of embedded infrastructure.\n\nIntroducing 6th Gen AMD EPYC Embedded 9006 Series SP7 processors, built on \"Zen 6\" with up to 256 cores, PCIe Gen 6 and CXL 3.1 connectivity, and seven-year product longevity.\n\nRead the announcement: https://bit.ly/4ex29zs"
+  },
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-11-12T16:09:10Z"
+}

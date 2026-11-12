@@ -3,11 +3,92 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-11T15:48:00.601020+00:00",
-  "total_posts": 868,
-  "total_comments": 481,
+  "generated_at": "2026-11-12T16:09:11.352932+00:00",
+  "total_posts": 877,
+  "total_comments": 484,
   "total_replies": 367,
   "posts": [
+    {
+      "activity_id": "7526533133798858752",
+      "file": "posts/post_7526533133798858752.json",
+      "url": "https://www.linkedin.com/posts/horacechan_you-dont-use-the-local-llm-model-yourself-share-7526533133798858752-nThI/",
+      "posted_at": "2026-11-12T07:09:10+00:00",
+      "title": "You don't use the local LLM model yourself You ask your GPT or Claude to use loc…",
+      "likes": 4,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7526533680262082560",
+      "file": "posts/post_7526533680262082560.json",
+      "url": "https://www.linkedin.com/posts/horacechan_shift-qa-to-the-right-if-your-code-is-open-share-7526533680262082560-3-5d/",
+      "posted_at": "2026-11-12T07:09:10+00:00",
+      "title": "Shift QA to the right. If your code is open source, your users can help you fix…",
+      "likes": 5,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7526472440642895872",
+      "file": "posts/post_7526472440642895872.json",
+      "url": "https://www.linkedin.com/posts/horacechan_all-ai-coding-has-the-wrong-uiux-starting-share-7526472440642895872-3Rlw/",
+      "posted_at": "2026-11-12T03:09:10+00:00",
+      "title": "All AI coding has the wrong UI/UX, starting with Cursor 3.0, then VSCode foolish…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7526474839252115456",
+      "file": "posts/post_7526474839252115456.json",
+      "url": "https://www.linkedin.com/posts/horacechan_software-dark-factory-is-not-dark-nor-it-ugcPost-7526474839252115456-h-qr/",
+      "posted_at": "2026-11-12T03:09:10+00:00",
+      "title": "Software dark factory is not dark nor it is a factory. It is just a generative c…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7526436948039782400",
+      "file": "posts/post_7526436948039782400.json",
+      "url": "https://www.linkedin.com/posts/horacechan_amdbrandambassadors-share-7526436948039782400-y1Sr/",
+      "posted_at": "2026-11-12T01:09:10+00:00",
+      "title": "This is the first new chip I worked on since I joint AMD. To be exact, I only wo…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7526393176140582912",
+      "file": "posts/post_7526393176140582912.json",
+      "url": "https://www.linkedin.com/posts/horacechan_vibe-coding-and-house-chores-are-a-good-mix-share-7526393176140582912-eE7X/",
+      "posted_at": "2026-11-11T22:09:10+00:00",
+      "title": "Vibe coding and house chores are a good mix. You tell your AI agent to work on s…",
+      "likes": 5,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7526400140123938816",
+      "file": "posts/post_7526400140123938816.json",
+      "url": "https://www.linkedin.com/posts/horacechan_whatever-fable-52-can-do-today-just-wait-share-7526400140123938816-wa1D/",
+      "posted_at": "2026-11-11T22:09:10+00:00",
+      "title": "Whatever Fable 5.2 can do today, just wait a few months, you can get it on Opus…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7526400935674368001",
+      "file": "posts/post_7526400935674368001.json",
+      "url": "https://www.linkedin.com/posts/horacechan_ai-makes-everything-frungible-share-7526400935674368001-A9l1/",
+      "posted_at": "2026-11-11T22:09:10+00:00",
+      "title": "AI makes everything frungible",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7526350541069635584",
+      "file": "posts/post_7526350541069635584.json",
+      "url": "https://www.linkedin.com/posts/horacechan_finally-i-end-up-with-6-ai-subscriptions-share-7526350541069635584-l04V/",
+      "posted_at": "2026-11-11T19:09:10+00:00",
+      "title": "Finally, I end up with 6 AI subscriptions, all at the cheapest tier OpenAI Claud…",
+      "likes": 1,
+      "comment_count": 0
+    },
     {
       "activity_id": "7526049140443631616",
       "file": "posts/post_7526049140443631616.json",

@@ -1,0 +1,52 @@
+{
+  "activity_id": "7526533133798858752",
+  "url": "https://www.linkedin.com/posts/horacechan_you-dont-use-the-local-llm-model-yourself-share-7526533133798858752-nThI/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-12T07:09:10+00:00",
+  "posted_at_hint": "9h",
+  "posted_at_approx": true,
+  "text": "You don't use the local LLM model yourself\nYou ask your GPT or Claude to use local LLM models when it saves on tokens cost",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Craig Gagnon BSc",
+        "profile_url": "https://www.linkedin.com/in/craig-gagnon-chemist/",
+        "headline": "De-Risking Critical Infrastructure at Speed (Telcarion) | Chemist | Vendor to BHP, TetraTech | $100M+/40b litres water treated Client Impact"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-12T11:09:10+00:00",
+      "posted_at_hint": "5h",
+      "posted_at_approx": true,
+      "text": "Develop a suite of 8b to 70b models, fine tuned off your datasets and each with an area of expertise that fit into your workflow",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Alireza Aghaei",
+        "profile_url": "https://www.linkedin.com/in/alirexaa/",
+        "headline": "AI Engineer | LLMs, RAG & AI Agents | Python, FastAPI | M.Sc. AI & Business Analytics | Düsseldorf, Germany"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-12T15:09:10+00:00",
+      "posted_at_hint": "1h",
+      "posted_at_approx": true,
+      "text": "That pattern makes sense for the boring bulk stuff like summarizing logs or reformatting. The tricky bit for me is the handoff, deciding when the small model's output is good enough or needs to bounce back to the big one.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-12T16:09:10Z"
+}
