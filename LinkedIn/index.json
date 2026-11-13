@@ -3,11 +3,38 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-12T16:09:11.352932+00:00",
-  "total_posts": 877,
+  "generated_at": "2026-11-13T16:02:59.833499+00:00",
+  "total_posts": 880,
   "total_comments": 484,
   "total_replies": 367,
   "posts": [
+    {
+      "activity_id": "7526873631461785600",
+      "file": "posts/post_7526873631461785600.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7526873631461785600/",
+      "posted_at": "2026-11-13T06:01:52+00:00",
+      "title": "Anthropic builds the wrong product. They should send Claude go to those useless…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7526852764577157120",
+      "file": "posts/post_7526852764577157120.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7526852764577157120/",
+      "posted_at": "2026-11-13T04:01:52+00:00",
+      "title": "When I see something is wrong in my team's internal webpage, file a Jira to repo…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7526692257773629440",
+      "file": "posts/post_7526692257773629440.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7526692257773629440/",
+      "posted_at": "2026-11-12T18:01:52+00:00",
+      "title": "My new YouTube channels - Silicon Wars Anime Girls What if AI companies are anim…",
+      "likes": 7,
+      "comment_count": 0
+    },
     {
       "activity_id": "7526533133798858752",
       "file": "posts/post_7526533133798858752.json",
