@@ -1,0 +1,37 @@
+{
+  "activity_id": "7527247391679242241",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7527247391679242241/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-14T06:54:55+00:00",
+  "posted_at_hint": "9h",
+  "posted_at_approx": true,
+  "text": "",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Craig Gagnon BSc",
+        "profile_url": "https://www.linkedin.com/in/craig-gagnon-chemist/",
+        "headline": "De-Risking Critical Infrastructure at Speed (Telcarion) | Chemist | Vendor to BHP, TetraTech | $100M+/40b litres water treated Client Impact"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-14T12:54:55+00:00",
+      "posted_at_hint": "3h",
+      "posted_at_approx": true,
+      "text": "Pft python",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-14T15:54:55Z"
+}

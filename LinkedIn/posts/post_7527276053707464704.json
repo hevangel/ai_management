@@ -1,0 +1,37 @@
+{
+  "activity_id": "7527276053707464704",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7527276053707464704/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-14T08:54:55+00:00",
+  "posted_at_hint": "7h",
+  "posted_at_approx": true,
+  "text": "",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Craig Gagnon BSc",
+        "profile_url": "https://www.linkedin.com/in/craig-gagnon-chemist/",
+        "headline": "De-Risking Critical Infrastructure at Speed (Telcarion) | Chemist | Vendor to BHP, TetraTech | $100M+/40b litres water treated Client Impact"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-14T12:54:55+00:00",
+      "posted_at_hint": "3h",
+      "posted_at_approx": true,
+      "text": "This happens to me constantly when I ask it to write IP. It logs what I said, what it wrote and it will start arguing with me. I find it's highly resistant when it comes to working on novel work, and IP I know I can thread it doesnt pick up on (I feel like purposely). I'm also tired of it reading the terms of use on websites lol. But obvs abliterated models have no issue.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-14T15:54:55Z"
+}

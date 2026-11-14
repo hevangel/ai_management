@@ -3,11 +3,47 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-13T16:02:59.833499+00:00",
-  "total_posts": 880,
-  "total_comments": 484,
+  "generated_at": "2026-11-14T15:55:25.959668+00:00",
+  "total_posts": 884,
+  "total_comments": 486,
   "total_replies": 367,
   "posts": [
+    {
+      "activity_id": "7527276053707464704",
+      "file": "posts/post_7527276053707464704.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527276053707464704/",
+      "posted_at": "2026-11-14T08:54:55+00:00",
+      "title": "",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7527247391679242241",
+      "file": "posts/post_7527247391679242241.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527247391679242241/",
+      "posted_at": "2026-11-14T06:54:55+00:00",
+      "title": "",
+      "likes": 0,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7527236565652316162",
+      "file": "posts/post_7527236565652316162.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527236565652316162/",
+      "posted_at": "2026-11-14T05:54:55+00:00",
+      "title": "",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7527243988739928064",
+      "file": "posts/post_7527243988739928064.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527243988739928064/",
+      "posted_at": "2026-11-14T05:54:55+00:00",
+      "title": "",
+      "likes": 0,
+      "comment_count": 0
+    },
     {
       "activity_id": "7526873631461785600",
       "file": "posts/post_7526873631461785600.json",
