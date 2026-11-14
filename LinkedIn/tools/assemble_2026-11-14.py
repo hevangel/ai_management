@@ -55,7 +55,8 @@ def norm_comment(c, anchor):
     return {
         "comment_id": c.get("comment_id"),
         "author": author,
-        "is_author_reply": author.get("profile_url") == OWNER_URL,
+        "is_author_reply": (author.get("profile_url") or "").rstrip("/")
+        == OWNER_URL.rstrip("/"),
         "posted_at": posted_at.isoformat() if posted_at else None,
         "posted_at_hint": c.get("posted_at_hint"),
         "posted_at_approx": True,
@@ -118,7 +119,7 @@ def main():
             "posted_at": posted_at.isoformat() if posted_at else None,
             "posted_at_hint": p.get("posted_at_hint"),
             "posted_at_approx": True,
-            "text": p.get("text") or "",
+            "text": p.get("full_text") or p.get("text") or "",
             "post_type": post_type,
             "shared_article": shared,
             "reshared_post": p.get("reshared_post"),
