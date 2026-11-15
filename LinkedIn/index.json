@@ -3,11 +3,47 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-14T15:59:51.632927+00:00",
-  "total_posts": 884,
-  "total_comments": 486,
+  "generated_at": "2026-11-15T15:59:33.808731+00:00",
+  "total_posts": 888,
+  "total_comments": 487,
   "total_replies": 367,
   "posts": [
+    {
+      "activity_id": "7527556424625795072",
+      "file": "posts/post_7527556424625795072.json",
+      "url": "https://www.linkedin.com/posts/horacechan_ar-miscalculated-i-left-some-fable-tokens-share-7527556424625795072-o7S5/",
+      "posted_at": "2026-11-15T02:59:00+00:00",
+      "title": "Ar... miscalculated. I left some Fable tokens on the table.",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7527489009141395456",
+      "file": "posts/post_7527489009141395456.json",
+      "url": "https://www.linkedin.com/posts/horacechan_wdd-wish-driven-development-make-a-wish-share-7527489009141395456-B_lU/",
+      "posted_at": "2026-11-14T22:59:00+00:00",
+      "title": "WDD - wish driven development Make a wish to your AI, and if you spend enough to…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7527489350901583887",
+      "file": "posts/post_7527489350901583887.json",
+      "url": "https://www.linkedin.com/posts/horacechan_whatabrifabraiabrcompaniesabrareabranimeabrgirls-share-7527489350901583887-pEUV/",
+      "posted_at": "2026-11-14T22:59:00+00:00",
+      "title": "Nvidia is trying to steal Arm's CEO #what_if_ai_companies_are_anime_girls",
+      "likes": 6,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7527405044510547971",
+      "file": "posts/post_7527405044510547971.json",
+      "url": "https://www.linkedin.com/posts/horacechan_what-if-saul-goodman-has-a-grand-daughter-share-7527405044510547971-IQXA/",
+      "posted_at": "2026-11-14T16:59:00+00:00",
+      "title": "What if Saul Goodman has a grand daughter and she studied philosophy My new AI s…",
+      "likes": 1,
+      "comment_count": 0
+    },
     {
       "activity_id": "7527276053707464704",
       "file": "posts/post_7527276053707464704.json",
