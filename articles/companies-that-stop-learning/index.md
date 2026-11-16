@@ -4,8 +4,6 @@
 
 *November 2026 · Strategic management essay*
 
-![Companies that stop learning will be eaten alive by AI — editorial cover](cover.webp)
-
 ## Abstract
 
 The rapid adoption of artificial intelligence has prompted organizations to reconsider the economic value of human labor, particularly entry-level knowledge workers. A prevailing argument suggests that as AI systems become capable of performing tasks traditionally assigned to junior employees, companies can improve efficiency by eliminating those positions. Although economically attractive in the short term, this reasoning overlooks a critical function of human capital: organizational learning.
