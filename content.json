@@ -213,6 +213,16 @@
       "description_zh": "有關 AI 策略、組織設計與價值創造的管理文章。",
       "items": [
         {
+          "slug": "companies-that-stop-learning",
+          "title": "Companies That Stop Learning Will Be Eaten Alive by AI",
+          "title_zh": "停止學習的公司，將被 AI 淘汰",
+          "summary": "Automation makes execution cheaper, but the enduring competitive advantage is the ability to discover, verify, and institutionalize new capabilities. Why junior engineers, organizational learning, and continuous adaptation are strategic investments.",
+          "summary_zh": "AI 令執行成本下降，但真正持久的競爭優勢在於持續探索、驗證及吸收新能力。從初級工程師的人才培育到組織學習，重新思考 AI 原生企業的策略。",
+          "path": "articles/companies-that-stop-learning/index.md",
+          "cover": "articles/companies-that-stop-learning/cover.webp",
+          "date": "2026-11-15"
+        },
+        {
           "slug": "ai-native-software-dark-factory",
           "title": "The AI-Native Software Dark Factory: From Goldratt to Generative Software Systems",
           "title_zh": "AI 原生軟件暗廠：從高德拉特到生成式軟件系統",
