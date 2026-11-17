@@ -1,0 +1,52 @@
+{
+  "activity_id": "7527838865055916032",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7527838865055916032/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-16T15:39:51+00:00",
+  "posted_at_hint": "1d",
+  "posted_at_approx": true,
+  "text": "Running AI agents is just the new DevOp\n\nLet me be the first one coin the term, AgentOp",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": "7527936148573302784",
+      "author": {
+        "name": "Bondan Rufen",
+        "profile_url": "https://www.linkedin.com/in/bondan-rufen/",
+        "headline": "Co-Founder | SystemVerilog, SystemC | Xezim Creator / Maintainer"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-16T15:39:51+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "or you can say SpecialAgent? :D",
+      "likes": 1,
+      "replies": []
+    },
+    {
+      "comment_id": "7527847060302188544",
+      "author": {
+        "name": "Craig Gagnon BSc",
+        "profile_url": "https://www.linkedin.com/in/craig-gagnon-chemist/",
+        "headline": "De-Risking Critical Infrastructure at Speed (Telcarion) | Chemist | Vendor to BHP, TetraTech | $100M+/40b litres water treated Client Impact"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-16T15:39:51+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "AgOp",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-17T15:39:51Z"
+}

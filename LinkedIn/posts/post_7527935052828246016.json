@@ -1,0 +1,53 @@
+{
+  "activity_id": "7527935052828246016",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7527935052828246016/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-16T15:39:51+00:00",
+  "posted_at_hint": "1d",
+  "posted_at_approx": true,
+  "text": "Fable is the best model this month. period.\n\nFable final got my 80286 in SystemVerilog working. Now it is building the VGA card. Hopefully, I can boot up OS/2 soon.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 5,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": "7527937415169167362",
+      "author": {
+        "name": "Thein Hong Yi",
+        "profile_url": "https://www.linkedin.com/in/thein-hong-yi-2180382b7/",
+        "headline": "Y2 Electronic Engineering Student @ UTM | ASEM NSEP Aug 2026 Cohort | IC Design & Computer Architecture | AI Accelerators"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-16T15:39:51+00:00",
+      "posted_at_hint": "1d",
+      "posted_at_approx": true,
+      "text": "Will the SV code be published in Github once completed?",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": "7527947293417725952",
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Using AI building the chips that power the AI."
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-11-16T15:39:51+00:00",
+          "posted_at_hint": "1d",
+          "posted_at_approx": true,
+          "text": "Thein Hong Yi https://github.com/hevangel/ai_hw_engineer/\n\nI build everything in open. I already spent the tokens, why not share it with everyone.",
+          "likes": 3,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-11-17T15:39:51Z"
+}

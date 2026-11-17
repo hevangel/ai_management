@@ -3,11 +3,128 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-15T15:59:33.808731+00:00",
-  "total_posts": 888,
-  "total_comments": 487,
-  "total_replies": 367,
+  "generated_at": "2026-11-17T15:39:52.052498+00:00",
+  "total_posts": 901,
+  "total_comments": 496,
+  "total_replies": 372,
   "posts": [
+    {
+      "activity_id": "7528332525795061760",
+      "file": "posts/post_7528332525795061760.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528332525795061760/",
+      "posted_at": "2026-11-17T06:39:51+00:00",
+      "title": "AI will not make jobs disappear. Everyone misunderstands the true nature of why…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7528299648344641537",
+      "file": "posts/post_7528299648344641537.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7528299648344641537/",
+      "posted_at": "2026-11-17T04:39:51+00:00",
+      "title": "In the past, there was something called LISP machine. It is a special CPU propos…",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7528216363732062209",
+      "file": "posts/post_7528216363732062209.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7528216363732062209/",
+      "posted_at": "2026-11-16T23:39:51+00:00",
+      "title": "In the Internet era, we have way too many tabs open in Chrome/Edge/Firefox In th…",
+      "likes": 3,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7528221393453486080",
+      "file": "posts/post_7528221393453486080.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7528221393453486080/",
+      "posted_at": "2026-11-16T23:39:51+00:00",
+      "title": "AI is very good at breaking down complex tasks into smaller logical steps AI is…",
+      "likes": 1,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7528157848560799745",
+      "file": "posts/post_7528157848560799745.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528157848560799745/",
+      "posted_at": "2026-11-16T19:39:51+00:00",
+      "title": "Welcome Fei-Fei to AMD. #AMDBrandAmbassador",
+      "likes": 9,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7528149594766200832",
+      "file": "posts/post_7528149594766200832.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7528149594766200832/",
+      "posted_at": "2026-11-16T18:39:51+00:00",
+      "title": "The more I use AI, the more reminds me this Chinese old proverb When wisdom is c…",
+      "likes": 9,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7527803964659134464",
+      "file": "posts/post_7527803964659134464.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527803964659134464/",
+      "posted_at": "2026-11-16T15:39:51+00:00",
+      "title": "Infinite Tokens Theory is the new Infinite Money Theory",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7527831023922040832",
+      "file": "posts/post_7527831023922040832.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527831023922040832/",
+      "posted_at": "2026-11-16T15:39:51+00:00",
+      "title": "After I experiment with AI manga and anime generation for about 2 weeks, I have…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7527838865055916032",
+      "file": "posts/post_7527838865055916032.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527838865055916032/",
+      "posted_at": "2026-11-16T15:39:51+00:00",
+      "title": "Running AI agents is just the new DevOp Let me be the first one coin the term, A…",
+      "likes": 4,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7527891078818017280",
+      "file": "posts/post_7527891078818017280.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527891078818017280/",
+      "posted_at": "2026-11-16T15:39:51+00:00",
+      "title": "Plato complained writing is bad for thinking No too long ago, people complained…",
+      "likes": 8,
+      "comment_count": 2
+    },
+    {
+      "activity_id": "7527935052828246016",
+      "file": "posts/post_7527935052828246016.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527935052828246016/",
+      "posted_at": "2026-11-16T15:39:51+00:00",
+      "title": "Fable is the best model this month. period. Fable final got my 80286 in SystemVe…",
+      "likes": 5,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7527967458196959233",
+      "file": "posts/post_7527967458196959233.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527967458196959233/",
+      "posted_at": "2026-11-16T15:39:51+00:00",
+      "title": "I got my Muse gadget working.",
+      "likes": 8,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7527979597917933568",
+      "file": "posts/post_7527979597917933568.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7527979597917933568/",
+      "posted_at": "2026-11-16T15:39:51+00:00",
+      "title": "I signed the Slop Manifesto. https://lnkd.in/g_V3jpvh",
+      "likes": 2,
+      "comment_count": 0
+    },
     {
       "activity_id": "7527556424625795072",
       "file": "posts/post_7527556424625795072.json",

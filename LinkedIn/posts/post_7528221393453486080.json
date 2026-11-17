@@ -1,0 +1,37 @@
+{
+  "activity_id": "7528221393453486080",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7528221393453486080/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-16T23:39:51+00:00",
+  "posted_at_hint": "16h",
+  "posted_at_approx": true,
+  "text": "AI is very good at breaking down complex tasks into smaller logical steps\nAI is also very good at doing A follows B, then follows C and so on.\n\nIt certainly gets things done, but something is luring at the back of my mind, something seems lost in this process. Where is the big picture?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": "7528255072342880256",
+      "author": {
+        "name": "Alexander N. Cutler, M.S.",
+        "profile_url": "https://www.linkedin.com/in/cutleralexander/",
+        "headline": "Deep Tech Operator | Synthetic Semantics"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-17T01:39:51+00:00",
+      "posted_at_hint": "14h",
+      "posted_at_approx": true,
+      "text": "These machines form coherent world models, but not *the one correct* world model.\n\nThat's the issue.\n\nQuite an issue, man",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-17T15:39:51Z"
+}
