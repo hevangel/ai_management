@@ -248,5 +248,35 @@
   "image": "25.jpg",
   "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7527803964659134464/",
   "post_id": "7527803964659134464"
+ },
+ {
+  "num": 26,
+  "title": "Microsoft is buried under piles of mail",
+  "date": "2026-11-13",
+  "date_display": "November 13, 2026",
+  "caption": "Microsoft is buried under piles of mail\n\nSilicon Wars - the Matriarch of Office vs. her inbox.\n\n* AI generated comic",
+  "image": "26.jpg",
+  "linkedin_url": "",
+  "post_id": ""
+ },
+ {
+  "num": 27,
+  "title": "Nvidia tries to steal the CEO bear from a sleeping Arm",
+  "date": "2026-11-14",
+  "date_display": "November 14, 2026",
+  "caption": "Nvidia tries to steal the CEO bear from a sleeping Arm\n\nSilicon Wars - she just wants to be CEO.\n\n* AI generated comic",
+  "image": "27.jpg",
+  "linkedin_url": "",
+  "post_id": ""
+ },
+ {
+  "num": 28,
+  "title": "Amazon cries over her Vulcan rocket, it exploded in the sky",
+  "date": "2026-11-17",
+  "date_display": "November 17, 2026",
+  "caption": "Amazon cries over her Vulcan rocket, it exploded in the sky\n\nSilicon Wars - one Vulcan, one satellite payload, zero survivors.\n\n* AI generated comic",
+  "image": "28.jpg",
+  "linkedin_url": "",
+  "post_id": ""
  }
 ]
