@@ -1,0 +1,37 @@
+{
+  "activity_id": "7529026672453529600",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7529026672453529600/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-19T03:52:00+00:00",
+  "posted_at_hint": "11h",
+  "posted_at_approx": true,
+  "text": "Can Fable or Astra play GTA6?",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 0,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Saheb Panda",
+        "profile_url": "https://www.linkedin.com/in/arkiscool/",
+        "headline": "MS ECE @ USC // DFT // Design Verification // ASIC Design"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-19T04:52:00+00:00",
+      "posted_at_hint": "10h",
+      "posted_at_approx": true,
+      "text": "I let it play doom. It couldn't.",
+      "likes": 0,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-19T14:52:00Z"
+}
