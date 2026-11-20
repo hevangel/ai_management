@@ -1,0 +1,21 @@
+{
+  "activity_id": "7529323049012133888",
+  "url": "https://www.linkedin.com/posts/horacechan_how-to-distill-a-textbook-from-claudegpts-share-7529323049012133888-toqM/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-19T23:50:00+00:00",
+  "posted_at_hint": "15h",
+  "posted_at_approx": true,
+  "text": "How to distill a textbook from Claude/GPT's weights?\n1. Get the table of content of the textbook\n2. Turn the table of content into questions one section at a time.\n3. Start a new chat session, ask the LLM explain a chapter to you as a college student taking the course\n4. Repeat and loop, until you get all the chapters\n5. Commit your \"clean room\" distilled textbook to a github repo\nThe wordings may not be exactly the same, but you can still reusable concepts and knowledge for your AI agents.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-11-20T14:50:00Z"
+}

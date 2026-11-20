@@ -3,11 +3,47 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-19T14:52:55.831449+00:00",
-  "total_posts": 908,
+  "generated_at": "2026-11-20T14:51:13.315658+00:00",
+  "total_posts": 912,
   "total_comments": 497,
   "total_replies": 372,
   "posts": [
+    {
+      "activity_id": "7529414057725083650",
+      "file": "posts/post_7529414057725083650.json",
+      "url": "https://www.linkedin.com/posts/horacechan_my-new-youtube-channel-better-call-sophie-share-7529414057725083650-qtNZ/",
+      "posted_at": "2026-11-20T05:50:00+00:00",
+      "title": "My new Youtube channel - Better Call Sophie What if Saul Goodman has a grand dau…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7529356177101537280",
+      "file": "posts/post_7529356177101537280.json",
+      "url": "https://www.linkedin.com/posts/horacechan_yes-companies-still-need-to-hire-junior-ugcPost-7529356177101537280-aO_E/",
+      "posted_at": "2026-11-20T01:50:00+00:00",
+      "title": "Yes, companies still need to hire junior engineers. It is the other way round, t…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7529315071890706432",
+      "file": "posts/post_7529315071890706432.json",
+      "url": "https://www.linkedin.com/posts/horacechan_there-two-types-of-ai-native-engineers-1-share-7529315071890706432-PLyj/",
+      "posted_at": "2026-11-19T23:50:00+00:00",
+      "title": "There two types of AI native engineers 1. create many skills or prompts slash sh…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7529323049012133888",
+      "file": "posts/post_7529323049012133888.json",
+      "url": "https://www.linkedin.com/posts/horacechan_how-to-distill-a-textbook-from-claudegpts-share-7529323049012133888-toqM/",
+      "posted_at": "2026-11-19T23:50:00+00:00",
+      "title": "How to distill a textbook from Claude/GPT's weights? 1. Get the table of content…",
+      "likes": 2,
+      "comment_count": 0
+    },
     {
       "activity_id": "7529026672453529600",
       "file": "posts/post_7529026672453529600.json",
