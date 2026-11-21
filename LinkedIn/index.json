@@ -3,11 +3,38 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-20T14:51:13.315658+00:00",
-  "total_posts": 912,
+  "generated_at": "2026-11-21T14:52:53.958696+00:00",
+  "total_posts": 915,
   "total_comments": 497,
   "total_replies": 372,
   "posts": [
+    {
+      "activity_id": "7529701387610464257",
+      "file": "posts/post_7529701387610464257.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7529701387610464257/",
+      "posted_at": "2026-11-21T00:52:00+00:00",
+      "title": "If a tree falls in a forest and no one is around to hear it, does it make a soun…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7529606419348684801",
+      "file": "posts/post_7529606419348684801.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7529606419348684801/",
+      "posted_at": "2026-11-20T18:52:00+00:00",
+      "title": "The problem of education is for a long time, it starts teaching students on how…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7529585046094069760",
+      "file": "posts/post_7529585046094069760.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7529585046094069760/",
+      "posted_at": "2026-11-20T16:52:00+00:00",
+      "title": "Organic programming I just come across this new term on X It means typing code b…",
+      "likes": 5,
+      "comment_count": 0
+    },
     {
       "activity_id": "7529414057725083650",
       "file": "posts/post_7529414057725083650.json",
