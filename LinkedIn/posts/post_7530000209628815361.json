@@ -1,0 +1,37 @@
+{
+  "activity_id": "7530000209628815361",
+  "url": "https://www.linkedin.com/posts/horacechan_i-discovered-the-grand-unify-theory-of-everything-share-7530000209628815361-pBya/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-21T20:58:00+00:00",
+  "posted_at_hint": "18h",
+  "posted_at_approx": true,
+  "text": "I discovered the grand unify theory of everything.\n\n1. All life's questions can be answered by philosophy\n\n2. You can write philosophy proves in Lean\n\n3. Lean is just a weird programming language, you understand Lean if you understand how the compiler is build\n\n4. Compiler is just software running on top of hardware\n\n5. So starting from the universal NAND gate and the Turing theory, you can deduce the answer of every questions from first principle.\n\nFable, build 1-5 for me, make no mistake",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Saheb Panda",
+        "profile_url": "https://www.linkedin.com/in/arkiscool/",
+        "headline": "MS ECE @ USC // DFT // Design Verification // ASIC Design"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-21T20:58:00+00:00",
+      "posted_at_hint": "18h",
+      "posted_at_approx": true,
+      "text": "time to speedrun the lead engineer to goose farmer arc",
+      "likes": 2,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-22T14:58:00Z"
+}

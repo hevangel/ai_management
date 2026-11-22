@@ -1,0 +1,37 @@
+{
+  "activity_id": "7529948944089526272",
+  "url": "https://www.linkedin.com/posts/horacechan_ai-aiagents-llm-share-7529948944089526272-LkHg/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-21T17:58:00+00:00",
+  "posted_at_hint": "21h",
+  "posted_at_approx": true,
+  "text": "== Stop Talking to Your AI Agent. Start Debugging It. ==\n\nPeople have a strange habit of treating AI agents like human coworkers.\n\nWhen an agent gets something wrong, they start talking to it:\n\n\"No, that's not what I meant.\"\n\n\"Please try harder.\"\n\n\"You're an expert. Think carefully.\"\n\n\"Actually, let me explain it another way...\"\n\nTwenty messages later, the context is full of conflicting instructions, and the user is frustrated.\n\nWe've turned software debugging into couples therapy.\n\n* An AI Agent Is Just a Program *\n\nStrip away the avatars and marketing. At its core, an agent is an LLM call inside a loop:\n\nwhile not done:\n    output = llm(input)\n    result = evaluate(output)\n    input = update(input, result)\n\nProduction agents add tools, memory, state management, and orchestration. None of that makes them people.\n\nIt's still Input → Process → Output.\n\nWe've understood this for decades. Yet when the processor is an LLM, we forget basic software engineering.\n\n* Why Are We Talking to Our Bugs? *\n\nImagine your compiler generates the wrong machine code.\n\nWould you say, \"Dear GCC, I appreciate your hard work, but could you reconsider?\"\n\nOf course not.\n\nYou reproduce the failure, inspect the inputs, isolate the cause, fix it, and rerun.\n\nWe call that debugging.\n\nWith LLMs, we've invented new names: prompt engineering, context engineering, agent steering, reflection, self-correction.\n\nSome describe real techniques. But too often, they're ordinary debugging performed through a chat window.\n\nAnd chat encourages a bad habit: appending corrections instead of fixing the original input.\n\nObsolete assumptions pile up alongside failed attempts and conflicting instructions.\n\nYour prompt becomes spaghetti code.\n\n* The ChatGPT Hangover *\n\nEarly ChatGPT made AI accessible through conversation. Brilliant UX.\n\nBut it also planted an illusion: someone is listening on the other side.\n\nToday's conversational agents reinforce it with personalities, status updates, and human-like behavior.\n\nWe end up managing an imaginary employee instead of debugging a system.\n\nThat's the wrong mental model for engineering.\n\n* What We Actually Need *\n\nI don't want my AI agent to apologize.\n\nI want to inspect its exact input, execution trace, tool calls, intermediate state, and failed acceptance tests.\n\nI want to edit the specification, reset the context, and replay the run.\n\nBecause LLMs are probabilistic, I also want regression tests across multiple runs, not one lucky success.\n\nIn other words, I want GDB for AI agents.\n\nConversation is useful for discovering requirements. Once they're clear, turn them into a clean, testable specification.\n\nStop piling on corrections. Fix the input. Run the tests. Repeat.\n\nAI doesn't need more emotional intelligence from its users. It needs better debugging tools.\n\n#AI #AIAgents #LLM #SoftwareEngineering #Debugging",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 1,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Ricardo Santos",
+        "profile_url": "https://www.linkedin.com/in/ricardo-santos-08384310a/",
+        "headline": "Software Engineer at GBX Technologies"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-22T01:58:00+00:00",
+      "posted_at_hint": "13h",
+      "posted_at_approx": true,
+      "text": "It shows how people treat their coworkers badly.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-22T14:58:00Z"
+}

@@ -3,11 +3,47 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-21T14:52:53.958696+00:00",
-  "total_posts": 915,
-  "total_comments": 497,
+  "generated_at": "2026-11-22T15:00:20.718291+00:00",
+  "total_posts": 919,
+  "total_comments": 499,
   "total_replies": 372,
   "posts": [
+    {
+      "activity_id": "7530091761038163968",
+      "file": "posts/post_7530091761038163968.json",
+      "url": "https://www.linkedin.com/posts/horacechan_my-attention-is-a-scare-resources-use-it-share-7530091761038163968-cTpL/",
+      "posted_at": "2026-11-22T02:58:00+00:00",
+      "title": "My attention is a scare resources - use it deliberately",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7530061165717135360",
+      "file": "posts/post_7530061165717135360.json",
+      "url": "https://www.linkedin.com/posts/horacechan_why-i-wont-buy-anthropic-stocks-if-you-ugcPost-7530061165717135360-p0o0/",
+      "posted_at": "2026-11-22T00:58:00+00:00",
+      "title": "Why I won't buy Anthropic stocks If you don't believe in AI will be smarter than…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7530000209628815361",
+      "file": "posts/post_7530000209628815361.json",
+      "url": "https://www.linkedin.com/posts/horacechan_i-discovered-the-grand-unify-theory-of-everything-share-7530000209628815361-pBya/",
+      "posted_at": "2026-11-21T20:58:00+00:00",
+      "title": "I discovered the grand unify theory of everything. 1. All life's questions can b…",
+      "likes": 3,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7529948944089526272",
+      "file": "posts/post_7529948944089526272.json",
+      "url": "https://www.linkedin.com/posts/horacechan_ai-aiagents-llm-share-7529948944089526272-LkHg/",
+      "posted_at": "2026-11-21T17:58:00+00:00",
+      "title": "== Stop Talking to Your AI Agent. Start Debugging It. == People have a strange h…",
+      "likes": 2,
+      "comment_count": 1
+    },
     {
       "activity_id": "7529701387610464257",
       "file": "posts/post_7529701387610464257.json",
