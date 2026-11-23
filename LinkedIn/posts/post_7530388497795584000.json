@@ -1,0 +1,53 @@
+{
+  "activity_id": "7530388497795584000",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7530388497795584000/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-22T22:47:00+00:00",
+  "posted_at_hint": "16h",
+  "posted_at_approx": true,
+  "text": "The AI labs rely on the users of the $200 plan to provide them training data for the next gen model.\n\nHere is a structural dilemma.\n\n1. You know the AI lab uses your code or work to train the next gen model.\n2. You only use it to work on open source or fun stuff, so the next gen model can't go after your real job\n\nAs a result, the next gen model keep learning cool new things that can't make any money.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Craig Gagnon BSc",
+        "profile_url": "https://www.linkedin.com/in/craig-gagnon-chemist/",
+        "headline": "De-Risking Critical Infrastructure at Speed (Telcarion) | Chemist | Vendor to BHP, TetraTech | $100M+/40b litres water treated Client Impact"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-22T22:47:00+00:00",
+      "posted_at_hint": "16h",
+      "posted_at_approx": true,
+      "text": "Using frontier models to setup my own AI lab to fine tune/fully fine tune/experiment and modify etc so that I can wean myself off frontier models for my workflows.",
+      "likes": 0,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Using AI building the chips that power the AI."
+          },
+          "is_author_reply": false,
+          "posted_at": "2026-11-23T01:47:00+00:00",
+          "posted_at_hint": "13h",
+          "posted_at_approx": true,
+          "text": "Craig Gagnon BSc I am not that advance. I just use frontier model to write regex scripts.\n\nYou will be surprised that human unreadable super long regex with a LLM fall back can go a long way",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-11-23T14:47:00Z"
+}

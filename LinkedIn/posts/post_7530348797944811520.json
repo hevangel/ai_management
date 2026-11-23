@@ -1,0 +1,21 @@
+{
+  "activity_id": "7530348797944811520",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7530348797944811520/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-22T19:47:00+00:00",
+  "posted_at_hint": "19h",
+  "posted_at_approx": true,
+  "text": "How a junior engineer learn in the AI era?\n\nIn the past, junior engineer learn by doing mental labor, which is mostly replaced by LLM these day.\n\nWith AI, junior engineer will learn by helping the senior engineer debug the bugs created by LLM.\n\nI am a hardware guy, I am not a software guy, so I am a junior software developer. I started contributing to an open source project building a SV simulator in Rust (xezim). I mostly babysit Claude working on the code, whenever I see something I don't know or I don't understand, I ask GPT to explain it to me. Soon, I am reading the Dragon book.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 3,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-11-23T14:47:00Z"
+}

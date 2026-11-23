@@ -3,11 +3,47 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-22T15:00:20.718291+00:00",
-  "total_posts": 919,
-  "total_comments": 499,
-  "total_replies": 372,
+  "generated_at": "2026-11-23T14:50:07.665214+00:00",
+  "total_posts": 923,
+  "total_comments": 500,
+  "total_replies": 373,
   "posts": [
+    {
+      "activity_id": "7530442153014108160",
+      "file": "posts/post_7530442153014108160.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7530442153014108160/",
+      "posted_at": "2026-11-23T01:47:00+00:00",
+      "title": "For the first time, I hit my ChatGPT chat 5 hours usage limit It takes about 100…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7530388497795584000",
+      "file": "posts/post_7530388497795584000.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7530388497795584000/",
+      "posted_at": "2026-11-22T22:47:00+00:00",
+      "title": "The AI labs rely on the users of the $200 plan to provide them training data for…",
+      "likes": 2,
+      "comment_count": 1
+    },
+    {
+      "activity_id": "7530344970864545792",
+      "file": "posts/post_7530344970864545792.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7530344970864545792/",
+      "posted_at": "2026-11-22T19:47:00+00:00",
+      "title": "Work is not the same as labor Machine replaced physical labor LLM replaced menta…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7530348797944811520",
+      "file": "posts/post_7530348797944811520.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7530348797944811520/",
+      "posted_at": "2026-11-22T19:47:00+00:00",
+      "title": "How a junior engineer learn in the AI era? In the past, junior engineer learn by…",
+      "likes": 3,
+      "comment_count": 0
+    },
     {
       "activity_id": "7530091761038163968",
       "file": "posts/post_7530091761038163968.json",
