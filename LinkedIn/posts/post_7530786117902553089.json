@@ -1,0 +1,21 @@
+{
+  "activity_id": "7530786117902553089",
+  "url": "https://www.linkedin.com/posts/horacechan_i-only-have-the-cheapest-plan-of-openai-share-7530786117902553089-oLc7/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-24T00:48:00+00:00",
+  "posted_at_hint": "14h",
+  "posted_at_approx": true,
+  "text": "I only have the cheapest plan of OpenAI ($20), Anthropic ($20) and Gork ($8)\n\nI launch the code agents thru my own meta-harness via herdr and keep track of how much tokens they burnt.\n\nI got $760 of tokens from my $48 subscription fee, it is a pretty good deal.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 1,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-11-24T14:48:00Z"
+}

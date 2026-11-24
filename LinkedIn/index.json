@@ -3,11 +3,38 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-23T14:50:07.665214+00:00",
-  "total_posts": 923,
+  "generated_at": "2026-11-24T14:50:07.545413+00:00",
+  "total_posts": 926,
   "total_comments": 500,
   "total_replies": 373,
   "posts": [
+    {
+      "activity_id": "7530920757795819521",
+      "file": "posts/post_7530920757795819521.json",
+      "url": "https://www.linkedin.com/posts/horacechan_i-created-a-30s-commercial-of-ai-slop-tv-ugcPost-7530920757795819521-f3bI/",
+      "posted_at": "2026-11-24T09:48:00+00:00",
+      "title": "I created a 30s commercial of AI slop TV show Better Call Sophie What if Saul Go…",
+      "likes": 0,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7530786117902553089",
+      "file": "posts/post_7530786117902553089.json",
+      "url": "https://www.linkedin.com/posts/horacechan_i-only-have-the-cheapest-plan-of-openai-share-7530786117902553089-oLc7/",
+      "posted_at": "2026-11-24T00:48:00+00:00",
+      "title": "I only have the cheapest plan of OpenAI ($20), Anthropic ($20) and Gork ($8) I l…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7530675759833661440",
+      "file": "posts/post_7530675759833661440.json",
+      "url": "https://www.linkedin.com/posts/horacechan_you-dont-teach-your-ai-you-discover-what-share-7530675759833661440-OaPI/",
+      "posted_at": "2026-11-23T17:48:00+00:00",
+      "title": "You don't \"teach\" your AI, you discover what it already know. Distill what it kn…",
+      "likes": 4,
+      "comment_count": 0
+    },
     {
       "activity_id": "7530442153014108160",
       "file": "posts/post_7530442153014108160.json",
