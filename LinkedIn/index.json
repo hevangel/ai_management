@@ -3,11 +3,56 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-24T14:50:07.545413+00:00",
-  "total_posts": 926,
-  "total_comments": 500,
+  "generated_at": "2026-11-25T15:02:49.904216+00:00",
+  "total_posts": 931,
+  "total_comments": 501,
   "total_replies": 373,
   "posts": [
+    {
+      "activity_id": "7531235828010860544",
+      "file": "posts/post_7531235828010860544.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7531235828010860544/",
+      "posted_at": "2026-11-25T07:05:00+00:00",
+      "title": "My 80286 SV build from scratch RTL is alive All other 80286 out there in the int…",
+      "likes": 4,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7531206721264889856",
+      "file": "posts/post_7531206721264889856.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7531206721264889856/",
+      "posted_at": "2026-11-25T05:05:00+00:00",
+      "title": "Gemini is dumb. I have been generating dozens of image using the same reference…",
+      "likes": 2,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7531136496167460864",
+      "file": "posts/post_7531136496167460864.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7531136496167460864/",
+      "posted_at": "2026-11-25T00:05:00+00:00",
+      "title": "I need to create a dashboad to help me keep track of my tokens subscriptions, so…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7531058119376875520",
+      "file": "posts/post_7531058119376875520.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7531058119376875520/",
+      "posted_at": "2026-11-24T19:05:00+00:00",
+      "title": "Grok $8 only have enough tokens to generate about 200 images per week Muse free…",
+      "likes": 1,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7531023103527763968",
+      "file": "posts/post_7531023103527763968.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7531023103527763968/",
+      "posted_at": "2026-11-24T17:05:00+00:00",
+      "title": "People says in the age of AI, executive is free, taste and judgement is what sti…",
+      "likes": 2,
+      "comment_count": 1
+    },
     {
       "activity_id": "7530920757795819521",
       "file": "posts/post_7530920757795819521.json",

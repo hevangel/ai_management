@@ -1,0 +1,21 @@
+{
+  "activity_id": "7531235828010860544",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7531235828010860544/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-25T07:05:00+00:00",
+  "posted_at_hint": "8h",
+  "posted_at_approx": true,
+  "text": "My 80286 SV build from scratch RTL is alive\n\nAll other 80286 out there in the internet (include the real one) use micro code. My 80286 implement the ALU pipeline in state machines. No ROM table.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 4,
+  "reposts": 0,
+  "comment_count": 0,
+  "comments": [],
+  "scraped_at": "2026-11-25T15:05:00Z"
+}

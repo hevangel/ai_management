@@ -1,0 +1,37 @@
+{
+  "activity_id": "7531023103527763968",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7531023103527763968/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-24T17:05:00+00:00",
+  "posted_at_hint": "22h",
+  "posted_at_approx": true,
+  "text": "People says in the age of AI, executive is free, taste and judgement is what still matters.\n\nIt is a lie.\n\nIn the age of Fable and Astra, taste and judgement are cheap too.\n\nThe only thing that is truely scarce, how to turn tokens into money.\n\nParadoxically, how to turn human hours into money is also the most scarce.\n\nNothing changed",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 2,
+  "reposts": 0,
+  "comment_count": 1,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Sergiu Codreanu",
+        "profile_url": "https://www.linkedin.com/in/98007/",
+        "headline": "Founder, slopish.ai · Thought to film in 5 minutes | Agent Orchestration · AI Evaluation · Red Teaming"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-24T19:05:00+00:00",
+      "posted_at_hint": "20h",
+      "posted_at_approx": true,
+      "text": "Flip it. Money that doesn't inflate is backed by real output. If LLMs and robots produce real output, powered by atomic energy far more cheaply than a 20-watt brain fed on meat, why can't tokens back a universal basic income for everyone? Then people could play with LLMs instead of losing a race against them.",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-25T15:05:00Z"
+}
