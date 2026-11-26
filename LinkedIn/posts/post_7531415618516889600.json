@@ -1,0 +1,52 @@
+{
+  "activity_id": "7531415618516889600",
+  "url": "https://www.linkedin.com/feed/update/urn:li:share:7531415618516889600/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-25T18:55:00+00:00",
+  "posted_at_hint": "20h",
+  "posted_at_approx": true,
+  "text": "Using AI doesn't really change how you work after all\n\nIn pre-AI era, I did the planning, design, feasibility runs, when I write the production code, I called it a typing exercise\n\nIn post-AI era, I still have to do the planning, design, use AI on the feasibility, get all the context and skills ready. When I actually kick off my AI agents to do the work (software factory, harness, whatever you name it), I am just baby sitting the AI.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 6,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Craig Gagnon BSc",
+        "profile_url": "https://www.linkedin.com/in/craig-gagnon-chemist/",
+        "headline": "De-Risking Critical Infrastructure at Speed (Telcarion) | Chemist | Vendor to BHP, TetraTech | $100M+/40b litres water treated Client Impact"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-25T21:55:00+00:00",
+      "posted_at_hint": "17h",
+      "posted_at_approx": true,
+      "text": "Yes and i have someone to perform the pre-planning with. I used to be alone.",
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "comment_id": null,
+      "author": {
+        "name": "James W. Niu",
+        "profile_url": "https://www.linkedin.com/in/jameswnarch/",
+        "headline": "Sr. Staff AI Engineer | Multi-Agent Systems | Model/LLM Evaluation, Multimodal | Voice AI, Reinforcement Learning, RAG | LLMOps, MLOps, Python, Fine-Tuning | PyTorch/TensorFlow, Docker/Kubernetes | Columbia MSc | LSE BSc"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-25T18:55:00+00:00",
+      "posted_at_hint": "20h",
+      "posted_at_approx": true,
+      "text": "Same split here. The thinking that used to happen before typing still happens, it just moved earlier and got heavier: the spec, the context bundle, the acceptance tests the agent has to pass. What changed is where the mistakes surface. A vague plan used to cost me an afternoon of rewriting by hand. Now it costs a pile of confident code that compiles, passes the weak tests I gave it, and quietly solves the wrong problem",
+      "likes": 1,
+      "replies": []
+    }
+  ],
+  "scraped_at": "2026-11-26T14:55:00Z"
+}
