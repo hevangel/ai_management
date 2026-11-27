@@ -1,0 +1,53 @@
+{
+  "activity_id": "7531754855367913472",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7531754855367913472/",
+  "author": {
+    "name": "Horace Chan",
+    "profile_url": "https://www.linkedin.com/in/horacechan",
+    "headline": "Expert in applying AI in verification"
+  },
+  "posted_at": "2026-11-26T16:51:00+00:00",
+  "posted_at_hint": "22h",
+  "posted_at_approx": true,
+  "text": "The AI labs are running out of useful things to work on.\n\nI think most people already assume all those maths/physics problems are true and live with it. Proving them really are true doesn't change anything to our daily life.",
+  "post_type": "original",
+  "shared_article": null,
+  "reshared_post": null,
+  "likes": 7,
+  "reposts": 0,
+  "comment_count": 2,
+  "comments": [
+    {
+      "comment_id": null,
+      "author": {
+        "name": "Mark Gantlett",
+        "profile_url": "https://www.linkedin.com/in/mark-gantlett-0617942/",
+        "headline": "Principal Systems Architect & Founder, Gantlett Systems Inc. | Deterministic Control Systems Beneath Enterprise AI Coding Tools (Nomos Open-Core)"
+      },
+      "is_author_reply": false,
+      "posted_at": "2026-11-26T17:51:00+00:00",
+      "posted_at_hint": "21h",
+      "posted_at_approx": true,
+      "text": "The theorems themselves do not change daily life, true. Coming from silicon you probably see the real signal underneath though: a formal verifier kept an agent loop honest across thousands of steps. That same verify-first loop applied to everyday software and hardware builds is where the actual payoff sits.",
+      "likes": 1,
+      "replies": [
+        {
+          "comment_id": null,
+          "author": {
+            "name": "Horace Chan",
+            "profile_url": "https://www.linkedin.com/in/horacechan/",
+            "headline": "Using AI building the chips that power the AI."
+          },
+          "is_author_reply": true,
+          "posted_at": "2026-11-26T23:51:00+00:00",
+          "posted_at_hint": "15h",
+          "posted_at_approx": true,
+          "text": "Mark Gantlett Yeah. We have the agent loop, it works OK, then we run into the Rice's Therom",
+          "likes": 0,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-11-27T14:51:00Z"
+}

@@ -3,11 +3,29 @@
     "name": "Horace Chan",
     "url": "https://www.linkedin.com/in/horacechan"
   },
-  "generated_at": "2026-11-26T14:56:09.241674+00:00",
-  "total_posts": 936,
-  "total_comments": 503,
-  "total_replies": 373,
+  "generated_at": "2026-11-27T14:52:45.597932+00:00",
+  "total_posts": 938,
+  "total_comments": 504,
+  "total_replies": 374,
   "posts": [
+    {
+      "activity_id": "7531856438483329024",
+      "file": "posts/post_7531856438483329024.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7531856438483329024/",
+      "posted_at": "2026-11-26T23:51:00+00:00",
+      "title": "The 2nd part of my AI art index The 1st part speed run every art style in the hi…",
+      "likes": 3,
+      "comment_count": 0
+    },
+    {
+      "activity_id": "7531754855367913472",
+      "file": "posts/post_7531754855367913472.json",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7531754855367913472/",
+      "posted_at": "2026-11-26T16:51:00+00:00",
+      "title": "The AI labs are running out of useful things to work on. I think most people alr…",
+      "likes": 7,
+      "comment_count": 1
+    },
     {
       "activity_id": "7531565831223173120",
       "file": "posts/post_7531565831223173120.json",
